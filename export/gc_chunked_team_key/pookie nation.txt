@@ -1,0 +1,1 @@
+{"name": "pookie nation", "country": "us", "wins": 0, "loses": 2}

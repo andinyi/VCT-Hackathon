@@ -1,0 +1,1 @@
+{"name": "Xenesis e-sports GC", "country": "jp", "wins": 0, "loses": 1}

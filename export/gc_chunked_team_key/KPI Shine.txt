@@ -1,0 +1,1 @@
+{"name": "KPI Shine", "country": "eu", "wins": 11, "loses": 15}

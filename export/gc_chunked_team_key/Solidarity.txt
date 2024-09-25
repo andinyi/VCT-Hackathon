@@ -1,0 +1,1 @@
+{"name": "Solidarity", "country": "us", "wins": 3, "loses": 4}

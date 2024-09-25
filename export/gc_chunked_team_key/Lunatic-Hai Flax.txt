@@ -1,0 +1,1 @@
+{"name": "Lunatic-Hai Flax", "country": "kr", "wins": 4, "loses": 2}

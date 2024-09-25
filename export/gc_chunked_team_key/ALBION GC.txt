@@ -1,0 +1,1 @@
+{"name": "ALBION GC", "country": "jp", "wins": 1, "loses": 1}

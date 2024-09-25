@@ -1,0 +1,1 @@
+{"name": "G2 Gozen", "country": "eu", "wins": 45, "loses": 12}

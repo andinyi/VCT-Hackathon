@@ -1,0 +1,1 @@
+{"name": "Fear Eater Sierra", "country": "id", "wins": 0, "loses": 1}

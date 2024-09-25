@@ -1,0 +1,1 @@
+{"name": "DREAMMAX", "country": "br", "wins": 0, "loses": 2}

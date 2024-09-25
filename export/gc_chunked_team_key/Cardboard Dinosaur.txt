@@ -1,0 +1,1 @@
+{"name": "Cardboard Dinosaur", "country": "sg", "wins": 1, "loses": 2}

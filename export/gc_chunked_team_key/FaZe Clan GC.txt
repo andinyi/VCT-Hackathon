@@ -1,0 +1,1 @@
+{"name": "FaZe Clan GC", "country": "us", "wins": 7, "loses": 6}

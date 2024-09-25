@@ -1,0 +1,1 @@
+{"name": "Shopify Rebellion", "country": "ca", "wins": 19, "loses": 1}

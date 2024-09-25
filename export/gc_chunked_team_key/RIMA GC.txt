@@ -1,0 +1,1 @@
+{"name": "RIMA GC", "country": "sg", "wins": 3, "loses": 1}

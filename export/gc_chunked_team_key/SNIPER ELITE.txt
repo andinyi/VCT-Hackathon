@@ -1,0 +1,1 @@
+{"name": "SNIPER ELITE", "country": "au", "wins": 3, "loses": 0}

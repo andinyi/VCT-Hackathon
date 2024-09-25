@@ -1,0 +1,1 @@
+{"name": "FreeAction", "country": "mx", "wins": 0, "loses": 2}

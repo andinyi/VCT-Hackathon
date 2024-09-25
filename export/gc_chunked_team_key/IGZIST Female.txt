@@ -1,0 +1,1 @@
+{"name": "IGZIST Female", "country": "jp", "wins": 2, "loses": 3}

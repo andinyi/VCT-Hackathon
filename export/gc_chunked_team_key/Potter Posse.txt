@@ -1,0 +1,1 @@
+{"name": "Potter Posse", "country": "us", "wins": 0, "loses": 2}

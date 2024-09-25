@@ -1,0 +1,1 @@
+{"name": "Nora's Kitten Shelter", "country": "un", "wins": 0, "loses": 2}

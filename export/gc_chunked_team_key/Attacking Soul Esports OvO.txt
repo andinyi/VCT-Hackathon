@@ -1,0 +1,1 @@
+{"name": "Attacking Soul Esports OvO", "country": "cn", "wins": 2, "loses": 3}

@@ -1,0 +1,1 @@
+{"name": "Gen.G Global Academy GC", "country": "kr", "wins": 0, "loses": 2}

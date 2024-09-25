@@ -1,0 +1,1 @@
+{"name": "UCLA Esports GC", "country": "us", "wins": 0, "loses": 1}

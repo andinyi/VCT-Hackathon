@@ -1,0 +1,1 @@
+{"name": "invincible gc", "country": "th", "wins": 1, "loses": 2}

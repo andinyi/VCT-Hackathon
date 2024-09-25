@@ -1,0 +1,1 @@
+{"name": "HOWL Moonlight", "country": "tr", "wins": 1, "loses": 0}

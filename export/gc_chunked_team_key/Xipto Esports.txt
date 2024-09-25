@@ -1,0 +1,1 @@
+{"name": "Xipto Esports", "country": "ph", "wins": 8, "loses": 0}

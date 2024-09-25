@@ -1,0 +1,1 @@
+{"name": "SCARZ GC", "country": "jp", "wins": 2, "loses": 4}

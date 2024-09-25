@@ -1,0 +1,1 @@
+{"name": "Nova Esports GC", "country": "cn", "wins": 0, "loses": 2}

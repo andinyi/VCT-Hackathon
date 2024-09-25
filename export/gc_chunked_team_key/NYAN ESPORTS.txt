@@ -1,0 +1,1 @@
+{"name": "NYAN ESPORTS", "country": "ru", "wins": 1, "loses": 2}

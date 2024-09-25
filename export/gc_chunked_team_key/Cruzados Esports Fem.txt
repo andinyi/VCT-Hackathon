@@ -1,0 +1,1 @@
+{"name": "Cruzados Esports Fem", "country": "cl", "wins": 2, "loses": 9}

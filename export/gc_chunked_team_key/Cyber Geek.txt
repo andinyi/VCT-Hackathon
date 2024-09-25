@@ -1,0 +1,1 @@
+{"name": "Cyber Geek", "country": "jp", "wins": 2, "loses": 2}

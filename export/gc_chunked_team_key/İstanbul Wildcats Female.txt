@@ -1,0 +1,1 @@
+{"name": "İstanbul Wildcats Female", "country": "tr", "wins": 0, "loses": 1}

@@ -1,0 +1,1 @@
+{"name": "Chosen Clique Gaming GC", "country": "cn", "wins": 6, "loses": 2}

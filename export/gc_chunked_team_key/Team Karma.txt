@@ -1,0 +1,1 @@
+{"name": "Team Karma", "country": "us", "wins": 4, "loses": 3}

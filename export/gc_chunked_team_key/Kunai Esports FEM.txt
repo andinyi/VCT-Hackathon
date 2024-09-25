@@ -1,0 +1,1 @@
+{"name": "Kunai Esports FEM", "country": "mx", "wins": 0, "loses": 1}

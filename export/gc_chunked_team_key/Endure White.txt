@@ -1,0 +1,1 @@
+{"name": "Endure White", "country": "un", "wins": 0, "loses": 1}

@@ -1,0 +1,1 @@
+{"name": "Mir Gaming GC", "country": "kr", "wins": 4, "loses": 0}

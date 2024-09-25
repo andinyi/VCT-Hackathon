@@ -1,0 +1,1 @@
+{"name": "DXA Esports GC", "country": "au", "wins": 0, "loses": 1}

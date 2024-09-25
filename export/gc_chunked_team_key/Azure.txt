@@ -1,0 +1,1 @@
+{"name": "Azure", "country": "eu", "wins": 1, "loses": 2}

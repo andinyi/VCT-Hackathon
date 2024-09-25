@@ -1,0 +1,1 @@
+{"name": "LOUD GC", "country": "br", "wins": 12, "loses": 10}

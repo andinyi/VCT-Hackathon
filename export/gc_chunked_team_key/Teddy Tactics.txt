@@ -1,0 +1,1 @@
+{"name": "Teddy Tactics", "country": "us", "wins": 3, "loses": 9}

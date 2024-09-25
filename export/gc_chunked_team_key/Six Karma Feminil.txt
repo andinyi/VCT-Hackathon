@@ -1,0 +1,1 @@
+{"name": "Six Karma Feminil", "country": "un", "wins": 0, "loses": 5}

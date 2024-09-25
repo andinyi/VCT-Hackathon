@@ -1,0 +1,1 @@
+{"name": "Point of Authority Blossom", "country": "id", "wins": 0, "loses": 2}

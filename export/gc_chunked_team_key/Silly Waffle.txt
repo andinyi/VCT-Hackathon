@@ -1,0 +1,1 @@
+{"name": "Silly Waffle", "country": "us", "wins": 0, "loses": 1}

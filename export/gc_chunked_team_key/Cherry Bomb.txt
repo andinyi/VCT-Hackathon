@@ -1,0 +1,1 @@
+{"name": "Cherry Bomb", "country": "us", "wins": 1, "loses": 3}

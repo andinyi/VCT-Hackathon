@@ -1,0 +1,1 @@
+{"name": "Xinh Gai Tay To", "country": "vn", "wins": 0, "loses": 1}

@@ -1,0 +1,1 @@
+{"name": "Nuclear GC", "country": "kr", "wins": 3, "loses": 3}

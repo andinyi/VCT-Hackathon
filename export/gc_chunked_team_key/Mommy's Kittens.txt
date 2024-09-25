@@ -1,0 +1,1 @@
+{"name": "Mommy's Kittens", "country": "sg", "wins": 1, "loses": 2}

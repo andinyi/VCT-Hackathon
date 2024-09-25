@@ -1,0 +1,1 @@
+{"name": "DetonatioN FocusMe GC", "country": "jp", "wins": 3, "loses": 6}

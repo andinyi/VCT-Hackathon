@@ -1,0 +1,1 @@
+{"name": "Karmine Corp GC", "country": "eu", "wins": 18, "loses": 24}

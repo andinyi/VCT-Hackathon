@@ -1,0 +1,1 @@
+{"name": "Supernova Galaxy", "country": "us", "wins": 9, "loses": 9}

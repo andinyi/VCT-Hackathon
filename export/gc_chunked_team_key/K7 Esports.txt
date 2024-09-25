@@ -1,0 +1,1 @@
+{"name": "K7 Esports", "country": "un", "wins": 2, "loses": 7}

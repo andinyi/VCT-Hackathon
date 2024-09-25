@@ -1,0 +1,1 @@
+{"name": "42C Crayola Pack", "country": "un", "wins": 1, "loses": 2}

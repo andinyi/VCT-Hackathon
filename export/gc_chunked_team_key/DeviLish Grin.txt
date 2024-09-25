@@ -1,0 +1,1 @@
+{"name": "DeviLish Grin", "country": "cn", "wins": 0, "loses": 2}

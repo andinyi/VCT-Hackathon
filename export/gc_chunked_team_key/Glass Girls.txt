@@ -1,0 +1,1 @@
+{"name": "Glass Girls", "country": "un", "wins": 0, "loses": 1}

@@ -1,0 +1,1 @@
+{"name": "Kirbee Squad", "country": "us", "wins": 0, "loses": 2}

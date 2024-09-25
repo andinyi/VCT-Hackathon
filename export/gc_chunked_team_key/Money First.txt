@@ -1,0 +1,1 @@
+{"name": "Money First", "country": "th", "wins": 1, "loses": 2}
