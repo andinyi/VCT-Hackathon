@@ -1,0 +1,1 @@
+{"name": "FOKUS Sakura", "country": "de", "wins": 4, "loses": 16}

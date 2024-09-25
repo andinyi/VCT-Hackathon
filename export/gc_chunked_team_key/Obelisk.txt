@@ -1,0 +1,1 @@
+{"name": "Obelisk", "country": "kr", "wins": 2, "loses": 4}

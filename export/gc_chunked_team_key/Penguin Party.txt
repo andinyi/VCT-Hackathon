@@ -1,0 +1,1 @@
+{"name": "Penguin Party", "country": "au", "wins": 2, "loses": 1}

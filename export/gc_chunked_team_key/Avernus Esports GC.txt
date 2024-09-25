@@ -1,0 +1,1 @@
+{"name": "Avernus Esports GC", "country": "ph", "wins": 0, "loses": 2}

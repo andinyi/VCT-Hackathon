@@ -1,0 +1,1 @@
+{"name": "TZ BLUEBEES", "country": "jp", "wins": 0, "loses": 1}

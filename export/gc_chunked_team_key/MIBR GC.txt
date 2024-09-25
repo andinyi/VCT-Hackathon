@@ -1,0 +1,1 @@
+{"name": "MIBR GC", "country": "br", "wins": 11, "loses": 8}

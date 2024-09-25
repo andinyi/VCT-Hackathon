@@ -1,0 +1,1 @@
+{"name": "University War GC", "country": "cl", "wins": 2, "loses": 7}

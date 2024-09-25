@@ -1,0 +1,1 @@
+{"name": "Natus Vincere Celestials", "country": "tr", "wins": 7, "loses": 14}

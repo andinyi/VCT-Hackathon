@@ -1,0 +1,1 @@
+{"name": "REBORN ZERO FAIRY", "country": "jp", "wins": 0, "loses": 1}

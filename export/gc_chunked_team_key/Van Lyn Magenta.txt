@@ -1,0 +1,1 @@
+{"name": "Van Lyn Magenta", "country": "us", "wins": 0, "loses": 1}

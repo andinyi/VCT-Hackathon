@@ -1,0 +1,1 @@
+{"name": "jelly e amigas", "country": "br", "wins": 1, "loses": 2}

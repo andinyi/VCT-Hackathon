@@ -1,0 +1,1 @@
+{"name": "Looking For Org 2.0", "country": "br", "wins": 0, "loses": 1}

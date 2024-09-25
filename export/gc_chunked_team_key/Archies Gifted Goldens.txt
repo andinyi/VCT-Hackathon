@@ -1,0 +1,1 @@
+{"name": "Archies Gifted Goldens", "country": "us", "wins": 0, "loses": 2}

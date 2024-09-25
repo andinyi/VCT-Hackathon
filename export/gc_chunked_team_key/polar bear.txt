@@ -1,0 +1,1 @@
+{"name": "polar bear", "country": "au", "wins": 0, "loses": 1}

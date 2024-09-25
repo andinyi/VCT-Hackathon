@@ -1,0 +1,1 @@
+{"name": "SunXet Club Fem", "country": "cl", "wins": 7, "loses": 6}

@@ -1,0 +1,1 @@
+{"name": "EXCEL GC", "country": "eu", "wins": 0, "loses": 14}

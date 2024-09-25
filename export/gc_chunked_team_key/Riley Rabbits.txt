@@ -1,0 +1,1 @@
+{"name": "Riley Rabbits", "country": "jp", "wins": 1, "loses": 1}

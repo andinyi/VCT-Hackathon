@@ -1,0 +1,1 @@
+{"name": "Figure8", "country": "un", "wins": 1, "loses": 1}

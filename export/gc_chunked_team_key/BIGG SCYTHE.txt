@@ -1,0 +1,1 @@
+{"name": "BIGG SCYTHE", "country": "id", "wins": 2, "loses": 4}

@@ -1,0 +1,1 @@
+{"name": "QoR GC", "country": "us", "wins": 0, "loses": 2}

@@ -1,0 +1,1 @@
+{"name": "headhunters", "country": "un", "wins": 0, "loses": 1}

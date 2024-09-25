@@ -1,0 +1,1 @@
+{"name": "Reformed Team", "country": "cl", "wins": 1, "loses": 0}

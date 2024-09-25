@@ -1,0 +1,1 @@
+{"name": "BBL Queens", "country": "tr", "wins": 36, "loses": 14}

@@ -1,0 +1,1 @@
+{"name": "BOTT", "country": "id", "wins": 0, "loses": 2}

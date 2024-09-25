@@ -1,0 +1,1 @@
+{"name": "Disguised GC", "country": "us", "wins": 12, "loses": 7}

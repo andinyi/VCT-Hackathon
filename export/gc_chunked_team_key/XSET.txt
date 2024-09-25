@@ -1,0 +1,1 @@
+{"name": "XSET", "country": "us", "wins": 8, "loses": 5}

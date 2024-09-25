@@ -1,0 +1,1 @@
+{"name": "The A Team", "country": "eu", "wins": 2, "loses": 5}

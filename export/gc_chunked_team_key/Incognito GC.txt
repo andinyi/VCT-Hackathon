@@ -1,0 +1,1 @@
+{"name": "Incognito GC", "country": "pl", "wins": 0, "loses": 2}

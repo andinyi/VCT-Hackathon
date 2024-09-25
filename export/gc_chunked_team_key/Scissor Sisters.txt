@@ -1,0 +1,1 @@
+{"name": "Scissor Sisters", "country": "au", "wins": 0, "loses": 1}

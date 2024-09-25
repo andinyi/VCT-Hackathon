@@ -1,0 +1,1 @@
+{"name": "Evil Geniuses GC", "country": "us", "wins": 16, "loses": 8}

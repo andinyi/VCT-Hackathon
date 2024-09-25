@@ -1,0 +1,1 @@
+{"name": "w o o p e r", "country": "un", "wins": 1, "loses": 0}

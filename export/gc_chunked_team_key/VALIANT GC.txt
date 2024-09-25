@@ -1,0 +1,1 @@
+{"name": "VALIANT GC", "country": "fr", "wins": 8, "loses": 10}

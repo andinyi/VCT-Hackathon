@@ -1,0 +1,1 @@
+{"name": "Meteor", "country": "jp", "wins": 0, "loses": 4}

@@ -1,0 +1,1 @@
+{"name": "revoada", "country": "br", "wins": 4, "loses": 4}

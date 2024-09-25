@@ -1,0 +1,1 @@
+{"name": "Gang Gang", "country": "in", "wins": 0, "loses": 1}

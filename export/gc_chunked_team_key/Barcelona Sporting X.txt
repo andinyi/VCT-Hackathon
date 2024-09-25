@@ -1,0 +1,1 @@
+{"name": "Barcelona Sporting X", "country": "ec", "wins": 0, "loses": 5}

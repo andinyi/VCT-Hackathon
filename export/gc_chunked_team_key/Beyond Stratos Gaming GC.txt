@@ -1,0 +1,1 @@
+{"name": "Beyond Stratos Gaming GC", "country": "kr", "wins": 3, "loses": 3}

@@ -1,0 +1,1 @@
+{"name": "Asmodeus Colosseum GC", "country": "in", "wins": 0, "loses": 1}

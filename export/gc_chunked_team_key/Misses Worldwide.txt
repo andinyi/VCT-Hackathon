@@ -1,0 +1,1 @@
+{"name": "Misses Worldwide", "country": "au", "wins": 0, "loses": 1}

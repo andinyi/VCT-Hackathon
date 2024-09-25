@@ -1,0 +1,1 @@
+{"name": "Acend Rising", "country": "eu", "wins": 27, "loses": 8}

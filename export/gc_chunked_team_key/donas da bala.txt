@@ -1,0 +1,1 @@
+{"name": "donas da bala", "country": "br", "wins": 0, "loses": 2}

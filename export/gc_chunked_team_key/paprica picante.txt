@@ -1,0 +1,1 @@
+{"name": "paprica picante", "country": "br", "wins": 0, "loses": 2}

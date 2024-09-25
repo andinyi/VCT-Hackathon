@@ -1,0 +1,1 @@
+{"name": "00Nation Fem", "country": "br", "wins": 0, "loses": 4}

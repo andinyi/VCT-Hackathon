@@ -1,0 +1,1 @@
+{"name": "Deagle Ravagers", "country": "cl", "wins": 0, "loses": 2}

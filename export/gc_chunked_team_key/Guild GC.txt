@@ -1,0 +1,1 @@
+{"name": "Guild GC", "country": "fr", "wins": 10, "loses": 14}

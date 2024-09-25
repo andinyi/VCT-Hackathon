@@ -1,0 +1,1 @@
+{"name": "Ninjas in Pyjamas Lightning", "country": "eu", "wins": 4, "loses": 10}

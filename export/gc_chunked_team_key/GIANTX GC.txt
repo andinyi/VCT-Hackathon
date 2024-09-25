@@ -1,0 +1,1 @@
+{"name": "GIANTX GC", "country": "tr", "wins": 13, "loses": 7}

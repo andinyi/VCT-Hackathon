@@ -1,0 +1,1 @@
+{"name": "MLT Esports GC", "country": "bd", "wins": 5, "loses": 2}
