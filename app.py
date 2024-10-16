@@ -4,7 +4,6 @@ import os
 import random
 import json
 
-
 # Reference: https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps
 st.title('Chat Bot Demo')
 st.subheader("Powered by Amazon Berock with Anthropic Claude v2",
