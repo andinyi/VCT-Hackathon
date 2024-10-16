@@ -1,3 +1,5 @@
+cd ..
+cd vct_hackathon/
 pip install streamlit
 pip install boto3
 pip install langchain
