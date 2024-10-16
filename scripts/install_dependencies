@@ -1,5 +1,6 @@
 cd ..
 cd vct_hackathon/
+sudo yum remove python3-requests
 pip install streamlit
 pip install boto3
 pip install langchain
