@@ -11,3 +11,4 @@ hooks:
   ApplicationStart:
     - location: scripts/applicationstart.sh
       timeout: 100
+      runas: root
