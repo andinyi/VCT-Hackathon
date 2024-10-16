@@ -13,7 +13,6 @@ from langchain_core.globals import set_verbose, set_debug
 
 import streamlit as st
 
-
 appY = boto3.client('bedrock-runtime', region_name='us-east-1')
 
 modelId = "amazon.titan-text-express-v1"
