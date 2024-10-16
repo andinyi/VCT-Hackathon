@@ -2,4 +2,8 @@ cd ..
 cd vct_hackathon/
 pip install streamlit
 pip install boto3
+pip install langchain 
+pip install langchain_core
+pip install langchain_community
+pip install langchain_aws
 
