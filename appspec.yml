@@ -14,3 +14,4 @@ hooks:
   ApplicationStop:
     - location: scripts/stop_server
       timeout: 600
+      runas: root
