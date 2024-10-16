@@ -1,6 +1,4 @@
 cd ..
 cd vct_hackathon/
-sudo su
-pip install streamlit
-pip install boto3
-pip install langchain
+pip freeze >requirement.txt
+pip install -r requirement.txt
