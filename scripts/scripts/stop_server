@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# Find the Streamlit process and kill it
+# This assumes that the Streamlit app is run by the current user.
+# Adjust the `pgrep` command if necessary to suit your setup.
+
+# Get the PID of the Streamlit server
+PID=$(pgrep -f 'streamlit run')
+
+# Check if the PID exists
+if [ -n "$PID" ]; then
+    echo "Stopping Streamlit server with PID: $PID"
+    kill $PID
+
+    # Optionally, wait for the process to stop
+    wait $PID 2>/dev/null
+    echo "Streamlit server stopped."
+else
+    echo "No Streamlit server running."
+fi
