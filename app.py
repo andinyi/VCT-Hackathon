@@ -1,101 +1,119 @@
-import streamlit as st
 import boto3
-import os
-import random
 import json
-# Reference: https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps
-st.title('Chat Bot Demo')
-st.subheader("Powered by Amazon Berock with Anthropic Claude v2",
-             divider="rainbow")
+import os
+
+from langchain.chains import LLMChain
+from langchain_aws import ChatBedrock
+from langchain_core.output_parsers import StrOutputParser
+from langchain_community.chat_message_histories import ChatMessageHistory
+from langchain_core.runnables import RunnablePassthrough
+from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
+from langchain_core.runnables.history import RunnableWithMessageHistory
+from langchain_core.globals import set_verbose, set_debug
+
+import streamlit as st
 
 
-@st.cache_data
-def get_welcome_message() -> str:
-    return random.choice(
-        [
-            "Hello there! How can I assist you today?",
-            "Hi there! Is there anything I can help you with?",
-            "Do you need help?",
-        ]
-    )
+appY = boto3.client('bedrock-runtime', region_name='us-east-1')
 
+modelId = "amazon.titan-text-express-v1"
 
-@st.cache_resource
-def get_bedrock_client():
-    return boto3.client(service_name='bedrock-runtime')
+llm = ChatBedrock(
+    model_id=modelId,
+    client=appY,
+    verbose=True,
+    model_kwargs={"maxTokenCount":8192,"stopSequences":[],"temperature":0.3}
+)
 
+memory = ChatMessageHistory()
 
-def get_history() -> str:
-    hisotry_list = [
-        f"{record['role']}: {record['content']}" for record in st.session_state.messages
-    ]
-    return '\n\n'.join(hisotry_list)
+#Streamlit Initialization
 
-
-client = get_bedrock_client()
-modelId = 'anthropic.claude-v2:1'
-accept = 'application/json'
-contentType = 'application/json'
-
-
-welcome_message = get_welcome_message()
-with st.chat_message('assistant'):
-    st.markdown(welcome_message)
+st.title("Valorant VCT Manager")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
 for message in st.session_state.messages:
-    display_role = 'user'
-    if message['role'] == 'Assistant':
-        display_role = 'assistant'
-
-    with st.chat_message(display_role):
+    with st.chat_message(message["role"]): 
         st.markdown(message["content"])
 
+if "memory" not in st.session_state:
+    st.session_state.memory = memory
+#start chain
 
-def parse_stream(stream):
-    full_response = ""
-    for event in stream:
-        chunk = event.get('chunk')
-        if chunk:
-            message = json.loads(chunk.get('bytes').decode())[
-                'completion'] or ""
-            full_response += message
-            yield message
-    st.session_state.messages.append(
-        {"role": "Assistant", "content": full_response}
+prompt = ChatPromptTemplate.from_messages(
+    [
+        (
+            "system",
+            """
+            You are a helpful assistant. Please assist the user with their question to the best of your ability.
+            A summarized history is provided below. Please use this to maintain a memory what has been discussed already. 
+
+            {chat_history}
+
+            Please do your best! I believe in you!
+            """,
+        ),
+        ("user", "{text}"),
+    ]
+)   
+
+chain = (
+    prompt
+    | llm
+    | StrOutputParser()
+)
+
+chain_with_history = RunnableWithMessageHistory(
+    chain,
+    lambda session_id: st.session_state.memory,
+    input_messages_key="text",
+    history_messages_key="chat_history",
+)
+
+tmpDebug = ""
+
+def summarize_messages(chain_input):
+
+    stored = memory.messages
+
+    if len(stored) == 0:
+        return False
+    
+    summarize_prompt = ChatPromptTemplate.from_messages(
+        [
+            MessagesPlaceholder(variable_name="chat_history"),
+            (
+                "system",
+                """Distill the above chat messages into a summary. Include as many specific details as you can.""",
+            ),
+        ]
     )
 
+    summarization_chain = summarize_prompt | llm 
 
-if prompt := st.chat_input("What's up?"):
-    st.session_state.messages.append({"role": "Human", "content": prompt})
-    with st.chat_message("Human"):
-        st.markdown(prompt)
+    summary_response = summarization_chain.invoke({"chat_history":stored})
+
+    tmpDebug = summary_response
+
+    return True
+
+chain_with_summarization = (
+    RunnablePassthrough.assign(messages_summarized=summarize_messages)
+    | chain_with_history
+)
+
+if temp := st.chat_input("How can I help?"):
+    st.chat_message("user").markdown(temp)
+    st.session_state.messages.append({"role":"user","content":temp})
+
+    response = chain_with_summarization.invoke({"text":temp}, {"configurable" : {"session_id" : "unused"}})
+    st.sidebar.write(st.session_state.memory.messages)
 
     with st.chat_message("assistant"):
-        message_placeholder = st.empty()
-        full_response = ""
-        history = get_history()
-        body = json.dumps({
-            "prompt": f"{history}\n\nAssistant:",
-            "max_tokens_to_sample": 300,
-            "temperature": 0.1,
-            "top_p": 0.9,
-        })
-        response = client.invoke_model_with_response_stream(
-            body=body,
-            modelId=modelId,
-        )
-        stream = response.get('body')
-        if stream:
-            # st.write_stream is introduced in streamlit v1.31.0
-            st.write_stream(parse_stream(stream))
+        st.markdown(response)
+    st.session_state.messages.append({"role": "assistant", "content": response})
 
-
-if DEBUG := os.getenv("DEBUG", False):
-    st.subheader("History", divider="rainbow")
-    history_list = [
-        f"{record['role']}: {record['content']}" for record in st.session_state.messages
-    ]
-    st.write(history_list)
+    st.session_state.memory.add_user_message(temp)
+    st.session_state.memory.add_ai_message(response)
