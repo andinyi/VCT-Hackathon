@@ -1,0 +1,1 @@
+{"id": "271066", "teams": [{"name": "CVA", "score": "2", "country": "kr", "won": true}, {"name": "Lunatic-Hai Flax", "score": "1", "country": "kr", "won": false}], "status": "Completed", "date": "2023-09", "event": "Main Event–Lower Final", "tournament": "Game Changers 2023 Korea: Stage 2", "img": "https://owcdn.net/img/604be13d01964.png"}

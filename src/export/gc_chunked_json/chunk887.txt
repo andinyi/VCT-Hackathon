@@ -1,0 +1,1 @@
+{"id": "197235", "teams": [{"name": "FOKUS Sakura", "score": "0", "country": "de", "won": false}, {"name": "Rebels Velvet", "score": "2", "country": "eu", "won": true}], "status": "Completed", "date": "2023", "event": "Group Stage–Round 5", "tournament": "Game Changers 2023 Stage I: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

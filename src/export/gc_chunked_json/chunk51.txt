@@ -1,0 +1,1 @@
+{"id": "381243", "teams": [{"name": "KS Hunters", "score": "0", "country": "un", "won": false}, {"name": "Akave Esports GC", "score": "2", "country": "un", "won": true}], "status": "Completed", "date": "2024-08", "event": "Regular Phase–Week 1", "tournament": "Game Changers 2024 LATAM North: Closing", "img": "https://owcdn.net/img/604be13d01964.png"}

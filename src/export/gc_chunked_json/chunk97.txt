@@ -1,0 +1,1 @@
+{"id": "370922", "teams": [{"name": "ALTERNATE aTTaX Ruby", "score": "0", "country": "de", "won": false}, {"name": "VALIANT GC", "score": "2", "country": "fr", "won": true}], "status": "Completed", "date": "2024-07", "event": "Playoffs–Upper Final", "tournament": "Game Changers 2024 EMEA: Contenders Series 2", "img": "https://owcdn.net/img/604be13d01964.png"}

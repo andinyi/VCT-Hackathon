@@ -1,0 +1,1 @@
+{"id": "280756", "teams": [{"name": "ZETA DIVISION GC", "score": "2", "country": "jp", "won": true}, {"name": "FENNEL GC", "score": "0", "country": "jp", "won": false}], "status": "Completed", "date": "2023-11", "event": "Main Event–Lower Round 1", "tournament": "Game Changers 2023 East Asia", "img": "https://owcdn.net/img/604be13d01964.png"}

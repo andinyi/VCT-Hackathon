@@ -1,0 +1,1 @@
+{"id": "235395", "teams": [{"name": "Odd 1 OUT", "score": "0", "country": "eu", "won": false}, {"name": "KPI Shine", "score": "2", "country": "eu", "won": true}], "status": "Completed", "date": "2023", "event": "Group Stage–Round 3", "tournament": "Game Changers 2023 Stage II: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

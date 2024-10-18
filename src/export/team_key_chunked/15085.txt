@@ -1,0 +1,1 @@
+{"id": 15085, "name": "Gaming club", "country": "United States", "wins": "N/A", "loses": "N/A", "winrate": "N/A", "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "N/A", "status": "Active", "players": []}

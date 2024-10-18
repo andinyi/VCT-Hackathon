@@ -1,0 +1,1 @@
+{"id": "349758", "teams": [{"name": "Special TiGers GC", "score": "0", "country": "kr", "won": false}, {"name": "Beyond Stratos Gaming GC", "score": "2", "country": "kr", "won": true}], "status": "Completed", "date": "2024-06", "event": "Main Event–Lower Round 1", "tournament": "Game Changers 2024 Korea: Stage 1", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"id": "260836", "teams": [{"name": "MLT Esports GC", "score": "3", "country": "bd", "won": true}, {"name": "Neons", "score": "1", "country": "th", "won": false}], "status": "Completed", "date": "2023-09", "event": "Playoffs–Upper Final", "tournament": "Game Changers 2023 Asia Pacific: Last Chance Qualifier", "img": "https://owcdn.net/img/604be13d01964.png"}

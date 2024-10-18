@@ -1,0 +1,7 @@
+{ 
+	"Americas" : ["North America", "Brazil", "Latin America South", "Latin America North", "United States", "Canada", "Mexico", "Latin America"],
+	"Pacific" : ["Asia-Pacific", "Korea", "Japan", "Oceania", "South Korea", "Vietnam", "Indonesia", "Philippines"],
+	"China" : ["China"],
+	"EMEAS" : ["Europe", "MENA"],
+	"GameChangers" : ["Game Changers"]
+}

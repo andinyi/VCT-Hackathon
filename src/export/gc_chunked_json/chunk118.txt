@@ -1,0 +1,1 @@
+{"id": "357993", "teams": [{"name": "Team Falcons Vega", "score": "2", "country": "sa", "won": true}, {"name": "NASR Ignite", "score": "0", "country": "eu", "won": false}], "status": "Completed", "date": "2024-06", "event": "Playoffs–Lower Round 3", "tournament": "Game Changers 2024 EMEA: Stage 2", "img": "https://owcdn.net/img/604be13d01964.png"}

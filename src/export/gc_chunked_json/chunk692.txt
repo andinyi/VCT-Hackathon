@@ -1,0 +1,1 @@
+{"id": "248490", "teams": [{"name": "Beyond Stratos Gaming GC", "score": "1", "country": "kr", "won": false}, {"name": "Lunatic-Hai Flax", "score": "2", "country": "kr", "won": true}], "status": "Completed", "date": "2023", "event": "Main Event–Upper Semifinals", "tournament": "Game Changers 2023 Korea: Stage 1", "img": "https://owcdn.net/img/604be13d01964.png"}

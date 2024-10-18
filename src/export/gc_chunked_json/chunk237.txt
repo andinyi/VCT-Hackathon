@@ -1,0 +1,1 @@
+{"id": "324170", "teams": [{"name": "Bon Bon Bum", "score": "2", "country": "mx", "won": true}, {"name": "OK Gaming", "score": "0", "country": "un", "won": false}], "status": "Completed", "date": "2024-04", "event": "Main Event–Grand Final", "tournament": "Game Changers 2024 LATAM North: Swift Cup 1", "img": "https://owcdn.net/img/604be13d01964.png"}

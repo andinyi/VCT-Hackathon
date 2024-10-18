@@ -1,0 +1,1 @@
+{"id": "287050", "teams": [{"name": "IPHONE13GIVEAWAY", "score": "1", "country": "au", "won": false}, {"name": "SNIPER ELITE", "score": "3", "country": "au", "won": true}], "status": "Completed", "date": "2023-12", "event": "Playoffs–Grand Final", "tournament": "Summoner Society X Game Changers 2023 Oceania", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"id": "296332", "teams": [{"name": "FlyQuest RED", "score": "2", "country": "us", "won": true}, {"name": "pookie nation", "score": "0", "country": "us", "won": false}], "status": "Completed", "date": "2024-02", "event": "Open Qualifier #1–Opening (C)", "tournament": "Game Changers 2024 North America: Series 1", "img": "https://owcdn.net/img/604be13d01964.png"}

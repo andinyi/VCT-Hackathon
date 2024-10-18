@@ -1,0 +1,1 @@
+{"id": "244950", "teams": [{"name": "Alien Anonymo", "score": "0", "country": "pl", "won": false}, {"name": "FUT Female", "score": "2", "country": "tr", "won": true}], "status": "Completed", "date": "2023", "event": "Playoffs–Lower Round 1", "tournament": "Game Changers 2023 Stage II: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

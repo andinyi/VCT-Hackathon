@@ -1,0 +1,73 @@
+{
+    "Player URL": "https://www.vlr.gg/player/40797/sweet?timespan=all",
+    "All Agents Stats": [
+        {
+            "Agent": "kayo",
+            "Usage": 95.0,
+            "Rounds Played": "395",
+            "Rating": "1.13",
+            "Average Combat Score": "235.0",
+            "Kills:Death": "1.10",
+            "Average Damage per Round": "150.9",
+            "Kill, Assist, Survive, Trade %": "75%",
+            "Kills Per Round": "0.79",
+            "Assists Per Round": "0.44",
+            "First Kills Per Round": "0.13",
+            "First Deaths Per Round": "0.10",
+            "Kills": "314",
+            "Deaths": "286",
+            "Assists": "173",
+            "First Bloods": "51",
+            "First Deaths": "39",
+            "Rounds by Agents": 20
+        },
+        {
+            "Agent": "sova",
+            "Usage": 5.0,
+            "Rounds Played": "17",
+            "Rating": "0.84",
+            "Average Combat Score": "141.0",
+            "Kills:Death": "0.62",
+            "Average Damage per Round": "122.6",
+            "Kill, Assist, Survive, Trade %": "47%",
+            "Kills Per Round": "0.47",
+            "Assists Per Round": "0.18",
+            "First Kills Per Round": "0.06",
+            "First Deaths Per Round": "0.12",
+            "Kills": "8",
+            "Deaths": "13",
+            "Assists": "3",
+            "First Bloods": "1",
+            "First Deaths": "2",
+            "Rounds by Agents": 1
+        }
+    ],
+    "Current Team": "Underground Starlets",
+    "Player": "sweet",
+    "Signature Agents Ranked by Usage": [
+        "kayo",
+        "sova"
+    ],
+    "Total games played": 21,
+    "Player stats": {
+        "Rounds Played": "201",
+        "Rating": "0.88",
+        "Average Combat Score": "181.0",
+        "Kills:Death": "0.79",
+        "Kill, Assist, Survive, Trade Percent": "66%",
+        "Average Damage per Round": "126.9",
+        "Kills Per Round": "0.62",
+        "Assists Per Round": "0.32",
+        "First Kills Per Round": "0.08",
+        "First Deaths Per Round": "0.11",
+        "Headshot Percent": "30%",
+        "Clutch Success Percent%": "17%",
+        "Clutches (won/played)": null,
+        "Maximum Kills in a single map": null,
+        "Kills": "125",
+        "Deaths": "158",
+        "Assists": "65",
+        "First Kills": "17",
+        "First Deaths": "23"
+    }
+}

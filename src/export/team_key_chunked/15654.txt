@@ -1,0 +1,1 @@
+{"id": 15654, "name": "THE HERO DETA", "country": "Indonesia", "wins": "4", "loses": "0", "winrate": 1.0, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "Asia-Pacific", "status": "Active", "players": [{"playerName": "Vinseer", "realName": "Sadad Abshar", "role": "manager"}]}

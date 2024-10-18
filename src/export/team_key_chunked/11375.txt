@@ -1,0 +1,1 @@
+{"id": 11375, "name": "[REDACTED]", "country": "International", "wins": "N/A", "loses": "N/A", "winrate": "N/A", "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "N/A", "status": "Inactive", "players": []}

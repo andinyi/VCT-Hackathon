@@ -1,0 +1,1 @@
+{"id": "323973", "teams": [{"name": "9to5 workers", "score": "2", "country": "in", "won": true}, {"name": "Hexagon", "score": "0", "country": "bd", "won": false}], "status": "Completed", "date": "2024-04", "event": "Finals–Semifinals", "tournament": "Game Changers 2024 South Asia: Split 1", "img": "https://owcdn.net/img/604be13d01964.png"}

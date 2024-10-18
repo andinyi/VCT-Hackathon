@@ -1,0 +1,1 @@
+{"id": "381285", "teams": [{"name": "9z Team GC", "score": "2", "country": "ar", "won": true}, {"name": "University War GC", "score": "0", "country": "cl", "won": false}], "status": "Completed", "date": "2024-09", "event": "Regular Phase–Week 5", "tournament": "Game Changers 2024 LATAM South: Closing", "img": "https://owcdn.net/img/604be13d01964.png"}

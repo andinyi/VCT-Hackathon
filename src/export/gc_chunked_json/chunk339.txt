@@ -1,0 +1,1 @@
+{"id": "298973", "teams": [{"name": "Loafing Cats", "score": "2", "country": "us", "won": true}, {"name": "Blahaj Huggers", "score": "1", "country": "us", "won": false}], "status": "Completed", "date": "2024-02", "event": "Open Qualifier #2–Decider (L)", "tournament": "Game Changers 2024 North America: Series 1", "img": "https://owcdn.net/img/604be13d01964.png"}

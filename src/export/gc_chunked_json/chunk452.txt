@@ -1,0 +1,1 @@
+{"id": "276812", "teams": [{"name": "Team Falcons Vega", "score": "2", "country": "sa", "won": false}, {"name": "Acend Rising", "score": "3", "country": "eu", "won": true}], "status": "Completed", "date": "2023-10", "event": "Playoffs–Lower Final", "tournament": "Game Changers 2023 Stage III: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

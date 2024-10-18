@@ -1,0 +1,1 @@
+{"id": "184649", "teams": [{"name": "Team Liquid Brazil", "score": "3", "country": "br", "won": true}, {"name": "LOUD GC", "score": "0", "country": "br", "won": false}], "status": "Completed", "date": "2023", "event": "Main Event–Grand Final", "tournament": "Game Changers 2023 Brazil: Series 1", "img": "https://owcdn.net/img/604be13d01964.png"}

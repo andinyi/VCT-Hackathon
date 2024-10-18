@@ -1,0 +1,1 @@
+{"id": "349760", "teams": [{"name": "Mir Gaming GC", "score": "3", "country": "kr", "won": true}, {"name": "Beyond Stratos Gaming GC", "score": "1", "country": "kr", "won": false}], "status": "Completed", "date": "2024-06", "event": "Main Event–Grand Final", "tournament": "Game Changers 2024 Korea: Stage 1", "img": "https://owcdn.net/img/604be13d01964.png"}

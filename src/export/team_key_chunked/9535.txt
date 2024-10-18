@@ -1,0 +1,1 @@
+{"id": 9535, "name": "SHIFT", "country": "United States", "wins": "76", "loses": "37", "winrate": 0.673, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "North America", "status": "Inactive", "players": [{"playerName": "Lorenzo", "realName": "Jordan Caravaggio", "role": "manager"}]}

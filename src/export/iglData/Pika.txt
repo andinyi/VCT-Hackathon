@@ -1,0 +1,1 @@
+{"name": "Pika", "team": "Team Galaga", "years_active": "2022 to Present", "active": true, "yearsOfExperience": 2}

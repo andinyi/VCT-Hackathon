@@ -1,0 +1,1 @@
+{"id": "238293", "teams": [{"name": "FULL SENSE SAPPHIRE", "score": "0", "country": "th", "won": false}, {"name": "RRQ Kaguya", "score": "2", "country": "id", "won": true}], "status": "Completed", "date": "2023", "event": "Playoffs–Lower Final", "tournament": "Game Changers 2023 Asia Pacific: Open 3", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"id": "270338", "teams": [{"name": "LEVIATÁN GC", "score": "2", "country": "cl", "won": false}, {"name": "FUSION X", "score": "3", "country": "un", "won": true}], "status": "Completed", "date": "2023-09", "event": "Latin America: North–Lower SemiFinal", "tournament": "Game Changers 2023 LATAM: Finals", "img": "https://owcdn.net/img/604be13d01964.png"}

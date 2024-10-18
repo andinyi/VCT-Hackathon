@@ -1,0 +1,1 @@
+{"id": "273042", "teams": [{"name": "REIGNITE Lily", "score": "2", "country": "jp", "won": true}, {"name": "CREST GAMING Stellar", "score": "1", "country": "jp", "won": false}], "status": "Completed", "date": "2023-10", "event": "Main Event–Lower Round 2", "tournament": "Game Changers 2023 Japan: Split 2", "img": "https://owcdn.net/img/604be13d01964.png"}

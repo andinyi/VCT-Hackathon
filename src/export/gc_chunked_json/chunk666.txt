@@ -1,0 +1,1 @@
+{"id": "269015", "teams": [{"name": "Optix Fem", "score": "2", "country": "cl", "won": true}, {"name": "9z Team GC", "score": "0", "country": "ar", "won": false}], "status": "Completed", "date": "2023", "event": "Latin America: South–Groups", "tournament": "Game Changers 2023 LATAM: Last Chance Qualifier", "img": "https://owcdn.net/img/604be13d01964.png"}

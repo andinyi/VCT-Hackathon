@@ -1,0 +1,1 @@
+{"id": 2988, "name": "NORTHEPTION", "country": "Japan", "wins": "30", "loses": "10", "winrate": 0.75, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "Japan", "status": "Active", "players": [{"playerName": "Tinder", "realName": "Alberto Rodriguez", "role": "coach"}]}

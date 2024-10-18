@@ -1,0 +1,1 @@
+{"id": 12254, "name": "Aster Army", "country": "India", "wins": "18", "loses": "18", "winrate": 0.5, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "Asia-Pacific", "status": "Inactive", "players": [{"playerName": "Kishi", "realName": "Ngô Trường Huy", "role": "player"}]}

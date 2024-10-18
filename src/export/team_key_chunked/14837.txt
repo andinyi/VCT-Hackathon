@@ -1,0 +1,1 @@
+{"id": 14837, "name": "sussy players", "country": "International", "wins": "2", "loses": "4", "winrate": 0.333, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "North America", "status": "Inactive", "players": []}

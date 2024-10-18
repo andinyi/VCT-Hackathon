@@ -1,0 +1,1 @@
+{"id": 10908, "name": "Scarlet", "country": "United States", "wins": "3", "loses": "6", "winrate": 0.333, "gameChangerWins": "3", "gameChangerLoses": "6", "region": "Game Changers", "status": "Active", "players": []}

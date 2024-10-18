@@ -1,0 +1,1 @@
+{"id": "400867", "teams": [{"name": "HEROIC Valkyries", "score": "2", "country": "eu", "won": true}, {"name": "GIANTX GC", "score": "0", "country": "tr", "won": false}], "status": "Completed", "date": "2024-09", "event": "Group Stage–Round 4", "tournament": "Game Changers 2024 EMEA: Stage 3", "img": "https://owcdn.net/img/604be13d01964.png"}

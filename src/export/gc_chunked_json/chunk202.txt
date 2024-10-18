@@ -1,0 +1,1 @@
+{"id": "334296", "teams": [{"name": "FENNEL GC", "score": "1", "country": "jp", "won": false}, {"name": "ZETA DIVISION GC", "score": "2", "country": "jp", "won": true}], "status": "Completed", "date": "2024-05", "event": "Main Stage–Upper Semifinals", "tournament": "Game Changers 2024 Japan: Split 1", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"id": 8674, "name": "Rebels Velvet", "country": "Europe", "wins": "0", "loses": "1", "winrate": 0.0, "gameChangerWins": "32", "gameChangerLoses": "21", "region": "Game Changers", "status": "Active", "players": [{"playerName": "Mochi", "realName": "N/A", "role": "Sub"}]}

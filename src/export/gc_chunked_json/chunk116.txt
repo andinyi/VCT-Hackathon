@@ -1,0 +1,1 @@
+{"id": "354339", "teams": [{"name": "KRÜ BLAZE", "score": "3", "country": "cl", "won": true}, {"name": "9z Team GC", "score": "0", "country": "ar", "won": false}], "status": "Completed", "date": "2024-06", "event": "Playoffs–Grand Final", "tournament": "Game Changers 2024 LATAM South: Opening", "img": "https://owcdn.net/img/604be13d01964.png"}

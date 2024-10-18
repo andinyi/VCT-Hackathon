@@ -1,0 +1,1 @@
+{"id": "372249", "teams": [{"name": "REIGNITE Lily", "score": "2", "country": "jp", "won": true}, {"name": "DRX Changers", "score": "0", "country": "jp", "won": false}], "status": "Completed", "date": "2024-07", "event": "Main Stage–Lower Round 2", "tournament": "Game Changers 2024 Japan: Split 2", "img": "https://owcdn.net/img/604be13d01964.png"}

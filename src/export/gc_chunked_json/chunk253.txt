@@ -1,0 +1,1 @@
+{"id": "323451", "teams": [{"name": "Money First", "score": "2", "country": "th", "won": true}, {"name": "Baby Poko", "score": "0", "country": "th", "won": false}], "status": "Completed", "date": "2024-04", "event": "Open Qualifier–Round 5", "tournament": "Game Changers 2024 Southeast Asia: Stage 1", "img": "https://owcdn.net/img/604be13d01964.png"}

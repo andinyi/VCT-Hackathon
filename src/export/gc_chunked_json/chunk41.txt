@@ -1,0 +1,1 @@
+{"id": "381286", "teams": [{"name": "Zen eSports GC", "score": "1", "country": "cl", "won": false}, {"name": "KRÜ BLAZE", "score": "2", "country": "cl", "won": true}], "status": "Completed", "date": "2024-09", "event": "Regular Phase–Week 5", "tournament": "Game Changers 2024 LATAM South: Closing", "img": "https://owcdn.net/img/604be13d01964.png"}

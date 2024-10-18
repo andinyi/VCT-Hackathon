@@ -1,0 +1,1 @@
+{"id": 6314, "name": "XSET", "country": "United States", "wins": "14", "loses": "10", "winrate": 0.583, "gameChangerWins": "14", "gameChangerLoses": "10", "region": "North America", "status": "Inactive", "players": [{"playerName": "Bob", "realName": "Bob Tran", "role": "player"}, {"playerName": "katsumi", "realName": "Katja Pfahnl", "role": "player"}]}

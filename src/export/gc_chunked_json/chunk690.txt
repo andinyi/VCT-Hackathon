@@ -1,0 +1,1 @@
+{"id": "238289", "teams": [{"name": "RRQ Kaguya", "score": "2", "country": "id", "won": true}, {"name": "Deviant Topaz", "score": "0", "country": "sg", "won": false}], "status": "Completed", "date": "2023", "event": "Playoffs–Lower Round 2", "tournament": "Game Changers 2023 Asia Pacific: Open 3", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"id": 14271, "name": "First Class", "country": "International", "wins": "N/A", "loses": "N/A", "winrate": "N/A", "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "North America", "status": "Active", "players": []}

@@ -1,0 +1,1 @@
+{"id": "287048", "teams": [{"name": "Ratz", "score": "0", "country": "un", "won": false}, {"name": "SNIPER ELITE", "score": "2", "country": "au", "won": true}], "status": "Completed", "date": "2023-12", "event": "Playoffs–Finals Semifinals", "tournament": "Summoner Society X Game Changers 2023 Oceania", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"id": "372250", "teams": [{"name": "Cyber Geek", "score": "0", "country": "jp", "won": false}, {"name": "REIGNITE Lily", "score": "2", "country": "jp", "won": true}], "status": "Completed", "date": "2024-08", "event": "Main Stage–Lower Round 3", "tournament": "Game Changers 2024 Japan: Split 2", "img": "https://owcdn.net/img/604be13d01964.png"}

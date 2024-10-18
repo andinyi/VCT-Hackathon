@@ -1,0 +1,1 @@
+{"id": "326563", "teams": [{"name": "Team Leveling", "score": "0", "country": "br", "won": false}, {"name": "revoada", "score": "2", "country": "br", "won": true}], "status": "Completed", "date": "2024-05", "event": "Main Event–Lower Round 3", "tournament": "Game Changers 2024 Brazil: Series 1", "img": "https://owcdn.net/img/604be13d01964.png"}

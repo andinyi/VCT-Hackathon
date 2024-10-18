@@ -1,0 +1,1 @@
+{"id": "183568", "teams": [{"name": "Awake Gaming Female", "score": "0", "country": "un", "won": false}, {"name": "LEVIATÁN GC", "score": "2", "country": "cl", "won": true}], "status": "Completed", "date": "2023", "event": "LAN - Regular Season–Round Robin", "tournament": "Game Changers 2023 Latin America: Split 1", "img": "https://owcdn.net/img/604be13d01964.png"}

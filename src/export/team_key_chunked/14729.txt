@@ -1,0 +1,1 @@
+{"id": 14729, "name": "fish with no eye", "country": "United States", "wins": "0", "loses": "13", "winrate": 0.0, "gameChangerWins": "0", "gameChangerLoses": "13", "region": "Game Changers", "status": "Active", "players": []}

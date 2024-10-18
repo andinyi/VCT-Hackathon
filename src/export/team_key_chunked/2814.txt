@@ -1,0 +1,1 @@
+{"id": 2814, "name": "Bigetron Arctic", "country": "Indonesia", "wins": "56", "loses": "30", "winrate": 0.651, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "Asia-Pacific", "status": "Active", "players": [{"playerName": "frostmind", "realName": "Muhammad Rafi Diandra", "role": "player"}, {"playerName": "Frenzy", "realName": "Olafian Farenza", "role": "manager"}]}

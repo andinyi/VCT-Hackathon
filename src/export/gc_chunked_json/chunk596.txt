@@ -1,0 +1,1 @@
+{"id": "271017", "teams": [{"name": "NASR Ignite", "score": "2", "country": "eu", "won": true}, {"name": "Alien Anonymo", "score": "0", "country": "pl", "won": false}], "status": "Completed", "date": "2023-09", "event": "Group Stage–Round 3", "tournament": "Game Changers 2023 Stage III: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

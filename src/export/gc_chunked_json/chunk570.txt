@@ -1,0 +1,1 @@
+{"id": "271044", "teams": [{"name": "Natus Vincere Celestials", "score": "0", "country": "tr", "won": false}, {"name": "Team Falcons Vega", "score": "2", "country": "sa", "won": true}], "status": "Completed", "date": "2023-10", "event": "Group Stage–Round 6", "tournament": "Game Changers 2023 Stage III: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

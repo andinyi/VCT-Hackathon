@@ -1,0 +1,1 @@
+{"id": "221308", "teams": [{"name": "Orangutan X", "score": "2", "country": "in", "won": true}, {"name": "Global Esports Phoenix", "score": "0", "country": "in", "won": false}], "status": "Completed", "date": "2023", "event": "Playoffs–Lower Round 3", "tournament": "Game Changers 2023 Asia Pacific: Open 2", "img": "https://owcdn.net/img/604be13d01964.png"}

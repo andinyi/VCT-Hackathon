@@ -1,0 +1,1 @@
+{"id": "296619", "teams": [{"name": "FlyQuest RED", "score": "2", "country": "us", "won": true}, {"name": "Paw Pals", "score": "0", "country": "us", "won": false}], "status": "Completed", "date": "2024-02", "event": "Closed Qualifier #1–Semifinals", "tournament": "Game Changers 2024 North America: Series 1", "img": "https://owcdn.net/img/604be13d01964.png"}

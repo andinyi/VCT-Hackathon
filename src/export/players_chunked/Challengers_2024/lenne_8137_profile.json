@@ -1,0 +1,73 @@
+{
+    "Player URL": "https://www.vlr.gg/player/8137/lenne?timespan=all",
+    "All Agents Stats": [
+        {
+            "Agent": "sova",
+            "Usage": 82.0,
+            "Rounds Played": "5414",
+            "Rating": "1.11",
+            "Average Combat Score": "211.3",
+            "Kills:Death": "1.11",
+            "Average Damage per Round": "138.5",
+            "Kill, Assist, Survive, Trade %": "75%",
+            "Kills Per Round": "0.71",
+            "Assists Per Round": "0.36",
+            "First Kills Per Round": "0.08",
+            "First Deaths Per Round": "0.07",
+            "Kills": "3868",
+            "Deaths": "3496",
+            "Assists": "1932",
+            "First Bloods": "439",
+            "First Deaths": "354",
+            "Rounds by Agents": 261
+        },
+        {
+            "Agent": "skye",
+            "Usage": 6.0,
+            "Rounds Played": "427",
+            "Rating": "0.95",
+            "Average Combat Score": "192.4",
+            "Kills:Death": "0.96",
+            "Average Damage per Round": "124.1",
+            "Kill, Assist, Survive, Trade %": "73%",
+            "Kills Per Round": "0.67",
+            "Assists Per Round": "0.36",
+            "First Kills Per Round": "0.08",
+            "First Deaths Per Round": "0.10",
+            "Kills": "287",
+            "Deaths": "300",
+            "Assists": "153",
+            "First Bloods": "33",
+            "First Deaths": "42",
+            "Rounds by Agents": 19
+        }
+    ],
+    "Current Team": "LaZe",
+    "Player": "lenne",
+    "Signature Agents Ranked by Usage": [
+        "sova",
+        "skye"
+    ],
+    "Total games played": 280,
+    "Player stats": {
+        "Rounds Played": "345",
+        "Rating": "1.09",
+        "Average Combat Score": "221.1",
+        "Kills:Death": "1.05",
+        "Kill, Assist, Survive, Trade Percent": "71%",
+        "Average Damage per Round": "149.1",
+        "Kills Per Round": "0.73",
+        "Assists Per Round": "0.36",
+        "First Kills Per Round": "0.08",
+        "First Deaths Per Round": "0.08",
+        "Headshot Percent": "21%",
+        "Clutch Success Percent%": "22%",
+        "Clutches (won/played)": null,
+        "Maximum Kills in a single map": null,
+        "Kills": "251",
+        "Deaths": "240",
+        "Assists": "125",
+        "First Kills": "26",
+        "First Deaths": "27"
+    }
+}

@@ -1,0 +1,1 @@
+{"id": 13618, "name": "Kitten Gaming<3", "country": "International", "wins": "1", "loses": "5", "winrate": 0.167, "gameChangerWins": "1", "gameChangerLoses": "5", "region": "Game Changers", "status": "Active", "players": []}

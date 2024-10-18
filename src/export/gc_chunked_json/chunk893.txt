@@ -1,0 +1,1 @@
+{"id": "197268", "teams": [{"name": "GeeKay Esports Cherry", "score": "1", "country": "eg", "won": false}, {"name": "KPI Shine", "score": "2", "country": "eu", "won": true}], "status": "Completed", "date": "2023", "event": "Group Stage–Round 5", "tournament": "Game Changers 2023 Stage I: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

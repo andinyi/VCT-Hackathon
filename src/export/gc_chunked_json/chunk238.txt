@@ -1,0 +1,1 @@
+{"id": "325125", "teams": [{"name": "FlyQuest RED", "score": "2", "country": "us", "won": true}, {"name": "Kinetic", "score": "0", "country": "us", "won": false}], "status": "Completed", "date": "2024-04", "event": "Closed Qualifier #1–Quarterfinals", "tournament": "Game Changers 2024 North America: Series 2", "img": "https://owcdn.net/img/604be13d01964.png"}

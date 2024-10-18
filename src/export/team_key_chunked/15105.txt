@@ -1,0 +1,1 @@
+{"id": 15105, "name": "Thoti's Golden Children", "country": "United States", "wins": "N/A", "loses": "N/A", "winrate": "N/A", "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "N/A", "status": "Active", "players": []}

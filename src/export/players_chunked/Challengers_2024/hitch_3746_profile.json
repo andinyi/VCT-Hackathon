@@ -1,0 +1,73 @@
+{
+    "Player URL": "https://www.vlr.gg/player/3746/hitch?timespan=all",
+    "All Agents Stats": [
+        {
+            "Agent": "sova",
+            "Usage": 74.0,
+            "Rounds Played": "5358",
+            "Rating": "1.06",
+            "Average Combat Score": "216.4",
+            "Kills:Death": "1.07",
+            "Average Damage per Round": "141.7",
+            "Kill, Assist, Survive, Trade %": "73%",
+            "Kills Per Round": "0.73",
+            "Assists Per Round": "0.35",
+            "First Kills Per Round": "0.08",
+            "First Deaths Per Round": "0.08",
+            "Kills": "3900",
+            "Deaths": "3640",
+            "Assists": "1875",
+            "First Bloods": "428",
+            "First Deaths": "442",
+            "Rounds by Agents": 256
+        },
+        {
+            "Agent": "breach",
+            "Usage": 10.0,
+            "Rounds Played": "688",
+            "Rating": "0.83",
+            "Average Combat Score": "166.8",
+            "Kills:Death": "0.74",
+            "Average Damage per Round": "111.0",
+            "Kill, Assist, Survive, Trade %": "72%",
+            "Kills Per Round": "0.56",
+            "Assists Per Round": "0.42",
+            "First Kills Per Round": "0.06",
+            "First Deaths Per Round": "0.09",
+            "Kills": "384",
+            "Deaths": "521",
+            "Assists": "290",
+            "First Bloods": "38",
+            "First Deaths": "60",
+            "Rounds by Agents": 34
+        }
+    ],
+    "Current Team": "ESC Gaming",
+    "Player": "hitch",
+    "Signature Agents Ranked by Usage": [
+        "sova",
+        "breach"
+    ],
+    "Total games played": 290,
+    "Player stats": {
+        "Rounds Played": "697",
+        "Rating": "0.92",
+        "Average Combat Score": "178.7",
+        "Kills:Death": "0.78",
+        "Kill, Assist, Survive, Trade Percent": "71%",
+        "Average Damage per Round": "122.7",
+        "Kills Per Round": "0.58",
+        "Assists Per Round": "0.46",
+        "First Kills Per Round": "0.05",
+        "First Deaths Per Round": "0.08",
+        "Headshot Percent": "20%",
+        "Clutch Success Percent%": "16%",
+        "Clutches (won/played)": null,
+        "Maximum Kills in a single map": null,
+        "Kills": "405",
+        "Deaths": "519",
+        "Assists": "322",
+        "First Kills": "35",
+        "First Deaths": "56"
+    }
+}

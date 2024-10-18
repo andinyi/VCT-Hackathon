@@ -1,0 +1,1 @@
+{"id": "287380", "teams": [{"name": "BBL Queens", "score": "2", "country": "tr", "won": true}, {"name": "KRÜ BLAZE", "score": "0", "country": "cl", "won": false}], "status": "Completed", "date": "2023-12", "event": "Main Event–Upper Quarterfinals", "tournament": "Game Changers 2023 Championship: São Paulo", "img": "https://owcdn.net/img/604be13d01964.png"}

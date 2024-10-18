@@ -1,0 +1,1 @@
+{"id": 11394, "name": "jiliboo", "country": "International", "wins": "8", "loses": "4", "winrate": 0.667, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "North America", "status": "Inactive", "players": []}

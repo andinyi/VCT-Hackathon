@@ -1,0 +1,1 @@
+{"id": "271041", "teams": [{"name": "Karmine Corp GC", "score": "2", "country": "eu", "won": true}, {"name": "EXCEL GC", "score": "0", "country": "eu", "won": false}], "status": "Completed", "date": "2023-10", "event": "Group Stage–Round 6", "tournament": "Game Changers 2023 Stage III: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

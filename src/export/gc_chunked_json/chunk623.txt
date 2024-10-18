@@ -1,0 +1,1 @@
+{"id": "271375", "teams": [{"name": "DetonatioN FocusMe GC", "score": "2", "country": "jp", "won": true}, {"name": "ALBION GC", "score": "1", "country": "jp", "won": false}], "status": "Completed", "date": "2023-09", "event": "Open Qualifier - Group F–Grand Final", "tournament": "Game Changers 2023 Japan: Split 2", "img": "https://owcdn.net/img/604be13d01964.png"}

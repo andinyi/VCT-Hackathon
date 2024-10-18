@@ -1,0 +1,1 @@
+{"id": "270701", "teams": [{"name": "Global Esports Phoenix", "score": "1", "country": "in", "won": false}, {"name": "SCYTHE NWJ", "score": "2", "country": "id", "won": true}], "status": "Completed", "date": "2023-10", "event": "Main Event–Lower Round 1", "tournament": "Game Changers 2023 Asia Pacific: Elite", "img": "https://owcdn.net/img/604be13d01964.png"}

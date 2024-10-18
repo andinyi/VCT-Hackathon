@@ -1,0 +1,1 @@
+{"id": "336088", "teams": [{"name": "Shopify Rebellion", "score": "2", "country": "ca", "won": true}, {"name": "Paw Pals", "score": "1", "country": "us", "won": false}], "status": "Completed", "date": "2024-05", "event": "Closed Qualifier #2–Semifinals", "tournament": "Game Changers 2024 North America: Series 2", "img": "https://owcdn.net/img/604be13d01964.png"}

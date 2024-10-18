@@ -1,0 +1,1 @@
+{"id": "365378", "teams": [{"name": "MYVRA", "score": "0", "country": "un", "won": false}, {"name": "KS Hunters", "score": "2", "country": "un", "won": true}], "status": "Completed", "date": "2024-07", "event": "Playoffs–Lower Round 1", "tournament": "Game Changers 2024 LATAM North: Mid Season Tournament", "img": "https://owcdn.net/img/604be13d01964.png"}

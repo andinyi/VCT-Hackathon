@@ -1,0 +1,1 @@
+{"id": "271356", "teams": [{"name": "Sasanqua", "score": "2", "country": "jp", "won": true}, {"name": "TZ BLUEBEES", "score": "0", "country": "jp", "won": false}], "status": "Completed", "date": "2023-09", "event": "Open Qualifier - Group C–Lower Final", "tournament": "Game Changers 2023 Japan: Split 2", "img": "https://owcdn.net/img/604be13d01964.png"}

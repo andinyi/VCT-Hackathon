@@ -1,0 +1,1 @@
+{"id": "235441", "teams": [{"name": "Guild GC", "score": "0", "country": "fr", "won": false}, {"name": "FUT Female", "score": "2", "country": "tr", "won": true}], "status": "Completed", "date": "2023", "event": "Group Stage–Round 7", "tournament": "Game Changers 2023 Stage II: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

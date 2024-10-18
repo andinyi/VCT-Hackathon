@@ -1,0 +1,1 @@
+{"id": "235388", "teams": [{"name": "Ninjas in Pyjamas Lightning", "score": "0", "country": "eu", "won": false}, {"name": "Natus Vincere Celestials", "score": "2", "country": "tr", "won": true}], "status": "Completed", "date": "2023", "event": "Group Stage–Round 1", "tournament": "Game Changers 2023 Stage II: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

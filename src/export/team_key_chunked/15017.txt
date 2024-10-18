@@ -1,0 +1,1 @@
+{"id": 15017, "name": "Cyberking Esports", "country": "Vietnam", "wins": "4", "loses": "6", "winrate": 0.4, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "Asia-Pacific", "status": "Inactive", "players": []}

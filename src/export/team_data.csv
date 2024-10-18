@@ -1,0 +1,847 @@
+TeamId,Name,Country,Wins,Loses,Winrate,GameChangerWins,GameChangerLoses,Region
+1001,Team Heretics,Europe,53,6,0.898,N/A,N/A,Europe
+10042,Colossal Black,United States,2,6,0.25,2,6,Game Changers
+10052,REVIVAL,Game Changers,11,8,0.579,11,8,"[{'playerName': 'ayoeclipse', 'realName': 'Jaden Stone', 'role': 'player'}, {'playerName': 'rayne', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'KUDFPS', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Astrid', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Gill X2', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'jules', 'realName': 'N/A', 'role': 'player'}]"
+10087,Team Digital,Canada,5,6,0.455,N/A,N/A,North America
+10113,DRX Changers,Japan,8,4,0.667,8,4,Game Changers
+10149,K10,United Kingdom,N/A,N/A,N/A,N/A,N/A,Europe
+10182,Final Form Entertainment,United States,4,3,0.571,N/A,N/A,North America
+10188,VALIANT,France,N/A,N/A,N/A,N/A,N/A,Europe
+10289,bb.w7m,Brazil,2,2,0.5,2,2,Game Changers
+10293,Bikini Bottom Pratahouse,Asia-Pacific,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'DxN', 'realName': 'Gordon Lek', 'role': 'player'}, {'playerName': 'Moosey', 'realName': 'Yeow Zhen Feng', 'role': 'player'}, {'playerName': 'LEXY', 'realName': 'Lee Jun Hao Xavier', 'role': 'player'}, {'playerName': 'joshh', 'realName': 'Joshua Leow', 'role': 'player'}, {'playerName': 'inf', 'realName': 'Venneth Tay', 'role': 'player'}, {'playerName': 'grumble', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Shun', 'realName': 'Song Lin Han', 'role': 'player'}]"
+10294,NEXGA,Asia-Pacific,18,11,0.621,N/A,N/A,"[{'playerName': 'aplycs', 'realName': 'Aqil Azfar', 'role': 'player'}, {'playerName': 'Impecunity', 'realName': 'Randy Yap', 'role': 'player'}, {'playerName': 'Mojo', 'realName': 'Thong Tao Jian', 'role': 'player'}, {'playerName': 'Hakka', 'realName': 'Raja Amirul bin Raja Badrin Shah', 'role': 'Sub'}]"
+10295,Team Path,Asia-Pacific,8,14,0.364,N/A,N/A,"[{'playerName': 'zeeq', 'realName': 'Muhammad Hazeeq bin Shammim', 'role': 'player'}, {'playerName': 'Pecal', 'realName': 'Faishal Afiq', 'role': 'player'}, {'playerName': 'toggle', 'realName': 'Darwish Hakim', 'role': 'player'}, {'playerName': 'Wrath', 'realName': 'Dzul Hilmie', 'role': 'player'}, {'playerName': 'Rexxy', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'kye', 'realName': 'Hazim Salihuddin', 'role': 'Sub'}, {'playerName': 'Click', 'realName': 'Idzni Rosdi', 'role': 'coach'}]"
+10298,xyz,Oceania,7,8,0.467,N/A,N/A,"[{'playerName': 'lg1c', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Alucard', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'maine', 'realName': 'N/A', 'role': 'player'}]"
+10305,club penguin,Australia,14,14,0.5,N/A,N/A,Oceania
+10307,Built For Greatness,Oceania,51,24,0.68,N/A,N/A,"[{'playerName': 'Asce', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'ubud', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'ZENZKI', 'realName': 'N/A', 'role': 'player'}]"
+1033,Reckoning Esports,India,11,13,0.458,N/A,N/A,Asia-Pacific
+1034,NRG Esports,United States,98,41,0.705,N/A,N/A,North America
+10351,Vipers Clan,Philippines,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'Berger', 'realName': 'Carl Jhunver Macale', 'role': 'player'}, {'playerName': 'wes', 'realName': 'John Weslie G. Serdinola', 'role': 'player'}, {'playerName': 'Shintaro', 'realName': 'Mark Daryl Timbang Corpuz', 'role': 'player'}, {'playerName': 'Aeonz', 'realName': 'Alec Peñero', 'role': 'player'}, {'playerName': 'Ichisolo', 'realName': 'Cullen Cuevas', 'role': 'player'}, {'playerName': 'Emil', 'realName': 'Emil Ortega', 'role': 'player'}, {'playerName': 'modeskiii', 'realName': 'Matthew Bautista', 'role': 'coach'}]"
+10356,AIM PH,Philippines,5,11,0.312,N/A,N/A,Asia-Pacific
+10364,Des Moines DMG,North America,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'jas0n', 'realName': 'Jason Vo', 'role': 'player'}, {'playerName': 'Keta', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'felix', 'realName': 'Felix Ruisinger', 'role': 'player'}, {'playerName': 'RaijuACE', 'realName': 'Ahmad Khalil', 'role': 'player'}, {'playerName': 'bless', 'realName': 'Antonio Robinson', 'role': 'player'}, {'playerName': 'joy', 'realName': 'N/A', 'role': 'manager'}]"
+10370,Chosen 1s,United States,10,20,0.333,N/A,N/A,North America
+104,REJECT,Japan,46,32,0.59,N/A,N/A,Japan
+10400,Tim Tài Trơ,Asia-Pacific,18,8,0.692,N/A,N/A,"[{'playerName': 'Redneval', 'realName': 'Le Quốc Khánh', 'role': 'player'}, {'playerName': 'viness', 'realName': 'Nguyễn Trung Tín', 'role': 'player'}, {'playerName': 'Juu', 'realName': 'Trần Thái Vỹ', 'role': 'player'}, {'playerName': 'Daicute', 'realName': 'Nguyễn Anh Minh Thông', 'role': 'player'}, {'playerName': 'BOSS', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'shouta', 'realName': 'Phạm Quang Thắng', 'role': 'coach'}]"
+10408,CRIT Esports,Asia-Pacific,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'maitee', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Reality', 'realName': 'N/A', 'role': 'player'}]"
+10417,Formulation Gaming,Europe,6,5,0.545,N/A,N/A,Europe
+10421,The Who?,Oceania,9,4,0.692,N/A,N/A,"[{'playerName': 'Bonobo', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'gloom', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Zauqk', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'vizsla', 'realName': 'Will Davies', 'role': 'player'}, {'playerName': 'Kilk', 'realName': 'N/A', 'role': 'analyst'}]"
+10431,Underground Gaming,MENA,18,11,0.621,N/A,N/A,"[{'playerName': 'A1mly', 'realName': 'Ameen Dibis', 'role': 'player'}, {'playerName': 'alvar', 'realName': 'Khaled Abdullah', 'role': 'player'}, {'playerName': 'ShawateRR', 'realName': 'Mohammad Yousef', 'role': 'player'}, {'playerName': 'Mabuchi', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'shadow', 'realName': 'Khaled Sadeq', 'role': 'manager'}, {'playerName': 'Tenebra', 'realName': 'Alessandro Marenzi', 'role': 'head coach'}, {'playerName': 'N1kL', 'realName': 'Nikita Lysukha', 'role': 'assistant coach'}]"
+10448,Winthrop University,United States,1,2,0.333,N/A,N/A,North America
+10454,UMD Premier,United States,1,2,0.333,N/A,N/A,Collegiate
+10460,Full Sail Armada,United States,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'Kairu', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Zuni', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Devhaur', 'realName': 'Devin McLaughlin', 'role': 'player'}, {'playerName': 'y3lena', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'KillWill', 'realName': 'William Carson', 'role': 'player'}, {'playerName': 'Delta', 'realName': 'N/A', 'role': 'player'}]"
+10472,ODU Monarchs,United States,N/A,N/A,N/A,N/A,N/A,Collegiate
+10493,Niner Esports,United States,0,3,0.0,N/A,N/A,Collegiate
+10530,TAMU White,United States,3,3,0.5,N/A,N/A,Collegiate
+10592,ROA Esport,Taiwan,5,7,0.417,N/A,N/A,Asia-Pacific
+10594,AxX,Asia-Pacific,6,6,0.5,N/A,N/A,"[{'playerName': 'edw1N', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'N11', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Ezw1n', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'W4DJJ', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Paxton', 'realName': 'N/A', 'role': 'player'}]"
+10597,ONE Team Esports,Taiwan,38,12,0.76,N/A,N/A,Asia-Pacific
+10598,UTT Esports,Asia-Pacific,7,8,0.467,N/A,N/A,"[{'playerName': 'Axilus', 'realName': 'N/A', 'role': 'player'}, {'playerName': '21May', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'mocky', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Kippo', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'tackle', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'ZhiXuan', 'realName': 'N/A', 'role': 'player'}]"
+106,TSM,United States,172,65,0.726,N/A,N/A,North America
+10603,Over Quality,Korea,21,10,0.677,N/A,N/A,"[{'playerName': 'Wolverine', 'realName': 'Cho Hyun-tae (조현태)', 'role': 'player'}, {'playerName': 'stew', 'realName': 'Park Young-chan (박영찬)', 'role': 'player'}, {'playerName': 'empty', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'yoman', 'realName': 'Chae Young-moon (채영문)', 'role': 'player'}, {'playerName': 'Banger', 'realName': 'An Hyung-gi (안형기)', 'role': 'player'}]"
+10606,AMORIS Vega,Japan,7,5,0.583,N/A,N/A,Japan
+10634,Triple Esports Club,MENA,3,4,0.429,N/A,N/A,"[{'playerName': 'DVDOV', 'realName': 'Abdulrahman Alawadhi', 'role': 'player'}, {'playerName': 'aimhunterr', 'realName': 'Khalid Mohammed', 'role': 'player'}, {'playerName': 'TTyke', 'realName': 'Yousef Alawadhi', 'role': 'player'}, {'playerName': 'bucher1', 'realName': 'Mohamed Bucheeri', 'role': 'player'}]"
+10639,SunXet Club Fem,Game Changers,8,6,0.571,8,6,"[{'playerName': 'autumn', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'miwa', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Mcfly', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Hinataa', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'vaL', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'kuiM', 'realName': 'Micaela Belen Vanadia', 'role': 'player'}, {'playerName': 'ezNow', 'realName': 'N/A', 'role': 'coach'}]"
+10645,SHIFT X,Game Changers,6,7,0.462,6,7,"[{'playerName': 'ELLEFPS', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'KUDFPS', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'ari', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Ames', 'realName': 'Amy McNamara', 'role': 'player'}, {'playerName': 'Jas', 'realName': 'N/A', 'role': 'player'}]"
+10697,CPP White,United States,N/A,N/A,N/A,N/A,N/A,Collegiate
+10700,Abaddon Abyss,Asia-Pacific,15,24,0.385,N/A,N/A,"[{'playerName': 'HydraKid', 'realName': 'Matthew Lance M. Padios', 'role': 'player'}, {'playerName': 'vblack', 'realName': 'Alfi Angelo O. Lua', 'role': 'player'}, {'playerName': 'slathom999', 'realName': 'Shawn Dale Bolondro', 'role': 'player'}, {'playerName': 'Rababz', 'realName': 'Abdul Rafi P. Biyala', 'role': 'player'}, {'playerName': 'Asta', 'realName': 'Kurt Stanley Laurido', 'role': 'player'}, {'playerName': 'exotic', 'realName': 'John Danlee C. Mag-Aso', 'role': 'player'}, {'playerName': 'ChaoFan', 'realName': 'Bernardo Alix Jr.', 'role': 'manager'}, {'playerName': 'Anakin', 'realName': 'Ralph Ramer P. Armero', 'role': 'manager'}, {'playerName': 'Jayayay', 'realName': 'Baltazar Josey Wales M. Lajom', 'role': 'coach'}]"
+10713,BreakThru,North America,23,7,0.767,N/A,N/A,"[{'playerName': 'flyuh', 'realName': 'Xavier Carlson', 'role': 'player'}, {'playerName': 'thief', 'realName': 'Brady Dever', 'role': 'player'}, {'playerName': 'aproto', 'realName': 'Alex Protopapas', 'role': 'player'}, {'playerName': 'sym', 'realName': 'Tyler Porter', 'role': 'player'}, {'playerName': 'brawk', 'realName': 'Brock Somerhalder', 'role': 'player'}, {'playerName': 'Apex', 'realName': 'Austin Copeland', 'role': 'manager'}, {'playerName': 'Tanizhq', 'realName': 'Tanishq Sabharwal', 'role': 'coach'}]"
+10725,Oxygen Esports,North America,48,15,0.762,N/A,N/A,"[{'playerName': 'mitch', 'realName': 'Mitch Semago', 'role': 'player'}, {'playerName': 'skuba', 'realName': 'Logan Jenkins', 'role': 'player'}, {'playerName': 'Verno', 'realName': 'Andrew Maust', 'role': 'player'}, {'playerName': 'Reduxx', 'realName': 'Yassin Aboulalazm', 'role': 'player'}, {'playerName': 'dapr', 'realName': 'Michael Gulino', 'role': 'player'}, {'playerName': 'wrap', 'realName': 'Alan Shen', 'role': 'manager'}, {'playerName': 'bonkar', 'realName': 'Malkolm Rench', 'role': 'head coach'}, {'playerName': 'Rustun', 'realName': 'Rustun Lusk', 'role': 'assistant coach'}]"
+10727,Stellae Gaming,Brazil,16,16,0.5,N/A,N/A,"[{'playerName': 'xenom', 'realName': 'Eduardo Soeiro', 'role': 'player'}, {'playerName': 'guuih', 'realName': 'Guilherme Mariano', 'role': 'player'}, {'playerName': 'Siduzord', 'realName': 'Renan Siduoski', 'role': 'player'}, {'playerName': 'PxS', 'realName': 'Joshua Guilherme Brunelli', 'role': 'player'}, {'playerName': 'nicksz', 'realName': 'Nicholas La Torre', 'role': 'player'}, {'playerName': 'moura', 'realName': 'Gabriel Moura', 'role': 'head coach'}, {'playerName': 'Froggie', 'realName': 'Andley Chagas', 'role': 'assistant coach'}]"
+10735,TropiCaos,Brazil,20,15,0.571,N/A,N/A,"[{'playerName': 'Fatmarino', 'realName': 'Matheus Marino', 'role': 'player'}, {'playerName': 'mNdS', 'realName': 'Rafael Mendes', 'role': 'player'}, {'playerName': 'xenom', 'realName': 'Eduardo Soeiro', 'role': 'player'}, {'playerName': 'cortezia', 'realName': 'Gabriel Cortez', 'role': 'player'}, {'playerName': 'v1nny', 'realName': 'Vínicius Gonçalves', 'role': 'player'}, {'playerName': 'panique', 'realName': 'N/A', 'role': 'head coach'}, {'playerName': 'zezao', 'realName': 'Fernando Lirola', 'role': 'analyst'}]"
+10755,Galorys,Brazil,12,16,0.429,N/A,N/A,"[{'playerName': 'Urango', 'realName': 'Victor Rodrigues', 'role': 'player'}, {'playerName': 'rood', 'realName': 'Rodrigo Gomes', 'role': 'player'}, {'playerName': 'Evilkyk', 'realName': 'Kayke Arrais', 'role': 'player'}, {'playerName': 'lukxo', 'realName': 'Lucca Travaioli', 'role': 'player'}, {'playerName': 'Sato', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'DRAGziKW', 'realName': 'Elias Santiles', 'role': 'Sub'}, {'playerName': 'hide', 'realName': 'Guilherme Augustin', 'role': 'Sub'}, {'playerName': 'shaW', 'realName': 'Ian Jardim', 'role': 'coach'}]"
+10895,EXCEL GC,Game Changers,22,13,0.629,22,13,"[{'playerName': 'Viv', 'realName': 'N/A', 'role': 'player'}, {'playerName': '6sonya', 'realName': 'Maria Istrate', 'role': 'player'}, {'playerName': 'fluxxy', 'realName': 'Lola Ainslie', 'role': 'player'}, {'playerName': 'angelka', 'realName': 'Angela Nikolovska', 'role': 'player'}, {'playerName': 'Samsi', 'realName': 'Samantha Caddell', 'role': 'player'}, {'playerName': 'jHAHAk', 'realName': 'Jack Kent', 'role': 'assistant coach'}]"
+10906,YFP White,Game Changers,9,4,0.692,9,4,[]
+10908,Scarlet,United States,3,6,0.333,3,6,Game Changers
+10915,Teddy Tactics,United States,8,4,0.667,8,4,North America
+10979,Kizuna Esports,Singapore,N/A,N/A,N/A,N/A,N/A,Asia-Pacific
+11002,RETA Esports,Chile,7,10,0.412,N/A,N/A,Latin America North
+11058,G2 Esports,United States,9,10,0.474,N/A,N/A,North America
+11060,Nongshim RedForce,South Korea,4,1,0.8,N/A,N/A,Korea
+1110,Alter Ego,Indonesia,98,49,0.667,N/A,N/A,Asia-Pacific
+11152,Outplayed,Italy,2,12,0.143,N/A,N/A,Europe
+1119,All Gamers,China,N/A,N/A,N/A,N/A,N/A,China
+1120,EDward Gaming,China,N/A,N/A,N/A,N/A,N/A,China
+11201,Version1,North America,49,24,0.671,69,5,"[{'playerName': 'meL', 'realName': 'Melanie Capone', 'role': 'player'}, {'playerName': 'sarahcat', 'realName': 'Sarah Simpson', 'role': 'player'}, {'playerName': 'florescent', 'realName': 'Ava Eugene', 'role': 'player'}, {'playerName': 'alexis', 'realName': 'Alexis Guarrasi', 'role': 'player'}, {'playerName': 'Noia', 'realName': 'Nicole Tierce', 'role': 'player'}, {'playerName': 'effys', 'realName': 'Loic Sauvageau', 'role': 'coach'}]"
+11232,Joblife,Europe,21,17,0.553,N/A,N/A,Europe
+11233,BC SWELL,Japan,6,4,0.6,N/A,N/A,Japan
+11237,duplaw,Hungary,N/A,N/A,N/A,N/A,N/A,Europe
+11238,TwoKay,Vietnam,11,18,0.379,N/A,N/A,Asia-Pacific
+1124,RED Canids,Brazil,16,7,0.696,N/A,N/A,Brazil
+11248,Ninjas in Pyjamas Lightning,Europe,61,37,0.622,61,37,"[{'playerName': 'mads', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'klaudia', 'realName': 'Klaudia Beczkiewicz', 'role': 'player'}, {'playerName': 'OYKU', 'realName': 'Öykü Büyük', 'role': 'player'}, {'playerName': 'Padge', 'realName': 'Paige Thomas', 'role': 'player'}, {'playerName': 'rezq', 'realName': 'Eda Naz Akçocuk', 'role': 'player'}, {'playerName': 'Wolf', 'realName': 'Nicole Sølvmose', 'role': 'manager'}, {'playerName': 'Jaxsen', 'realName': 'Jackson Popelka', 'role': 'head coach'}]"
+11257,Szach Mat,Poland,38,20,0.655,N/A,N/A,Europe
+11275,LAZY,Vietnam,28,20,0.583,N/A,N/A,Asia-Pacific
+11276,Rapid Lofi,Vietnam,13,19,0.406,N/A,N/A,Asia-Pacific
+11309,Le Crapaud,Indonesia,28,20,0.583,N/A,N/A,Asia-Pacific
+11318,SendTreePay,Taiwan,3,9,0.25,N/A,N/A,Asia-Pacific
+11328,FunPlus Phoenix,China,69,51,0.575,N/A,N/A,China
+11348,Dplus Esports,South Korea,65,26,0.714,N/A,N/A,Korea
+11355,Nonnegative,United States,1,6,0.143,N/A,N/A,North America
+11357,Dead Orbit,Canada,N/A,N/A,N/A,N/A,N/A,North America
+11403,CSULB Black,International,N/A,N/A,N/A,N/A,N/A,Collegiate
+11479,Apeks,Europe,24,2,0.923,N/A,N/A,Europe
+11490,Murash Gaming,Japan,20,20,0.5,N/A,N/A,Japan
+11496,ALTERNATE aTTaX Ruby,Germany,48,23,0.676,48,23,Game Changers
+11498,Citrus e-sports,Japan,N/A,N/A,N/A,N/A,N/A,Japan
+11539,Blater,South Korea,5,4,0.556,N/A,N/A,Korea
+11585,00Nation Fem,Brazil,2,6,0.25,23,8,"[{'playerName': 'srN', 'realName': 'Nicolas Niederauer', 'role': 'player'}, {'playerName': 'nanah', 'realName': 'Nathalia Hammoud', 'role': 'player'}, {'playerName': 'antG', 'realName': 'Antônia Garcia', 'role': 'player'}, {'playerName': 'Mel', 'realName': 'Melissa Souza', 'role': 'player'}, {'playerName': 'sayuri', 'realName': 'Camila Obam', 'role': 'player'}, {'playerName': 'rik', 'realName': 'Ricardo Furquim', 'role': 'head coach'}]"
+11593,XOXO-01,Thailand,4,4,0.5,N/A,N/A,Asia-Pacific
+11603,BLX UTD,Europe,20,32,0.385,N/A,N/A,Europe
+11648,ROSE,United States,N/A,N/A,N/A,N/A,N/A,North America
+11678,RRQ Kaguya,Asia-Pacific,85,14,0.859,85,14,"[{'playerName': 'bes', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Eisberg', 'realName': 'July Kusuma', 'role': 'player'}, {'playerName': 'Alluka', 'realName': 'Tiara Bonilla Pleno', 'role': 'player'}, {'playerName': 'Ayumiii', 'realName': 'Nurul Aini', 'role': 'player'}, {'playerName': 'Ducky', 'realName': 'Daniel Duong', 'role': 'head coach'}]"
+11689,noot noot,North America,3,7,0.3,77,32,"[{'playerName': 'malibu', 'realName': 'Madelyn Campos', 'role': 'player'}, {'playerName': 'karie', 'realName': 'Marceline Carson', 'role': 'player'}, {'playerName': 'summertime', 'realName': 'James Edwards', 'role': 'player'}, {'playerName': 'xann', 'realName': 'Allison Angel', 'role': 'player'}, {'playerName': 'Lycain', 'realName': 'Cole Ramsey', 'role': 'manager'}]"
+11699,Velaris,Game Changers,40,20,0.667,40,20,"[{'playerName': 'Starlight', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Australis', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'avery', 'realName': 'Avery Eugene', 'role': 'player'}, {'playerName': 'StarBound', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Iroo', 'realName': 'N/A', 'role': 'coach'}]"
+11709,ILLICIT,International,N/A,N/A,N/A,N/A,N/A,Latin America North
+11720,Old School Kr3w,Venezuela,3,3,0.5,N/A,N/A,Latin America North
+11770,jelly e amigas,Brazil,22,16,0.579,82,39,"[{'playerName': 'Krysme', 'realName': 'Julia Coelho', 'role': 'player'}, {'playerName': 'Jelly', 'realName': 'Julia Iris', 'role': 'player'}, {'playerName': 'let', 'realName': 'Letícia Dias', 'role': 'player'}, {'playerName': 'lissa', 'realName': 'Giulia Lissa', 'role': 'player'}, {'playerName': 'tayhuhu', 'realName': 'Taynah Yukimi', 'role': 'player'}, {'playerName': 'JhoW', 'realName': 'Jonathan Glória', 'role': 'head coach'}]"
+11772,HUMMER Esports,Game Changers,0,3,0.0,10,6,"[{'playerName': 'nAny', 'realName': 'Anny Torres', 'role': 'player'}, {'playerName': 'mizzy', 'realName': 'Ester Cardoso', 'role': 'player'}, {'playerName': 'Arial', 'realName': 'Laira Rodrigues', 'role': 'player'}, {'playerName': 'mooN', 'realName': 'Camilly Pacheco', 'role': 'player'}, {'playerName': 'hayzen', 'realName': 'Ricardo Denadai', 'role': 'head coach'}, {'playerName': 'GBR', 'realName': 'Gabriel Martins', 'role': 'coach'}]"
+11806,FreeAction,Game Changers,4,1,0.8,4,1,"[{'playerName': 'LechugaFresh', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'CortexDesire', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Junki', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Berelita', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Cuaky', 'realName': 'N/A', 'role': 'player'}]"
+11811,Kunai Esports FEM,Game Changers,4,1,0.8,4,1,"[{'playerName': 'Maki', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Nury', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Kaz', 'realName': 'N/A', 'role': 'player'}]"
+1184,FUT Esports,Turkey,123,72,0.631,N/A,N/A,Europe
+11856,GnG Esports,Tunisia,12,19,0.387,N/A,N/A,MENA
+11895,Globant Emerald Team,Latin America South,1,4,0.2,21,18,"[{'playerName': 'Lynn', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'nati', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'azul', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Flossie', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'frantastic', 'realName': 'Francisca Valenzuela', 'role': 'player'}, {'playerName': 'reshi', 'realName': 'N/A', 'role': 'player'}]"
+11930,UCSB Gold,United States,2,3,0.4,N/A,N/A,Collegiate
+11951,Team Karma,North America,15,9,0.625,15,9,"[{'playerName': 'rain', 'realName': 'Amanda Smith', 'role': 'player'}, {'playerName': 'Ellie', 'realName': 'Elena Garland', 'role': 'player'}, {'playerName': 'EMUHLEET', 'realName': 'Emmalee Garrido', 'role': 'player'}, {'playerName': 'bungee', 'realName': 'April Haight', 'role': 'player'}, {'playerName': 'JULIA', 'realName': 'Julia Dias', 'role': 'player'}]"
+11963,Ambrosia,Canada,194,124,0.61,N/A,N/A,North America
+11981,Dragon Ranger Gaming,China,N/A,N/A,N/A,N/A,N/A,China
+11983,Kingzone,China,10,14,0.417,N/A,N/A,China
+11985,Rare Atom,China,30,28,0.517,N/A,N/A,China
+120,100 Thieves,United States,4,8,0.333,N/A,N/A,North America
+12007,QoR GC,Game Changers,10,12,0.455,10,12,[]
+12008,Mamacita,Turkey,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'Panexa', 'realName': 'Burak Çulha', 'role': 'player'}, {'playerName': 'RedisT', 'realName': 'Ömer Faruk Kılınç', 'role': 'player'}, {'playerName': 'EliEsS', 'realName': 'Ali Çil', 'role': 'player'}, {'playerName': 'brAdy', 'realName': 'Mustafa Boz', 'role': 'player'}]"
+12010,Bilibili Gaming,China,5,1,0.833,N/A,N/A,China
+12011,Douyu Gaming,China,12,11,0.522,N/A,N/A,China
+12044,Jenerators,Game Changers,4,4,0.5,4,4,"[{'playerName': 'ciao', 'realName': 'Ciao Li', 'role': 'player'}, {'playerName': 'SUPERKAT', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'starriebun', 'realName': 'Katherine So', 'role': 'player'}, {'playerName': 'Truw', 'realName': 'Jaeden Smith', 'role': 'head coach'}, {'playerName': 'Reconcile', 'realName': 'Isaiah Jack', 'role': 'assistant coach'}]"
+12064,Nova Esports,China,14,24,0.368,N/A,N/A,China
+12081,Overkill Black,Game Changers,19,10,0.655,19,10,"[{'playerName': 'ElyS', 'realName': 'Chloe Yang', 'role': 'player'}, {'playerName': 'miyara', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'miggie', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'mae', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Raven', 'realName': 'N/A', 'role': 'player'}]"
+12129,FaZe Clan GC,North America,6,10,0.375,28,21,"[{'playerName': 'di^', 'realName': 'Diane Tran', 'role': 'player'}, {'playerName': 'Maddie', 'realName': 'Madison Mann', 'role': 'player'}, {'playerName': 'sHMeaty', 'realName': 'Emma Choe', 'role': 'player'}, {'playerName': 'refinnej', 'realName': 'Jennifer Le', 'role': 'player'}, {'playerName': 'truo', 'realName': 'Robert Pham', 'role': 'manager'}, {'playerName': 'c4Lypso', 'realName': 'Abdo Agha', 'role': 'coach'}]"
+12133,Anomaly No Charms,Game Changers,1,0,1.0,19,11,"[{'playerName': 'gWenn', 'realName': 'Salsabila Kultsum', 'role': 'player'}, {'playerName': 'Tweeya', 'realName': 'Tria Mae Manabat Manos', 'role': 'player'}, {'playerName': 'Ivory', 'realName': 'Regina Lopez', 'role': 'player'}, {'playerName': 'Ayaaa', 'realName': 'Shara Koshikawa', 'role': 'player'}, {'playerName': 'Tr1cks', 'realName': 'Kyung-In Lee', 'role': 'player'}, {'playerName': 'PizzaFPS', 'realName': 'Jehiel Ardiente', 'role': 'coach'}]"
+12140,bemyteam,Game Changers,22,18,0.55,22,18,"[{'playerName': 'nenuay', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Pretzel', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Dyummy', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'mmoopingx', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'HOKPIB', 'realName': 'N/A', 'role': 'player'}]"
+12142,Capybara GanG,Game Changers,4,4,0.5,4,4,"[{'playerName': 'Pichy', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Newky', 'realName': 'Kewalin Maneerat', 'role': 'player'}, {'playerName': 'izze', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'ceachy', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'yyAmroll', 'realName': 'Sukonrapat Chairattanangamdaj', 'role': 'player'}]"
+12150,Global Esports Phoenix,Asia-Pacific,0,6,0.0,17,12,"[{'playerName': 'Meow16K', 'realName': 'Saloni Pawar', 'role': 'player'}, {'playerName': 'KiRi', 'realName': 'Keerti Mirani', 'role': 'player'}, {'playerName': 'Rose', 'realName': 'Syeeda Tabassum', 'role': 'player'}, {'playerName': 'KappA', 'realName': 'Akshay Sinkar', 'role': 'coach'}]"
+12151,GO Cyrene,Game Changers,5,3,0.625,5,3,"[{'playerName': 'DelBisky', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Jaile', 'realName': 'Marie Jodylei Antazo', 'role': 'player'}, {'playerName': 'PIETY', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Kon', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Orbbb', 'realName': 'N/A', 'role': 'manager'}, {'playerName': 'Realist', 'realName': 'N/A', 'role': 'coach'}]"
+12154,Halo Freyja,Philippines,1,2,0.333,1,2,Game Changers
+12171,Sapphire,Asia-Pacific,7,0,1.0,58,24,"[{'playerName': 'Poly', 'realName': 'Patcharapron Sanitchai', 'role': 'player'}, {'playerName': 'JinNy', 'realName': 'Sarindhorn Wanothayarnchai', 'role': 'player'}, {'playerName': 'Muffyn', 'realName': 'Chalita Buathong', 'role': 'player'}, {'playerName': 'Babytz', 'realName': 'Pornlapat Wittayanan', 'role': 'player'}, {'playerName': 'margeaux', 'realName': 'Dhammamitta Marvella', 'role': 'player'}, {'playerName': '0bi', 'realName': 'Yuranun Sangurang', 'role': 'coach'}]"
+12178,THE HERO KDA,Game Changers,4,2,0.667,4,2,"[{'playerName': 'olulu', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Snowwke', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'StrwbryBagel', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'bejoey', 'realName': 'Rofi Dikpramukti', 'role': 'manager'}]"
+12192,LOUD GC,Brazil,22,16,0.579,82,39,Brazil
+12236,FOKUS Sakura,Germany,7,9,0.438,7,9,Game Changers
+1224,Weibo Gaming,China,4,4,0.5,N/A,N/A,China
+12255,Karmine Corp GC,Europe,15,15,0.5,15,15,Game Changers
+12256,Akroma,France,28,35,0.444,N/A,N/A,Europe
+12259,Akumu,Game Changers,4,4,0.5,4,4,"[{'playerName': 'happy', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'ketarys', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'fawn', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'kr1sP', 'realName': 'N/A', 'role': 'player'}]"
+12300,DELTA esports,Japan,N/A,N/A,N/A,N/A,N/A,"[{'playerName': '最強守護神ゴッドハンドまもるくん', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Hayappe', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Eonyx', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'tatto', 'realName': 'N/A', 'role': 'player'}]"
+12303,Next Esports,Japan,6,3,0.667,N/A,N/A,"[{'playerName': 'Ippanjinnoarare', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'SawadaHotal', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'TETO', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'SHITE', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Shien', 'realName': 'N/A', 'role': 'player'}]"
+12319,capuwu,Game Changers,2,3,0.4,2,3,"[{'playerName': 'Starryy', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'misu', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'kaya', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'JunaFour', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'ksama', 'realName': 'Kelly Luong', 'role': 'player'}]"
+12373,NerdPunt,Oceania,51,24,0.68,N/A,N/A,"[{'playerName': 'BiggieCheese', 'realName': 'Aidan Gill', 'role': 'player'}, {'playerName': 'Sinaway', 'realName': 'Norshin Yawanis', 'role': 'player'}, {'playerName': 'NiceHacks', 'realName': 'Chris Wahle', 'role': 'Sub'}, {'playerName': 'feet', 'realName': 'N/A', 'role': 'Sub'}, {'playerName': 'foxy', 'realName': 'N/A', 'role': 'coach'}, {'playerName': 'Kmannamk', 'realName': 'N/A', 'role': 'coach'}, {'playerName': 'James', 'realName': 'N/A', 'role': 'performance coach'}, {'playerName': 'knower', 'realName': 'N/A', 'role': 'analyst'}]"
+12375,Looking for Sponsors,Asia-Pacific,15,24,0.385,N/A,N/A,"[{'playerName': 'vblack', 'realName': 'Alfi Angelo O. Lua', 'role': 'player'}, {'playerName': 'Asta', 'realName': 'Kurt Stanley Laurido', 'role': 'player'}, {'playerName': 'Rababz', 'realName': 'Abdul Rafi P. Biyala', 'role': 'player'}, {'playerName': 'exotic', 'realName': 'John Danlee C. Mag-Aso', 'role': 'player'}, {'playerName': 'slathom999', 'realName': 'Shawn Dale Bolondro', 'role': 'player'}, {'playerName': 'HydraKid', 'realName': 'Matthew Lance M. Padios', 'role': 'player'}, {'playerName': 'Jayayay', 'realName': 'Baltazar Josey Wales M. Lajom', 'role': 'head coach'}]"
+12378,Boss G KDM,Philippines,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'Che', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Narpim', 'realName': 'Clark Karoll Landrito', 'role': 'player'}, {'playerName': 'Sovano', 'realName': 'Alvin Daniel L. Oronce', 'role': 'player'}, {'playerName': 'Chanyboi', 'realName': 'Kristian Manlapaz', 'role': 'player'}, {'playerName': 'Yort', 'realName': 'Troy Hiramia', 'role': 'player'}, {'playerName': 'dispenser', 'realName': 'Kevin Te', 'role': 'coach'}]"
+12380,Rambutan ni Tatay,Asia-Pacific,4,6,0.4,N/A,N/A,"[{'playerName': 'Worship', 'realName': 'Ian Ga', 'role': 'player'}, {'playerName': 'retSS', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'markL', 'realName': 'Mark Lester', 'role': 'player'}, {'playerName': 'Hotsauz', 'realName': 'Yousef Imad El-Yousef', 'role': 'player'}, {'playerName': 'eugeneS', 'realName': 'Eugene Serrano', 'role': 'player'}]"
+12391,Team OGS,Korea,30,9,0.769,N/A,N/A,"[{'playerName': 'Leviathan', 'realName': 'Na Ha-jun (나하준)', 'role': 'player'}, {'playerName': 'Dambi', 'realName': 'Lee Hyuk-kyu (이혁규)', 'role': 'player'}, {'playerName': 'Aru', 'realName': 'Yang Jae-jun (양재준)', 'role': 'player'}, {'playerName': 'Ivy', 'realName': 'Park Sung-hyeon (박성현)', 'role': 'player'}, {'playerName': 'Francis', 'realName': 'Kim Mu-bin (김무빈)', 'role': 'player'}, {'playerName': 'Distinct', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Haemul', 'realName': 'N/A', 'role': 'player'}]"
+12418,Never Give Up,Korea,12,6,0.667,N/A,N/A,"[{'playerName': 'Hate', 'realName': 'Lee Ye-hun (이예훈)', 'role': 'player'}, {'playerName': 'BeomJun', 'realName': 'Kim Beom-jun (김범준)', 'role': 'player'}, {'playerName': 'NakJi', 'realName': 'Kim Sang-hyeop (김상협)', 'role': 'player'}, {'playerName': 'WIX', 'realName': 'Kim Doo-heon (김두헌)', 'role': 'player'}, {'playerName': 'JaebiN', 'realName': 'Lee Jae-bin (이재빈)', 'role': 'player'}]"
+12421,Syko,Asia-Pacific,5,5,0.5,N/A,N/A,"[{'playerName': '21ningning', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Louboutin', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'DaFt', 'realName': 'Huỳnh Tuấn Kiệt', 'role': 'player'}, {'playerName': 'Crus', 'realName': 'Lư Tiến Huy', 'role': 'player'}, {'playerName': 'Real8', 'realName': 'Vũ Ngọc Đức Hiếu', 'role': 'player'}, {'playerName': 'albus', 'realName': 'Trần Phúc Thiên', 'role': 'player'}, {'playerName': 'Vico', 'realName': 'Nguyễn Nam Sơn', 'role': 'player'}]"
+12427,BTR Fanclub,North America,195,82,0.704,N/A,N/A,"[{'playerName': 'svL', 'realName': 'Sam Laudando', 'role': 'player'}, {'playerName': 'silenx', 'realName': 'Jonathan Huntington', 'role': 'player'}, {'playerName': 'd1msumboi', 'realName': 'Erik Almhjell', 'role': 'player'}, {'playerName': 'Tsuya', 'realName': 'Henry Nguyen', 'role': 'player'}, {'playerName': 'Coach Joe', 'realName': 'N/A', 'role': 'coach'}]"
+12446,SLT Seongnam,South Korea,19,10,0.655,N/A,N/A,Korea
+12463,Veni eSports,Germany,85,67,0.559,N/A,N/A,Europe
+12464,Disguised GC,Game Changers,1,2,0.333,1,2,"[{'playerName': 'Katarina', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'lazylion', 'realName': 'Nathan Hoang', 'role': 'player'}, {'playerName': 'unstable', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'hannah', 'realName': 'Hannah Reyes', 'role': 'player'}, {'playerName': 'misu', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Poach', 'realName': 'Jake Brumleve', 'role': 'head coach'}, {'playerName': 'chrisyong', 'realName': 'Chris Yong', 'role': 'analyst'}]"
+12473,TBD,Europe,37,34,0.521,N/A,N/A,"[{'playerName': 'ALMO', 'realName': 'Albert Mościcki', 'role': 'player'}, {'playerName': 'pyrolll', 'realName': 'Artur Minin', 'role': 'player'}, {'playerName': 'tatzuki', 'realName': 'Jovan Milovanovic', 'role': 'player'}]"
+12474,GoNext Esports,Europe,52,47,0.525,N/A,N/A,Europe
+12476,MAD Lions LAURË,Game Changers,0,1,0.0,31,13,"[{'playerName': 'Alessia', 'realName': 'Alessia Crisafo', 'role': 'player'}, {'playerName': 'Leyre', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'mads', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'KXoma', 'realName': 'Monika Čížová', 'role': 'player'}, {'playerName': 'Nidxvilco', 'realName': 'Nicole Dobrovolskyy', 'role': 'Inactive'}, {'playerName': 'Jedry', 'realName': 'N/A', 'role': 'head coach'}]"
+12477,Teo Teo Teo,Asia-Pacific,7,12,0.368,N/A,N/A,"[{'playerName': 'benaf', 'realName': 'Benedict Tan', 'role': 'player'}, {'playerName': 'Brxndon', 'realName': 'Brandon Goh', 'role': 'player'}, {'playerName': 'dzii', 'realName': 'Daven Cheong', 'role': 'player'}, {'playerName': 'Retla', 'realName': 'Jorell Teo', 'role': 'player'}, {'playerName': 'shiba', 'realName': 'Zhan Teng Toh', 'role': 'player'}]"
+12478,Coalesce,United Kingdom,3,7,0.3,N/A,N/A,Europe
+12485,Yari Esports,Europe,3,6,0.333,N/A,N/A,"[{'playerName': 'Waken', 'realName': 'Daniel Dutton', 'role': 'player'}, {'playerName': 'OzzyTK', 'realName': 'Osmundas Ciapas', 'role': 'player'}, {'playerName': 'd3mur', 'realName': 'Demir Boğa', 'role': 'player'}, {'playerName': 'shinnok', 'realName': 'Maglóczki Viktor Zsombor', 'role': 'player'}, {'playerName': 'melo', 'realName': 'Mihai Lacatus', 'role': 'player'}, {'playerName': 'Rivenary', 'realName': 'Juan Rafael Tomblin', 'role': 'coach'}, {'playerName': 'Njoy', 'realName': 'Mads Høegh Poulsen', 'role': 'analyst'}]"
+12489,Metizport,Europe,47,23,0.671,N/A,N/A,Europe
+12514,Solary,France,8,10,0.444,N/A,N/A,Europe
+12537,Wingman Warriors,International,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'kiu', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'winter', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'pookie', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'queasyelm', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'chonkybwear', 'realName': 'N/A', 'role': 'player'}]"
+12538,Tempest Sky,United States,2,3,0.4,2,3,Game Changers
+12541,Yacht Club Pink,Game Changers,1,2,0.333,1,2,"[{'playerName': 'jules', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Astrid', 'realName': 'N/A', 'role': 'player'}]"
+12543,having fun,Game Changers,6,4,0.6,6,4,"[{'playerName': 'rayne', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'JULIA', 'realName': 'Julia Dias', 'role': 'player'}, {'playerName': 'bungee', 'realName': 'April Haight', 'role': 'player'}]"
+12546,Nora's Kitten Shelter,Game Changers,3,3,0.5,3,3,[]
+12549,w o o p e r,Game Changers,2,3,0.4,2,3,"[{'playerName': 'emi', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'wtp sini', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'oranges', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'uwububbles', 'realName': 'N/A', 'role': 'player'}]"
+12550,Grind Time,International,1,2,0.333,1,2,Game Changers
+12566,NASR Ignite,Europe,1,2,0.333,45,19,Game Changers
+12574,NEON BLADE,Europe,1,0,1.0,10,9,Game Changers
+12624,KPI Shine,Game Changers,16,15,0.516,16,15,"[{'playerName': 'Jiex', 'realName': 'Şura Yıldırım', 'role': 'player'}, {'playerName': 'leeni', 'realName': 'N/A', 'role': 'player'}, {'playerName': '6sonya', 'realName': 'Maria Istrate', 'role': 'player'}, {'playerName': 'tokameite', 'realName': 'Anastasia Pozharskaya', 'role': 'player'}, {'playerName': 'julia', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'frenya', 'realName': 'Yura Elkin', 'role': 'coach'}]"
+12629,The A Team,Europe,7,10,0.412,7,10,Game Changers
+12644,OS CARA CEGO,Brazil,4,2,0.667,N/A,N/A,"[{'playerName': 'Lewa', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'gbz', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Champzera', 'realName': 'Joaquim Alves', 'role': 'player'}, {'playerName': 'blowz', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'taka', 'realName': 'N/A', 'role': 'player'}]"
+12653,insanity,Brazil,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'aksh', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'ghost no balde', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'zenniN', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Bielzin', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'BURROWHOO', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'lopesBoy', 'realName': 'Ramon Lopes', 'role': 'player'}, {'playerName': 'muri', 'realName': 'Murilo Bezerra', 'role': 'player'}, {'playerName': 'Kring', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'kramarick', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'ShelL', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'jotavê', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'docas', 'realName': 'N/A', 'role': 'player'}]"
+12668,Moist Moguls RED,North America,1,9,0.1,101,43,"[{'playerName': 'itnothan', 'realName': 'Han Nguyen', 'role': 'player'}, {'playerName': 'emluo', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'mle', 'realName': 'Emily Peters', 'role': 'player'}, {'playerName': 'athxna', 'realName': 'Mirna Noureldin', 'role': 'player'}, {'playerName': 'dodonut', 'realName': 'Karnthida Chaisrakeo', 'role': 'player'}, {'playerName': 'niko', 'realName': 'N/A', 'role': 'head coach'}]"
+12677,CBA,Game Changers,8,15,0.348,8,15,"[{'playerName': 'Kim', 'realName': 'Sophia Benfakir', 'role': 'player'}, {'playerName': 'Cla', 'realName': 'Clara Rossi', 'role': 'player'}, {'playerName': 'Sliicyy', 'realName': 'Lucy Tran', 'role': 'player'}, {'playerName': 'Xaline', 'realName': 'Laure Mateos', 'role': 'player'}]"
+12679,apinaorkesteri,Europe,24,19,0.558,N/A,N/A,Europe
+12685,Trace Esports,China,1,2,0.333,N/A,N/A,China
+12688,Zen eSports,Argentina,1,1,0.5,N/A,N/A,Latin America South
+12694,Gentle Mates,France,40,20,0.667,N/A,N/A,Europe
+12705,Team Vikings,Europe,2,8,0.2,N/A,N/A,"[{'playerName': 'Saa', 'realName': 'Davi Oliveira', 'role': 'player'}, {'playerName': 'Caim', 'realName': 'Hugo Fonseca', 'role': 'player'}, {'playerName': 'RaykiNN', 'realName': 'André Sá', 'role': 'player'}, {'playerName': 'Tigax', 'realName': 'Tiago Batista', 'role': 'player'}, {'playerName': 'SlasHLL7', 'realName': 'Christian Gomes', 'role': 'coach'}]"
+12756,Let Us Cook,North America,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'P0PPIN', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Jangler', 'realName': 'Dwaine Kirkpatrick', 'role': 'player'}, {'playerName': 'Bankroft', 'realName': 'Grant Bankroft', 'role': 'player'}, {'playerName': 'Kyro', 'realName': 'Kyle de Castro', 'role': 'player'}, {'playerName': 'Tsuya', 'realName': 'Henry Nguyen', 'role': 'player'}]"
+12767,FULL SENSE SAPPHIRE,Asia-Pacific,7,0,1.0,58,24,"[{'playerName': 'Poly', 'realName': 'Patcharapron Sanitchai', 'role': 'player'}, {'playerName': 'alyssa', 'realName': 'Annitta Peerwantanagul', 'role': 'player'}, {'playerName': 'Babytz', 'realName': 'Pornlapat Wittayanan', 'role': 'Inactive'}, {'playerName': 'JinNy', 'realName': 'Sarindhorn Wanothayarnchai', 'role': 'Inactive'}, {'playerName': 'Muffyn', 'realName': 'Chalita Buathong', 'role': 'Inactive'}, {'playerName': '0bi', 'realName': 'Yuranun Sangurang', 'role': 'head coach'}]"
+12769,Life's a Game,United States,7,16,0.304,N/A,N/A,North America
+12774,Chosen 1s Black,Game Changers,5,8,0.385,5,8,"[{'playerName': 'MookiLOVE', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'zoe', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Violette', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'vitalyy', 'realName': 'N/A', 'role': 'coach'}]"
+12781,Last Resistance,North America,33,34,0.493,N/A,N/A,"[{'playerName': 'parker', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'cro3N', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Henry', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Rykinn', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'NAMI', 'realName': 'Imann Castro', 'role': 'player'}]"
+12784,KeepBest Gaming,China,2,4,0.333,N/A,N/A,China
+12794,Tamaria Altunga Esports,Turkey,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'Ravanue', 'realName': 'Berkay Donmez', 'role': 'player'}, {'playerName': 'Unity', 'realName': 'Cihan Seferoğlu', 'role': 'player'}, {'playerName': 'Dayi', 'realName': 'Sedar Yıldız', 'role': 'head coach'}, {'playerName': 'upss', 'realName': 'Taylan Üs', 'role': 'coach'}]"
+12836,Aspyre x Swarm,United States,194,124,0.61,N/A,N/A,North America
+12868,Imperium Gaming,Spain,N/A,N/A,N/A,N/A,N/A,Europe
+12900,Maryville University,United States,11,6,0.647,N/A,N/A,North America
+12958,Sila4i,Ukraine,N/A,N/A,N/A,N/A,N/A,Europe
+13004,96 Bulls,International,N/A,N/A,N/A,N/A,N/A,North America
+13035,Deviant Topaz,Game Changers,16,8,0.667,16,8,"[{'playerName': 'cjsakura', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Cakey', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'biubiu', 'realName': 'Angelica Joyce Dela Cruz', 'role': 'player'}, {'playerName': 'toffywoffy', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'yuchan', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Kachow', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Folkslore', 'realName': 'Bayu Dwi', 'role': 'coach'}]"
+13043,Neons,Game Changers,14,8,0.636,14,8,"[{'playerName': 'kitkatwc', 'realName': 'Wanlapa Charoensuk', 'role': 'player'}, {'playerName': 'yyAmroll', 'realName': 'Sukonrapat Chairattanangamdaj', 'role': 'player'}, {'playerName': 'Felce', 'realName': 'Waritsara Narong', 'role': 'player'}, {'playerName': 'YOKY', 'realName': 'Jularat Buaphan', 'role': 'player'}, {'playerName': 'Coyote', 'realName': 'Papawarin Pheungpol', 'role': 'player'}, {'playerName': 'Delend', 'realName': 'Thanaboon Tungsupsati', 'role': 'coach'}]"
+13046,NYX Kyosei,Game Changers,18,8,0.692,18,8,"[{'playerName': 'sawamura', 'realName': 'Mary Grace Sabado', 'role': 'player'}, {'playerName': 'Kon', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Shuni', 'realName': 'Seane Cabello', 'role': 'player'}, {'playerName': 'DelBisky', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'PIETY', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'shina', 'realName': 'N/A', 'role': 'Sub'}, {'playerName': 'Lizchaaan', 'realName': 'Liza Custorio', 'role': 'Sub'}, {'playerName': 'WizGod', 'realName': 'Antonio Luis B. Yanga', 'role': 'coach'}]"
+13052,Point of Authority Blossom,Game Changers,8,6,0.571,8,6,"[{'playerName': 'bittersweet', 'realName': 'Hereva Ariella', 'role': 'player'}, {'playerName': 'metawiN', 'realName': 'Anna Ronauli', 'role': 'player'}, {'playerName': 'Jexter', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'capybara', 'realName': 'Monica', 'role': 'player'}, {'playerName': 'poupi', 'realName': 'N/A', 'role': 'Sub'}]"
+13067,Figure8,International,2,8,0.2,2,8,Game Changers
+13131,Husky Phantom X,United States,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'lichi', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'edDiscussion', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'hytica', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'ynnhie', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'yomster', 'realName': 'N/A', 'role': 'player'}]"
+13143,Why So Serious,International,3,3,0.5,N/A,N/A,North America
+1316,QLASH,Italy,5,8,0.385,N/A,N/A,Europe
+13161,NOVO Esports,Italy,N/A,N/A,N/A,N/A,N/A,Europe
+13164,Chao Hui EDward Gaming,China,9,4,0.692,9,4,China
+13188,Moist x Shopify,United States,61,18,0.772,N/A,N/A,North America
+1319,Funcrew,Australia,5,3,0.625,N/A,N/A,Oceania
+13202,SOMETHING2PROVE,Game Changers,0,1,0.0,21,12,"[{'playerName': 'habibti', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Tailo', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'grimoire', 'realName': 'Marisa Agbovi', 'role': 'player'}, {'playerName': 'ARIANARCHIST', 'realName': 'Ariane Lafrenière', 'role': 'player'}, {'playerName': 'rayne', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'RaptorZ', 'realName': 'Gannon Nelson', 'role': 'head coach'}]"
+13203,Nocturnal,International,8,6,0.571,8,6,Game Changers
+13217,Looking For Org 2.0,Game Changers,2,3,0.4,2,3,"[{'playerName': 'isla', 'realName': 'Larissa Rodrigues', 'role': 'player'}, {'playerName': 'Jenniffer', 'realName': 'Jenniffer Aysha', 'role': 'player'}, {'playerName': 'erin', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'campolina', 'realName': 'Maria Fernanda Campolina', 'role': 'player'}]"
+13224,NXT,United Kingdom,N/A,N/A,N/A,N/A,N/A,Europe
+13226,Odd 1 OUT,Europe,N/A,N/A,N/A,11,10,Game Changers
+13242,HOWL Moonlight,Game Changers,2,1,0.667,2,1,"[{'playerName': 'NAKSU', 'realName': 'Beril Özdemir', 'role': 'player'}, {'playerName': 'Sephia', 'realName': 'Reyhan Şimşek', 'role': 'player'}, {'playerName': 'ritsu', 'realName': 'Gökçe Koç', 'role': 'player'}, {'playerName': 'xenia', 'realName': 'Sude Altaş', 'role': 'player'}, {'playerName': 'Ixela', 'realName': 'Beste Şenel', 'role': 'player'}, {'playerName': 'Caglasu', 'realName': 'Çağlasu Kara', 'role': 'manager'}, {'playerName': 'gucnes', 'realName': 'Emir Gündoğdu', 'role': 'manager'}, {'playerName': 'Hershill', 'realName': 'Berkay Özen', 'role': 'coach'}]"
+13255,Red Flag GC,International,4,4,0.5,4,4,Game Changers
+13259,Unspoken Rizz,Game Changers,2,1,0.667,2,1,"[{'playerName': 'starriebun', 'realName': 'Katherine So', 'role': 'player'}, {'playerName': 'Fish Fear Me', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'SUPERKAT', 'realName': 'N/A', 'role': 'player'}]"
+13260,Endure White,International,9,10,0.474,9,10,Game Changers
+13277,Lemonade Stand,United States,6,2,0.75,N/A,N/A,North America
+13283,Archies Gifted Goldens,Game Changers,1,2,0.333,1,2,"[{'playerName': 'apple', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'rover', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'hayl', 'realName': 'Hayley Pepe-Corrado', 'role': 'player'}]"
+13284,Infinity X,United States,6,11,0.353,6,11,Game Changers
+13286,Solidarity,United States,25,14,0.641,25,14,Game Changers
+13289,Potter Posse,United States,4,7,0.364,4,7,Game Changers
+13291,BreakThru GC,Game Changers,6,5,0.545,6,5,"[{'playerName': 'hysteria', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'ayoeclipse', 'realName': 'Jaden Stone', 'role': 'player'}, {'playerName': 'FLOW3R', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'cait', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Kraif', 'realName': 'Bea Cross', 'role': 'head coach'}]"
+13292,Van Lyn Magenta,United States,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'Megalodon', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'sunrise', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'goob', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Syk', 'realName': 'N/A', 'role': 'player'}]"
+13293,UW White,United States,2,3,0.4,2,3,Game Changers
+13295,Five Cell,Game Changers,4,12,0.25,4,12,[]
+13296,Iridescent Dreams,United States,2,5,0.286,2,5,Game Changers
+13300,$10 DM FEE,Game Changers,3,3,0.5,3,3,"[{'playerName': 'FAIRY', 'realName': 'Claudia Gasienica', 'role': 'player'}, {'playerName': 'Starryy', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'sarah', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'KIS', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'angie', 'realName': 'N/A', 'role': 'player'}]"
+13301,YFP X,United States,3,2,0.6,3,2,Game Changers
+13303,I Got Mine White,Game Changers,1,2,0.333,1,2,"[{'playerName': 'salvation', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Tortian', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Maegumi', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Kiiromine', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'xkingnanno', 'realName': 'N/A', 'role': 'player'}]"
+13304,otter pops,Game Changers,5,4,0.556,5,4,"[{'playerName': 'nmutuA', 'realName': 'Autumn Morgan', 'role': 'player'}, {'playerName': 'jellyfish', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'ketarys', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'mae', 'realName': 'N/A', 'role': 'player'}]"
+13306,Sway GC,United States,2,5,0.286,2,5,Game Changers
+13309,NoNameRabbit,Japan,0,4,0.0,0,4,Game Changers
+13312,ElBlast GC,Game Changers,1,4,0.2,1,4,"[{'playerName': 'Sakuramelonade', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Neu', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Lucidmind', 'realName': 'N/A', 'role': 'player'}]"
+13313,Riley Rabbits,Game Changers,5,4,0.556,5,4,"[{'playerName': 'krenn', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Dia', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Yunah', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'DrawFour', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'yuzu', 'realName': 'N/A', 'role': 'player'}]"
+13315,Soleil Gaming,Japan,0,4,0.0,0,4,Game Changers
+13316,Supernova Galaxy,North America,29,6,0.829,29,6,"[{'playerName': 'panday', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'rayne', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'evv', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'avery', 'realName': 'Avery Eugene', 'role': 'player'}, {'playerName': 'JULIA', 'realName': 'Julia Dias', 'role': 'player'}, {'playerName': 'Troll', 'realName': 'Caleb Hare', 'role': 'head coach'}, {'playerName': 'Remote', 'realName': 'AJ Corsino', 'role': 'coach'}, {'playerName': 'boyc3', 'realName': 'Adam Boyce', 'role': 'coach'}]"
+13317,CREST GAMING Stellar,Japan,5,4,0.556,5,4,Game Changers
+13319,DetonatioN FocusMe GC,Japan,0,1,0.0,12,8,Game Changers
+13322,GROW Gaming,Game Changers,1,2,0.333,1,2,"[{'playerName': 'Mea', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'mityu', 'realName': 'N/A', 'role': 'player'}, {'playerName': '斧琴菊', 'realName': 'N/A', 'role': 'player'}]"
+13323,UxMi ACE,Game Changers,6,5,0.545,6,5,"[{'playerName': 'Ayanami', 'realName': 'N/A', 'role': 'player'}]"
+13324,ALBION GC,Game Changers,N/A,N/A,N/A,2,2,"[{'playerName': 'Lizy', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Ash', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Nenekocha', 'realName': 'N/A', 'role': 'player'}]"
+13342,SCYTHE NWJ,Game Changers,1,0,1.0,31,22,"[{'playerName': 'Lynnie', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'opel', 'realName': 'Risalma Agnia', 'role': 'player'}, {'playerName': 'crescents', 'realName': 'Daltha Amellia', 'role': 'player'}, {'playerName': 'skyelyse', 'realName': 'Milka', 'role': 'player'}, {'playerName': 'marche', 'realName': 'Meidy Safira Permata', 'role': 'player'}, {'playerName': 'yaamorii', 'realName': 'Anatasya Aura', 'role': 'player'}]"
+13347,RAVENOUS,Game Changers,3,3,0.5,3,3,"[{'playerName': 'Mail', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'LorenznAka', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Iyyysse', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'ryujin', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'ZEN', 'realName': 'N/A', 'role': 'player'}]"
+13400,Beyond Stratos Gaming GC,Game Changers,3,2,0.6,3,2,"[{'playerName': 'MyoH4nN', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'ZIAN', 'realName': 'Lee Ji-an (이지안)', 'role': 'player'}, {'playerName': 'B1nby0', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'YuH4', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Dannn', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'IDK', 'realName': 'N/A', 'role': 'coach'}]"
+13401,Lunatic-Hai Flax,Game Changers,0,1,0.0,6,1,"[{'playerName': 'Haneul', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'h4ste', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'weki', 'realName': 'N/A', 'role': 'player'}]"
+13402,Obelisk,Game Changers,0,1,0.0,5,4,"[{'playerName': 'Ending', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Hamst3r', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'enxen', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Delilah', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Nanami', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'ano', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'YEOJIN', 'realName': 'N/A', 'role': 'player'}]"
+13403,Gen.G Global Academy GC,Game Changers,2,3,0.4,2,3,"[{'playerName': 'MAN9U', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Yul1', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'iNa', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'f1yk', 'realName': 'N/A', 'role': 'player'}]"
+13411,Predator X Gaming,United States,1,4,0.2,N/A,N/A,North America
+13439,PROJECT Z,Game Changers,4,5,0.444,4,5,"[{'playerName': 'none', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'fiufiu', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Kollvinha', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'vii', 'realName': 'Vitória Rabelo', 'role': 'player'}, {'playerName': 'pannshi', 'realName': 'Pamella Shibuya', 'role': 'player'}]"
+13453,BOTT,Game Changers,11,6,0.647,11,6,"[{'playerName': 'capybara', 'realName': 'Monica', 'role': 'player'}, {'playerName': 'Naturale', 'realName': 'Valencia Jane', 'role': 'player'}, {'playerName': 'bittersweet', 'realName': 'Hereva Ariella', 'role': 'player'}, {'playerName': 'metawiN', 'realName': 'Anna Ronauli', 'role': 'player'}, {'playerName': 'kalliqt', 'realName': 'Kallista Ulansky', 'role': 'player'}, {'playerName': 'Freakz', 'realName': 'Leonardy Chen', 'role': 'coach'}]"
+13454,NANA AND FRIENDS,Game Changers,5,4,0.556,5,4,"[{'playerName': 'cuppycake', 'realName': 'Pimpat Tanyong', 'role': 'player'}, {'playerName': 'Cendary', 'realName': 'Panassaya Saichue', 'role': 'player'}, {'playerName': 'Jelerak', 'realName': 'N/A', 'role': 'player'}]"
+13458,RIMA GC,Singapore,12,6,0.667,12,6,Game Changers
+13462,MLT Esports GC,Game Changers,7,4,0.636,7,4,"[{'playerName': 'eluwu', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'lunah', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'CaspeR', 'realName': 'Neha Sottany', 'role': 'player'}, {'playerName': 'Twirly', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Amy', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'opel', 'realName': 'Risalma Agnia', 'role': 'player'}, {'playerName': 'traNz', 'realName': 'N/A', 'role': 'coach'}, {'playerName': 'Ayman', 'realName': 'Mohammad Ayman Alam', 'role': 'analyst'}]"
+13485,New Era GC,International,N/A,N/A,N/A,N/A,N/A,[]
+13494,Berzerkers Night,United States,1,5,0.167,19,12,North America
+13496,SCARZ GC,Game Changers,5,4,0.556,5,4,"[{'playerName': 'miya', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'krenn', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Dia', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Yunah', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'yuzu', 'realName': 'N/A', 'role': 'Inactive'}, {'playerName': 'DrawFour', 'realName': 'N/A', 'role': 'manager'}, {'playerName': 'Lore', 'realName': 'N/A', 'role': 'coach'}]"
+13501,Nuclear GC,South Korea,1,2,0.333,1,2,Game Changers
+13512,CCG Esports,United States,N/A,N/A,N/A,N/A,N/A,North America
+13513,VizUprising Invicta,United States,5,9,0.357,5,9,Game Changers
+13516,Legacy GC,Brazil,2,6,0.25,23,8,"[{'playerName': 'sayuri', 'realName': 'Camila Obam', 'role': 'player'}, {'playerName': 'Mel', 'realName': 'Melissa Souza', 'role': 'player'}, {'playerName': 'nanah', 'realName': 'Nathalia Hammoud', 'role': 'player'}, {'playerName': 'srN', 'realName': 'Nicolas Niederauer', 'role': 'player'}, {'playerName': 'antG', 'realName': 'Antônia Garcia', 'role': 'player'}, {'playerName': 'rik', 'realName': 'Ricardo Furquim', 'role': 'head coach'}]"
+13531,DSYRE GC,Game Changers,0,7,0.0,0,7,"[{'playerName': 'cataLina', 'realName': 'India Dubourg', 'role': 'player'}, {'playerName': 'Aranel', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'er1no', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'River', 'realName': 'Irmak Peküz', 'role': 'player'}]"
+13551,CVA,Korea,5,3,0.625,N/A,N/A,"[{'playerName': 'Yxx', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'jjuuBi', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'yeji', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'BIBI', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'MOZZING', 'realName': 'N/A', 'role': 'player'}]"
+13556,17Gaming,China,3,6,0.333,N/A,N/A,"[{'playerName': 'deLb', 'realName': 'Delbert Tanoto', 'role': 'player'}, {'playerName': 'LuXlis', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'PPDBJ', 'realName': 'Qiu Zheng Yong (邱政咏)', 'role': 'player'}, {'playerName': 'Yoyo', 'realName': 'Xu Youxiang (徐佑翔)', 'role': 'player'}, {'playerName': 'Lu', 'realName': 'Lu Yin (陆寅)', 'role': 'coach'}]"
+13558,HOWL Esports,Turkey,54,21,0.72,N/A,N/A,Europe
+13565,:3,United States,10,5,0.667,10,5,Game Changers
+13568,O2 esports,Japan,N/A,N/A,N/A,4,4,Game Changers
+13569,DOPENESS Fluffy,Game Changers,2,2,0.5,2,2,"[{'playerName': 'M0M0', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'H4tena', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Chogire', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'unagi', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'samo', 'realName': 'N/A', 'role': 'player'}]"
+13570,Xenesis e-sports GC,Japan,1,2,0.333,1,2,Game Changers
+13571,TZ BLUEBEES,Japan,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'p1nkuma', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Yuno', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'ところてん', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Vaix', 'realName': 'N/A', 'role': 'player'}]"
+13572,REBORN ZERO FAIRY,Japan,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'ＢＥＳＴＯＦＲＵＲＵＰＯＮ', 'realName': 'N/A', 'role': 'player'}, {'playerName': '水菜かれん', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'xinz', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Chï1Chän', 'realName': 'N/A', 'role': 'player'}, {'playerName': '放銃マンぶり', 'realName': 'N/A', 'role': 'player'}]"
+13573,HIT gaming Chloe,Japan,2,2,0.5,2,2,Game Changers
+13576,JDG Esports,China,3,3,0.5,N/A,N/A,China
+13579,Chosen Clique Gaming,China,4,2,0.667,N/A,N/A,China
+13581,Xi Lai Gaming,China,N/A,N/A,N/A,N/A,N/A,China
+13599,Cicadas Gaming,France,41,16,0.719,N/A,N/A,Europe
+13615,Father's Back,Japan,3,5,0.375,N/A,N/A,Japan
+13618,Kitten Gaming<3,International,1,5,0.167,1,5,Game Changers
+13619,ThriveHQ GC,International,1,5,0.167,1,5,Game Changers
+13621,OverAchievers,International,N/A,N/A,N/A,0,3,Game Changers
+13623,Kinetic,United States,2,2,0.5,2,2,Game Changers
+13628,Wildflowers,Game Changers,8,7,0.533,8,7,"[{'playerName': 'Aniemal', 'realName': 'Annie Lee', 'role': 'player'}, {'playerName': 'FAIRY', 'realName': 'Claudia Gasienica', 'role': 'player'}, {'playerName': 'LeahPanda', 'realName': 'Leah Nemchin-Cossman', 'role': 'player'}, {'playerName': 'maple', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'KIS', 'realName': 'N/A', 'role': 'player'}]"
+13630,GOSU,United States,11,12,0.478,11,12,Game Changers
+13638,Sovereignty White,Game Changers,1,4,0.2,1,4,"[{'playerName': 'boopie', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'elysiu', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'hayl', 'realName': 'Hayley Pepe-Corrado', 'role': 'player'}, {'playerName': 'Kestrel', 'realName': 'N/A', 'role': 'assistant coach'}]"
+13659,Wingman Patrol,North America,16,8,0.667,16,8,"[{'playerName': 'Soto', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'rise', 'realName': 'Melanie Tetreault', 'role': 'player'}, {'playerName': 'starriebun', 'realName': 'Katherine So', 'role': 'player'}, {'playerName': 'Danimal', 'realName': 'Daniel Booth', 'role': 'coach'}]"
+13678,There is no tomorrow,Turkey,12,10,0.545,N/A,N/A,Europe
+13683,SAGAZ,Brazil,27,14,0.659,N/A,N/A,Brazil
+13732,Endear Sol,International,N/A,N/A,N/A,N/A,N/A,[]
+13733,Harmony Opal,International,N/A,N/A,N/A,1,2,Game Changers
+13734,IVC White,International,0,6,0.0,0,6,Game Changers
+13736,42C Crayola Pack,International,1,2,0.333,1,2,Game Changers
+13737,FT Silvxs,United States,17,10,0.63,17,10,Game Changers
+13738,Labyrinth White,International,1,4,0.2,1,4,Game Changers
+13740,Reverse 7,United States,14,16,0.467,14,16,Game Changers
+13779,Siko,Netherlands,16,13,0.552,N/A,N/A,Europe
+13790,Wolves Esports,China,35,38,0.479,N/A,N/A,China
+13795,FTW Leça FC Esports,Portugal,10,8,0.556,N/A,N/A,Europe
+13797,Hurricane Of Feathers,Portugal,4,12,0.25,N/A,N/A,Europe
+13804,TYLOO GC,China,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'Nana', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'nio', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'elf', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'sa1t', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'bot', 'realName': 'N/A', 'role': 'player'}]"
+13805,Chosen Clique Gaming GC,China,2,3,0.4,2,3,"[{'playerName': 'Jue', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Chloe', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'XiXi', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'YsY', 'realName': 'N/A', 'role': 'player'}, {'playerName': '7wYy', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Chrysania', 'realName': 'Ian Chin Yu Zhe', 'role': 'coach'}]"
+13806,DeviLish Grin,China,N/A,N/A,N/A,N/A,N/A,"[{'playerName': '糕冷小美', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Kur1mu', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'chit', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'x1aoN', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Jing', 'realName': 'N/A', 'role': 'player'}]"
+13807,Nova Esports GC,China,N/A,N/A,N/A,N/A,N/A,"[{'playerName': '7wYy', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Yumiiurx', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Kiaki', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'XKB', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Yyni', 'realName': 'N/A', 'role': 'player'}, {'playerName': '9YUE', 'realName': 'Yuan Chenzhe', 'role': 'coach'}]"
+13808,Attacking Soul Esports OvO,China,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'Qbb', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Pochacco', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'JianbAo', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'M77', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Ziyi', 'realName': 'N/A', 'role': 'player'}]"
+13830,RTZN,Italy,3,2,0.6,N/A,N/A,Europe
+13842,Dexterity Gaming,United States,2,4,0.333,N/A,N/A,North America
+13852,Cardboard Rex,Game Changers,4,2,0.667,4,2,"[{'playerName': 'chachi', 'realName': 'Chimène van Eenbergen', 'role': 'player'}, {'playerName': 'Sylva', 'realName': 'Anna Bruce-Doig', 'role': 'player'}, {'playerName': 'SUPERPHROG', 'realName': 'Isabelle Skarsten', 'role': 'player'}]"
+13855,NYAN ESPORTS,Russia,10,7,0.588,10,7,Game Changers
+13920,SaD Esports,United States,73,20,0.785,N/A,N/A,North America
+13978,Ivy League Gaming,Philippines,6,7,0.462,N/A,N/A,Asia-Pacific
+13988,Raven Esports,International,N/A,N/A,N/A,N/A,N/A,North America
+14,T1,South Korea,48,25,0.658,N/A,N/A,Korea
+14007,Crocodile Tears,Vietnam,10,14,0.417,N/A,N/A,Asia-Pacific
+14076,Aquila,United States,1,6,0.143,1,6,Game Changers
+14113,NAPOLYON,Turkey,3,2,0.6,N/A,N/A,Europe
+14137,Titan Esports Club,China,9,13,0.409,N/A,N/A,China
+14159,Wook's Academy,United States,9,9,0.5,N/A,N/A,North America
+14219,WASTED TALENT,International,5,6,0.455,N/A,N/A,North America
+14220,THUGS,International,N/A,N/A,N/A,N/A,N/A,[]
+14224,SNIPER ELITE,Game Changers,6,0,1.0,6,0,"[{'playerName': 'bethany', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Emi', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Tokyeoh', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Rosa', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'alannah', 'realName': 'N/A', 'role': 'player'}]"
+14225,Ratz,Game Changers,4,2,0.667,4,2,"[{'playerName': 'hayyel', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'toadfish', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'ferret', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'No Commentt', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Aspra', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Gold', 'realName': 'N/A', 'role': 'player'}]"
+14226,headhunters,Game Changers,3,1,0.75,3,1,"[{'playerName': 'skiato', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Pink', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Nila', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'molly', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Evalin', 'realName': 'N/A', 'role': 'player'}]"
+14230,IPHONE13GIVEAWAY,Game Changers,16,5,0.762,16,5,"[{'playerName': 'ARTeMis', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'tiff', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'saikyo', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'soko', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'silv', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'kitana', 'realName': 'N/A', 'role': 'player'}]"
+14259,Penguin Platoon,International,N/A,N/A,N/A,N/A,N/A,[]
+14266,Bucky Bandits,International,2,4,0.333,N/A,N/A,North America
+14267,Arkangel Esports,International,N/A,N/A,N/A,N/A,N/A,[]
+14271,First Class,International,N/A,N/A,N/A,N/A,N/A,North America
+14274,Ruddy,United Kingdom,5,4,0.556,N/A,N/A,Europe
+14277,Team Flash,Vietnam,15,4,0.789,N/A,N/A,Asia-Pacific
+14278,Shopify Rebellion,Canada,49,24,0.671,69,5,North America
+14318,DVM Esport,France,2,3,0.4,N/A,N/A,Europe
+14357,NEANLATIYONBOLM,Turkey,3,7,0.3,N/A,N/A,Europe
+14363,HSMIX,France,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'rYn', 'realName': 'Quirijn Runia', 'role': 'player'}, {'playerName': 'DarkLight', 'realName': 'Lucas Rossetto', 'role': 'player'}, {'playerName': 'MaximN', 'realName': 'Maxim Nonglaire', 'role': 'player'}, {'playerName': 'M4CHINA', 'realName': 'Ouali Manset', 'role': 'player'}]"
+14364,Six Figures,North America,15,14,0.517,N/A,N/A,"[{'playerName': 'Xander', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Rykinn', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'indra', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Vital', 'realName': 'Jonathan Deac', 'role': 'player'}, {'playerName': 'Dinozz', 'realName': 'Spencer Vezina', 'role': 'coach'}]"
+14375,RIDDLE ORDER,Japan,N/A,N/A,N/A,N/A,N/A,Japan
+14382,Vexed.dev,United Kingdom,N/A,N/A,N/A,N/A,N/A,Europe
+14383,NOEZ FOXX,Japan,3,2,0.6,N/A,N/A,Japan
+14419,GIANTX,Europe,18,19,0.486,N/A,N/A,Europe
+14422,Sin Prisa Gaming,South Korea,30,9,0.769,N/A,N/A,Korea
+14425,FFXD,Europe,5,2,0.714,N/A,N/A,"[{'playerName': 'NINJA', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'NOKOCU', 'realName': 'Michał Michałów', 'role': 'player'}, {'playerName': 'nyczu', 'realName': 'Szymon Kulik', 'role': 'player'}, {'playerName': 'qxv', 'realName': 'Jakub Sawicki', 'role': 'player'}, {'playerName': 'Czester', 'realName': 'N/A', 'role': 'player'}]"
+14429,Chipi Chapa's,Europe,21,13,0.618,N/A,N/A,Europe
+14440,MRVZT,International,4,2,0.667,N/A,N/A,Europe
+14461,Barça eSports,Spain,20,15,0.571,N/A,N/A,Europe
+14467,SweetNsour,Europe,24,18,0.571,N/A,N/A,Europe
+14469,JiJieHao,Australia,72,25,0.742,N/A,N/A,Oceania
+14470,OLIMPO,Brazil,30,23,0.566,N/A,N/A,"[{'playerName': 'blowz', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'pollo', 'realName': 'Julio Silva', 'role': 'player'}, {'playerName': 'shion', 'realName': 'Gabriel Vilela', 'role': 'player'}, {'playerName': 'liazzi', 'realName': 'Felipe Galiazzi', 'role': 'player'}, {'playerName': 'ghoul33', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'NegaraL', 'realName': 'Alexandre Lopes', 'role': 'head coach'}]"
+14475,MAD Lions KOI,Spain,0,1,0.0,31,13,Game Changers
+14476,ELEVATE,Europe,27,11,0.711,N/A,N/A,"[{'playerName': 'KILLDREAM', 'realName': 'João Ferreira', 'role': 'player'}, {'playerName': 'VTaguT', 'realName': 'Rui Ribeiro', 'role': 'player'}, {'playerName': 'Phatt', 'realName': 'Alexandre Silva', 'role': 'player'}, {'playerName': 'silenttt', 'realName': 'Nuno Rodrigues', 'role': 'player'}, {'playerName': 'Angelmon', 'realName': 'Rodrigo Simões', 'role': 'manager'}, {'playerName': 'Dabizas', 'realName': 'N/A', 'role': 'coach'}]"
+14478,Eintracht Frankfurt,Germany,12,10,0.545,N/A,N/A,Europe
+14479,SK Gaming,Germany,11,10,0.524,N/A,N/A,Europe
+14512,Azure,Europe,0,1,0.0,32,21,Game Changers
+14523,Requiem,Europe,21,8,0.724,N/A,N/A,Europe
+14529,Xperion NXT,Germany,24,19,0.558,N/A,N/A,Europe
+14536,Irregulars,Germany,20,11,0.645,N/A,N/A,Europe
+14538,KOPFSHOOTAZ,Europe,5,3,0.625,N/A,N/A,"[{'playerName': 'hypeRR', 'realName': 'Marco Jordan', 'role': 'player'}, {'playerName': 'appA', 'realName': 'Luca Dötterer', 'role': 'player'}, {'playerName': 's4id', 'realName': 'Roland\tSzabó', 'role': 'player'}, {'playerName': 'oli', 'realName': 'Olivér Paksi', 'role': 'player'}, {'playerName': 'noumit', 'realName': 'Timon Meier', 'role': 'player'}]"
+14545,xaprala,Brazil,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'w1', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'guintt', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'pretodgueto', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'mstzera', 'realName': 'N/A', 'role': 'player'}]"
+14547,LRNJ,Brazil,54,22,0.711,N/A,N/A,Brazil
+14548,Carecas e Calvos,Brazil,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'k0mpa', 'realName': 'Carlos Nunes', 'role': 'player'}, {'playerName': 'XAROLA', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'sutecas', 'realName': 'Gabriel Dias', 'role': 'player'}, {'playerName': 'BladeZ', 'realName': 'Gustavo Zoppello', 'role': 'player'}]"
+14550,Xenom com M,Brazil,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'flainzz', 'realName': 'Felipe Saldanha', 'role': 'player'}, {'playerName': 'fame', 'realName': 'João Moraes', 'role': 'player'}, {'playerName': 'xenom', 'realName': 'Eduardo Soeiro', 'role': 'player'}, {'playerName': 'v1nny', 'realName': 'Vínicius Gonçalves', 'role': 'player'}, {'playerName': 'glym', 'realName': 'Lucas Glym', 'role': 'player'}]"
+14551,Tropa do avanço,Brazil,6,3,0.667,N/A,N/A,"[{'playerName': 'Tisora', 'realName': 'Kauã Estefanini', 'role': 'player'}, {'playerName': 'fzkk', 'realName': 'Leonardo Puertas', 'role': 'player'}, {'playerName': 'xand', 'realName': 'Alexandre Zizi', 'role': 'player'}, {'playerName': 'sw', 'realName': 'Jadisson Rayan', 'role': 'player'}, {'playerName': 'ntk', 'realName': 'Lucas Martins', 'role': 'player'}]"
+14557,os piticos,Brazil,5,3,0.625,N/A,N/A,"[{'playerName': 'hunterr', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'vit9ine', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'guiih9', 'realName': 'Guilherme Vitor', 'role': 'player'}, {'playerName': 'vini', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Needy', 'realName': 'N/A', 'role': 'player'}]"
+14558,Fenda Dos Streamers,Brazil,3,4,0.429,N/A,N/A,"[{'playerName': 'furq', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'h1perZ', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'lula molusco', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Coreano', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'nuuh', 'realName': 'N/A', 'role': 'player'}]"
+14565,SHERPA,Korea,10,12,0.455,N/A,N/A,"[{'playerName': 'HANN', 'realName': 'Kim Dong-ho (김동호)', 'role': 'player'}, {'playerName': 'Manggong', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Vow', 'realName': 'Gi Jong-kwan (기종관)', 'role': 'player'}, {'playerName': 'Wavy', 'realName': 'Jo Jun-hwan (조준환)', 'role': 'player'}, {'playerName': 'GodsB', 'realName': 'Kim Kyeon-bo (김경보)', 'role': 'player'}, {'playerName': 'Xive', 'realName': 'Lee Do-hoon (이도훈)', 'role': 'head coach'}]"
+14566,fOu Clan,Korea,3,2,0.6,N/A,N/A,"[{'playerName': 'Doyou', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'CabezA', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'B1ngSu', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Kally', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'KEN', 'realName': 'N/A', 'role': 'player'}]"
+14576,ReliaNcE,Korea,3,2,0.6,N/A,N/A,"[{'playerName': 'VaNish', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'style', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'wezzy', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'XirZz', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Gravity', 'realName': 'N/A', 'role': 'player'}]"
+1458,The Ultimates,Saudi Arabia,3,3,0.5,N/A,N/A,MENA
+14581,골판지 전사,Korea,4,1,0.8,N/A,N/A,"[{'playerName': 'Rico', 'realName': 'Han Jun-seo (한준서)', 'role': 'player'}, {'playerName': 'Xross', 'realName': 'Jeonghwan (정환)', 'role': 'player'}, {'playerName': 'Rap1d', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Eldy', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Foxar', 'realName': 'Kim Sang-jin (김상진)', 'role': 'player'}]"
+14590,LFG Portal,Korea,13,9,0.591,N/A,N/A,"[{'playerName': 'Hate', 'realName': 'Lee Ye-hun (이예훈)', 'role': 'player'}, {'playerName': 'Ash', 'realName': 'Ha Hyun-cheol (하현철)', 'role': 'player'}, {'playerName': 'NakJi', 'realName': 'Kim Sang-hyeop (김상협)', 'role': 'player'}, {'playerName': 'BeomJun', 'realName': 'Kim Beom-jun (김범준)', 'role': 'stand-in'}, {'playerName': 'MungHoon', 'realName': 'Seo Sang-hoon (서상훈)', 'role': 'coach'}]"
+14599,IAM,South Korea,12,11,0.522,N/A,N/A,Korea
+14602,ReturN,South Korea,3,2,0.6,N/A,N/A,Korea
+14604,Van Dijk Fan Club,Asia-Pacific,4,7,0.364,N/A,N/A,"[{'playerName': 'GauRanG', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Garv', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'wstVirginia', 'realName': 'Jay Patil', 'role': 'player'}, {'playerName': 'FOX', 'realName': 'Tanmay Verma', 'role': 'player'}, {'playerName': 'ezzy', 'realName': 'Rishabh Gupta', 'role': 'player'}]"
+14613,Zerance Mint,France,19,8,0.704,19,8,Game Changers
+14614,HGE Esport,Italy,4,5,0.444,N/A,N/A,Europe
+14616,Barn nong chok,Thailand,7,6,0.538,N/A,N/A,Asia-Pacific
+14634,PEI WAN E-SPORTS,Asia-Pacific,2,1,0.667,N/A,N/A,"[{'playerName': 'danKey', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'popoman4Q', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'S1Mon', 'realName': 'Hsien Meng-Hsun (谢孟勋)', 'role': 'player'}, {'playerName': 'SGrap', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'KiNo', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Aclx', 'realName': 'N/A', 'role': 'player'}]"
+14636,yuanyoyin,Taiwan,3,8,0.273,N/A,N/A,Asia-Pacific
+14647,SAIDEIRA ESPORTS,Brazil,13,18,0.419,N/A,N/A,Brazil
+14650,black hole sun,Brazil,N/A,N/A,N/A,N/A,N/A,[]
+14655,Orquestra do Maestro,Brazil,15,16,0.484,N/A,N/A,"[{'playerName': 'forbanz', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'maestr0', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'woddy', 'realName': 'Gabriel Cressoni', 'role': 'player'}, {'playerName': 'Kenkayyy', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'v1nny', 'realName': 'Vínicius Gonçalves', 'role': 'player'}]"
+14660,Burgerville,North America,13,7,0.65,N/A,N/A,"[{'playerName': 'iyen', 'realName': 'Iyengaran Raju', 'role': 'player'}, {'playerName': 'jowa', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'katsumi', 'realName': 'Katja Pfahnl', 'role': 'player'}, {'playerName': 'Arkhram', 'realName': 'N/A', 'role': 'player'}]"
+14661,the basement,North America,10,7,0.588,N/A,N/A,"[{'playerName': 'zerona', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'robot', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'SexyChristian', 'realName': 'Christian Tran', 'role': 'player'}, {'playerName': 'benjii', 'realName': 'Benjamin Park', 'role': 'player'}, {'playerName': 'ioRascal', 'realName': 'Taylor Hays', 'role': 'head coach'}]"
+14662,1337,North America,19,24,0.442,N/A,N/A,"[{'playerName': 'kev', 'realName': 'Kevin Pham', 'role': 'player'}, {'playerName': 'PapaSmurf', 'realName': 'Jack Kreger', 'role': 'player'}, {'playerName': 'Shondex', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'shen', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Momiji', 'realName': 'N/A', 'role': 'player'}]"
+14663,Cookin Papas,North America,9,8,0.529,N/A,N/A,"[{'playerName': 'Papi', 'realName': 'Luis Canelon', 'role': 'player'}, {'playerName': 'HUYNH', 'realName': 'Danny Huynh', 'role': 'player'}, {'playerName': 'JSUNG', 'realName': 'Jason Sung', 'role': 'player'}]"
+14665,RABILIS BURST,Japan,3,2,0.6,N/A,N/A,Japan
+14671,NTPOJA,Japan,2,4,0.333,N/A,N/A,Japan
+14675,VITE,Japan,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'Noa', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'hatty', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'YuuMac', 'realName': 'N/A', 'role': 'player'}]"
+14677,esports team αD,Japan,5,6,0.455,N/A,N/A,Japan
+14688,Xu Gang,Oceania,4,1,0.8,N/A,N/A,"[{'playerName': 'Shinobu', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'downtail', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Dasani', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Spartabang', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Velora', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'James', 'realName': 'N/A', 'role': 'head coach'}]"
+14689,Peace And Love,Australia,6,0,1.0,N/A,N/A,Oceania
+1470,NASR Esports,Europe,4,7,0.364,N/A,N/A,MENA
+1471,Team RA'AD,Egypt,7,7,0.5,N/A,N/A,MENA
+14711,Geek Fam,Philippines,15,24,0.385,N/A,N/A,Asia-Pacific
+14712,Loafing Cats,United States,7,8,0.467,7,8,Game Changers
+14714,Bumble Bees,International,16,13,0.552,16,13,Game Changers
+14716,SaD GC,Game Changers,1,2,0.333,1,2,"[{'playerName': 'Coax', 'realName': 'Matthew Taylor', 'role': 'player'}, {'playerName': 'Stay', 'realName': 'N/A', 'role': 'player'}, {'playerName': '3DWN', 'realName': 'Emma Shushack', 'role': 'player'}, {'playerName': 'Sekkya', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'colby', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Mady', 'realName': 'Madelynn Saye', 'role': 'player'}]"
+14717,pookie nation,United States,0,4,0.0,0,4,Game Changers
+14718,Passion Project,Game Changers,10,1,0.909,10,1,"[{'playerName': 'lazylion', 'realName': 'Nathan Hoang', 'role': 'player'}, {'playerName': 'unstable', 'realName': 'N/A', 'role': 'player'}]"
+14719,Blahaj Huggers,United States,2,6,0.25,2,6,Game Changers
+14720,HyperSpeed Ruby,Game Changers,4,4,0.5,4,4,"[{'playerName': 'Thund3r0us', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'terror', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'odessaca', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Zoue', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Korn', 'realName': 'N/A', 'role': 'Sub'}]"
+14721,AST Luminescent,United States,2,6,0.25,2,6,Game Changers
+14722,mesos millionaires,United States,3,1,0.75,3,1,Game Changers
+14723,UWaterloo White,United States,2,4,0.333,2,4,Game Changers
+14724,Paw Pals,Game Changers,6,2,0.75,6,2,"[{'playerName': 'rise', 'realName': 'Melanie Tetreault', 'role': 'player'}, {'playerName': 'karie', 'realName': 'Marceline Carson', 'role': 'player'}, {'playerName': 'emluo', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'panini', 'realName': 'Vannesa Emory', 'role': 'player'}]"
+14727,unpaid dogs,United States,6,2,0.75,6,2,Game Changers
+14729,fish with no eye,United States,0,13,0.0,0,13,Game Changers
+14732,Tussin Purple,United States,N/A,N/A,N/A,N/A,N/A,[]
+14735,The Boys,United States,6,4,0.6,6,4,Game Changers
+14737,VALIANT GC,France,17,13,0.567,17,13,Game Changers
+14740,5 Clown,Indonesia,4,10,0.286,N/A,N/A,Asia-Pacific
+14752,MABUHAY,Asia-Pacific,46,37,0.554,N/A,N/A,"[{'playerName': 'vascalizz', 'realName': 'Rey Sebastian Pardede', 'role': 'player'}, {'playerName': 'Lilo', 'realName': 'Ryan Betrand', 'role': 'player'}, {'playerName': 'no1syboy', 'realName': 'Sergio Rahardja', 'role': 'player'}, {'playerName': 'mika', 'realName': 'Michael Setiawan', 'role': 'player'}, {'playerName': 'zharwow', 'realName': 'Rayhan Filardhi Azhar', 'role': 'player'}]"
+14754,THE HERO,Asia-Pacific,4,0,1.0,N/A,N/A,"[{'playerName': 'Madelyn', 'realName': 'Raven William', 'role': 'player'}, {'playerName': 'k1ngkappa', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'cashmere', 'realName': 'N/A', 'role': 'Sub'}, {'playerName': 'Vinseer', 'realName': 'Sadad Abshar', 'role': 'manager'}]"
+14761,Alternate Realities,India,6,7,0.462,N/A,N/A,Asia-Pacific
+14773,Disguised,Singapore,7,1,0.875,N/A,N/A,Asia-Pacific
+14790,Reve Drift Arena,Malaysia,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'theDoctorr', 'realName': 'Mathanraj Munisparan', 'role': 'player'}, {'playerName': 'markL', 'realName': 'Mark Lester', 'role': 'player'}, {'playerName': 'subbey', 'realName': 'Shamir Aliff', 'role': 'player'}, {'playerName': 'Fixy', 'realName': 'Amirul Zaqwan bin Norfarulizal', 'role': 'player'}, {'playerName': 'jans0n', 'realName': 'Janson Chen Joon Er', 'role': 'player'}]"
+14799,Please Don't Fire,Asia-Pacific,13,14,0.481,N/A,N/A,"[{'playerName': 'Kestrel', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Toy', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Haeart', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Moosey', 'realName': 'Yeow Zhen Feng', 'role': 'player'}, {'playerName': 'Adept', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'miz', 'realName': 'N/A', 'role': 'player'}]"
+14802,Redsea Esport,Malaysia,4,7,0.364,N/A,N/A,Asia-Pacific
+14805,ORGLESS,Asia-Pacific,7,2,0.778,N/A,N/A,"[{'playerName': 'dzii', 'realName': 'Daven Cheong', 'role': 'player'}, {'playerName': 'RedKoh', 'realName': 'Danial Hakim', 'role': 'player'}, {'playerName': 'Flaring', 'realName': 'Henri Forichon', 'role': 'player'}, {'playerName': 'Juv3nile', 'realName': 'Preston Dornon', 'role': 'coach'}]"
+14809,Ninjas in Galaxy,Singapore,6,2,0.75,N/A,N/A,Asia-Pacific
+14811,ENDER,Asia-Pacific,9,4,0.692,N/A,N/A,"[{'playerName': 'joshh', 'realName': 'Joshua Leow', 'role': 'player'}, {'playerName': 'FirstLove', 'realName': 'Darren Mok Yong Xiang', 'role': 'player'}, {'playerName': 'falfalfal', 'realName': 'Alex Cheang', 'role': 'player'}, {'playerName': 'benaf', 'realName': 'Benedict Tan', 'role': 'player'}, {'playerName': 'shiba', 'realName': 'Zhan Teng Toh', 'role': 'player'}]"
+14818,Serenity Esports,Singapore,N/A,N/A,N/A,N/A,N/A,Asia-Pacific
+14819,Carnival Gaming,Asia-Pacific,4,7,0.364,N/A,N/A,"[{'playerName': 'Surve', 'realName': 'Shubham Surve', 'role': 'player'}, {'playerName': 'ezzy', 'realName': 'Rishabh Gupta', 'role': 'player'}, {'playerName': 'LilBOii', 'realName': 'Vishwaratn Srivastav', 'role': 'player'}, {'playerName': 'Whimp', 'realName': 'Saaransh Dang', 'role': 'player'}, {'playerName': 'blackhawk', 'realName': 'Shailesh Dalvi', 'role': 'player'}, {'playerName': 'r1seN', 'realName': 'Zaid Quraishi', 'role': 'player'}]"
+14820,the process,International,10,8,0.556,N/A,N/A,[]
+14822,Thinking Men,North America,21,4,0.84,N/A,N/A,"[{'playerName': 'Lear', 'realName': 'Dayton Akau', 'role': 'player'}, {'playerName': 'Pa1nt', 'realName': 'Amarri Peak', 'role': 'player'}, {'playerName': 'VYX', 'realName': 'Ramiro Ortiz', 'role': 'player'}, {'playerName': 'Reformed', 'realName': 'Jeffrey Lu', 'role': 'player'}, {'playerName': 'Andersin', 'realName': 'Andy Collins', 'role': 'player'}, {'playerName': 'Zeke', 'realName': 'N/A', 'role': 'manager'}]"
+14824,boomertin,International,4,4,0.5,N/A,N/A,[]
+14825,Lucky 7,North America,12,5,0.706,N/A,N/A,"[{'playerName': 'furbsa', 'realName': 'Hunter Mcmillan', 'role': 'player'}, {'playerName': 'chloric', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Trick', 'realName': 'Justin Sears', 'role': 'player'}, {'playerName': 'Will', 'realName': 'William Cheng', 'role': 'player'}, {'playerName': 'Kanpeki', 'realName': 'Eric Xu', 'role': 'player'}]"
+14826,Ions Day Care,North America,99,33,0.75,N/A,N/A,"[{'playerName': 'Kehmicals', 'realName': 'Rhett Lynch', 'role': 'player'}, {'playerName': 'Korsonix', 'realName': 'Korey Anderson', 'role': 'player'}, {'playerName': 'ShoT_UP', 'realName': 'Andrew Orlowski', 'role': 'player'}, {'playerName': 'MOCKING', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Critical', 'realName': 'Tristan Trinacty', 'role': 'player'}]"
+14828,Retake Mid,North America,3,3,0.5,N/A,N/A,[]
+14829,RyZe Esports,North America,16,14,0.533,N/A,N/A,"[{'playerName': 'zeek', 'realName': 'Burair Ali', 'role': 'player'}, {'playerName': 'welyy', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'jas0n', 'realName': 'Jason Vo', 'role': 'player'}, {'playerName': 'SexyChristian', 'realName': 'Christian Tran', 'role': 'player'}, {'playerName': 'Pyro', 'realName': 'Timmy Kong', 'role': 'player'}]"
+14830,Refugee Camp,International,4,4,0.5,N/A,N/A,"[{'playerName': 'Mueda', 'realName': 'Darren Pham', 'role': 'player'}, {'playerName': 'BlanK', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'karmax1', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Joey', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Entri', 'realName': 'N/A', 'role': 'player'}]"
+14832,diversity,International,2,4,0.333,N/A,N/A,[]
+14833,Blue Rose,International,3,4,0.429,N/A,N/A,[]
+14835,goodfellas,International,1,4,0.2,N/A,N/A,[]
+14837,sussy players,North America,2,4,0.333,N/A,N/A,[]
+14838,1T,United States,1,4,0.2,N/A,N/A,[]
+14840,CRWNZ,United States,N/A,N/A,N/A,N/A,N/A,[]
+14841,scoobydoomix,Game Changers,24,12,0.667,24,12,"[{'playerName': 'Miyori', 'realName': 'Eylül Sudem Sarıoğlu', 'role': 'player'}, {'playerName': 'ness', 'realName': 'Neslişah Demir', 'role': 'player'}, {'playerName': 'sarah', 'realName': 'Sarah Ahmed', 'role': 'player'}, {'playerName': 'Smurfette', 'realName': 'Yağmur Gündüz', 'role': 'player'}, {'playerName': 'Joliinaa', 'realName': 'Tina Agéli', 'role': 'player'}]"
+14842,Evoza GC,Game Changers,4,2,0.667,4,2,"[{'playerName': 'noze', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Julie', 'realName': 'Meitar Julie Kami', 'role': 'player'}, {'playerName': 'Nariel', 'realName': 'Yaren Cirit', 'role': 'player'}, {'playerName': 'Yashi', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Luzia', 'realName': 'Camille Millet', 'role': 'player'}, {'playerName': 'Natakodo', 'realName': 'Natasha Kodo', 'role': 'Sub'}, {'playerName': 'Madrix', 'realName': 'N/A', 'role': 'manager'}, {'playerName': 'kewzy', 'realName': 'Miguel Morgado', 'role': 'coach'}, {'playerName': 'SkyGr0w', 'realName': 'N/A', 'role': 'assistant coach'}]"
+14934,fuVi,Europe,38,22,0.633,38,22,"[{'playerName': 'Julis', 'realName': 'Açelya Özgen', 'role': 'player'}, {'playerName': 'Anva', 'realName': 'Nehir Dinçer', 'role': 'player'}, {'playerName': 'Lateu', 'realName': 'Hilal Yaşar', 'role': 'player'}, {'playerName': 'Lyda', 'realName': 'İlayda Güzeldere', 'role': 'player'}, {'playerName': 'Sephia', 'realName': 'Reyhan Şimşek', 'role': 'player'}]"
+14941,XSOUL,Chile,9,9,0.5,N/A,N/A,Latin America South
+14958,University War GC,Chile,0,1,0.0,17,13,Game Changers
+14960,Shifty505,North America,3,3,0.5,N/A,N/A,"[{'playerName': 'Havex', 'realName': 'Jason Huang', 'role': 'player'}, {'playerName': 'lil d', 'realName': 'Devin Cai', 'role': 'player'}, {'playerName': 'Shifty', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Cactus', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Ignite', 'realName': 'N/A', 'role': 'coach'}]"
+14964,Putting In Time,International,N/A,N/A,N/A,N/A,N/A,[]
+14968,Kosame,International,N/A,N/A,N/A,N/A,N/A,[]
+14969,Archie Dynamite Dalmatians,International,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'Divine', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'nelu', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'zombi3', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Green', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Robbie', 'realName': 'N/A', 'role': 'player'}]"
+14970,Full Tilt Esports,International,N/A,N/A,N/A,N/A,N/A,[]
+14977,Reign Above,United States,3,7,0.3,N/A,N/A,North America
+14978,Krunker Demons,International,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'Gody', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'reks', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'gilbert', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Asokra', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Cerv', 'realName': 'N/A', 'role': 'player'}]"
+14983,We Live,International,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'Cole', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'cookie', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Sujbubby', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Suda', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Goat', 'realName': 'N/A', 'role': 'player'}]"
+14984,MidnightSun_Gold,International,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'Hale', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'CharWii', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Azriel', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Zfiny', 'realName': 'N/A', 'role': 'player'}]"
+14990,4nem,North America,3,2,0.6,N/A,N/A,"[{'playerName': 'Kaoticcc', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'azrex', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'tech', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'supA', 'realName': 'Fabian Martinez', 'role': 'player'}]"
+14993,Luxoria,United States,1,4,0.2,N/A,N/A,North America
+14994,les piments,North America,3,3,0.5,N/A,N/A,"[{'playerName': 'Swifts', 'realName': 'Jean-Christophe Demers', 'role': 'player'}, {'playerName': 'Zyko', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'VolcaN', 'realName': 'Olivier Thibeault', 'role': 'player'}, {'playerName': 'Sharked', 'realName': 'Cédric Yergeau', 'role': 'player'}, {'playerName': 'AntoL', 'realName': 'Anthony Lariviere', 'role': 'player'}]"
+14997,F5 Esports,United States,N/A,N/A,N/A,N/A,N/A,North America
+15000,AWAKEN,United States,N/A,N/A,N/A,N/A,N/A,[]
+15002,Don't be Weird,International,N/A,N/A,N/A,N/A,N/A,[]
+15003,Out the mud,International,2,3,0.4,N/A,N/A,North America
+15006,How Did We Get Here,International,N/A,N/A,N/A,N/A,N/A,[]
+15007,Team Ballistic,United States,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'p3w', 'realName': 'Wyatt Werner', 'role': 'player'}]"
+15009,Falke Esports,Europe,16,15,0.516,N/A,N/A,Europe
+15010,Monaco Esports,Europe,16,13,0.552,N/A,N/A,"[{'playerName': 'TheNightChe', 'realName': 'Ege Nuhoğlu', 'role': 'player'}, {'playerName': 'sabAAA', 'realName': 'Sabri Aboudi', 'role': 'player'}, {'playerName': 'Marin', 'realName': 'Marin Chaffin', 'role': 'player'}, {'playerName': 'Apyr', 'realName': 'Nathan Abrahamse', 'role': 'player'}, {'playerName': 'VuexLex', 'realName': 'Alper Kaan Aydemir', 'role': 'player'}, {'playerName': 'Dvalin', 'realName': 'N/A', 'role': 'manager'}, {'playerName': 'Lev', 'realName': 'Levent Köktürk', 'role': 'coach'}, {'playerName': 'Shino', 'realName': 'Berke Yiğit Yılmaz', 'role': 'analyst'}]"
+15011,Together We Are Terrific,North America,19,10,0.655,N/A,N/A,"[{'playerName': 'Paincakes', 'realName': 'Jake Hass', 'role': 'player'}, {'playerName': 'mummAy', 'realName': 'Anthony DiPaolo', 'role': 'player'}, {'playerName': 'neptune', 'realName': 'Jason Tran', 'role': 'player'}, {'playerName': 'Vapor', 'realName': 'Cameron Elswick', 'role': 'manager'}, {'playerName': 'shinobi', 'realName': 'Josh Abastado', 'role': 'coach'}]"
+15015,KOBIET,Asia-Pacific,6,8,0.429,N/A,N/A,"[{'playerName': 'dafam1', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Tyson', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'LilHieu', 'realName': 'Lưu Chí Hiếu', 'role': 'player'}, {'playerName': 'Nh0zKon', 'realName': 'Lê Minh Tân', 'role': 'player'}]"
+15016,Tàn Dư Esports,Asia-Pacific,8,7,0.533,N/A,N/A,"[{'playerName': 'yuhneb', 'realName': 'Trấn Lê Quốc Huy', 'role': 'player'}, {'playerName': 'Hyzee', 'realName': 'Võ Nhựt Huy', 'role': 'player'}, {'playerName': 'Nhatthong2k', 'realName': 'Nguyễn Nhất Thống', 'role': 'player'}, {'playerName': 'P1nA', 'realName': 'Nguyễn Nam', 'role': 'player'}, {'playerName': 'Daicute', 'realName': 'Nguyễn Anh Minh Thông', 'role': 'player'}]"
+15017,Cyberking Esports,Asia-Pacific,4,6,0.4,N/A,N/A,[]
+15021,Legacy,Brazil,50,27,0.649,N/A,N/A,Brazil
+15027,FULL BOX 200,Europe,5,6,0.455,N/A,N/A,"[{'playerName': 'Ayke', 'realName': 'Jakub Smoczyński', 'role': 'player'}, {'playerName': 'qxv', 'realName': 'Jakub Sawicki', 'role': 'player'}, {'playerName': 'nyczu', 'realName': 'Szymon Kulik', 'role': 'player'}, {'playerName': 'NINJA', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Sferon', 'realName': 'Tomasz Biniak', 'role': 'player'}]"
+15030,Getting Info,United States,3,2,0.6,3,2,Game Changers
+15031,Kirbee Squad,United States,10,6,0.625,10,6,Game Changers
+15032,Silly Waffle,United States,2,2,0.5,2,2,Game Changers
+15034,Van Lyn Frost,United States,5,4,0.556,5,4,Game Changers
+15035,Weeping Angels,United States,N/A,N/A,N/A,N/A,N/A,[]
+15036,UCLA Esports GC,United States,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'alyra', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'mitika', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Jo0', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Starfire', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'dot', 'realName': 'N/A', 'role': 'player'}]"
+15038,Glass Ceiling,United States,3,2,0.6,3,2,Game Changers
+15039,RyZe Eclipsa GC,United States,6,10,0.375,6,10,Game Changers
+15040,UltraLight Team 3,United States,1,2,0.333,1,2,Game Changers
+15047,smart fellas,United States,2,2,0.5,2,2,Game Changers
+15052,JustUs,Philippines,15,13,0.536,N/A,N/A,Asia-Pacific
+15058,OLD STINKY CAT,Philippines,33,25,0.569,N/A,N/A,Asia-Pacific
+15072,2Game Esports,Brazil,26,13,0.667,N/A,N/A,Brazil
+15074,XLD Gaming,Brazil,15,16,0.484,N/A,N/A,Brazil
+15082,Astro Esports,United States,N/A,N/A,N/A,N/A,N/A,[]
+15085,Gaming club,United States,N/A,N/A,N/A,N/A,N/A,[]
+15086,6IX Shootas,United States,N/A,N/A,N/A,N/A,N/A,[]
+15087,Truly Humble Under God,United States,N/A,N/A,N/A,N/A,N/A,[]
+15091,The Mandem,United States,N/A,N/A,N/A,N/A,N/A,[]
+15093,Symphonies,United States,N/A,N/A,N/A,N/A,N/A,[]
+15094,Pound Town,United States,N/A,N/A,N/A,N/A,N/A,[]
+15100,Death be Happen,United States,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'R1zen', 'realName': 'N/A', 'role': 'player'}]"
+15103,Fisher Rising,United States,N/A,N/A,N/A,N/A,N/A,[]
+15105,Thoti's Golden Children,United States,N/A,N/A,N/A,N/A,N/A,[]
+15107,The Anime Squad,United States,N/A,N/A,N/A,N/A,N/A,[]
+15112,Neglected,United States,N/A,N/A,N/A,N/A,N/A,[]
+15117,Hero Base,Brazil,72,26,0.735,N/A,N/A,Brazil
+15119,GIANTX GC,Turkey,24,12,0.667,24,12,Game Changers
+15120,R8 Esports,Saudi Arabia,29,11,0.725,N/A,N/A,MENA
+15128,K7 Esports,International,4,2,0.667,4,2,Game Changers
+15133,Bon Bon Bum,Mexico,2,2,0.5,2,2,Game Changers
+15136,Barcelona Sporting X,Game Changers,23,16,0.59,23,16,"[{'playerName': 'May', 'realName': 'Annabella Rivas', 'role': 'player'}, {'playerName': 'Miku', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'xaan', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Andrea', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Luwucia', 'realName': 'Ximena Lucía Acevedo', 'role': 'player'}, {'playerName': 'Asomy', 'realName': 'Asolemy Vásquez', 'role': 'player'}, {'playerName': 'Saab', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Rorris', 'realName': 'Rodrigo León', 'role': 'head coach'}]"
+15137,New Combat Line GC,Colombia,0,2,0.0,0,2,Game Changers
+15138,KS Hunters,International,50,26,0.658,50,26,Game Changers
+15139,MYVRA,International,14,10,0.583,14,10,Game Changers
+15141,Deagle Ravagers,Chile,22,15,0.595,22,15,Game Changers
+15153,Zen eSports GC,Chile,4,1,0.8,4,1,Game Changers
+15156,Vision Esports,Saudi Arabia,31,37,0.456,N/A,N/A,MENA
+15184,Cherry Bomb,United States,4,4,0.5,4,4,Game Changers
+15197,iPGN,Australia,23,22,0.511,N/A,N/A,Oceania
+15208,EDGE,Australia,N/A,N/A,N/A,N/A,N/A,Oceania
+15216,Rub n' Pug,Australia,N/A,N/A,N/A,N/A,N/A,Oceania
+15227,After Life Esports,Australia,6,10,0.375,N/A,N/A,Oceania
+15253,FOCUSGG,Australia,33,17,0.66,N/A,N/A,Oceania
+15274,TBS GC,Brazil,0,3,0.0,0,3,Game Changers
+15277,Team Leveling,Brazil,13,13,0.5,N/A,N/A,Brazil
+15280,DREAMMAX,Brazil,3,5,0.375,N/A,N/A,Brazil
+15281,donas da bala,Brazil,3,5,0.375,N/A,N/A,Brazil
+15284,revoada,Brazil,N/A,N/A,N/A,N/A,N/A,Brazil
+15289,Arena Internet Cafe,Australia,51,24,0.68,N/A,N/A,Oceania
+15312,Reformed GC,Game Changers,32,11,0.744,32,11,"[{'playerName': 'mili', 'realName': 'Selene Angel', 'role': 'player'}, {'playerName': 'riv', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'misu', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Kazler', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Remote', 'realName': 'AJ Corsino', 'role': 'head coach'}, {'playerName': 'Relic', 'realName': 'N/A', 'role': 'assistant coach'}]"
+15317,Xipto Esports,Philippines,54,2,0.964,54,2,Game Changers
+15319,4Fun,Philippines,N/A,N/A,N/A,8,5,Game Changers
+15322,AURA DIFFERENTIAL,International,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'phi', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'starriebun', 'realName': 'Katherine So', 'role': 'player'}, {'playerName': 'tess', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'grahams', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'sawamura', 'realName': 'Mary Grace Sabado', 'role': 'player'}]"
+15323,Baby Poko,Thailand,7,5,0.583,7,5,Game Changers
+15327,BOBA,International,13,7,0.65,13,7,Game Changers
+15331,Dangerous Rose,Thailand,4,2,0.667,4,2,Game Changers
+15342,LILITH,Thailand,N/A,N/A,N/A,5,4,Game Changers
+15343,Mommy's Kittens,Game Changers,13,7,0.65,13,7,"[{'playerName': 'elfie', 'realName': 'Aria Mizuguchi', 'role': 'player'}, {'playerName': 'Pigruto', 'realName': 'Tenia Xu', 'role': 'player'}, {'playerName': 'Sampphire', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Envious', 'realName': 'Ting Jia Yu', 'role': 'player'}]"
+15344,Money First,Asia-Pacific,7,0,1.0,58,24,"[{'playerName': 'Felce', 'realName': 'Waritsara Narong', 'role': 'player'}, {'playerName': 'Poly', 'realName': 'Patcharapron Sanitchai', 'role': 'player'}, {'playerName': 'JinNy', 'realName': 'Sarindhorn Wanothayarnchai', 'role': 'player'}, {'playerName': 'kitkatwc', 'realName': 'Wanlapa Charoensuk', 'role': 'player'}, {'playerName': 'Muffyn', 'realName': 'Chalita Buathong', 'role': 'player'}]"
+15361,Reseda OKAMI,International,10,14,0.417,10,14,Game Changers
+15369,Vandals,International,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'Japips', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'PIETY', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Jia', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'DelBisky', 'realName': 'N/A', 'role': 'player'}]"
+15371,Xinh Gai Tay To,Vietnam,5,5,0.5,5,5,Game Changers
+15372,Glass Girls,International,3,3,0.5,3,3,Game Changers
+15386,LONETEAM,Italy,N/A,N/A,N/A,N/A,N/A,Europe
+15389,Hexagon,Bangladesh,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'luluvie', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'noid', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Sidiscrazy', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Noxianaa', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Azelyn', 'realName': 'N/A', 'role': 'player'}]"
+15390,Asmodeus Colosseum GC,India,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'BriTSy', 'realName': 'Iqra Khan', 'role': 'player'}, {'playerName': 'zini', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'KiRi', 'realName': 'Keerti Mirani', 'role': 'player'}, {'playerName': 'Medusa', 'realName': 'Anushka Patronia', 'role': 'player'}, {'playerName': 'Sway', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Japips', 'realName': 'N/A', 'role': 'player'}]"
+15391,Team Celestials,International,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'gkda', 'realName': 'N/A', 'role': 'player'}]"
+15393,9to5 workers,India,1,1,0.5,2,1,Game Changers
+15403,OK Gaming,International,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'Riss', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'cinna', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'andi', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Nathy', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Pazita', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Lynxz', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'sub', 'realName': 'N/A', 'role': 'head coach'}]"
+15407,ROYAL ONSLAUGHT GAMING,Game Changers,0,2,0.0,0,2,"[{'playerName': 'nori', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'nawi', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Calcii', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Kisu', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Naxa', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'awus', 'realName': 'N/A', 'role': 'player'}]"
+15411,Reformed Team,Game Changers,4,1,0.8,4,1,"[{'playerName': 'Morita', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'vaZ', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Atenazzz', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'HomE', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'ary', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Alonsito', 'realName': 'Alonso Díaz', 'role': 'coach'}]"
+15442,Solstice,Game Changers,25,6,0.806,25,6,"[{'playerName': 'marceline', 'realName': 'Jina Kim', 'role': 'player'}, {'playerName': 'Elab0rate', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'melya', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Nora', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Haru', 'realName': 'Ari Gladstone', 'role': 'Sub'}, {'playerName': 'Crook', 'realName': 'N/A', 'role': 'head coach'}, {'playerName': 'tora', 'realName': 'N/A', 'role': 'assistant coach'}]"
+15458,Cyber Geek,Japan,6,4,0.6,6,4,Game Changers
+15459,Meteor,Japan,6,5,0.545,6,5,Game Changers
+15605,delman,Poland,N/A,N/A,N/A,N/A,N/A,[]
+15606,FLUFFY AIMERS,United States,19,10,0.655,N/A,N/A,North America
+15607,YIPPEE,Australia,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'aiko', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Pink', 'realName': 'N/A', 'role': 'player'}]"
+15609,Misses Worldwide,Australia,0,1,0.0,7,7,Game Changers
+15611,Balut Warriors,Australia,6,4,0.6,6,4,Game Changers
+15614,raindrops,Australia,16,5,0.762,16,5,Game Changers
+15615,VLG X,Australia,2,7,0.222,2,7,Game Changers
+15616,K10,Australia,3,5,0.375,3,5,Game Changers
+15617,Los Bandidos,Portugal,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'hYdraszyy', 'realName': 'Martim Lopes', 'role': 'player'}, {'playerName': 'VASK1NHO', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'CORONEL', 'realName': 'Ricardo Martins', 'role': 'player'}]"
+15625,ContraxScrub,Colombia,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'wetysao', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Ryu', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'nolan', 'realName': 'Nolan Martinez', 'role': 'player'}, {'playerName': 'Danielesflo', 'realName': 'Daniel Sánchez', 'role': 'player'}, {'playerName': 'HellFull', 'realName': 'Andres Vallejo', 'role': 'player'}]"
+15654,THE HERO DETA,Indonesia,4,0,1.0,N/A,N/A,Asia-Pacific
+15682,DIS Esports,Indonesia,2,7,0.222,N/A,N/A,Asia-Pacific
+15684,Da Feng Gou,International,4,7,0.364,N/A,N/A,Asia-Pacific
+15689,The Zoo,India,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'Yuvi', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Equinox', 'realName': 'Rishi Dave', 'role': 'player'}, {'playerName': 'Pixelzz', 'realName': 'Aditya Gulhane', 'role': 'player'}, {'playerName': 'MorningStaR', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'SataN', 'realName': 'Rishab DasGhosh', 'role': 'player'}]"
+15706,DXA Esports GC,Australia,9,5,0.643,9,5,Game Changers
+15707,Permitta Unicorns,Germany,33,23,0.589,N/A,N/A,Europe
+15708,OXEN GC,Game Changers,0,2,0.0,0,2,"[{'playerName': 'awus', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Setrexz', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Rulitos', 'realName': 'N/A', 'role': 'Sub'}]"
+15712,Rank El Cuties,Philippines,4,6,0.4,N/A,N/A,Asia-Pacific
+15713,Santa Gang,Thailand,3,4,0.429,N/A,N/A,Asia-Pacific
+15717,PIXEL,South Korea,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'Sor1', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'POKE', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'enxen', 'realName': 'N/A', 'role': 'player'}]"
+15718,Mir Gaming GC,South Korea,11,1,0.917,11,1,Game Changers
+15720,Special TiGers GC,South Korea,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'SANGSIXK', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'ExJin', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Yxx', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'HelenCoco', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'GulGul', 'realName': 'N/A', 'role': 'player'}]"
+15743,TP REVEN,Mexico,7,5,0.583,N/A,N/A,Latin America North
+15744,FearX,South Korea,13,9,0.591,N/A,N/A,Korea
+15745,THE 7,Brazil,30,23,0.566,N/A,N/A,Brazil
+15746,VEC DAEJEON,South Korea,10,12,0.455,N/A,N/A,Korea
+15747,SUPERFECT Esports,South Korea,3,6,0.333,N/A,N/A,Korea
+15749,HEROIC Valkyries,Europe,2,1,0.667,12,16,Game Changers
+15763,PPP,Portugal,27,11,0.711,N/A,N/A,Europe
+15788,PAPA ESPORTS,Taiwan,2,1,0.667,N/A,N/A,Asia-Pacific
+15796,floppers,United States,5,5,0.5,35,12,North America
+15806,Unicorn Cyber Esports,Vietnam,6,8,0.429,N/A,N/A,Asia-Pacific
+15840,Carti World,Philippines,20,13,0.606,N/A,N/A,Asia-Pacific
+15869,paprica picante,Brazil,2,1,0.667,1,3,Game Changers
+15870,PS5PATAS,Brazil,N/A,N/A,N/A,2,2,Game Changers
+15872,ZY Gaming,China,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'YOU', 'realName': 'Yip Man Ho', 'role': 'player'}, {'playerName': 'B1SK', 'realName': 'Vitaliy Emelyanov', 'role': 'player'}, {'playerName': 'f1cio', 'realName': 'Hoàng Ngọc Sơn', 'role': 'player'}, {'playerName': 'Attention', 'realName': 'Wong Ka Fai (黃家暉)', 'role': 'player'}, {'playerName': 'FFs', 'realName': 'Leung Cheuk Nam (梁卓南)', 'role': 'player'}, {'playerName': 'slowly', 'realName': 'Kelun Sun (孙科伦)', 'role': 'player'}, {'playerName': 'Babyblue', 'realName': 'Geng Haoran (耿浩然)', 'role': 'player'}, {'playerName': 'Yao', 'realName': 'Yao Yuan (姚远)', 'role': 'manager'}, {'playerName': 'Naint', 'realName': 'Mingiyan Goldaev', 'role': 'head coach'}, {'playerName': 'Lsh', 'realName': 'Liu Shaohui (刘劭晖)', 'role': 'staff'}]"
+15873,Scissor Sisters,Australia,5,4,0.556,5,4,Game Changers
+15875,VIXENS,Australia,6,5,0.545,6,5,Game Changers
+15876,Evergarden GC,Australia,8,8,0.5,8,8,Game Changers
+15878,polar bear,Australia,3,5,0.375,3,5,Game Changers
+15880,swaglord9000,Australia,10,2,0.833,10,2,Game Changers
+15886,Gang Gang,India,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'junebug', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Skel', 'realName': 'Ayesha Samman', 'role': 'player'}, {'playerName': 'Ven', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'krys', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Snowwke', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'AfterLyfe', 'realName': 'N/A', 'role': 'player'}]"
+15889,Xtreme Gaming,China,N/A,N/A,N/A,N/A,N/A,"[{'playerName': '5CM', 'realName': 'Ding Xuanpeng (丁宣鹏)', 'role': 'player'}, {'playerName': 'QiuYe', 'realName': 'Li Runtao (李润涛)', 'role': 'player'}, {'playerName': 'Core', 'realName': 'An Ziwen (安梓文)', 'role': 'player'}, {'playerName': 'waituu', 'realName': 'Xu Yinze (许寅泽)', 'role': 'player'}, {'playerName': 'G1Xad', 'realName': 'Chen Xiaotao (陈晓涛)', 'role': 'player'}, {'playerName': 'NOTSOBAD', 'realName': 'Zhao Weiqi (赵韦亓)', 'role': 'player'}, {'playerName': 'shuaishuai', 'realName': 'Deng Chuanyi (邓传义)', 'role': 'coach'}]"
+15893,Ambitious Legend Gaming,China,2,4,0.333,N/A,N/A,China
+15895,Avernus Esports GC,Philippines,6,5,0.545,6,5,Game Changers
+15899,Cardboard Dinosaur,Singapore,13,7,0.65,13,7,Game Changers
+15911,invincible gc,Thailand,9,2,0.818,9,2,Game Changers
+15913,LILAX,Thailand,6,5,0.545,6,5,Game Changers
+1594,Team Majesty,Egypt,34,18,0.654,N/A,N/A,MENA
+16040,sisu,Philippines,N/A,N/A,N/A,9,4,Game Changers
+16041,URACHACHA,South Korea,6,4,0.6,6,4,Game Changers
+16044,Purr-fectionists,International,2,0,1.0,3,2,Game Changers
+16045,Penguin Party,Australia,16,5,0.762,16,5,Game Changers
+16137,SGA Incheon,South Korea,3,4,0.429,3,4,Game Changers
+16142,United Gaming,Kuwait,47,25,0.653,N/A,N/A,MENA
+16173,VCL REJECTS 2.0,Europe,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'Luvjix', 'realName': 'Luboš Jíra', 'role': 'player'}, {'playerName': 'niwt', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'al1en', 'realName': 'Alen Pašić', 'role': 'player'}, {'playerName': 'TheNightChe', 'realName': 'Ege Nuhoğlu', 'role': 'player'}, {'playerName': 'nvrfear', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Koyo', 'realName': 'N/A', 'role': 'coach'}]"
+16174,genziary,Europe,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'basya', 'realName': 'Branislav Koritca', 'role': 'player'}, {'playerName': 'tweethy', 'realName': 'N/A', 'role': 'player'}, {'playerName': '6ix', 'realName': 'Denis Madeja', 'role': 'player'}, {'playerName': 'shinnok', 'realName': 'Maglóczki Viktor Zsombor', 'role': 'player'}, {'playerName': 'DaGG3r', 'realName': 'Danylo Chub', 'role': 'player'}, {'playerName': 'PluckyPiva', 'realName': 'Federico Piva', 'role': 'coach'}]"
+17,Gen.G,South Korea,113,60,0.653,N/A,N/A,Korea
+188,Cloud9,United States,150,68,0.688,N/A,N/A,North America
+1925,Subversive,Philippines,0,12,0.0,N/A,N/A,Asia-Pacific
+1927,Bestial,Philippines,3,5,0.375,N/A,N/A,Asia-Pacific
+2,Sentinels,United States,112,37,0.752,N/A,N/A,North America
+2059,Team Vitality,Europe,57,22,0.722,N/A,N/A,Europe
+2108,BLUE BEES.ESP,Japan,10,6,0.625,N/A,N/A,Japan
+2112,X10 Esports,Asia-Pacific,81,29,0.736,N/A,N/A,"[{'playerName': 'Vera', 'realName': 'Rodman Yap', 'role': 'player'}, {'playerName': 'Tempz', 'realName': 'Pierre Heng', 'role': 'player'}, {'playerName': 'RedKoh', 'realName': 'Danial Hakim', 'role': 'player'}, {'playerName': 'wayne', 'realName': 'Wayne Chang', 'role': 'player'}, {'playerName': 'Egoist', 'realName': 'Javier Chua', 'role': 'player'}, {'playerName': 'h3nsem', 'realName': 'Chow Weng Fai', 'role': 'coach'}]"
+2131,Chivas Esports,Mexico,N/A,N/A,N/A,N/A,N/A,Latin America North
+2290,Gamax Esports,Egypt,8,15,0.348,N/A,N/A,MENA
+2304,Giants Gaming,Europe,76,24,0.76,N/A,N/A,"[{'playerName': 'Redgar', 'realName': 'Igor Vlasov', 'role': 'player'}, {'playerName': 'Fit1nho', 'realName': 'Adolfo Gallego', 'role': 'player'}, {'playerName': 'nukkye', 'realName': 'Žygimantas Chmieliauskas', 'role': 'player'}, {'playerName': 'hoody', 'realName': 'Aaro Peltokangas', 'role': 'player'}, {'playerName': 'Cloud', 'realName': 'Kirill Nehozhin', 'role': 'player'}, {'playerName': 'pipsoN', 'realName': 'Daniil Mesheryakov', 'role': 'head coach'}, {'playerName': 'Milan', 'realName': 'Milan de Meij', 'role': 'analyst'}]"
+2348,VIRTUOSO,North America,167,97,0.633,N/A,N/A,"[{'playerName': 'King', 'realName': 'Aiden King', 'role': 'player'}, {'playerName': 'Eley', 'realName': 'Zach Stauffer', 'role': 'player'}, {'playerName': 'DBK', 'realName': 'Dylan Bazic-Kulangiev', 'role': 'player'}, {'playerName': 'Blahst', 'realName': 'Nathan Brand', 'role': 'player'}, {'playerName': 'snxper', 'realName': 'Louis Lama', 'role': 'player'}, {'playerName': 'mayuhri', 'realName': 'Maya Robles', 'role': 'manager'}]"
+2350,Soniqs,North America,180,68,0.726,N/A,N/A,[]
+2354,Optix,Latin America South,46,45,0.505,N/A,N/A,"[{'playerName': 'ganter', 'realName': 'Bastian Eduardo Reinoso', 'role': 'player'}, {'playerName': 'Fross', 'realName': 'Fernando Gallagher', 'role': 'player'}, {'playerName': 'D1E', 'realName': 'Diego Contreras', 'role': 'player'}, {'playerName': 'Tio', 'realName': 'Carlos Swing', 'role': 'player'}, {'playerName': 'gio', 'realName': 'Giovani Cristobal Lainati Ruz', 'role': 'player'}, {'playerName': 'Soulmy', 'realName': 'Agustin Policano', 'role': 'Sub'}, {'playerName': 'grizzly', 'realName': 'Juan Maggi', 'role': 'head coach'}]"
+2355,KRÜ Esports,Argentina,62,22,0.738,N/A,N/A,Latin America South
+2359,LEVIATÁN,Chile,7,12,0.368,N/A,N/A,Latin America South
+2362,Skull Cracker,Latin America North,8,9,0.471,N/A,N/A,"[{'playerName': 'nate', 'realName': 'Nathanael Miles', 'role': 'player'}, {'playerName': 'prask', 'realName': 'Mike Cortbani', 'role': 'player'}, {'playerName': 'Xhowi', 'realName': 'Luis Enmanuel Corcino Garcia', 'role': 'player'}, {'playerName': 'MiniNiwde', 'realName': 'Lenin Mateo', 'role': 'player'}, {'playerName': 'Guga', 'realName': 'Emil Bournigal', 'role': 'player'}, {'playerName': 'nolan', 'realName': 'Nolan Martinez', 'role': 'player'}, {'playerName': 'WOLFZ', 'realName': 'Richard Goncalves', 'role': 'coach'}]"
+2406,FURIA,Brazil,57,46,0.553,N/A,N/A,Brazil
+2408,HEET,Europe,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'Kinguyen', 'realName': 'Nguyen Thach', 'role': 'player'}, {'playerName': 'memset', 'realName': 'Laurent Werly', 'role': 'player'}, {'playerName': 'b2kk', 'realName': 'Sofian Delimi', 'role': 'player'}, {'playerName': 'Monstrum', 'realName': 'Jake Byrne', 'role': 'player'}, {'playerName': 'waddle', 'realName': 'Wadir Taraki', 'role': 'player'}, {'playerName': 'elemeNt', 'realName': 'Adil Maufroid', 'role': 'head coach'}, {'playerName': 'Cizza', 'realName': 'Ciaran Dillon', 'role': 'assistant coach'}]"
+2499,Movistar Riders,Europe,24,17,0.585,N/A,N/A,"[{'playerName': 'Nixerino', 'realName': 'Nicolás Canellas Colocho', 'role': 'player'}, {'playerName': 'YuNo', 'realName': 'Eloy García Burgueño', 'role': 'player'}, {'playerName': 'Vorwenn', 'realName': 'Tomas Baldrich', 'role': 'player'}, {'playerName': 'Blastinho', 'realName': 'Miquel llombart', 'role': 'player'}, {'playerName': 'Pando', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Yugami', 'realName': 'Daniel Cama Hidalgo', 'role': 'head coach'}, {'playerName': 'Starky', 'realName': 'N/A', 'role': 'assistant coach'}, {'playerName': 'dagartt', 'realName': 'Dani García', 'role': 'staff'}]"
+2532,Louvre,Asia-Pacific,43,23,0.652,N/A,N/A,"[{'playerName': 'ExTreMisTz', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'wisa', 'realName': 'Winston Ho', 'role': 'player'}, {'playerName': 'kayle', 'realName': 'Ahmad Aqil', 'role': 'player'}, {'playerName': 'dumin', 'realName': 'Du-Min Yeo', 'role': 'player'}, {'playerName': 'Reverie', 'realName': 'Steven Kang Kai Lun', 'role': 'player'}]"
+2554,World Game Star,South Korea,34,25,0.576,N/A,N/A,"[{'playerName': 'Wenty', 'realName': 'Yang Geon-mo (양건모)', 'role': 'player'}, {'playerName': 'YUNSEUNG', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'apeX', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Cruise', 'realName': 'N/A', 'role': 'head coach'}]"
+2593,FNATIC,Europe,120,41,0.745,N/A,N/A,Europe
+2755,SAW,Europe,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'Addicted', 'realName': 'Eduardo Torres', 'role': 'player'}, {'playerName': 'Fragger', 'realName': 'Henrique Correia', 'role': 'player'}, {'playerName': 'brk', 'realName': 'Bruno Ferreira', 'role': 'player'}, {'playerName': 'GrTw', 'realName': 'Tiago Costa', 'role': 'player'}, {'playerName': 'Cunha20', 'realName': 'David Cunha', 'role': 'player'}, {'playerName': 'san alex', 'realName': 'Alexandre Simões', 'role': 'manager'}, {'playerName': 'mowzassa', 'realName': 'Tiago Rodrigues', 'role': 'coach'}, {'playerName': 'Celo', 'realName': 'João de Almeida', 'role': 'assistant coach'}]"
+277,Crazy Raccoon,Japan,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'twinkl', 'realName': 'Lim Young-bin (임영빈)', 'role': 'manager'}, {'playerName': 'Astell', 'realName': 'Moon Ji-won (문지원)', 'role': 'head coach'}, {'playerName': 'NorthernLights', 'realName': 'N/A', 'role': 'coach'}]"
+278,DetonatioN FocusMe,Japan,20,19,0.513,N/A,N/A,Japan
+2814,Bigetron Arctic,Indonesia,56,30,0.651,N/A,N/A,Asia-Pacific
+282,SCARZ,Japan,45,26,0.634,N/A,N/A,Japan
+283,Sengoku Gaming,Japan,N/A,N/A,N/A,N/A,N/A,Japan
+2934,FENNEL,Japan,22,8,0.733,N/A,N/A,Japan
+294,CREST GAMING Zst,Japan,4,15,0.211,N/A,N/A,Japan
+2988,NORTHEPTION,Japan,30,10,0.75,N/A,N/A,Japan
+3108,Oblivion Force,Hong Kong,N/A,N/A,N/A,N/A,N/A,Asia-Pacific
+3136,Oasis Gaming,Philippines,7,9,0.438,N/A,N/A,Asia-Pacific
+3322,Border Monsters,Colombia,N/A,N/A,N/A,N/A,N/A,Latin America North
+3351,LaZe,Singapore,N/A,N/A,N/A,N/A,N/A,Asia-Pacific
+337,FaZe Clan,North America,55,30,0.647,N/A,N/A,"[{'playerName': 'POISED', 'realName': 'Kevin Ngo', 'role': 'player'}, {'playerName': 'mummAy', 'realName': 'Anthony DiPaolo', 'role': 'player'}, {'playerName': 'TiGG', 'realName': 'Tanner Spanu', 'role': 'player'}, {'playerName': 'BABYBAY', 'realName': 'Andrej Francisty', 'role': 'player'}, {'playerName': 'supamen', 'realName': 'Phat Le', 'role': 'player'}, {'playerName': 'Vapor', 'realName': 'Cameron Elswick', 'role': 'manager'}, {'playerName': 'Mas', 'realName': 'Michael Smith', 'role': 'head coach'}, {'playerName': 'Avhyno', 'realName': 'Andy Sanschagrin', 'role': 'assistant coach'}]"
+3478,PCIFIC Espor,Turkey,4,5,0.444,N/A,N/A,Europe
+3545,CLG Red,North America,3,25,0.107,53,25,"[{'playerName': 'itnothan', 'realName': 'Han Nguyen', 'role': 'player'}, {'playerName': 'emluo', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'mle', 'realName': 'Emily Peters', 'role': 'player'}, {'playerName': 'athxna', 'realName': 'Mirna Noureldin', 'role': 'player'}, {'playerName': 'dodonut', 'realName': 'Karnthida Chaisrakeo', 'role': 'player'}, {'playerName': 'niko', 'realName': 'N/A', 'role': 'assistant coach'}]"
+361,Furious Gaming,Argentina,45,30,0.6,N/A,N/A,Latin America South
+362,Rebirth Esports,Chile,N/A,N/A,N/A,N/A,N/A,Latin America
+363,INFINITY,Latin America South,1,4,0.2,N/A,N/A,"[{'playerName': 'ligasa', 'realName': 'Rodrigo Castillo', 'role': 'player'}, {'playerName': 'MatiS', 'realName': 'Matias Salgado', 'role': 'player'}, {'playerName': 'bnj', 'realName': 'Benjamin Rabinovich', 'role': 'player'}, {'playerName': 'WKN', 'realName': 'Alvaro Bustos', 'role': 'head coach'}, {'playerName': 'joman', 'realName': 'Jomer Montoya', 'role': 'coach'}]"
+364,All Knights,Argentina,36,20,0.643,N/A,N/A,Latin America South
+367,9z Team,Latin America South,40,32,0.556,N/A,N/A,"[{'playerName': 'deigara', 'realName': 'Gonzalo Funes', 'role': 'player'}, {'playerName': 'Tuli', 'realName': 'Giulliano Pozo Massone', 'role': 'player'}, {'playerName': 'rubkkoide', 'realName': 'Facundo Chavez', 'role': 'player'}, {'playerName': 'mizu', 'realName': 'Gabriel Gonzalez', 'role': 'player'}, {'playerName': 'david', 'realName': 'David Olivares', 'role': 'player'}, {'playerName': 'Romanilly', 'realName': 'N/A', 'role': 'coach'}, {'playerName': 'Ruzk', 'realName': 'N/A', 'role': 'analyst'}]"
+377,bonk,Europe,67,26,0.72,N/A,N/A,"[{'playerName': 'juseu', 'realName': 'Elric Belland-Aysan', 'role': 'player'}, {'playerName': 'Max0b', 'realName': 'Maxime Jacob', 'role': 'coach'}, {'playerName': 'Desmo', 'realName': 'Casper Rasmussen', 'role': 'coach'}]"
+3782,Voyager Esports,United States,4,7,0.364,4,7,Game Changers
+397,BBL Esports,Turkey,74,53,0.583,N/A,N/A,Europe
+4050,FULL SENSE,Thailand,2,5,0.286,N/A,N/A,Asia-Pacific
+4094,Six Karma,Mexico,3,6,0.333,N/A,N/A,Latin America North
+4141,WLGaming Esports,Italy,18,24,0.429,N/A,N/A,Europe
+4173,Ovation eSports,Europe,55,43,0.561,N/A,N/A,Europe
+4210,Made in Thailand,Thailand,7,3,0.7,N/A,N/A,Asia-Pacific
+4260,afterMath Esports,United States,10,18,0.357,N/A,N/A,North America
+4315,Squirtle Squad,North America,10,4,0.714,N/A,N/A,"[{'playerName': 'Governor', 'realName': 'Peter No', 'role': 'player'}, {'playerName': 'Add3r', 'realName': 'Jack Hayashi', 'role': 'player'}, {'playerName': 'Okeanos', 'realName': 'Anthony Nguyen', 'role': 'player'}, {'playerName': 'wedid', 'realName': 'Matthew Suchan', 'role': 'player'}, {'playerName': 'Harmful', 'realName': 'Mohammed C.', 'role': 'player'}, {'playerName': 'mFH', 'realName': 'N/A', 'role': 'analyst'}]"
+4317,Event Horizon,International,N/A,N/A,N/A,N/A,N/A,North America
+4330,Fancy United Esports,Vietnam,100,54,0.649,N/A,N/A,Asia-Pacific
+4346,DarkZero Esports,North America,60,30,0.667,N/A,N/A,[]
+4388,Cosmic Divide,North America,21,13,0.618,N/A,N/A,"[{'playerName': 'ChurmZ', 'realName': 'Corey Koch', 'role': 'player'}, {'playerName': 'Tkaz', 'realName': 'Tyler Kazmierczak', 'role': 'player'}, {'playerName': 'renz', 'realName': 'Austin Dickman', 'role': 'player'}, {'playerName': 'tokyo', 'realName': 'Sebastien Lima', 'role': 'player'}, {'playerName': 'syfi', 'realName': 'Samir Karimov', 'role': 'player'}]"
+4396,Regnum Carya Esports,Turkey,N/A,N/A,N/A,N/A,N/A,Europe
+4460,Number One Player,China,18,45,0.286,N/A,N/A,"[{'playerName': 'Aowha', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'XXXTACO', 'realName': 'Li Xu (许立)', 'role': 'player'}, {'playerName': 'Anc1enT', 'realName': 'N/A', 'role': 'player'}]"
+4462,Shenzhen NTER,China,14,14,0.5,N/A,N/A,"[{'playerName': 'AC', 'realName': 'Wei Jiacong (韦家聪)', 'role': 'player'}, {'playerName': 'Scales', 'realName': 'Zhang Zhen (张震)', 'role': 'player'}, {'playerName': 'Fuller', 'realName': 'Lin Yifan (林逸凡)', 'role': 'player'}]"
+4475,Gen.G Black,Game Changers,3,14,0.176,54,21,"[{'playerName': 'Kazler', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Calvrix', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'IssaNina', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'kasumu', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'kazz', 'realName': 'Kassandra Shire', 'role': 'player'}, {'playerName': 'heist', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'rose', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Sword', 'realName': 'N/A', 'role': 'coach'}]"
+4519,PURPURE,Europe,16,11,0.593,N/A,N/A,"[{'playerName': 'antonio', 'realName': 'Antonio Atanasov', 'role': 'player'}, {'playerName': 'MANNICK', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'YORZERA', 'realName': 'Filip Eremic', 'role': 'player'}, {'playerName': 'haint', 'realName': 'Artem Kim', 'role': 'player'}, {'playerName': 'pops', 'realName': 'Egor Zinoviev', 'role': 'coach'}]"
+4538,Team Queso,Europe,21,31,0.404,N/A,N/A,"[{'playerName': 'mezoky', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Boom', 'realName': 'Daniel Jiménez', 'role': 'player'}, {'playerName': 'Fito', 'realName': 'Manuel Francisco López', 'role': 'Sub'}, {'playerName': 'Lxpez', 'realName': 'Álvaro López', 'role': 'head coach'}]"
+4567,Papara SuperMassive,Turkey,16,9,0.64,N/A,N/A,Europe
+4569,Fraggerz,United Arab Emirates,9,4,0.692,N/A,N/A,MENA
+4572,Galatasaray Esports,Turkey,65,66,0.496,N/A,N/A,Europe
+4616,UCAM Esports Club,Europe,1,4,0.2,N/A,N/A,Europe
+466,BOOM Esports,Indonesia,137,61,0.692,N/A,N/A,Asia-Pacific
+4669,Digital Athletics,Turkey,N/A,N/A,N/A,N/A,N/A,Europe
+4671,EGN Esports,Portugal,N/A,N/A,N/A,N/A,N/A,Europe
+4680,Team 69,India,20,30,0.4,N/A,N/A,Asia-Pacific
+4683,Invincible Gaming,China,N/A,N/A,N/A,N/A,N/A,China
+4685,Team Occupy,Egypt,3,3,0.5,N/A,N/A,MENA
+4686,Fire Flux Esports,Turkey,58,32,0.644,N/A,N/A,Europe
+4733,True Rippers,India,47,49,0.49,N/A,N/A,Asia-Pacific
+474,Team Liquid,Europe,92,39,0.702,N/A,N/A,Europe
+4762,Galakticos,Turkey,4,3,0.571,N/A,N/A,Europe
+4782,Cyber Wolves Esports,Europe,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'ALMO', 'realName': 'Albert Mościcki', 'role': 'player'}, {'playerName': 'Freyy', 'realName': 'Krystian Konopka', 'role': 'player'}, {'playerName': 'Hitch', 'realName': 'Martin Srp', 'role': 'player'}, {'playerName': 'pyrolll', 'realName': 'Artur Minin', 'role': 'player'}, {'playerName': 'tatzuki', 'realName': 'Jovan Milovanovic', 'role': 'player'}, {'playerName': 'fistie', 'realName': 'Sergey Vasilev', 'role': 'coach'}, {'playerName': 'Marchi', 'realName': 'Artur Muratov', 'role': 'assistant coach'}]"
+4837,Shopify Rebellion GC,North America,16,42,0.276,85,28,[]
+4860,Dominus Esports,Vietnam,2,5,0.286,N/A,N/A,Asia-Pacific
+4893,Cynical,Indonesia,N/A,N/A,N/A,N/A,N/A,Asia-Pacific
+4915,Natus Vincere,Europe,38,25,0.603,N/A,N/A,Europe
+4920,Moon Raccoons Black,Game Changers,6,7,0.462,6,7,"[{'playerName': 'leelee', 'realName': 'Lee Lee McNeil', 'role': 'player'}, {'playerName': 'Lana', 'realName': 'Lana Doar', 'role': 'player'}, {'playerName': 'slaze', 'realName': 'Sophia Ramirez', 'role': 'player'}, {'playerName': 'lazylion', 'realName': 'Nathan Hoang', 'role': 'player'}, {'playerName': 'pad', 'realName': 'N/A', 'role': 'head coach'}]"
+497,Attack All Around,Asia-Pacific,76,47,0.618,N/A,N/A,"[{'playerName': 'xcool3', 'realName': 'Nuttadet Wijit', 'role': 'player'}, {'playerName': 'AloNeFillz', 'realName': 'Palapoom Thaikum', 'role': 'player'}, {'playerName': 'kongared', 'realName': 'Nantapol Boonying', 'role': 'player'}, {'playerName': 'niffy', 'realName': 'Patcharapon Junman', 'role': 'player'}, {'playerName': 'b3ta', 'realName': 'Puwadon Jaisuekul', 'role': 'player'}, {'playerName': 'SantaGolf', 'realName': 'Chanitpak Suwanaprateep', 'role': 'player'}, {'playerName': 'Snapp', 'realName': 'Sorawit Nakkasem', 'role': 'manager'}, {'playerName': 'hAx0r', 'realName': 'Arm Kokijrojana', 'role': 'head coach'}, {'playerName': 'TOR', 'realName': 'Tosapol Saekow', 'role': 'coach'}, {'playerName': 'rapteR', 'realName': 'Veerawich Sermsin', 'role': 'assistant coach'}]"
+5038,YFP Gaming,United States,2,4,0.333,N/A,N/A,North America
+5091,RIZON,Germany,7,17,0.292,N/A,N/A,Europe
+516,FAV gaming,Japan,36,15,0.706,N/A,N/A,Japan
+5214,CGN Esports,Germany,10,5,0.667,N/A,N/A,Europe
+5248,Evil Geniuses,United States,19,13,0.594,N/A,N/A,North America
+5310,Fenerbahçe Esports,Turkey,12,8,0.6,N/A,N/A,Europe
+5426,The Infinity Esport,Thailand,6,8,0.429,N/A,N/A,Asia-Pacific
+5448,ZETA DIVISION,Japan,63,10,0.863,N/A,N/A,Japan
+5523,BIGG SCYTHE,Game Changers,3,0,1.0,11,8,"[{'playerName': 'yaamorii', 'realName': 'Anatasya Aura', 'role': 'player'}, {'playerName': 'opel', 'realName': 'Risalma Agnia', 'role': 'player'}, {'playerName': 'crescents', 'realName': 'Daltha Amellia', 'role': 'player'}, {'playerName': 'skyelyse', 'realName': 'Milka', 'role': 'player'}, {'playerName': 'marche', 'realName': 'Meidy Safira Permata', 'role': 'player'}, {'playerName': 'Ladycat', 'realName': 'Cathy Mewengkang', 'role': 'manager'}]"
+5601,Nightblood Gaming,United States,N/A,N/A,N/A,N/A,N/A,North America
+581,Liberty,Brazil,2,3,0.4,N/A,N/A,"[{'playerName': 'guuih', 'realName': 'Guilherme Mariano', 'role': 'player'}, {'playerName': 'pepa', 'realName': 'Matheus Colleto', 'role': 'player'}, {'playerName': 'duhT', 'realName': 'Eduardo Teixeira', 'role': 'player'}, {'playerName': 'Zanatsu', 'realName': 'Carlos Eduardo', 'role': 'player'}, {'playerName': 'tockers', 'realName': 'Gabriel Claumann', 'role': 'player'}, {'playerName': 'Hiromi', 'realName': 'Saymon de Sousa', 'role': 'head coach'}]"
+5931,Team Big BAAM,Vietnam,33,32,0.508,N/A,N/A,Asia-Pacific
+5944,Night Wings Gaming,China,12,19,0.387,N/A,N/A,China
+6008,ODDIK Bright,Brazil,3,10,0.231,44,31,"[{'playerName': 'gabee', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'mindle', 'realName': 'Elaine Takahashi', 'role': 'player'}, {'playerName': 'gabiTê', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Aninha', 'realName': 'Ana Luiza Martinho', 'role': 'player'}, {'playerName': 'mat', 'realName': 'N/A', 'role': 'coach'}]"
+6035,Twisted Minds Esports,Saudi Arabia,N/A,N/A,N/A,N/A,N/A,MENA
+6052,Fear Eater Sierra,Indonesia,2,2,0.5,2,2,Game Changers
+6093,Qing Jiu Club,China,4,6,0.4,N/A,N/A,China
+6127,Axolotl,Italy,18,17,0.514,N/A,N/A,Europe
+6132,İstanbul Wildcats,Turkey,6,8,0.429,N/A,N/A,Europe
+6149,Case Esports,Europe,46,19,0.708,N/A,N/A,[]
+6159,Onyx Ravens,Saudi Arabia,N/A,N/A,N/A,N/A,N/A,MENA
+6170,The Silk Road,North America,223,137,0.619,N/A,N/A,"[{'playerName': 'GLYPH', 'realName': 'Conner Garcia', 'role': 'player'}, {'playerName': 'Neon', 'realName': 'Austin Hedge', 'role': 'player'}, {'playerName': 'd1msumboi', 'realName': 'Erik Almhjell', 'role': 'player'}, {'playerName': 'emi', 'realName': 'N/A', 'role': 'manager'}]"
+6191,NOM Esports,Israel,N/A,N/A,N/A,N/A,N/A,Europe
+6193,Geekay Esports,Saudi Arabia,42,25,0.627,N/A,N/A,MENA
+6195,Team Galaga,Spain,2,3,0.4,N/A,N/A,Europe
+6199,Team Secret,Philippines,67,40,0.626,N/A,N/A,Asia-Pacific
+6200,Complexity GX3,North America,0,2,0.0,35,23,"[{'playerName': 'Jazzyk1ns', 'realName': 'Jasmine Manankil', 'role': 'player'}, {'playerName': 'clawdia', 'realName': 'Claudia Che', 'role': 'player'}, {'playerName': 'Karra', 'realName': 'Aara Lee', 'role': 'player'}, {'playerName': 'rayse', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'L4CE', 'realName': 'Lacey Dilworth', 'role': 'player'}, {'playerName': 'alimonstr', 'realName': 'Alice Lew', 'role': 'manager'}, {'playerName': 'Coach Joe', 'realName': 'N/A', 'role': 'coach'}, {'playerName': 'sloth', 'realName': 'Derek Diaz', 'role': 'coach'}]"
+6210,FUT Female,Game Changers,20,14,0.588,20,14,"[{'playerName': 'Lyda', 'realName': 'İlayda Güzeldere', 'role': 'player'}, {'playerName': 'rezq', 'realName': 'Eda Naz Akçocuk', 'role': 'player'}, {'playerName': 'Julis', 'realName': 'Açelya Özgen', 'role': 'Sub'}, {'playerName': 'Mol', 'realName': 'Berke Mol', 'role': 'manager'}, {'playerName': 'QuestioN', 'realName': 'Ömer Karabulut', 'role': 'head coach'}]"
+622,Thailand Attitude,Asia-Pacific,35,28,0.556,N/A,N/A,"[{'playerName': 'umaruchans', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Delend', 'realName': 'Thanaboon Tungsupsati', 'role': 'player'}, {'playerName': 'Aowha', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'ALLR1GHTT', 'realName': 'N/A', 'role': 'player'}]"
+623,Sharper Esport,Thailand,90,75,0.545,N/A,N/A,Asia-Pacific
+6235,Incognito,Poland,N/A,N/A,N/A,N/A,N/A,Europe
+624,Paper Rex,Singapore,4,5,0.444,N/A,N/A,Asia-Pacific
+6263,Guild GC,Game Changers,89,25,0.781,89,25,"[{'playerName': 'Xaline', 'realName': 'Laure Mateos', 'role': 'player'}]"
+6313,KPI Gaming,Europe,5,12,0.294,N/A,N/A,Europe
+6314,XSET,North America,14,10,0.583,14,10,"[{'playerName': 'Bob', 'realName': 'Bob Tran', 'role': 'player'}, {'playerName': 'katsumi', 'realName': 'Katja Pfahnl', 'role': 'player'}]"
+6316,Anorthosis Famagusta Esports,Europe,52,47,0.525,N/A,N/A,[]
+6349,İstanbul Wildcats Female,Turkey,N/A,N/A,N/A,2,10,Game Changers
+6368,BBL Queens,Turkey,8,6,0.571,8,6,Game Changers
+6387,BLEED,Singapore,22,12,0.647,N/A,N/A,Asia-Pacific
+6392,Eternal Fire,Turkey,14,10,0.583,N/A,N/A,Europe
+6397,Five Ace Esports,Taiwan,6,10,0.375,N/A,N/A,Asia-Pacific
+6400,Human Tripwires,Europe,22,18,0.55,N/A,N/A,"[{'playerName': 'Dev0', 'realName': 'Corey Brame', 'role': 'player'}, {'playerName': 'MaximN', 'realName': 'Maxim Nonglaire', 'role': 'player'}, {'playerName': 'ReQz', 'realName': 'Hieu Moss', 'role': 'player'}, {'playerName': 'chanformer', 'realName': 'Joshua Chan', 'role': 'player'}, {'playerName': 'Bully', 'realName': 'Francisco Betancourt', 'role': 'player'}, {'playerName': 'Raymon', 'realName': 'Paul Angold', 'role': 'head coach'}]"
+6422,Resonate,North America,9,7,0.562,N/A,N/A,"[{'playerName': 'nabil', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'velis', 'realName': 'Joe Velis', 'role': 'player'}, {'playerName': 'andrew', 'realName': 'Andrew Bautista', 'role': 'player'}, {'playerName': 'contii', 'realName': 'Norman Yeung', 'role': 'player'}, {'playerName': 'KHS', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'kaho', 'realName': 'Albert Hong', 'role': 'Sub'}, {'playerName': 'Cain', 'realName': 'Nathan Lee', 'role': 'Sub'}, {'playerName': 'West', 'realName': 'Zachary Dorlis', 'role': 'coach'}]"
+6456,FlyQuest RED,United States,1,9,0.1,101,43,North America
+6530,G2 Gozen,Europe,1,6,0.143,88,16,Game Changers
+6537,HMBLE,Europe,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'KnightVoice', 'realName': 'Hubert Lorenc', 'role': 'player'}, {'playerName': 'looM', 'realName': 'Luca Landolfo', 'role': 'player'}, {'playerName': 'Morphiius', 'realName': 'Ezio Frandina', 'role': 'Sub'}]"
+6538,DSYRE,Europe,N/A,N/A,N/A,N/A,N/A,Europe
+6541,Skull Cracker Quartz,Game Changers,50,26,0.658,50,26,"[{'playerName': 'Lied', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Andrehs', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Rage', 'realName': 'Eliana Avila', 'role': 'player'}, {'playerName': 'Isao', 'realName': 'N/A', 'role': 'coach'}, {'playerName': 'WOLFZ', 'realName': 'Richard Goncalves', 'role': 'assistant coach'}]"
+6556,Six Karma Feminil,Game Changers,6,2,0.75,6,2,"[{'playerName': 'Kikirucha', 'realName': 'N/A', 'role': 'player'}]"
+6665,Team NKT,Thailand,58,48,0.547,N/A,N/A,"[{'playerName': 'socools0da', 'realName': 'Natdanai Chaibun', 'role': 'player'}, {'playerName': 'ArPoom', 'realName': 'Rujipoom Changkrut', 'role': 'player'}, {'playerName': 'Teerapong', 'realName': 'Teerapong Wongsirisuponchai', 'role': 'Inactive'}, {'playerName': 'w1zard', 'realName': 'Puttipong Ninthavornkul', 'role': 'manager'}]"
+6675,The Guard,North America,84,39,0.683,N/A,N/A,"[{'playerName': 'valyn', 'realName': 'Jacob Batio', 'role': 'player'}, {'playerName': 'JonahP', 'realName': 'Jonah Pulice', 'role': 'player'}, {'playerName': 'trent', 'realName': 'Trent Cairns', 'role': 'player'}, {'playerName': 'neT', 'realName': 'Michael Bernet', 'role': 'player'}, {'playerName': 'tex', 'realName': 'Ian Botsch', 'role': 'player'}, {'playerName': 'Seowulf', 'realName': 'Myungjun Seo', 'role': 'manager'}, {'playerName': 'JoshRT', 'realName': 'Josh Lee', 'role': 'head coach'}]"
+6727,Misfits Black,North America,11,28,0.282,80,45,"[{'playerName': 'Carlee', 'realName': 'Carlee Gress', 'role': 'player'}, {'playerName': 'panday', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Tastyy', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'edith', 'realName': 'Eden Bryce Cutlip', 'role': 'player'}, {'playerName': 'Slandy', 'realName': 'Presley Anderson', 'role': 'player'}, {'playerName': 'Alexlihing', 'realName': 'Alex Li', 'role': 'manager'}, {'playerName': 'Jaxsen', 'realName': 'Jackson Popelka', 'role': 'head coach'}]"
+6750,Rebels Gaming,Europe,88,54,0.62,N/A,N/A,[]
+6751,Parla Esports,Europe,3,3,0.5,N/A,N/A,"[{'playerName': 'Jlerst', 'realName': 'Naci Enes Yıldırım', 'role': 'player'}, {'playerName': 'sociablEE', 'realName': 'Volkan Yonal', 'role': 'player'}, {'playerName': 'lauress', 'realName': 'Toprak Kaynak', 'role': 'player'}, {'playerName': 'Ruxic', 'realName': 'Uğur Güç', 'role': 'player'}, {'playerName': 'jeyj7y', 'realName': 'Soner Eren Kent', 'role': 'player'}, {'playerName': 'yetgin', 'realName': 'Mehmet Yetgin', 'role': 'manager'}, {'playerName': 'afr0nfire', 'realName': 'Hakan Pınarbaşı', 'role': 'head coach'}, {'playerName': 'L7', 'realName': 'Emirhan Şahintürk', 'role': 'coach'}]"
+6777,AIMPUNCH.,Game Changers,12,13,0.48,12,13,"[{'playerName': 'Risorah', 'realName': 'Vivian Dela Cruz', 'role': 'manager'}]"
+6793,Jadeite,Japan,20,11,0.645,N/A,N/A,[]
+6798,REIGNITE,Japan,12,10,0.545,N/A,N/A,Japan
+6826,Undead Gaming Fem,Game Changers,N/A,N/A,N/A,14,9,"[{'playerName': 'Morita', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Dae', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'jeyjey', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'sumi', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'minuty', 'realName': 'N/A', 'role': 'player'}]"
+685,HSDIRR,Europe,101,51,0.664,N/A,N/A,"[{'playerName': 'Ale', 'realName': 'Alend Khalaf', 'role': 'player'}, {'playerName': 'vicious', 'realName': 'Benjamin Guilotte', 'role': 'player'}, {'playerName': 'lyNxi', 'realName': 'Felix Björklund', 'role': 'player'}, {'playerName': 'Meddo', 'realName': 'Johan Renbjörk Lundborg', 'role': 'player'}, {'playerName': 'freddan', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'euanval', 'realName': 'Euan Would', 'role': 'coach'}]"
+6869,IGZIST,Japan,52,40,0.565,N/A,N/A,Japan
+6882,FOKUS,Germany,19,10,0.655,N/A,N/A,Europe
+6946,TBK Esports,Brazil,9,3,0.75,N/A,N/A,Brazil
+6961,LOUD,Brazil,59,22,0.728,N/A,N/A,Brazil
+6985,QoR,United States,2,7,0.222,N/A,N/A,North America
+7030,Tyrant Esports,Philippines,N/A,N/A,N/A,N/A,N/A,Asia-Pacific
+7031,NAOS,Philippines,31,25,0.554,N/A,N/A,Asia-Pacific
+7035,KOI,Europe,75,43,0.636,N/A,N/A,Europe
+7039,Stream Raiders Nacague,Philippines,13,6,0.684,N/A,N/A,Asia-Pacific
+7055,Team Liquid Brazil,Brazil,51,3,0.944,51,3,Brazil
+7105,EX0TIK GAMING,Europe,7,12,0.368,N/A,N/A,Europe
+724,E-Xolos LAZER,Colombia,45,19,0.703,N/A,N/A,Latin America North
+7243,B8 Esports,Europe,7,5,0.583,N/A,N/A,Europe
+7269,FUSION,Colombia,2,1,0.667,N/A,N/A,Latin America North
+731,TYLOO,China,7,1,0.875,N/A,N/A,China
+7386,MIBR,Brazil,17,9,0.654,N/A,N/A,Brazil
+7397,XERXIA Esports,Thailand,81,29,0.736,N/A,N/A,Asia-Pacific
+7403,who cars?,Denmark,45,45,0.5,N/A,N/A,Europe
+7412,Akave Esports GC,International,9,17,0.346,9,17,Game Changers
+7413,FiRePOWER,Argentina,0,3,0.0,28,4,Latin America South
+7511,KRÜ BLAZE,Chile,1,3,0.25,53,5,Game Changers
+756,ehehxd,Portugal,96,59,0.619,N/A,N/A,Europe
+7738,GeeKay Esports Cherry,Game Changers,12,11,0.522,12,11,"[{'playerName': 'Sandra', 'realName': 'Sandra Sherif', 'role': 'player'}, {'playerName': 'Pinkalie', 'realName': 'Julie Lim', 'role': 'player'}, {'playerName': 'Natakodo', 'realName': 'Natasha Kodo', 'role': 'player'}, {'playerName': 'jduh', 'realName': 'Ceyda Kondu', 'role': 'player'}, {'playerName': 'Sou', 'realName': 'N/A', 'role': 'Sub'}, {'playerName': 'kelevra', 'realName': 'Jalal Mohammed Ghazi', 'role': 'coach'}, {'playerName': 'Crypta', 'realName': 'N/A', 'role': 'analyst'}]"
+7744,UNtapped,Game Changers,2,0,1.0,67,22,"[{'playerName': 'mediKa', 'realName': 'Annika Lambertz', 'role': 'player'}, {'playerName': 'Nariel', 'realName': 'Yaren Cirit', 'role': 'player'}, {'playerName': 'Sylva', 'realName': 'Anna Bruce-Doig', 'role': 'player'}, {'playerName': 'Lil Bob', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Crxnk', 'realName': 'N/A', 'role': 'coach'}]"
+7757,Alliance Coven,Game Changers,0,1,0.0,61,26,"[{'playerName': 'fluxxy', 'realName': 'Lola Ainslie', 'role': 'player'}, {'playerName': '6sonya', 'realName': 'Maria Istrate', 'role': 'player'}, {'playerName': 'B3AUTIFUL', 'realName': 'Laureta Hajra', 'role': 'player'}, {'playerName': 'Melzz', 'realName': 'Melinda BlomQvist', 'role': 'player'}]"
+7932,OnlyFins,Finland,86,45,0.656,N/A,N/A,Europe
+7967,Mandatory,France,66,36,0.647,N/A,N/A,Europe
+799,Velocity Gaming,Philippines,167,45,0.788,N/A,N/A,Asia-Pacific
+8044,MOUZ,Europe,18,9,0.667,N/A,N/A,Europe
+8049,Diamant Esports,Europe,71,45,0.612,N/A,N/A,Europe
+8050,MIBR GC,Brazil,N/A,N/A,N/A,11,9,Game Changers
+8086,Maru Gaming,South Korea,16,15,0.516,N/A,N/A,Korea
+8099,CNJ Esports,South Korea,5,2,0.714,N/A,N/A,Korea
+8128,WYLDE,Netherlands,1,2,0.333,N/A,N/A,Europe
+8172,Honvéd Esport,Hungary,N/A,N/A,N/A,N/A,N/A,Europe
+8182,Incheon On Sla2ers,South Korea,30,22,0.577,N/A,N/A,Korea
+8185,DRX,South Korea,145,37,0.797,N/A,N/A,Korea
+8196,Phenix Claire,Indonesia,0,1,0.0,5,5,Game Changers
+8233,Serendipity,United States,0,3,0.0,0,3,Game Changers
+8240,Team SMG GC,Game Changers,2,1,0.667,22,9,"[{'playerName': 'enerii', 'realName': 'Odella Abraham', 'role': 'player'}, {'playerName': 'Alexy', 'realName': 'Alexy Francisco', 'role': 'player'}, {'playerName': 'shirazi', 'realName': 'Kelly Jaudian', 'role': 'player'}, {'playerName': 'Kamiyu', 'realName': 'Camille Enriquez', 'role': 'player'}, {'playerName': 'Tara', 'realName': 'Ryona Shannen Tan', 'role': 'Sub'}, {'playerName': 'Kasake', 'realName': 'Zachary Yeo', 'role': 'manager'}, {'playerName': 'Colbat', 'realName': 'Kenneth Ho', 'role': 'coach'}]"
+8258,ZETA Gaming,Spain,0,3,0.0,N/A,N/A,Europe
+8264,Nearest Airport,North America,38,10,0.792,N/A,N/A,"[{'playerName': 'k0rupt', 'realName': 'Wylie Watts', 'role': 'player'}, {'playerName': 'melya', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'BlackMoose', 'realName': 'Shawn Fox', 'role': 'player'}, {'playerName': 'Uncreative', 'realName': 'Kuba Kosiba', 'role': 'player'}, {'playerName': 'Tn', 'realName': 'N/A', 'role': 'player'}]"
+8303,S2 Esports,Asia-Pacific,1,2,0.333,N/A,N/A,"[{'playerName': 'MiLuan', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'moon', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'mikasa', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'zhen', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'jaymomo', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Sa1koro', 'realName': 'N/A', 'role': 'Sub'}]"
+8304,Talon Esports,Thailand,4,2,0.667,N/A,N/A,Asia-Pacific
+8310,FUSION X,International,9,8,0.529,9,8,Game Changers
+8322,Optix Fem,Game Changers,4,4,0.5,4,4,"[{'playerName': 'may', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'coalZ', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Uvita', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Hanna', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'cxta', 'realName': 'Catalina Casanova', 'role': 'player'}, {'playerName': 'Churra', 'realName': 'N/A', 'role': 'Sub'}, {'playerName': 'shaz', 'realName': 'N/A', 'role': 'Sub'}, {'playerName': 'Fenih', 'realName': 'N/A', 'role': 'coach'}, {'playerName': 'JTomi', 'realName': 'N/A', 'role': 'analyst'}]"
+8369,Revenant Esports,India,64,64,0.5,N/A,N/A,Asia-Pacific
+8374,Sanguine Rebels Dragons,Asia-Pacific,N/A,N/A,N/A,N/A,N/A,"[{'playerName': 'KUYAYAWI', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Realist', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'S1000', 'realName': 'Larce Reyes', 'role': 'player'}, {'playerName': 'Lego', 'realName': 'Darwin Palencia', 'role': 'manager'}, {'playerName': 'kaye', 'realName': 'Kaye Alvarez', 'role': 'manager'}]"
+8375,ZOL Esports,Philippines,3,6,0.333,N/A,N/A,Asia-Pacific
+8380,DIVIZON,Germany,15,30,0.333,N/A,N/A,Europe
+8422,Hike Digital Esports,Asia-Pacific,25,21,0.543,N/A,N/A,"[{'playerName': 'Madelyn', 'realName': 'Raven William', 'role': 'player'}, {'playerName': 'zharwow', 'realName': 'Rayhan Filardhi Azhar', 'role': 'player'}, {'playerName': 'Kylee', 'realName': 'Muhammad Syafrizal', 'role': 'player'}, {'playerName': 'Peekaboo', 'realName': 'Bryant', 'role': 'player'}, {'playerName': 'k1ngkappa', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Vinseer', 'realName': 'Sadad Abshar', 'role': 'manager'}]"
+8433,Orangutan X,Game Changers,2,2,0.5,22,12,"[{'playerName': 'Japips', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Erumaa', 'realName': 'Elmarian Haessel', 'role': 'player'}, {'playerName': 'CaspeR', 'realName': 'Neha Sottany', 'role': 'player'}, {'playerName': 'Twirly', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Sway', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'GuNNeR', 'realName': 'Asad Azam', 'role': 'coach'}]"
+8448,BOBO,Australia,56,21,0.727,N/A,N/A,Oceania
+8470,VICTORY,Asia-Pacific,5,11,0.312,N/A,N/A,"[{'playerName': 'TRIPCIEW', 'realName': 'Vữ Minh Cường', 'role': 'player'}]"
+8476,Ugly Hamsters,North America,1,7,0.125,N/A,N/A,"[{'playerName': 'beanann', 'realName': 'Rylin Smith', 'role': 'player'}, {'playerName': 'Didney', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'echo', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'L21saac', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Ciel', 'realName': 'N/A', 'role': 'player'}]"
+8484,Medal Esports,India,63,48,0.568,N/A,N/A,Asia-Pacific
+8569,Skwirel Warriers,North America,39,20,0.661,N/A,N/A,"[{'playerName': 'Pa1nt', 'realName': 'Amarri Peak', 'role': 'player'}, {'playerName': 'Nurfed', 'realName': 'James McFadden', 'role': 'player'}, {'playerName': 'BearZ', 'realName': 'Peyton Miller', 'role': 'player'}, {'playerName': 'ethos', 'realName': 'Alan Ruan', 'role': 'player'}, {'playerName': 'ALEKSANDAR', 'realName': 'Aleksandar Hinojosa', 'role': 'player'}, {'playerName': 'SteelTic', 'realName': 'N/A', 'role': 'manager'}, {'playerName': 'Huston', 'realName': 'Stephen Huston', 'role': 'coach'}]"
+8573,Case Hydra,Spain,34,21,0.618,34,21,Europe
+8587,The Mad Men,Vietnam,N/A,N/A,N/A,N/A,N/A,Asia-Pacific
+8658,Incognito GC,Poland,N/A,N/A,N/A,3,4,Game Changers
+8674,Rebels Velvet,Europe,0,1,0.0,32,21,Game Changers
+8691,Team Cruelty,Latin America,5,4,0.556,N/A,N/A,"[{'playerName': 'HellFull', 'realName': 'Andres Vallejo', 'role': 'player'}, {'playerName': 'GabZ', 'realName': 'Gabriel Andrade', 'role': 'player'}, {'playerName': 'Porkys', 'realName': 'N/A', 'role': 'assistant coach'}]"
+8741,Blitz Esports,Malaysia,N/A,N/A,N/A,N/A,N/A,Asia-Pacific
+878,Rex Regum Qeon,Indonesia,17,16,0.515,N/A,N/A,Asia-Pacific
+879,Todak,Malaysia,75,71,0.514,N/A,N/A,Asia-Pacific
+8826,ALTERNATE aTTaX,Germany,17,17,0.5,N/A,N/A,Europe
+8829,Comet Esports Club,International,N/A,N/A,N/A,N/A,N/A,[]
+8836,Area of Effect,United States,N/A,N/A,N/A,N/A,N/A,North America
+8840,Bravado Gaming,MENA,8,11,0.421,N/A,N/A,[]
+8866,Good 8 Squad,Japan,8,6,0.571,N/A,N/A,"[{'playerName': 'ryota-', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'kenmohororo', 'realName': 'Kaito Yoshida', 'role': 'player'}, {'playerName': 'C1ndeR', 'realName': 'Ko Jae-hyuk (고재혁)', 'role': 'player'}, {'playerName': 'Bangnan', 'realName': 'Jung Min-u (정민우)', 'role': 'player'}, {'playerName': 'PeroOwO', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Xandrite', 'realName': 'N/A', 'role': 'assistant coach'}, {'playerName': 'fumi', 'realName': 'N/A', 'role': 'analyst'}]"
+8870,HIT GAMING CLAN,Japan,N/A,N/A,N/A,N/A,N/A,Japan
+8877,Karmine Corp,Europe,15,11,0.577,N/A,N/A,Europe
+8897,Tartarus,Korea,5,6,0.455,N/A,N/A,"[{'playerName': 'Delta', 'realName': 'N/A', 'role': 'player'}]"
+8904,Orangutan,India,13,7,0.65,N/A,N/A,Asia-Pacific
+8924,Ramboot Club,Europe,7,21,0.25,N/A,N/A,Europe
+8925,ARF TEAM,Indonesia,46,37,0.554,N/A,N/A,Asia-Pacific
+8929,Hungkuang Falcon,Taiwan,N/A,N/A,N/A,N/A,N/A,Asia-Pacific
+8946,Zero Tenacity,Poland,99,80,0.553,N/A,N/A,Europe
+8996,ESC Gaming,Europe,5,4,0.556,N/A,N/A,Europe
+9011,Impulse GW,Portugal,15,31,0.326,N/A,N/A,Europe
+9021,BHOP Esports,International,1,4,0.2,N/A,N/A,North America
+9042,TeamOrangeGaming,Germany,2,7,0.222,N/A,N/A,Europe
+9077,S2G Esports,Turkey,5,4,0.556,N/A,N/A,Europe
+9078,Cruzados Esports Fem,Game Changers,4,5,0.444,4,5,[]
+9163,Cleiteam,Brazil,3,11,0.214,34,30,"[{'playerName': 'allie', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'waved', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'luiza', 'realName': 'Luiza Parron', 'role': 'player'}, {'playerName': 'mizi', 'realName': 'Mirella Gomes', 'role': 'player'}, {'playerName': 'blu', 'realName': 'Victoriah Ceniz', 'role': 'player'}]"
+918,Global Esports,India,119,48,0.713,N/A,N/A,Asia-Pacific
+9203,Awake Gaming Female,Game Changers,0,6,0.0,0,6,"[{'playerName': 'GuterWoman', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'ZoeLiL', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Kyarix', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Princess', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'wanheda', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Kiwii', 'realName': 'N/A', 'role': 'player'}]"
+9205,LEVIATÁN GC,Chile,1,2,0.333,1,2,Game Changers
+9284,Acend Rising,Game Changers,2,0,1.0,67,22,"[{'playerName': 'schnellÆ', 'realName': 'Ayşe Ergül', 'role': 'player'}, {'playerName': 'amy', 'realName': 'Amy Lai', 'role': 'player'}, {'playerName': 'h6tedthemost', 'realName': 'Lada Kozhemyakina', 'role': 'player'}, {'playerName': 'speedowka', 'realName': 'Weronika Dabrowska', 'role': 'player'}, {'playerName': 'Joliinaa', 'realName': 'Tina Agéli', 'role': 'player'}, {'playerName': 'Pnut', 'realName': 'Jonna Kruiver', 'role': 'manager'}, {'playerName': 'Aska', 'realName': 'Antonio Lozano', 'role': 'coach'}]"
+9285,9z Team GC,Argentina,1,0,1.0,9,8,Game Changers
+9314,Team Falcons Vega,Saudi Arabia,71,26,0.732,71,26,Game Changers
+9315,ZETA DIVISION GC,Japan,3,2,0.6,26,4,Japan
+9330,Ariana Grande Perfume,Game Changers,N/A,N/A,N/A,36,15,"[{'playerName': 'marceline', 'realName': 'Jina Kim', 'role': 'player'}, {'playerName': 'Australis', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'm1yu', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Iroo', 'realName': 'N/A', 'role': 'coach'}]"
+9408,Natus Vincere Celestials,Europe,38,22,0.633,38,22,"[{'playerName': 'Lateu', 'realName': 'Hilal Yaşar', 'role': 'player'}, {'playerName': 'Anva', 'realName': 'Nehir Dinçer', 'role': 'player'}, {'playerName': 'Miyori', 'realName': 'Eylül Sudem Sarıoğlu', 'role': 'player'}, {'playerName': 'Sephia', 'realName': 'Reyhan Şimşek', 'role': 'player'}, {'playerName': 'proxima', 'realName': 'Aslıhan Uslu', 'role': 'player'}, {'playerName': 'Gia', 'realName': 'Süreyya Bayel', 'role': 'Inactive'}, {'playerName': 'KEY', 'realName': 'Mert Çelebi', 'role': 'coach'}]"
+9427,OXEN,Argentina,N/A,N/A,N/A,N/A,N/A,Latin America South
+9437,DRAGONS,Saudi Arabia,0,5,0.0,N/A,N/A,MENA
+9438,VX300 Gaming,Italy,9,5,0.643,N/A,N/A,Europe
+9499,Hitmen,International,N/A,N/A,N/A,N/A,N/A,North America
+9508,FIVE Media Clan,Spain,5,2,0.714,N/A,N/A,Europe
+9516,FENNEL GC,Japan,1,1,0.5,25,14,Game Changers
+9517,Sasanqua,Japan,N/A,N/A,N/A,3,4,Game Changers
+9521,Focus e-Sports GC,Japan,2,1,0.667,2,1,Game Changers
+9523,REIGNITE Lily,Japan,19,11,0.633,19,11,Game Changers
+9524,SPICE Thieves,Japan,3,3,0.5,3,3,Game Changers
+9526,Insomnia GC,Japan,2,1,0.667,2,1,Game Changers
+9530,IGZIST Female,Japan,N/A,N/A,N/A,5,4,Game Changers
+9547,Evil Geniuses GC,North America,0,21,0.0,98,37,"[{'playerName': 'PowerPixele', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Nora', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'Lorri', 'realName': 'Lorrian Elad', 'role': 'player'}, {'playerName': 'StarBound', 'realName': 'N/A', 'role': 'player'}, {'playerName': 'theia', 'realName': 'Melisa Mundorff', 'role': 'player'}, {'playerName': 'Kurt', 'realName': 'Kurtis Gallo', 'role': 'manager'}, {'playerName': 'Jovi', 'realName': 'Jovanni Vera', 'role': 'coach'}]"
+9559,Zerance,France,N/A,N/A,N/A,N/A,N/A,Europe
+9613,Blinn,United States,29,11,0.725,N/A,N/A,North America
+9621,trashcan,Europe,N/A,N/A,N/A,N/A,N/A,Europe
+9679,WTP,United States,30,26,0.536,N/A,N/A,North America
+9727,Koopa Troopas,Australia,31,43,0.419,N/A,N/A,Oceania
+9762,GTZ Esports,Portugal,44,10,0.815,N/A,N/A,Europe
+9810,Black Dragons FEM,Brazil,3,11,0.214,34,30,"[{'playerName': 'blu', 'realName': 'Victoriah Ceniz', 'role': 'player'}, {'playerName': 'luiza', 'realName': 'Luiza Parron', 'role': 'player'}, {'playerName': 'lule', 'realName': 'Luiza Meira', 'role': 'player'}, {'playerName': 'mizi', 'realName': 'Mirella Gomes', 'role': 'player'}, {'playerName': 'Bia', 'realName': 'Beatriz Terra', 'role': 'player'}, {'playerName': 'quiNtbia', 'realName': 'Bianca Quint', 'role': 'Inactive'}, {'playerName': 'sonho', 'realName': 'N/A', 'role': 'coach'}, {'playerName': 'cruz', 'realName': 'Matheus Cruz', 'role': 'analyst'}]"
+9814,FUZOS,Portugal,N/A,N/A,N/A,N/A,N/A,Europe
+9868,Alien Anonymo,Poland,7,4,0.636,7,4,Game Changers
+9966,VAMONOS,Europe,12,9,0.571,N/A,N/A,Europe
+9975,St. Clair Saints,Canada,19,12,0.613,N/A,N/A,Collegiate

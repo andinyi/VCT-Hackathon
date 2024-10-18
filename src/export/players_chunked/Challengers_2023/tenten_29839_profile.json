@@ -1,0 +1,73 @@
+{
+    "Player URL": "https://www.vlr.gg/player/29839/tenten?timespan=all",
+    "All Agents Stats": [
+        {
+            "Agent": "jett",
+            "Usage": 54.0,
+            "Rounds Played": "1097",
+            "Rating": "1.18",
+            "Average Combat Score": "251.2",
+            "Kills:Death": "1.25",
+            "Average Damage per Round": "157.7",
+            "Kill, Assist, Survive, Trade %": "71%",
+            "Kills Per Round": "0.89",
+            "Assists Per Round": "0.16",
+            "First Kills Per Round": "0.22",
+            "First Deaths Per Round": "0.18",
+            "Kills": "972",
+            "Deaths": "776",
+            "Assists": "173",
+            "First Bloods": "243",
+            "First Deaths": "192",
+            "Rounds by Agents": 56
+        },
+        {
+            "Agent": "raze",
+            "Usage": 41.0,
+            "Rounds Played": "876",
+            "Rating": "1.22",
+            "Average Combat Score": "268.0",
+            "Kills:Death": "1.28",
+            "Average Damage per Round": "172.3",
+            "Kill, Assist, Survive, Trade %": "71%",
+            "Kills Per Round": "0.89",
+            "Assists Per Round": "0.22",
+            "First Kills Per Round": "0.20",
+            "First Deaths Per Round": "0.16",
+            "Kills": "781",
+            "Deaths": "611",
+            "Assists": "192",
+            "First Bloods": "177",
+            "First Deaths": "138",
+            "Rounds by Agents": 42
+        }
+    ],
+    "Current Team": "T1 Academy",
+    "Player": "tenten",
+    "Signature Agents Ranked by Usage": [
+        "jett",
+        "raze"
+    ],
+    "Total games played": 98,
+    "Player stats": {
+        "Rounds Played": "717",
+        "Rating": "1.24",
+        "Average Combat Score": "271.2",
+        "Kills:Death": "1.28",
+        "Kill, Assist, Survive, Trade Percent": "72%",
+        "Average Damage per Round": "169.8",
+        "Kills Per Round": "0.92",
+        "Assists Per Round": "0.18",
+        "First Kills Per Round": "0.23",
+        "First Deaths Per Round": "0.15",
+        "Headshot Percent": "19%",
+        "Clutch Success Percent%": "13%",
+        "Clutches (won/played)": null,
+        "Maximum Kills in a single map": null,
+        "Kills": "658",
+        "Deaths": "516",
+        "Assists": "128",
+        "First Kills": "168",
+        "First Deaths": "109"
+    }
+}

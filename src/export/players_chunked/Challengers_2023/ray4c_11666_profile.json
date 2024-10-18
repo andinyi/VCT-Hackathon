@@ -1,0 +1,52 @@
+{
+    "Player URL": "https://www.vlr.gg/player/11666/ray4c?timespan=all",
+    "All Agents Stats": [
+        {
+            "Agent": "raze",
+            "Usage": 97.0,
+            "Rounds Played": "3703",
+            "Rating": "1.00",
+            "Average Combat Score": "237.6",
+            "Kills:Death": "1.03",
+            "Average Damage per Round": "147.7",
+            "Kill, Assist, Survive, Trade %": "72%",
+            "Kills Per Round": "0.79",
+            "Assists Per Round": "0.25",
+            "First Kills Per Round": "0.16",
+            "First Deaths Per Round": "0.17",
+            "Kills": "2914",
+            "Deaths": "2841",
+            "Assists": "919",
+            "First Bloods": "587",
+            "First Deaths": "638",
+            "Rounds by Agents": 174
+        }
+    ],
+    "Current Team": "Alter Ego",
+    "Player": "ray4c",
+    "Signature Agents Ranked by Usage": [
+        "raze"
+    ],
+    "Total games played": 174,
+    "Player stats": {
+        "Rounds Played": "793",
+        "Rating": "0.92",
+        "Average Combat Score": "221.4",
+        "Kills:Death": "0.90",
+        "Kill, Assist, Survive, Trade Percent": "70%",
+        "Average Damage per Round": "137.7",
+        "Kills Per Round": "0.72",
+        "Assists Per Round": "0.25",
+        "First Kills Per Round": "0.15",
+        "First Deaths Per Round": "0.20",
+        "Headshot Percent": "10%",
+        "Clutch Success Percent%": "28%",
+        "Clutches (won/played)": null,
+        "Maximum Kills in a single map": null,
+        "Kills": "573",
+        "Deaths": "637",
+        "Assists": "201",
+        "First Kills": "119",
+        "First Deaths": "160"
+    }
+}

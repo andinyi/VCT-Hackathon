@@ -1,0 +1,1 @@
+{"id": "297799", "teams": [{"name": "Zerance Mint", "score": "1", "country": "fr", "won": false}, {"name": "FOKUS Sakura", "score": "2", "country": "de", "won": true}], "status": "Completed", "date": "2024-02", "event": "Closed Qualifier–Lower Round 2", "tournament": "Game Changers 2024 EMEA: Kickoff", "img": "https://owcdn.net/img/604be13d01964.png"}

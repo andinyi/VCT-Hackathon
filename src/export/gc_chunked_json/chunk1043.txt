@@ -1,0 +1,1 @@
+{"id": "167909", "teams": [{"name": "Team Liquid Brazil", "score": "3", "country": "br", "won": true}, {"name": "jelly e amigas", "score": "2", "country": "br", "won": false}], "status": "Completed", "date": "2023", "event": "Qualifier 3–Grand Final", "tournament": "Game Changers 2023 Brazil: Series 1", "img": "https://owcdn.net/img/604be13d01964.png"}

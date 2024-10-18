@@ -1,0 +1,1 @@
+{"id": 8573, "name": "Case Hydra", "country": "Spain", "wins": "34", "loses": "21", "winrate": 0.618, "gameChangerWins": "34", "gameChangerLoses": "21", "region": "Europe", "status": "Active", "players": [{"playerName": "H3ll", "realName": "Jose Manuel Monzón", "role": "coach"}]}

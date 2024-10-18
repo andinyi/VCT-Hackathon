@@ -1,0 +1,1 @@
+{"id": 14219, "name": "WASTED TALENT", "country": "International", "wins": "5", "loses": "6", "winrate": 0.455, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "North America", "status": "Active", "players": []}

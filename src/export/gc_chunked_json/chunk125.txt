@@ -1,0 +1,1 @@
+{"id": "357985", "teams": [{"name": "G2 Gozen", "score": "2", "country": "eu", "won": true}, {"name": "Karmine Corp GC", "score": "0", "country": "eu", "won": false}], "status": "Completed", "date": "2024-06", "event": "Playoffs–Upper Semifinals", "tournament": "Game Changers 2024 EMEA: Stage 2", "img": "https://owcdn.net/img/604be13d01964.png"}

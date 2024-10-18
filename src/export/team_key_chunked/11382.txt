@@ -1,0 +1,1 @@
+{"id": 11382, "name": "Girl Kissers", "country": "International", "wins": "6", "loses": "5", "winrate": 0.545, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "North America", "status": "Inactive", "players": []}

@@ -1,0 +1,1 @@
+{"id": "381255", "teams": [{"name": "Bon Bon Bum", "score": "0", "country": "mx", "won": false}, {"name": "Akave Esports GC", "score": "2", "country": "un", "won": true}], "status": "Completed", "date": "2024-08", "event": "Regular Phase–Week 4", "tournament": "Game Changers 2024 LATAM North: Closing", "img": "https://owcdn.net/img/604be13d01964.png"}

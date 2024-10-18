@@ -1,0 +1,1 @@
+{"id": "270707", "teams": [{"name": "Team SMG GC", "score": "3", "country": "sg", "won": true}, {"name": "RRQ Kaguya", "score": "0", "country": "id", "won": false}], "status": "Completed", "date": "2023-10", "event": "Main Event–Grand Final", "tournament": "Game Changers 2023 Asia Pacific: Elite", "img": "https://owcdn.net/img/604be13d01964.png"}

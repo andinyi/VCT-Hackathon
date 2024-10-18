@@ -1,0 +1,1 @@
+{"id": "296342", "teams": [{"name": ":3", "score": "2", "country": "us", "won": true}, {"name": "AST Luminescent", "score": "0", "country": "us", "won": false}], "status": "Completed", "date": "2024-02", "event": "Open Qualifier #1–Opening (E)", "tournament": "Game Changers 2024 North America: Series 1", "img": "https://owcdn.net/img/604be13d01964.png"}

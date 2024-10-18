@@ -1,0 +1,1 @@
+{"id": "298939", "teams": [{"name": "unpaid dogs", "score": "2", "country": "us", "won": true}, {"name": "Labyrinth White", "score": "0", "country": "un", "won": false}], "status": "Completed", "date": "2024-02", "event": "Open Qualifier #2–Opening (F)", "tournament": "Game Changers 2024 North America: Series 1", "img": "https://owcdn.net/img/604be13d01964.png"}

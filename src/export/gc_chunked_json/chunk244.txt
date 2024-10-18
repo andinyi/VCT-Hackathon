@@ -1,0 +1,1 @@
+{"id": "323259", "teams": [{"name": "BOBA", "score": "2", "country": "un", "won": true}, {"name": "AURA DIFFERENTIAL", "score": "0", "country": "un", "won": false}], "status": "Completed", "date": "2024-04", "event": "Playoffs–Lower Final", "tournament": "Game Changers 2024 Southeast Asia: Stage 1", "img": "https://owcdn.net/img/604be13d01964.png"}

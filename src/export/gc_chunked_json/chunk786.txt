@@ -1,0 +1,1 @@
+{"id": "221962", "teams": [{"name": "SunXet Club Fem", "score": "2", "country": "cl", "won": true}, {"name": "9z Team GC", "score": "0", "country": "ar", "won": false}], "status": "Completed", "date": "2023", "event": "LAS - Regular Season–Round Robin", "tournament": "Game Changers 2023 Latin America: Split 1", "img": "https://owcdn.net/img/604be13d01964.png"}

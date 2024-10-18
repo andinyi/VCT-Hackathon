@@ -1,0 +1,1 @@
+{"id": "221302", "teams": [{"name": "Point of Authority Blossom", "score": "1", "country": "id", "won": false}, {"name": "THE HERO KDA", "score": "2", "country": "ph", "won": true}], "status": "Completed", "date": "2023", "event": "Playoffs–Lower Round 1", "tournament": "Game Changers 2023 Asia Pacific: Open 2", "img": "https://owcdn.net/img/604be13d01964.png"}

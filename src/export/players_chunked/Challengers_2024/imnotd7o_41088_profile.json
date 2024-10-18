@@ -1,0 +1,73 @@
+{
+    "Player URL": "https://www.vlr.gg/player/41088/imnotd7o?timespan=all",
+    "All Agents Stats": [
+        {
+            "Agent": "omen",
+            "Usage": 70.0,
+            "Rounds Played": "953",
+            "Rating": "0.90",
+            "Average Combat Score": "176.0",
+            "Kills:Death": "0.88",
+            "Average Damage per Round": "103.4",
+            "Kill, Assist, Survive, Trade %": "72%",
+            "Kills Per Round": "0.64",
+            "Assists Per Round": "0.39",
+            "First Kills Per Round": "0.08",
+            "First Deaths Per Round": "0.09",
+            "Kills": "608",
+            "Deaths": "693",
+            "Assists": "373",
+            "First Bloods": "77",
+            "First Deaths": "90",
+            "Rounds by Agents": 45
+        },
+        {
+            "Agent": "harbor",
+            "Usage": 17.0,
+            "Rounds Played": "215",
+            "Rating": "0.81",
+            "Average Combat Score": "169.5",
+            "Kills:Death": "0.76",
+            "Average Damage per Round": "103.4",
+            "Kill, Assist, Survive, Trade %": "65%",
+            "Kills Per Round": "0.60",
+            "Assists Per Round": "0.26",
+            "First Kills Per Round": "0.04",
+            "First Deaths Per Round": "0.09",
+            "Kills": "128",
+            "Deaths": "169",
+            "Assists": "56",
+            "First Bloods": "9",
+            "First Deaths": "20",
+            "Rounds by Agents": 11
+        }
+    ],
+    "Current Team": "Suicide Squad",
+    "Player": "imnotd7o",
+    "Signature Agents Ranked by Usage": [
+        "omen",
+        "harbor"
+    ],
+    "Total games played": 56,
+    "Player stats": {
+        "Rounds Played": "434",
+        "Rating": "0.89",
+        "Average Combat Score": "176.2",
+        "Kills:Death": "0.82",
+        "Kill, Assist, Survive, Trade Percent": "69%",
+        "Average Damage per Round": "107.2",
+        "Kills Per Round": "0.61",
+        "Assists Per Round": "0.34",
+        "First Kills Per Round": "0.10",
+        "First Deaths Per Round": "0.10",
+        "Headshot Percent": "13%",
+        "Clutch Success Percent%": "17%",
+        "Clutches (won/played)": null,
+        "Maximum Kills in a single map": null,
+        "Kills": "265",
+        "Deaths": "325",
+        "Assists": "147",
+        "First Kills": "42",
+        "First Deaths": "43"
+    }
+}

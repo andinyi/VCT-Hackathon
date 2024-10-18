@@ -1,0 +1,73 @@
+{
+    "Player URL": "https://www.vlr.gg/player/22964/forbanz?timespan=all",
+    "All Agents Stats": [
+        {
+            "Agent": "jett",
+            "Usage": 64.0,
+            "Rounds Played": "3138",
+            "Rating": "1.09",
+            "Average Combat Score": "241.1",
+            "Kills:Death": "1.17",
+            "Average Damage per Round": "155.2",
+            "Kill, Assist, Survive, Trade %": "70%",
+            "Kills Per Round": "0.85",
+            "Assists Per Round": "0.15",
+            "First Kills Per Round": "0.17",
+            "First Deaths Per Round": "0.14",
+            "Kills": "2670",
+            "Deaths": "2285",
+            "Assists": "484",
+            "First Bloods": "525",
+            "First Deaths": "437",
+            "Rounds by Agents": 149
+        },
+        {
+            "Agent": "raze",
+            "Usage": 33.0,
+            "Rounds Played": "1591",
+            "Rating": "1.06",
+            "Average Combat Score": "236.5",
+            "Kills:Death": "1.05",
+            "Average Damage per Round": "158.0",
+            "Kill, Assist, Survive, Trade %": "70%",
+            "Kills Per Round": "0.79",
+            "Assists Per Round": "0.22",
+            "First Kills Per Round": "0.14",
+            "First Deaths Per Round": "0.14",
+            "Kills": "1252",
+            "Deaths": "1190",
+            "Assists": "348",
+            "First Bloods": "226",
+            "First Deaths": "217",
+            "Rounds by Agents": 77
+        }
+    ],
+    "Current Team": "XLD Gaming",
+    "Player": "forbanz",
+    "Signature Agents Ranked by Usage": [
+        "jett",
+        "raze"
+    ],
+    "Total games played": 226,
+    "Player stats": {
+        "Rounds Played": "1160",
+        "Rating": "1.01",
+        "Average Combat Score": "229.3",
+        "Kills:Death": "1.02",
+        "Kill, Assist, Survive, Trade Percent": "68%",
+        "Average Damage per Round": "152.4",
+        "Kills Per Round": "0.79",
+        "Assists Per Round": "0.19",
+        "First Kills Per Round": "0.15",
+        "First Deaths Per Round": "0.16",
+        "Headshot Percent": "23%",
+        "Clutch Success Percent%": "13%",
+        "Clutches (won/played)": null,
+        "Maximum Kills in a single map": null,
+        "Kills": "911",
+        "Deaths": "893",
+        "Assists": "218",
+        "First Kills": "179",
+        "First Deaths": "188"
+    }
+}

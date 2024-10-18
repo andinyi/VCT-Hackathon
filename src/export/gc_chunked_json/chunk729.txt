@@ -1,0 +1,1 @@
+{"id": "240393", "teams": [{"name": "Supernova Galaxy", "score": "2", "country": "us", "won": true}, {"name": "Gen.G Black", "score": "0", "country": "us", "won": false}], "status": "Completed", "date": "2023", "event": "Closed Qualifier–Lower Round 3", "tournament": "Game Changers 2023 Series II: North America", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"id": 9966, "name": "VAMONOS", "country": "Europe", "wins": "12", "loses": "9", "winrate": 0.571, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "N/A", "status": "Active", "players": []}

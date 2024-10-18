@@ -1,0 +1,1 @@
+{"id": "354335", "teams": [{"name": "Akave Esports GC", "score": "3", "country": "un", "won": true}, {"name": "FUSION X", "score": "1", "country": "un", "won": false}], "status": "Completed", "date": "2024-06", "event": "Playoffs–Grand Final", "tournament": "Game Changers 2024 LATAM North: Opening", "img": "https://owcdn.net/img/604be13d01964.png"}

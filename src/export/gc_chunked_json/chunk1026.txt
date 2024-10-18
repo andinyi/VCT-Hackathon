@@ -1,0 +1,1 @@
+{"id": "179483", "teams": [{"name": "RRQ Kaguya", "score": "1", "country": "id", "won": false}, {"name": "Orangutan X", "score": "2", "country": "in", "won": true}], "status": "Completed", "date": "2023", "event": "Playoffs–Lower Final", "tournament": "Game Changers 2023 Asia Pacific: Open 1", "img": "https://owcdn.net/img/604be13d01964.png"}

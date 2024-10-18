@@ -1,0 +1,1 @@
+{"id": 2350, "name": "Soniqs", "country": "United States", "wins": "180", "loses": "68", "winrate": 0.726, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "North America", "status": "Inactive", "players": []}

@@ -1,0 +1,1 @@
+{"id": "270699", "teams": [{"name": "FULL SENSE SAPPHIRE", "score": "2", "country": "th", "won": true}, {"name": "RRQ Kaguya", "score": "1", "country": "id", "won": false}], "status": "Completed", "date": "2023-10", "event": "Main Event–Upper Semifinals", "tournament": "Game Changers 2023 Asia Pacific: Elite", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"id": "271061", "teams": [{"name": "Lunatic-Hai Flax", "score": "0", "country": "kr", "won": false}, {"name": "Nuclear GC", "score": "2", "country": "kr", "won": true}], "status": "Completed", "date": "2023-09", "event": "Main Event–Upper Semifinals", "tournament": "Game Changers 2023 Korea: Stage 2", "img": "https://owcdn.net/img/604be13d01964.png"}

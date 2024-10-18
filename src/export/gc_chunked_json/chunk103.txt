@@ -1,0 +1,1 @@
+{"id": "366450", "teams": [{"name": "swaglord9000", "score": "3", "country": "au", "won": true}, {"name": "Penguin Party", "score": "1", "country": "au", "won": false}], "status": "Completed", "date": "2024-07", "event": "Main Event–Grand Final", "tournament": "Game Changers 2024 Oceania: Stage 2", "img": "https://owcdn.net/img/604be13d01964.png"}

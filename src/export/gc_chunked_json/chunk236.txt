@@ -1,0 +1,1 @@
+{"id": "323972", "teams": [{"name": "Team Celestials", "score": "0", "country": "un", "won": false}, {"name": "MLT Esports GC", "score": "2", "country": "bd", "won": true}], "status": "Completed", "date": "2024-04", "event": "Finals–Semifinals", "tournament": "Game Changers 2024 South Asia: Split 1", "img": "https://owcdn.net/img/604be13d01964.png"}

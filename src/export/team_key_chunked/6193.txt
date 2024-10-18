@@ -1,0 +1,1 @@
+{"id": 6193, "name": "Geekay Esports", "country": "Saudi Arabia", "wins": "42", "loses": "25", "winrate": 0.627, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "MENA", "status": "Active", "players": []}

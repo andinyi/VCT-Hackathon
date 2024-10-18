@@ -1,0 +1,1 @@
+{"id": "369928", "teams": [{"name": "invincible gc", "score": "0", "country": "th", "won": false}, {"name": "4Fun", "score": "2", "country": "ph", "won": true}], "status": "Completed", "date": "2024-08", "event": "Playoffs–Lower Round 2", "tournament": "Game Changers 2024 Southeast Asia: Stage 2", "img": "https://owcdn.net/img/604be13d01964.png"}

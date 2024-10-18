@@ -1,0 +1,1 @@
+{"id": "299119", "teams": [{"name": "YFP X", "score": "0", "country": "us", "won": false}, {"name": "Passion Project", "score": "2", "country": "us", "won": true}], "status": "Completed", "date": "2024-02", "event": "Closed Qualifier #2–Semifinals", "tournament": "Game Changers 2024 North America: Series 1", "img": "https://owcdn.net/img/604be13d01964.png"}

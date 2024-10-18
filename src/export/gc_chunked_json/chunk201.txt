@@ -1,0 +1,1 @@
+{"id": "334297", "teams": [{"name": "Meteor", "score": "0", "country": "jp", "won": false}, {"name": "DRX Changers", "score": "2", "country": "jp", "won": true}], "status": "Completed", "date": "2024-05", "event": "Main Stage–Upper Semifinals", "tournament": "Game Changers 2024 Japan: Split 1", "img": "https://owcdn.net/img/604be13d01964.png"}

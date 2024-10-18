@@ -1,0 +1,1 @@
+{"id": "235416", "teams": [{"name": "Guild GC", "score": "2", "country": "fr", "won": true}, {"name": "EXCEL GC", "score": "1", "country": "eu", "won": false}], "status": "Completed", "date": "2023", "event": "Group Stage–Round 1", "tournament": "Game Changers 2023 Stage II: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

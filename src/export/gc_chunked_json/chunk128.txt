@@ -1,0 +1,1 @@
+{"id": "357990", "teams": [{"name": "HEROIC Valkyries", "score": "0", "country": "eu", "won": false}, {"name": "NASR Ignite", "score": "2", "country": "eu", "won": true}], "status": "Completed", "date": "2024-06", "event": "Playoffs–Lower Round 1", "tournament": "Game Changers 2024 EMEA: Stage 2", "img": "https://owcdn.net/img/604be13d01964.png"}

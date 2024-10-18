@@ -1,0 +1,1 @@
+{"id": 13004, "name": "96 Bulls", "country": "International", "wins": "N/A", "loses": "N/A", "winrate": "N/A", "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "North America", "status": "Active", "players": []}

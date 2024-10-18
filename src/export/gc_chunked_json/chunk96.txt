@@ -1,0 +1,1 @@
+{"id": "370932", "teams": [{"name": "ALTERNATE aTTaX Ruby", "score": "2", "country": "de", "won": true}, {"name": "Zerance Mint", "score": "1", "country": "fr", "won": false}], "status": "Completed", "date": "2024-07", "event": "Playoffs–Lower Final", "tournament": "Game Changers 2024 EMEA: Contenders Series 2", "img": "https://owcdn.net/img/604be13d01964.png"}

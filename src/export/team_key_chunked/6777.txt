@@ -1,0 +1,1 @@
+{"id": 6777, "name": "AIMPUNCH.", "country": "United States", "wins": "12", "loses": "13", "winrate": 0.48, "gameChangerWins": "12", "gameChangerLoses": "13", "region": "Game Changers", "status": "Inactive", "players": [{"playerName": "Risorah", "realName": "Vivian Dela Cruz", "role": "manager"}]}

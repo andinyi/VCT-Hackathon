@@ -1,0 +1,1 @@
+{"id": "366443", "teams": [{"name": "Penguin Party", "score": "2", "country": "au", "won": true}, {"name": "polar bear", "score": "0", "country": "au", "won": false}], "status": "Completed", "date": "2024-07", "event": "Main Event–Upper Quarterfinals", "tournament": "Game Changers 2024 Oceania: Stage 2", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"id": "209405", "teams": [{"name": "Acend Rising", "score": "2", "country": "eu", "won": true}, {"name": "CBA", "score": "1", "country": "eu", "won": false}], "status": "Completed", "date": "2023", "event": "Playoffs–Lower Round 1", "tournament": "Game Changers 2023 Stage I: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

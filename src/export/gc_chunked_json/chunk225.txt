@@ -1,0 +1,1 @@
+{"id": "326882", "teams": [{"name": "Cruzados Esports Fem", "score": "0", "country": "cl", "won": false}, {"name": "LEVIATÁN GC", "score": "2", "country": "cl", "won": true}], "status": "Completed", "date": "2024-04", "event": "Regular Phase–Week 2", "tournament": "Game Changers 2024 LATAM South: Opening", "img": "https://owcdn.net/img/604be13d01964.png"}

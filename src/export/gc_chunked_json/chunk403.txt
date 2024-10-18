@@ -1,0 +1,1 @@
+{"id": "287382", "teams": [{"name": "Chao Hui EDward Gaming", "score": "0", "country": "cn", "won": false}, {"name": "Shopify Rebellion", "score": "2", "country": "ca", "won": true}], "status": "Completed", "date": "2023-12", "event": "Main Event–Upper Quarterfinals", "tournament": "Game Changers 2023 Championship: São Paulo", "img": "https://owcdn.net/img/604be13d01964.png"}

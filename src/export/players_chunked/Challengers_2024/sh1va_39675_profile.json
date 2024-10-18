@@ -1,0 +1,73 @@
+{
+    "Player URL": "https://www.vlr.gg/player/39675/sh1va?timespan=all",
+    "All Agents Stats": [
+        {
+            "Agent": "killjoy",
+            "Usage": 63.0,
+            "Rounds Played": "1545",
+            "Rating": "1.04",
+            "Average Combat Score": "198.4",
+            "Kills:Death": "1.09",
+            "Average Damage per Round": "137.8",
+            "Kill, Assist, Survive, Trade %": "70%",
+            "Kills Per Round": "0.73",
+            "Assists Per Round": "0.12",
+            "First Kills Per Round": "0.07",
+            "First Deaths Per Round": "0.08",
+            "Kills": "1127",
+            "Deaths": "1031",
+            "Assists": "181",
+            "First Bloods": "104",
+            "First Deaths": "123",
+            "Rounds by Agents": 73
+        },
+        {
+            "Agent": "cypher",
+            "Usage": 30.0,
+            "Rounds Played": "734",
+            "Rating": "1.01",
+            "Average Combat Score": "185.4",
+            "Kills:Death": "1.03",
+            "Average Damage per Round": "127.9",
+            "Kill, Assist, Survive, Trade %": "68%",
+            "Kills Per Round": "0.70",
+            "Assists Per Round": "0.14",
+            "First Kills Per Round": "0.07",
+            "First Deaths Per Round": "0.07",
+            "Kills": "514",
+            "Deaths": "499",
+            "Assists": "103",
+            "First Bloods": "52",
+            "First Deaths": "50",
+            "Rounds by Agents": 34
+        }
+    ],
+    "Current Team": "\u0130stanbul Wildcats",
+    "Player": "sh1va",
+    "Signature Agents Ranked by Usage": [
+        "killjoy",
+        "cypher"
+    ],
+    "Total games played": 107,
+    "Player stats": {
+        "Rounds Played": "794",
+        "Rating": "0.98",
+        "Average Combat Score": "181.8",
+        "Kills:Death": "0.96",
+        "Kill, Assist, Survive, Trade Percent": "67%",
+        "Average Damage per Round": "126.9",
+        "Kills Per Round": "0.67",
+        "Assists Per Round": "0.14",
+        "First Kills Per Round": "0.07",
+        "First Deaths Per Round": "0.09",
+        "Headshot Percent": "33%",
+        "Clutch Success Percent%": "15%",
+        "Clutches (won/played)": null,
+        "Maximum Kills in a single map": null,
+        "Kills": "530",
+        "Deaths": "553",
+        "Assists": "108",
+        "First Kills": "58",
+        "First Deaths": "71"
+    }
+}

@@ -1,0 +1,1 @@
+{"id": "273036", "teams": [{"name": "DetonatioN FocusMe GC", "score": "2", "country": "jp", "won": true}, {"name": "DRX Changers", "score": "1", "country": "jp", "won": false}], "status": "Completed", "date": "2023-10", "event": "Main Event–Upper Semifinals", "tournament": "Game Changers 2023 Japan: Split 2", "img": "https://owcdn.net/img/604be13d01964.png"}

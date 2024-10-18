@@ -1,0 +1,1 @@
+{"id": 12007, "name": "QoR GC", "country": "United States", "wins": "10", "loses": "12", "winrate": 0.455, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "N/A", "status": "Inactive", "players": []}

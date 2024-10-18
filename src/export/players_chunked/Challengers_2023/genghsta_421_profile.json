@@ -1,0 +1,73 @@
+{
+    "Player URL": "https://www.vlr.gg/player/421/genghsta?timespan=all",
+    "All Agents Stats": [
+        {
+            "Agent": "sova",
+            "Usage": 76.0,
+            "Rounds Played": "7784",
+            "Rating": "1.16",
+            "Average Combat Score": "205.5",
+            "Kills:Death": "1.17",
+            "Average Damage per Round": "139.9",
+            "Kill, Assist, Survive, Trade %": "77%",
+            "Kills Per Round": "0.71",
+            "Assists Per Round": "0.36",
+            "First Kills Per Round": "0.06",
+            "First Deaths Per Round": "0.04",
+            "Kills": "5488",
+            "Deaths": "4700",
+            "Assists": "2781",
+            "First Bloods": "505",
+            "First Deaths": "321",
+            "Rounds by Agents": 382
+        },
+        {
+            "Agent": "breach",
+            "Usage": 9.0,
+            "Rounds Played": "909",
+            "Rating": "1.08",
+            "Average Combat Score": "196.7",
+            "Kills:Death": "1.10",
+            "Average Damage per Round": "126.2",
+            "Kill, Assist, Survive, Trade %": "77%",
+            "Kills Per Round": "0.70",
+            "Assists Per Round": "0.37",
+            "First Kills Per Round": "0.06",
+            "First Deaths Per Round": "0.05",
+            "Kills": "632",
+            "Deaths": "577",
+            "Assists": "339",
+            "First Bloods": "51",
+            "First Deaths": "43",
+            "Rounds by Agents": 44
+        }
+    ],
+    "Current Team": "Unknown",
+    "Player": "genghsta",
+    "Signature Agents Ranked by Usage": [
+        "sova",
+        "breach"
+    ],
+    "Total games played": 426,
+    "Player stats": {
+        "Rounds Played": "766",
+        "Rating": "0.95",
+        "Average Combat Score": "179.9",
+        "Kills:Death": "0.87",
+        "Kill, Assist, Survive, Trade Percent": "71%",
+        "Average Damage per Round": "120.9",
+        "Kills Per Round": "0.60",
+        "Assists Per Round": "0.33",
+        "First Kills Per Round": "0.06",
+        "First Deaths Per Round": "0.07",
+        "Headshot Percent": "25%",
+        "Clutch Success Percent%": "13%",
+        "Clutches (won/played)": null,
+        "Maximum Kills in a single map": null,
+        "Kills": "463",
+        "Deaths": "534",
+        "Assists": "256",
+        "First Kills": "43",
+        "First Deaths": "53"
+    }
+}

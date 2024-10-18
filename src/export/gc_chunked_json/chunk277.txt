@@ -1,0 +1,1 @@
+{"id": "310597", "teams": [{"name": "Paw Pals", "score": "2", "country": "us", "won": true}, {"name": "YFP X", "score": "1", "country": "us", "won": false}], "status": "Completed", "date": "2024-03", "event": "Main Event–Lower Round 2", "tournament": "Game Changers 2024 North America: Series 1", "img": "https://owcdn.net/img/604be13d01964.png"}

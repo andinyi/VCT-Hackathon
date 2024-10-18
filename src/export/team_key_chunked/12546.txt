@@ -1,0 +1,1 @@
+{"id": 12546, "name": "Nora's Kitten Shelter", "country": "International", "wins": "3", "loses": "3", "winrate": 0.5, "gameChangerWins": "3", "gameChangerLoses": "3", "region": "Game Changers", "status": "Inactive", "players": []}

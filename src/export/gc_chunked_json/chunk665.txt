@@ -1,0 +1,1 @@
+{"id": "269011", "teams": [{"name": "FUSION X", "score": "2", "country": "un", "won": true}, {"name": "Akave Esports GC", "score": "1", "country": "un", "won": false}], "status": "Completed", "date": "2023", "event": "Latin America: North–Groups", "tournament": "Game Changers 2023 LATAM: Last Chance Qualifier", "img": "https://owcdn.net/img/604be13d01964.png"}

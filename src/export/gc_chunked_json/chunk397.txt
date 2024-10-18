@@ -1,0 +1,1 @@
+{"id": "287391", "teams": [{"name": "Team SMG GC", "score": "2", "country": "sg", "won": true}, {"name": "KRÜ BLAZE", "score": "0", "country": "cl", "won": false}], "status": "Completed", "date": "2023-12", "event": "Main Event–Lower Round 2", "tournament": "Game Changers 2023 Championship: São Paulo", "img": "https://owcdn.net/img/604be13d01964.png"}

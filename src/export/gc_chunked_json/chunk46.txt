@@ -1,0 +1,1 @@
+{"id": "381254", "teams": [{"name": "K7 Esports", "score": "0", "country": "un", "won": false}, {"name": "MYVRA", "score": "2", "country": "un", "won": true}], "status": "Completed", "date": "2024-08", "event": "Regular Phase–Week 4", "tournament": "Game Changers 2024 LATAM North: Closing", "img": "https://owcdn.net/img/604be13d01964.png"}

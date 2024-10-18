@@ -1,0 +1,1 @@
+{"id": "335774", "teams": [{"name": "Zen eSports GC", "score": "2", "country": "cl", "won": true}, {"name": "ROYAL ONSLAUGHT GAMING", "score": "1", "country": "un", "won": false}], "status": "Completed", "date": "2024-05", "event": "Main Event–Grand Final", "tournament": "Game Changers 2024 LATAM South: Swift Cup 2", "img": "https://owcdn.net/img/604be13d01964.png"}

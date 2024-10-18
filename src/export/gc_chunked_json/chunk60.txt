@@ -1,0 +1,1 @@
+{"id": "379819", "teams": [{"name": "FlyQuest RED", "score": "2", "country": "us", "won": true}, {"name": "Shopify Rebellion", "score": "1", "country": "ca", "won": false}], "status": "Completed", "date": "2024-08", "event": "Closed Qualifier #1–Grand Final", "tournament": "Game Changers 2024 North America: Series 3", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"id": "260831", "teams": [{"name": "THE HERO KDA", "score": "1", "country": "ph", "won": false}, {"name": "Neons", "score": "2", "country": "th", "won": true}], "status": "Completed", "date": "2023", "event": "Playoffs–Upper Semifinals", "tournament": "Game Changers 2023 Asia Pacific: Last Chance Qualifier", "img": "https://owcdn.net/img/604be13d01964.png"}

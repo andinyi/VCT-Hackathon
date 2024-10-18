@@ -1,0 +1,1 @@
+{"id": "299523", "teams": [{"name": "VALIANT GC", "score": "2", "country": "fr", "won": true}, {"name": "MAD Lions KOI", "score": "0", "country": "es", "won": false}], "status": "Completed", "date": "2024-03", "event": "Group Stage–Week 2", "tournament": "Game Changers 2024 EMEA: Stage 1", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"name": "Kuripuuya", "team": "Karmine Corp GC", "years_active": "2021 to Present", "active": true, "yearsOfExperience": 3}

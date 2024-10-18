@@ -1,0 +1,1 @@
+{"id": 756, "name": "ehehxd", "country": "Portugal", "wins": "96", "loses": "59", "winrate": 0.619, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "Europe", "status": "Active", "players": [{"playerName": "jON4Y", "realName": "João Coelho", "role": "player"}, {"playerName": "nasK", "realName": "Diogo Barros", "role": "player"}]}

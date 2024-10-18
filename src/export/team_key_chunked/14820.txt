@@ -1,0 +1,1 @@
+{"id": 14820, "name": "the process", "country": "International", "wins": "10", "loses": "8", "winrate": 0.556, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "North America", "status": "Active", "players": []}

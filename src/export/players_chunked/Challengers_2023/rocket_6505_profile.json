@@ -1,0 +1,73 @@
+{
+    "Player URL": "https://www.vlr.gg/player/6505/rocket?timespan=all",
+    "All Agents Stats": [
+        {
+            "Agent": "jett",
+            "Usage": 56.0,
+            "Rounds Played": "4947",
+            "Rating": "1.01",
+            "Average Combat Score": "237.1",
+            "Kills:Death": "1.07",
+            "Average Damage per Round": "149.1",
+            "Kill, Assist, Survive, Trade %": "68%",
+            "Kills Per Round": "0.83",
+            "Assists Per Round": "0.16",
+            "First Kills Per Round": "0.23",
+            "First Deaths Per Round": "0.19",
+            "Kills": "4091",
+            "Deaths": "3829",
+            "Assists": "800",
+            "First Bloods": "1114",
+            "First Deaths": "922",
+            "Rounds by Agents": 236
+        },
+        {
+            "Agent": "raze",
+            "Usage": 39.0,
+            "Rounds Played": "3379",
+            "Rating": "1.03",
+            "Average Combat Score": "248.1",
+            "Kills:Death": "1.05",
+            "Average Damage per Round": "160.7",
+            "Kill, Assist, Survive, Trade %": "70%",
+            "Kills Per Round": "0.83",
+            "Assists Per Round": "0.22",
+            "First Kills Per Round": "0.21",
+            "First Deaths Per Round": "0.19",
+            "Kills": "2801",
+            "Deaths": "2660",
+            "Assists": "737",
+            "First Bloods": "712",
+            "First Deaths": "658",
+            "Rounds by Agents": 164
+        }
+    ],
+    "Current Team": "Gamax Esports",
+    "Player": "rocket",
+    "Signature Agents Ranked by Usage": [
+        "jett",
+        "raze"
+    ],
+    "Total games played": 400,
+    "Player stats": {
+        "Rounds Played": "713",
+        "Rating": "1.01",
+        "Average Combat Score": "235.5",
+        "Kills:Death": "1.08",
+        "Kill, Assist, Survive, Trade Percent": "66%",
+        "Average Damage per Round": "148.4",
+        "Kills Per Round": "0.82",
+        "Assists Per Round": "0.15",
+        "First Kills Per Round": "0.22",
+        "First Deaths Per Round": "0.19",
+        "Headshot Percent": "24%",
+        "Clutch Success Percent%": "20%",
+        "Clutches (won/played)": null,
+        "Maximum Kills in a single map": null,
+        "Kills": "584",
+        "Deaths": "541",
+        "Assists": "108",
+        "First Kills": "155",
+        "First Deaths": "138"
+    }
+}

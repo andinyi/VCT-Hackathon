@@ -1,0 +1,1 @@
+{"id": "244949", "teams": [{"name": "G2 Gozen", "score": "3", "country": "eu", "won": true}, {"name": "FUT Female", "score": "1", "country": "tr", "won": false}], "status": "Completed", "date": "2023", "event": "Playoffs–Grand Final", "tournament": "Game Changers 2023 Stage II: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

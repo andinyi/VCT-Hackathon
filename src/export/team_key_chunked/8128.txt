@@ -1,0 +1,1 @@
+{"id": 8128, "name": "WYLDE", "country": "Netherlands", "wins": "1", "loses": "2", "winrate": 0.333, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "Europe", "status": "Active", "players": []}

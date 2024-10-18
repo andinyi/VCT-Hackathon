@@ -1,0 +1,1 @@
+{"id": "372251", "teams": [{"name": "FENNEL GC", "score": "3", "country": "jp", "won": true}, {"name": "REIGNITE Lily", "score": "2", "country": "jp", "won": false}], "status": "Completed", "date": "2024-08", "event": "Main Stage–Lower Final", "tournament": "Game Changers 2024 Japan: Split 2", "img": "https://owcdn.net/img/604be13d01964.png"}

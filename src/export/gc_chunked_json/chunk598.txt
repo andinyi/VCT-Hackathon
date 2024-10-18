@@ -1,0 +1,1 @@
+{"id": "271012", "teams": [{"name": "DSYRE GC", "score": "0", "country": "eu", "won": false}, {"name": "Natus Vincere Celestials", "score": "2", "country": "tr", "won": true}], "status": "Completed", "date": "2023-09", "event": "Group Stage–Round 3", "tournament": "Game Changers 2023 Stage III: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

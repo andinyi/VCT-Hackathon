@@ -1,0 +1,1 @@
+{"id": "279792", "teams": [{"name": "Cardboard Rex", "score": "0", "country": "eu", "won": false}, {"name": "HOWL Moonlight", "score": "2", "country": "tr", "won": true}], "status": "Completed", "date": "2023-10", "event": "Playoffs–Lower Final", "tournament": "Game Changers EMEA Contenders Series 3", "img": "https://owcdn.net/img/604be13d01964.png"}

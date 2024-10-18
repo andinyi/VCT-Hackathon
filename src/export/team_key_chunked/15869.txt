@@ -1,0 +1,1 @@
+{"id": 15869, "name": "paprica picante", "country": "Brazil", "wins": "1", "loses": "3", "winrate": 0.25, "gameChangerWins": "1", "gameChangerLoses": "3", "region": "Game Changers", "status": "Active", "players": []}

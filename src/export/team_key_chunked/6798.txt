@@ -1,0 +1,1 @@
+{"id": 6798, "name": "REIGNITE", "country": "Japan", "wins": "12", "loses": "10", "winrate": 0.545, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "Japan", "status": "Active", "players": []}

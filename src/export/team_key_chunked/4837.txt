@@ -1,0 +1,1 @@
+{"id": 4837, "name": "Shopify Rebellion GC", "country": "United States", "wins": "16", "loses": "42", "winrate": 0.276, "gameChangerWins": "85", "gameChangerLoses": "28", "region": "North America", "status": "Inactive", "players": []}

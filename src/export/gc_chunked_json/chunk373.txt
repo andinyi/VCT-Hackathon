@@ -1,0 +1,1 @@
+{"id": "296620", "teams": [{"name": "Passion Project", "score": "1", "country": "us", "won": false}, {"name": "Shopify Rebellion", "score": "2", "country": "ca", "won": true}], "status": "Completed", "date": "2024-02", "event": "Closed Qualifier #1–Semifinals", "tournament": "Game Changers 2024 North America: Series 1", "img": "https://owcdn.net/img/604be13d01964.png"}

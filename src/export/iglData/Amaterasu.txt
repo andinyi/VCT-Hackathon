@@ -1,0 +1,1 @@
+{"name": "Amaterasu", "team": "Team Sarafa", "years_active": "2020 to Present", "active": true, "yearsOfExperience": 4}

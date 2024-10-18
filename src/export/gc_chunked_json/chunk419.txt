@@ -1,0 +1,1 @@
+{"id": "280748", "teams": [{"name": "Attacking Soul Esports OvO", "score": "0", "country": "cn", "won": false}, {"name": "ZETA DIVISION GC", "score": "2", "country": "jp", "won": true}], "status": "Completed", "date": "2023-11", "event": "Main Event–Quarterfinals", "tournament": "Game Changers 2023 East Asia", "img": "https://owcdn.net/img/604be13d01964.png"}

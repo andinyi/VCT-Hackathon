@@ -1,0 +1,1 @@
+{"id": "335407", "teams": [{"name": "Bon Bon Bum", "score": "2", "country": "mx", "won": true}, {"name": "Kunai Esports FEM", "score": "0", "country": "mx", "won": false}], "status": "Completed", "date": "2024-05", "event": "Main Event–Grand Final", "tournament": "Game Changers 2024 LATAM North: Swift Cup 2", "img": "https://owcdn.net/img/604be13d01964.png"}

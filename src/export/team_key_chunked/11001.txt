@@ -1,0 +1,1 @@
+{"id": 11001, "name": "M80", "country": "Canada", "wins": "142", "loses": "47", "winrate": 0.751, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "North America", "status": "Inactive", "players": []}

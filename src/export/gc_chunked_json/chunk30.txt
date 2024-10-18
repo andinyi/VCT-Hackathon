@@ -1,0 +1,1 @@
+{"id": "381265", "teams": [{"name": "K7 Esports", "score": "3", "country": "un", "won": true}, {"name": "New Combat Line GC", "score": "2", "country": "co", "won": false}], "status": "Completed", "date": "2024-09", "event": "Promotion/Relegation–Promotion Match", "tournament": "Game Changers 2024 LATAM North: Closing", "img": "https://owcdn.net/img/604be13d01964.png"}

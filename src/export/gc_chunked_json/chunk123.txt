@@ -1,0 +1,1 @@
+{"id": "357991", "teams": [{"name": "BBL Queens", "score": "0", "country": "tr", "won": false}, {"name": "Team Falcons Vega", "score": "2", "country": "sa", "won": true}], "status": "Completed", "date": "2024-06", "event": "Playoffs–Lower Round 2", "tournament": "Game Changers 2024 EMEA: Stage 2", "img": "https://owcdn.net/img/604be13d01964.png"}

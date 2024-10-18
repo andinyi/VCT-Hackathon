@@ -1,0 +1,1 @@
+{"id": "287384", "teams": [{"name": "Team SMG GC", "score": "1", "country": "sg", "won": false}, {"name": "G2 Gozen", "score": "2", "country": "eu", "won": true}], "status": "Completed", "date": "2023-12", "event": "Main Event–Upper Semifinals", "tournament": "Game Changers 2023 Championship: São Paulo", "img": "https://owcdn.net/img/604be13d01964.png"}

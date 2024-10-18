@@ -1,0 +1,84 @@
+Here are the table definitions. Use this information to help generate your queries. A description of each table is also provided.
+
+#Leagues are listed below. 
+Challengers : Player Data from players that participated in the Challengers League. This league is classified as "semi-professional" or "SEMI-PRO". This is also considered VCT Challengers.
+Champions : Player Data from players that participated in the Champions League. This league is classified as "professional" or "PRO". This is also considered VCT Internationals. 
+GameChangers : Player Data from players that participated in the Game Changers League. This league is mostly composed of females and under-represented groups in the Valorant Competitive landscape. This is also considered VCT Game Changers.
+
+#List of Tables and their respective descriptions.
+`Players` : This table contains player information from each league and each region. Use this table and it's definition to filter and grab relevant data.
+`PlayerAgentPerformance` : This table contains information on each player that plays a specific agent as well as their respective stats on the agent. Data is aggregated by agents. Region of the players is also included in a Region Column.
+`TeamData` : This table contains team information such as wins and winrate.
+ 
+#TABLE `Players` Is in this following format.
+CREATE TABLE `Players` (
+  `Player` text,
+  `Team` text,
+  `Games` int DEFAULT NULL,
+  `SignatureAgentsRankedByUsage` text,
+  `RoundsPlayed` int DEFAULT NULL,
+  `Rating` double DEFAULT NULL,
+  `AverageCombatScore` double DEFAULT NULL,
+  `KillsDeath` double DEFAULT NULL,
+  `KAST` text,
+  `ADPR` double DEFAULT NULL,
+  `KPR` double DEFAULT NULL,
+  `APR` double DEFAULT NULL,
+  `FKPR` double DEFAULT NULL,
+  `FDPR` double DEFAULT NULL,
+  `HeadshotPercent` text,
+  `ClutchSuccessPercent` text,
+  `Kills` int DEFAULT NULL,
+  `Deaths` int DEFAULT NULL,
+  `Assists` int DEFAULT NULL,
+  `FirstKills` int DEFAULT NULL,
+  `FirstDeaths` int DEFAULT NULL,
+  `Year` int DEFAULT NULL,
+  `League` text,
+  `IGL` text,
+  `CleanedRating` double DEFAULT NULL,
+  `AdjustedRating` double DEFAULT NULL,
+  `SelfishIndex` double DEFAULT NULL,
+  `Region` text
+);
+
+#TABLE `TeamData` is in this following format. 
+#A Tip to handle this particular table: Wins, Loses, Winrate, GameChangerWins, and GameChangerLoses are numerical values but stored as TEXT as blank values are stored as 'N/A'. Region stores the regional league of these teams, this is important for region classifications.
+CREATE TABLE `TeamData` (
+  `TeamId` int DEFAULT NULL,
+  `Name` text,
+  `Country` text,
+  `Wins` int DEFAULT NULL,
+  `Loses` int DEFAULT NULL,
+  `Winrate` double DEFAULT NULL,
+  `GameChangerWins` int DEFAULT NULL,
+  `GameChangerLoses` int DEFAULT NULL,
+  `Region` text,
+  `Status` text
+);
+
+#TABLE `PlayerAgentPerformance` is in this following format.
+CREATE TABLE `PlayerAgentPerformance` (
+  `Player` text,
+  `Team` text,
+  `Agent` text,
+  `Usage` double DEFAULT NULL,
+  `RoundsPlayed` int DEFAULT NULL,
+  `Rating` double DEFAULT NULL,
+  `AverageCombatScore` double DEFAULT NULL,
+  `KillsDeath` double DEFAULT NULL,
+  `ADPR` double DEFAULT NULL,
+  `KAST` text,
+  `KPR` double DEFAULT NULL,
+  `APR` double DEFAULT NULL,
+  `FKPR` double DEFAULT NULL,
+  `FDPR` double DEFAULT NULL,
+  `Kills` int DEFAULT NULL,
+  `Deaths` int DEFAULT NULL,
+  `Assists` int DEFAULT NULL,
+  `FirstBloods` int DEFAULT NULL,
+  `FirstDeaths` int DEFAULT NULL,
+  `Games` int DEFAULT NULL,
+  `CleanedRating` double DEFAULT NULL,
+  `AdjustedRating` double DEFAULT NULL
+);

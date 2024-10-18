@@ -1,0 +1,1 @@
+{"id": "240398", "teams": [{"name": "FaZe Clan GC", "score": "2", "country": "us", "won": true}, {"name": "SOMETHING2PROVE", "score": "1", "country": "us", "won": false}], "status": "Completed", "date": "2023", "event": "Closed Qualifier–Lower Round 4", "tournament": "Game Changers 2023 Series II: North America", "img": "https://owcdn.net/img/604be13d01964.png"}
