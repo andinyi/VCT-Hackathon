@@ -5,7 +5,7 @@ from botocore.config import Config
 import datetime
 import time
 
-from src import invokeAgent
+import invokeAgent
 
 import streamlit as st
 
