@@ -17,7 +17,7 @@ agentAliasId = '7DJEPLGFQ1'
 
 appZ = boto3.client('bedrock-runtime', region_name='us-east-1')
 
-st.title("Valorant VCT Manager Chatbot 🤖")
+st.title("JettReviveMe Chatbot 🤖")
 
 sessionId = str(datetime.datetime.now()).replace(' ', '')
 
@@ -65,7 +65,7 @@ if temp := st.chat_input("Type your input here"):
             st.session_state.messages.append({"role" : "assistant", "content" : f'{text}'})
         else:
             st.session_state.agentCalled = True
-            text = invokeAgent.invokeAgent(agentId, agentAliasId, str(st.session_state.sessionId).replace(' ',''), temp)
+            text = invokeAgent.invokeAgent(agentId, agentAliasId, str(st.session_state.sessionId).replace(' ',''), temp + "Create the best/strongest team possible. Ensure that you have 5 players in the final team composition.")
             st.session_state.status.update(label='Thoughts and prayers completed, streaming final response 💡', state='complete')
             st.chat_message('assistant').write_stream(invokeAgent.streamFormat(text))
             st.session_state.messages.append({"role" : "assistant", "content" : f'{text}'})

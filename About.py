@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.header('Hello 👋! Welcome to our **VCT Hackathon Project**', divider="grey")
+st.header('Hello 👋! Welcome to our **VCT Hackathon Project: JettReviveMe**', divider="grey")
 st.markdown('##### Made by Handy, Tazrian, and Ridhima 👀')
 
 st.markdown("""### Inspiration and About
