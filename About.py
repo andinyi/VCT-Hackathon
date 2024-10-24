@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.header('Hello 👋! Welcome to our **VCT Hackathon Project**', divider="blue")
-st.subheader('Made by a bunch of struggling life goers.')
+st.header('Hello 👋! Welcome to our **VCT Hackathon Project**', divider="grey")
+st.markdown('##### Made by Handy, Tazrian, and Ridhima 👀')
 
 st.markdown("""### Inspiration and About
 >We wanted to create a LLM powered chatbot that will assist with picking competitive Valorant Players based on their stats over a course of competitive games.
@@ -14,21 +14,23 @@ st.markdown("""### Inspiration and About
 ### How we built it
 The different sections of this build are listed below as well as further breakdowns as needed.
 
-#### 1. Data Fetch and ETL
- - The data was primarily sourced from VLR where we used BS4 to webscrape for the player stats across each tournament. 
- - We then cleaned the data and then imputated missing data with average values to eliminate misleading stats that are caused by missing data.
- - The data was formatted and joined to create our SQL tables and stored in RDS.
+ #### 1. Data Fetch and ETL
+> - The data was primarily sourced from VLR where we used BS4 to webscrape for the player stats across each tournament. 
+> - We then cleaned the data and then imputated missing data with average values to eliminate misleading stats that are caused by missing data.
+> - The data was formatted and joined to create our SQL tables and stored in RDS.
 
-#### 2. Methodology : Data
-We quickly identified that there was no real way for us to rank players without oversights, other websites and organizations have previously attempted this but we saw fundamental flaws with a number of the implementations. We saw the vision behind the Rating metric but also see how it may fall short when considering players under the notion of consistency and experience. We also saw a possible favoritism towards players who may supporting agents that do not take front and center on a stat screen as well. Due to this we wanted to run some tests on some of our ideas that circumvent these issues.
+ #### 2. Methodology : Data 
+ ###### :orange[Big Wall of Text Incoming :warning:]
+            
+ We quickly identified that there was no real way for us to rank players without oversights, other websites and organizations have previously attempted this but we saw fundamental flaws with a number of the implementations. We saw the vision behind the Rating metric but also see how it may fall short when considering players under the notion of consistency and experience. We also saw a possible favoritism towards players who may supporting agents that do not take front and center on a stat screen as well. Due to this we wanted to run some tests on some of our ideas that circumvent these issues.
 
-- **Winner Winner** 
+ - **Winner Winner** 
             
     We determined that the most fundamental metric to success is the ability for the player to win. With the nature of Valorant, winning the game does not solely rely on a specific player's ability to do well but also has direct relationships with the performance of their teammates as well as their opponents. 
     
     To address this issue we determined that the winnings of the team would be a good substitution for ranking the list of teams for how 'often' or likely they are to win. This is then used to visualize how much a stat directly correlated to a group of players being 'best of the best'.
 
-- **"I popped off that one game..."** 
+ - **"I popped off that one game..."** 
     
     We all have our own share of great games, but when we're attempting to select players for the highest level of play, consistency needs to be a factor. A player can easily do well in a couple games but still lose said games. 
                 
@@ -54,7 +56,7 @@ We quickly identified that there was no real way for us to rank players without 
     Conceptually it's a ratio taken by dividing a players APR by their KPR. The ratio created is directly tied to how often a player gets assists compared to kills. While not necessarily a negative trait for supportive roles, we expect to see supportive agents to have a higher SelflessIndex due to the nature of their utility. A player with a high SelflessIndex then can be theoretically said to be a more supportive or utility based player. 
 
     $$
-        APR / KPR
+        apr / kpr
     $$
 
     This stat then is used by the LLM Agent to select a key supporting roles in the team's composition. A breakdown of Average SelflessIndex by Agent for each agent played during the league is provided below for context.
@@ -74,11 +76,13 @@ The LLM is prompt engineered to generate this query and also given some insight 
 - We also originally intended to give more leeway to the Bot to come up with the best answer but this of course opened up a can of worms of hallucinatory effects and incorrect information.           
 
 #### 4. Methodology : Front-End UI / App
-For our user interface / chat interface we finalized on Streamlit as
-### Challenges we ran into
-
-### Accomplishments that we're proud of
-
-### What we learned
-
-### What's next for Untitled""")
+> For our user interface / chat interface we finalized on Streamlit as our tool of choice as it provided all the necessary frameworks for a functional chatbot without introducing much more complexity.
+>
+> We implemented adhoc streaming of the traces so that the agent's thought process can be tracked by the user, this also fundamentally solves our problem with long pending responses.
+>
+> Status trackers are also added for less pain as users sit around waiting for the agent to complete it's orchestration and generation steps.
+> 
+> Invokations of other tools is also provided via a debug window for santiy checks.
+>
+> Overall I believe this makes reading into what the bot is doing much simplier and a lot less painful.            
+            """)

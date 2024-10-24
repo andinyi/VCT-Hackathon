@@ -4,6 +4,7 @@ import os
 from botocore.config import Config
 import datetime
 import time
+import base64
 import invokeAgent
 
 import streamlit as st
@@ -18,7 +19,7 @@ appZ = boto3.client('bedrock-runtime', region_name='us-east-1')
 
 st.title("Valorant VCT Manager Chatbot 🤖")
 
-sessionId = str(datetime.datetime.now()).replace(' ', '')
+sessionId = str(base64.b32hexencode(str(datetime.datetime.now()).replace(' ', '').encode("ascii")))[2:-1]
 
 if 'sessionId' not in st.session_state:
     st.session_state.sessionId = sessionId
@@ -26,7 +27,7 @@ if 'sessionId' not in st.session_state:
 if 'agentCalled' not in st.session_state:
     st.session_state.agentCalled = False
 
-st.subheader(f'Current SessionId is :orange[{st.session_state.sessionId}]') 
+#st.subheader(f'Current SessionId is :orange[{st.session_state.sessionId}]') 
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
@@ -36,11 +37,11 @@ for message in st.session_state.messages:
         st.markdown(message["content"])
 
 if temp := st.chat_input("Type your input here"):
-    if(temp[0] == '!'):
-        sessionId = temp[1:]
-        st.session_state.sessionId = sessionId
-        st.subheader(f'Switching SessionId Into : :orange[{st.session_state.sessionId}]') 
-    else:
+    #if(temp[0] == '!'):
+    #    sessionId = temp[1:]
+    #    st.session_state.sessionId = sessionId
+    #    st.subheader(f'Switching SessionId Into : :orange[{st.session_state.sessionId}]') 
+    #else:
         st.chat_message("user").markdown(temp)
         st.session_state.messages.append({"role" : "user", "content" : temp})
 
