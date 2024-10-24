@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.logo("pumpkinLong.png", size='large', link="http://jettreviveme.com/", icon_image="pumpkin.png")
+st.logo("https://public-bucket-andy.s3.us-east-1.amazonaws.com/pumpkinLong.PNG", size='large', link="http://jettreviveme.com/", icon_image="https://public-bucket-andy.s3.us-east-1.amazonaws.com/pumpkin.png")
 
 About_page = st.Page("About.py", title='About', icon=':material/dashboard:')
 Source_page = st.Page("sources.py", title='Sources', icon=':material/view_timeline:')
