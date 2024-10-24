@@ -1,4 +1,4 @@
 cd /home/vct_hackathon
-nohup streamlit run app.py --server.headless true --server.port 8501 
-
+nohup streamlit run app.py --server.headless true --server.port 8501 > /home/vct_hackathon/streamlit.log 2>&1 &
+disown
 
