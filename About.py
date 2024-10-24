@@ -63,6 +63,11 @@ The different sections of this build are listed below as well as further breakdo
 
     ![imageSelflessIndexByAgent](https://public-bucket-andy.s3.us-east-1.amazonaws.com/SelflessIndex.PNG)
 
+- **Simpler is Better**
+    
+    With the inconsistencies we saw with prompting and without the usage of Custom Models, we opted to keep our methodology simple to avoid complex understanding and prompting issues that may occur with increased complexity. We believe this current implementation provides reasonable compromises on both fronts in selecting competent and active players for a Valorant Competitive Team.
+
+
 #### 3. Methodology : LLM
 We utilized Bedrock's wide range of access to different models to create a baseline test attempting to select a model that meets our performant requirements. We concluded on Claude Sonnet 3.0 as it was fast enough to be used for Agents which utilize ReAct Prompting.
 
