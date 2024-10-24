@@ -65,7 +65,7 @@ if temp := st.chat_input("Type your input here"):
             st.session_state.messages.append({"role" : "assistant", "content" : f'{text}'})
         else:
             st.session_state.agentCalled = True
-            text = invokeAgent.invokeAgent(agentId, agentAliasId, str(st.session_state.sessionId).replace(' ',''), temp + "Create the best/strongest team possible. Ensure that you have 5 players in the final team composition.")
+            text = invokeAgent.invokeAgent(agentId, agentAliasId, str(st.session_state.sessionId).replace(' ',''), temp + " Create the best/strongest team possible. Ensure you 5 players in your final response. Explain strategies that this team can/will execute well and some weaknesses they may struggle with.")
             st.session_state.status.update(label='Thoughts and prayers completed, streaming final response 💡', state='complete')
             st.chat_message('assistant').write_stream(invokeAgent.streamFormat(text))
             st.session_state.messages.append({"role" : "assistant", "content" : f'{text}'})
