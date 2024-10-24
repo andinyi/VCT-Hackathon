@@ -2,19 +2,4 @@ cd /home/vct_hackathon
 echo "Starting Streamlit server..."
 nohup streamlit run app.py --server.headless true --server.port 8501 --server.address 0.0.0.0 > /var/log/streamlit.log 2>&1 &
 
-sleep 10
 
-# Check if the Streamlit server is running
-for i in {1..10}; do
-    if curl -s http://localhost:8501/ > /dev/null; then
-        echo "Streamlit server started successfully."
-        exit 0
-    else
-        echo "Waiting for Streamlit server to start..."
-        sleep 5
-    fi
-done
-
-# If the server did not start, exit with an error
-echo "Error: Streamlit server did not start."
-exit 1
