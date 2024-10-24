@@ -4,7 +4,7 @@ import os
 from botocore.config import Config
 import datetime
 import time
-import base64
+#import base64
 import invokeAgent
 
 import streamlit as st
@@ -19,10 +19,10 @@ appZ = boto3.client('bedrock-runtime', region_name='us-east-1')
 
 st.title("Valorant VCT Manager Chatbot 🤖")
 
-sessionId = str(base64.b32hexencode(str(datetime.datetime.now()).replace(' ', '').encode("ascii")))[2:-1]
+#sessionId = str(base64.b32hexencode(str(datetime.datetime.now()).replace(' ', '').encode("ascii")))[2:-1]
 
-if 'sessionId' not in st.session_state:
-    st.session_state.sessionId = sessionId
+#if 'sessionId' not in st.session_state:
+#    st.session_state.sessionId = sessionId
 
 if 'agentCalled' not in st.session_state:
     st.session_state.agentCalled = False
