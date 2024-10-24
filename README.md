@@ -49,7 +49,7 @@ To address this issue we wanted to introduce a 2 new metrics:
 
 These two metrics are then directly calculated for each player's overall performance in an event series and is then used by the LLM model to make selections in regards to team members and players.
 
-A detailed document that goes further in depth regarding this implementation can be found via this following link. 
+A detailed document that goes further in depth regarding this implementation can be found via this following [link](http://jettreviveme.com/). 
 
 ## Challenges
 As anybody working with data, we struggled a lot with data errors and visualizing a story from the data we had access to. One of the biggest issues we had was determining what was the best realistic way of identifying players that were good. I believe as these type of questions have no real answers we really struggled without the necessary competitive knowledge on this front.
