@@ -1,0 +1,1 @@
+{"id": "270700", "teams": [{"name": "NYX Kyosei", "score": "2", "country": "ph", "won": true}, {"name": "MLT Esports GC", "score": "1", "country": "bd", "won": false}], "status": "Completed", "date": "2023-10", "event": "Main Event–Lower Round 1", "tournament": "Game Changers 2023 Asia Pacific: Elite", "img": "https://owcdn.net/img/604be13d01964.png"}

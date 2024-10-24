@@ -1,0 +1,1 @@
+{"id": 9994, "name": "BabyJ Esports", "country": "United States", "wins": "1", "loses": "6", "winrate": 0.143, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "N/A", "status": "Inactive", "players": []}

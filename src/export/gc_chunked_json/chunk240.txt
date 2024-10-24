@@ -1,0 +1,1 @@
+{"id": "324357", "teams": [{"name": "Reformed Team", "score": "2", "country": "cl", "won": true}, {"name": "Deagle Ravagers", "score": "1", "country": "cl", "won": false}], "status": "Completed", "date": "2024-04", "event": "Main Event–Grand Final", "tournament": "Game Changers 2024 LATAM South: Swift Cup 1", "img": "https://owcdn.net/img/604be13d01964.png"}

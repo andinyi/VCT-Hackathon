@@ -1,0 +1,1 @@
+{"id": "270335", "teams": [{"name": "FiRePOWER", "score": "3", "country": "ar", "won": true}, {"name": "Skull Cracker Quartz", "score": "1", "country": "ve", "won": false}], "status": "Completed", "date": "2023-10", "event": "Latin America: North–Grandfinal", "tournament": "Game Changers 2023 LATAM: Finals", "img": "https://owcdn.net/img/604be13d01964.png"}

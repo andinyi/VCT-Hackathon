@@ -1,0 +1,1 @@
+{"id": 14113, "name": "NAPOLYON", "country": "Turkey", "wins": "3", "loses": "2", "winrate": 0.6, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "Europe", "status": "Active", "players": []}

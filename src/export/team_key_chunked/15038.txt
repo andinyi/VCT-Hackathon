@@ -1,0 +1,1 @@
+{"id": 15038, "name": "Glass Ceiling", "country": "United States", "wins": "3", "loses": "2", "winrate": 0.6, "gameChangerWins": "3", "gameChangerLoses": "2", "region": "Game Changers", "status": "Active", "players": []}

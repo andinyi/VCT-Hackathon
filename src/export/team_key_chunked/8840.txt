@@ -1,0 +1,1 @@
+{"id": 8840, "name": "Bravado Gaming", "country": "Egypt", "wins": "8", "loses": "11", "winrate": 0.421, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "MENA", "status": "Inactive", "players": []}

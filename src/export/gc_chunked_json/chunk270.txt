@@ -1,0 +1,1 @@
+{"id": "310548", "teams": [{"name": "VALIANT GC", "score": "0", "country": "fr", "won": false}, {"name": "GIANTX GC", "score": "2", "country": "tr", "won": true}], "status": "Completed", "date": "2024-03", "event": "Playoffs–Lower Round 3", "tournament": "Game Changers 2024 EMEA: Stage 1", "img": "https://owcdn.net/img/604be13d01964.png"}

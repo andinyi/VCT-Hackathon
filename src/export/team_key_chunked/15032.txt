@@ -1,0 +1,1 @@
+{"id": 15032, "name": "Silly Waffle", "country": "United States", "wins": "2", "loses": "2", "winrate": 0.5, "gameChangerWins": "2", "gameChangerLoses": "2", "region": "Game Changers", "status": "Active", "players": []}

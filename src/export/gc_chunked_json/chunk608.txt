@@ -1,0 +1,1 @@
+{"id": "271009", "teams": [{"name": "Acend Rising", "score": "2", "country": "eu", "won": true}, {"name": "Rebels Velvet", "score": "0", "country": "eu", "won": false}], "status": "Completed", "date": "2023-09", "event": "Group Stage–Round 2", "tournament": "Game Changers 2023 Stage III: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

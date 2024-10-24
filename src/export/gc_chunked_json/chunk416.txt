@@ -1,0 +1,1 @@
+{"id": "280751", "teams": [{"name": "Chosen Clique Gaming GC", "score": "2", "country": "cn", "won": true}, {"name": "DetonatioN FocusMe GC", "score": "0", "country": "jp", "won": false}], "status": "Completed", "date": "2023-11", "event": "Main Event–Quarterfinals", "tournament": "Game Changers 2023 East Asia", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"id": "277009", "teams": [{"name": "FlyQuest RED", "score": "0", "country": "us", "won": false}, {"name": "Complexity GX3", "score": "2", "country": "us", "won": true}], "status": "Completed", "date": "2023-10", "event": "Main Event–Lower Round 1", "tournament": "Game Changers 2023 Series III: North America", "img": "https://owcdn.net/img/604be13d01964.png"}

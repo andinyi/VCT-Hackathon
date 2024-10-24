@@ -1,0 +1,1 @@
+{"id": "197246", "teams": [{"name": "BBL Queens", "score": "2", "country": "tr", "won": true}, {"name": "UNtapped", "score": "0", "country": "eu", "won": false}], "status": "Completed", "date": "2023", "event": "Group Stage–Round 7", "tournament": "Game Changers 2023 Stage I: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

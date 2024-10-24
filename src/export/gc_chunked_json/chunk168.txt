@@ -1,0 +1,1 @@
+{"id": "350293", "teams": [{"name": "G2 Gozen", "score": "0", "country": "eu", "won": false}, {"name": "Odd 1 OUT", "score": "2", "country": "eu", "won": true}], "status": "Completed", "date": "2024-06", "event": "Group Stage–Week 1", "tournament": "Game Changers 2024 EMEA: Stage 2", "img": "https://owcdn.net/img/604be13d01964.png"}

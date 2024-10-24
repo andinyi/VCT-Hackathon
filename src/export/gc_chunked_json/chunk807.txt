@@ -1,0 +1,1 @@
+{"id": "235424", "teams": [{"name": "FUT Female", "score": "2", "country": "tr", "won": true}, {"name": "Rebels Velvet", "score": "1", "country": "eu", "won": false}], "status": "Completed", "date": "2023", "event": "Group Stage–Round 3", "tournament": "Game Changers 2023 Stage II: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

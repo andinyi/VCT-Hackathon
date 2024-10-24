@@ -1,0 +1,1 @@
+{"id": "297791", "teams": [{"name": "NEON BLADE", "score": "2", "country": "eu", "won": true}, {"name": "fuVi", "score": "0", "country": "tr", "won": false}], "status": "Completed", "date": "2024-02", "event": "Closed Qualifier–Upper Quarterfinals", "tournament": "Game Changers 2024 EMEA: Kickoff", "img": "https://owcdn.net/img/604be13d01964.png"}

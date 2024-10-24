@@ -1,0 +1,1 @@
+{"id": "271036", "teams": [{"name": "Guild GC", "score": "0", "country": "fr", "won": false}, {"name": "Odd 1 OUT", "score": "2", "country": "eu", "won": true}], "status": "Completed", "date": "2023-10", "event": "Group Stage–Round 5", "tournament": "Game Changers 2023 Stage III: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

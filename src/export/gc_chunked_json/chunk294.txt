@@ -1,0 +1,1 @@
+{"id": "299527", "teams": [{"name": "G2 Gozen", "score": "1", "country": "eu", "won": false}, {"name": "Team Falcons Vega", "score": "2", "country": "sa", "won": true}], "status": "Completed", "date": "2024-03", "event": "Group Stage–Week 2", "tournament": "Game Changers 2024 EMEA: Stage 1", "img": "https://owcdn.net/img/604be13d01964.png"}

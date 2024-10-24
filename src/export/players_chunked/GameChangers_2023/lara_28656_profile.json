@@ -1,0 +1,73 @@
+{
+    "Player URL": "https://www.vlr.gg/player/28656/lara?timespan=all",
+    "All Agents Stats": [
+        {
+            "Agent": "killjoy",
+            "Usage": 56.0,
+            "Rounds Played": "706",
+            "Rating": "0.93",
+            "Average Combat Score": "195.1",
+            "Kills:Death": "0.93",
+            "Average Damage per Round": "132.9",
+            "Kill, Assist, Survive, Trade %": "72%",
+            "Kills Per Round": "0.68",
+            "Assists Per Round": "0.18",
+            "First Kills Per Round": "0.09",
+            "First Deaths Per Round": "0.07",
+            "Kills": "478",
+            "Deaths": "513",
+            "Assists": "127",
+            "First Bloods": "64",
+            "First Deaths": "50",
+            "Rounds by Agents": 35
+        },
+        {
+            "Agent": "chamber",
+            "Usage": 34.0,
+            "Rounds Played": "438",
+            "Rating": "1.19",
+            "Average Combat Score": "245.7",
+            "Kills:Death": "1.23",
+            "Average Damage per Round": "157.1",
+            "Kill, Assist, Survive, Trade %": "73%",
+            "Kills Per Round": "0.87",
+            "Assists Per Round": "0.17",
+            "First Kills Per Round": "0.16",
+            "First Deaths Per Round": "0.10",
+            "Kills": "380",
+            "Deaths": "308",
+            "Assists": "75",
+            "First Bloods": "70",
+            "First Deaths": "45",
+            "Rounds by Agents": 21
+        }
+    ],
+    "Current Team": "FOKUS Sakura",
+    "Player": "lara",
+    "Signature Agents Ranked by Usage": [
+        "killjoy",
+        "chamber"
+    ],
+    "Total games played": 56,
+    "Player stats": {
+        "Rounds Played": "371",
+        "Rating": "0.79",
+        "Average Combat Score": "174.0",
+        "Kills:Death": "0.78",
+        "Kill, Assist, Survive, Trade Percent": "65%",
+        "Average Damage per Round": "118.3",
+        "Kills Per Round": "0.60",
+        "Assists Per Round": "0.15",
+        "First Kills Per Round": "0.07",
+        "First Deaths Per Round": "0.08",
+        "Headshot Percent": "18%",
+        "Clutch Success Percent%": "13%",
+        "Clutches (won/played)": null,
+        "Maximum Kills in a single map": null,
+        "Kills": "224",
+        "Deaths": "286",
+        "Assists": "55",
+        "First Kills": "27",
+        "First Deaths": "29"
+    }
+}

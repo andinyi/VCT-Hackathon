@@ -1,0 +1,1 @@
+{"id": "323116", "teams": [{"name": "RAVENOUS", "score": "0", "country": "un", "won": false}, {"name": "Halo Freyja", "score": "2", "country": "ph", "won": true}], "status": "Completed", "date": "2024-04", "event": "Open Qualifier–Round 2", "tournament": "Game Changers 2024 Southeast Asia: Stage 1", "img": "https://owcdn.net/img/604be13d01964.png"}

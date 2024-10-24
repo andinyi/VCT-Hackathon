@@ -1,0 +1,1 @@
+{"id": 6149, "name": "Case Esports", "country": "Europe", "wins": "46", "loses": "19", "winrate": 0.708, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "N/A", "status": "Inactive", "players": []}

@@ -1,0 +1,73 @@
+{
+    "Player URL": "https://www.vlr.gg/player/34177/unhappy?timespan=all",
+    "All Agents Stats": [
+        {
+            "Agent": "killjoy",
+            "Usage": 68.0,
+            "Rounds Played": "980",
+            "Rating": "1.01",
+            "Average Combat Score": "194.6",
+            "Kills:Death": "1.05",
+            "Average Damage per Round": "130.5",
+            "Kill, Assist, Survive, Trade %": "71%",
+            "Kills Per Round": "0.69",
+            "Assists Per Round": "0.15",
+            "First Kills Per Round": "0.08",
+            "First Deaths Per Round": "0.07",
+            "Kills": "672",
+            "Deaths": "640",
+            "Assists": "150",
+            "First Bloods": "79",
+            "First Deaths": "73",
+            "Rounds by Agents": 47
+        },
+        {
+            "Agent": "cypher",
+            "Usage": 26.0,
+            "Rounds Played": "365",
+            "Rating": "1.00",
+            "Average Combat Score": "195.3",
+            "Kills:Death": "1.05",
+            "Average Damage per Round": "132.3",
+            "Kill, Assist, Survive, Trade %": "66%",
+            "Kills Per Round": "0.73",
+            "Assists Per Round": "0.15",
+            "First Kills Per Round": "0.09",
+            "First Deaths Per Round": "0.04",
+            "Kills": "266",
+            "Deaths": "254",
+            "Assists": "55",
+            "First Bloods": "34",
+            "First Deaths": "14",
+            "Rounds by Agents": 18
+        }
+    ],
+    "Current Team": "Hungkuang Falcon",
+    "Player": "unhappy",
+    "Signature Agents Ranked by Usage": [
+        "killjoy",
+        "cypher"
+    ],
+    "Total games played": 65,
+    "Player stats": {
+        "Rounds Played": "383",
+        "Rating": "0.92",
+        "Average Combat Score": "185.3",
+        "Kills:Death": "0.92",
+        "Kill, Assist, Survive, Trade Percent": "67%",
+        "Average Damage per Round": "126.3",
+        "Kills Per Round": "0.67",
+        "Assists Per Round": "0.14",
+        "First Kills Per Round": "0.08",
+        "First Deaths Per Round": "0.04",
+        "Headshot Percent": "29%",
+        "Clutch Success Percent%": "11%",
+        "Clutches (won/played)": null,
+        "Maximum Kills in a single map": null,
+        "Kills": "255",
+        "Deaths": "277",
+        "Assists": "53",
+        "First Kills": "29",
+        "First Deaths": "17"
+    }
+}

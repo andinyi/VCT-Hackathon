@@ -1,0 +1,1 @@
+{"id": "287393", "teams": [{"name": "G2 Gozen", "score": "0", "country": "eu", "won": false}, {"name": "Team Liquid Brazil", "score": "2", "country": "br", "won": true}], "status": "Completed", "date": "2023-12", "event": "Main Event–Lower Final", "tournament": "Game Changers 2023 Championship: São Paulo", "img": "https://owcdn.net/img/604be13d01964.png"}

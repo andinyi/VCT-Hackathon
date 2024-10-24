@@ -1,0 +1,1 @@
+{"id": "297801", "teams": [{"name": "Azure", "score": "1", "country": "eu", "won": false}, {"name": "Karmine Corp GC", "score": "2", "country": "eu", "won": true}], "status": "Completed", "date": "2024-02", "event": "Closed Qualifier–Lower Round 2", "tournament": "Game Changers 2024 EMEA: Kickoff", "img": "https://owcdn.net/img/604be13d01964.png"}

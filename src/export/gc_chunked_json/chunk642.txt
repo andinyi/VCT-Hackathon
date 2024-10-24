@@ -1,0 +1,1 @@
+{"id": "260837", "teams": [{"name": "THE HERO KDA", "score": "1", "country": "ph", "won": false}, {"name": "NYX Kyosei", "score": "2", "country": "ph", "won": true}], "status": "Completed", "date": "2023-09", "event": "Playoffs–Lower Round 3", "tournament": "Game Changers 2023 Asia Pacific: Last Chance Qualifier", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"id": "299525", "teams": [{"name": "FOKUS Sakura", "score": "1", "country": "de", "won": false}, {"name": "MAD Lions KOI", "score": "2", "country": "es", "won": true}], "status": "Completed", "date": "2024-03", "event": "Group Stage–Week 2", "tournament": "Game Changers 2024 EMEA: Stage 1", "img": "https://owcdn.net/img/604be13d01964.png"}

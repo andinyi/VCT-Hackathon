@@ -1,0 +1,1 @@
+{"id": "369932", "teams": [{"name": "Xipto Esports", "score": "3", "country": "ph", "won": true}, {"name": "sisu", "score": "1", "country": "ph", "won": false}], "status": "Completed", "date": "2024-08", "event": "Playoffs–Grand Final", "tournament": "Game Changers 2024 Southeast Asia: Stage 2", "img": "https://owcdn.net/img/604be13d01964.png"}

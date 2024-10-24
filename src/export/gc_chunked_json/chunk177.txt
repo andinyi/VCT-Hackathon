@@ -1,0 +1,1 @@
+{"id": "348976", "teams": [{"name": "YIPPEE", "score": "2", "country": "au", "won": true}, {"name": "VLG X", "score": "0", "country": "au", "won": false}], "status": "Completed", "date": "2024-06", "event": "Main Event–Lower Round 3", "tournament": "Game Changers 2024 Oceania: Stage 1", "img": "https://owcdn.net/img/604be13d01964.png"}

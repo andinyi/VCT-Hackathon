@@ -1,0 +1,1 @@
+{"id": "334300", "teams": [{"name": "DRX Changers", "score": "0", "country": "jp", "won": false}, {"name": "FENNEL GC", "score": "2", "country": "jp", "won": true}], "status": "Completed", "date": "2024-05", "event": "Main Stage–Lower Final", "tournament": "Game Changers 2024 Japan: Split 1", "img": "https://owcdn.net/img/604be13d01964.png"}

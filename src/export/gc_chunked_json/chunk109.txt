@@ -1,0 +1,1 @@
+{"id": "366456", "teams": [{"name": "Evergarden GC", "score": "1", "country": "au", "won": false}, {"name": "VIXENS", "score": "2", "country": "au", "won": true}], "status": "Completed", "date": "2024-07", "event": "Main Event–Lower Round 3", "tournament": "Game Changers 2024 Oceania: Stage 2", "img": "https://owcdn.net/img/604be13d01964.png"}

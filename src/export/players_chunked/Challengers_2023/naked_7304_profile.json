@@ -1,0 +1,52 @@
+{
+    "Player URL": "https://www.vlr.gg/player/7304/naked?timespan=all",
+    "All Agents Stats": [
+        {
+            "Agent": "sova",
+            "Usage": 89.0,
+            "Rounds Played": "2045",
+            "Rating": "0.99",
+            "Average Combat Score": "190.6",
+            "Kills:Death": "0.95",
+            "Average Damage per Round": "128.6",
+            "Kill, Assist, Survive, Trade %": "73%",
+            "Kills Per Round": "0.65",
+            "Assists Per Round": "0.30",
+            "First Kills Per Round": "0.09",
+            "First Deaths Per Round": "0.07",
+            "Kills": "1334",
+            "Deaths": "1411",
+            "Assists": "623",
+            "First Bloods": "176",
+            "First Deaths": "147",
+            "Rounds by Agents": 99
+        }
+    ],
+    "Current Team": "Unknown",
+    "Player": "naked",
+    "Signature Agents Ranked by Usage": [
+        "sova"
+    ],
+    "Total games played": 99,
+    "Player stats": {
+        "Rounds Played": "235",
+        "Rating": "1.00",
+        "Average Combat Score": "201.6",
+        "Kills:Death": "0.96",
+        "Kill, Assist, Survive, Trade Percent": "72%",
+        "Average Damage per Round": "135.0",
+        "Kills Per Round": "0.70",
+        "Assists Per Round": "0.25",
+        "First Kills Per Round": "0.11",
+        "First Deaths Per Round": "0.08",
+        "Headshot Percent": "26%",
+        "Clutch Success Percent%": "10%",
+        "Clutches (won/played)": null,
+        "Maximum Kills in a single map": null,
+        "Kills": "164",
+        "Deaths": "170",
+        "Assists": "59",
+        "First Kills": "25",
+        "First Deaths": "19"
+    }
+}

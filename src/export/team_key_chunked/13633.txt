@@ -1,0 +1,1 @@
+{"id": 13633, "name": "Brasil 2002", "country": "Brazil", "wins": "22", "loses": "14", "winrate": 0.611, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "Brazil", "status": "Inactive", "players": []}

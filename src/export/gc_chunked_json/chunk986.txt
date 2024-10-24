@@ -1,0 +1,1 @@
+{"id": "193055", "teams": [{"name": "CLG Red", "score": "2", "country": "us", "won": true}, {"name": "YFP White", "score": "0", "country": "us", "won": false}], "status": "Completed", "date": "2023", "event": "Open Qualifier–Winner's (E)", "tournament": "Game Changers 2023 Series I: North America", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"id": "400859", "teams": [{"name": "NASR Ignite", "score": "0", "country": "eu", "won": false}, {"name": "ALTERNATE aTTaX Ruby", "score": "2", "country": "de", "won": true}], "status": "Completed", "date": "2024-09", "event": "Group Stage–Round 2", "tournament": "Game Changers 2024 EMEA: Stage 3", "img": "https://owcdn.net/img/604be13d01964.png"}

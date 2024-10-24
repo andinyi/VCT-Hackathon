@@ -1,0 +1,1 @@
+{"id": "326896", "teams": [{"name": "LEVIATÁN GC", "score": "2", "country": "cl", "won": true}, {"name": "FiRePOWER", "score": "0", "country": "ar", "won": false}], "status": "Completed", "date": "2024-06", "event": "Regular Phase–Week 5", "tournament": "Game Changers 2024 LATAM South: Opening", "img": "https://owcdn.net/img/604be13d01964.png"}

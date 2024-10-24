@@ -1,0 +1,1 @@
+{"id": 6316, "name": "Anorthosis Famagusta Esports", "country": "Greece", "wins": "52", "loses": "47", "winrate": 0.525, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "Europe", "status": "Inactive", "players": []}

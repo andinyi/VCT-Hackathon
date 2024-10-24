@@ -1,0 +1,1 @@
+{"id": 6392, "name": "Eternal Fire", "country": "Turkey", "wins": "14", "loses": "10", "winrate": 0.583, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "Europe", "status": "Active", "players": [{"playerName": "yT", "realName": "Yiğit Özden", "role": "head coach"}]}

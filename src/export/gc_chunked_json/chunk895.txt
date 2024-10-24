@@ -1,0 +1,1 @@
+{"id": "197231", "teams": [{"name": "G2 Gozen", "score": "1", "country": "eu", "won": false}, {"name": "BBL Queens", "score": "2", "country": "tr", "won": true}], "status": "Completed", "date": "2023", "event": "Group Stage–Round 4", "tournament": "Game Changers 2023 Stage I: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

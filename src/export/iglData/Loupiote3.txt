@@ -1,0 +1,1 @@
+{"name": "Loupiote3", "team": "ZERANCE MINT", "years_active": "2021 to Present", "active": true, "yearsOfExperience": 3}

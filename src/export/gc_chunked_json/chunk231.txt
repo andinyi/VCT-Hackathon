@@ -1,0 +1,1 @@
+{"id": "324804", "teams": [{"name": "FUSION X", "score": "0", "country": "un", "won": false}, {"name": "MYVRA", "score": "2", "country": "un", "won": true}], "status": "Completed", "date": "2024-04", "event": "Regular Phase–Week 1", "tournament": "Game Changers 2024 LATAM North: Opening", "img": "https://owcdn.net/img/604be13d01964.png"}

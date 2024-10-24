@@ -1,0 +1,1 @@
+{"id": "323258", "teams": [{"name": "AURA DIFFERENTIAL", "score": "2", "country": "un", "won": true}, {"name": "RIMA GC", "score": "1", "country": "sg", "won": false}], "status": "Completed", "date": "2024-04", "event": "Playoffs–Lower Round 3", "tournament": "Game Changers 2024 Southeast Asia: Stage 1", "img": "https://owcdn.net/img/604be13d01964.png"}

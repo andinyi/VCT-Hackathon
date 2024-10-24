@@ -1,0 +1,1 @@
+{"id": 8067, "name": "beGenius", "country": "France", "wins": "5", "loses": "2", "winrate": 0.714, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "Europe", "status": "Inactive", "players": []}

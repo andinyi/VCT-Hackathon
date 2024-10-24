@@ -1,0 +1,1 @@
+{"id": "273040", "teams": [{"name": "IGZIST Female", "score": "0", "country": "jp", "won": false}, {"name": "CREST GAMING Stellar", "score": "2", "country": "jp", "won": true}], "status": "Completed", "date": "2023-10", "event": "Main Event–Lower Round 1", "tournament": "Game Changers 2023 Japan: Split 2", "img": "https://owcdn.net/img/604be13d01964.png"}

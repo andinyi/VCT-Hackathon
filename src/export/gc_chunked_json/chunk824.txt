@@ -1,0 +1,1 @@
+{"id": "235417", "teams": [{"name": "Rebels Velvet", "score": "0", "country": "eu", "won": false}, {"name": "Case Hydra", "score": "2", "country": "es", "won": true}], "status": "Completed", "date": "2023", "event": "Group Stage–Round 1", "tournament": "Game Changers 2023 Stage II: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

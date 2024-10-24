@@ -1,0 +1,1 @@
+{"id": "276266", "teams": [{"name": "FiRePOWER", "score": "0", "country": "ar", "won": false}, {"name": "KRÜ BLAZE", "score": "3", "country": "cl", "won": true}], "status": "Completed", "date": "2023-10", "event": "Regional Final–Grand Final", "tournament": "Game Changers 2023 LATAM: Finals", "img": "https://owcdn.net/img/604be13d01964.png"}

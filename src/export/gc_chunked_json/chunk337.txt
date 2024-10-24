@@ -1,0 +1,1 @@
+{"id": "298948", "teams": [{"name": "Bumble Bees", "score": "2", "country": "un", "won": true}, {"name": "AST Luminescent", "score": "0", "country": "us", "won": false}], "status": "Completed", "date": "2024-02", "event": "Open Qualifier #2–Decider (G)", "tournament": "Game Changers 2024 North America: Series 1", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"id": 11056, "name": "FATE Esports", "country": "International", "wins": "23", "loses": "30", "winrate": 0.434, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "MENA", "status": "Inactive", "players": [{"playerName": "AlDBoOR", "realName": "Osama Nofal", "role": "player"}, {"playerName": "Kero", "realName": "Kerolos Talaat", "role": "player"}]}

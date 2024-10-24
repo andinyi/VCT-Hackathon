@@ -1,0 +1,1 @@
+{"id": 13738, "name": "Labyrinth White", "country": "International", "wins": "1", "loses": "4", "winrate": 0.2, "gameChangerWins": "1", "gameChangerLoses": "4", "region": "Game Changers", "status": "Active", "players": [{"playerName": "Ghostz", "realName": "Nikayla Garcia", "role": "player"}, {"playerName": "Gardyan", "realName": "Mohammad Matin-Nejad", "role": "coach"}]}

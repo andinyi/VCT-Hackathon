@@ -1,0 +1,1 @@
+{"id": "350297", "teams": [{"name": "VALIANT GC", "score": "0", "country": "fr", "won": false}, {"name": "HEROIC Valkyries", "score": "2", "country": "eu", "won": true}], "status": "Completed", "date": "2024-06", "event": "Group Stage–Week 1", "tournament": "Game Changers 2024 EMEA: Stage 2", "img": "https://owcdn.net/img/604be13d01964.png"}

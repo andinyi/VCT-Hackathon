@@ -1,0 +1,1 @@
+{"id": "358412", "teams": [{"name": "FlyQuest RED", "score": "1", "country": "us", "won": false}, {"name": "Solstice", "score": "2", "country": "us", "won": true}], "status": "Completed", "date": "2024-06", "event": "Main Event–Upper Quarterfinals", "tournament": "Game Changers 2024 North America: Series 2", "img": "https://owcdn.net/img/604be13d01964.png"}

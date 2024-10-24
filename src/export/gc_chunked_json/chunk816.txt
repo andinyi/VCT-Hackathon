@@ -1,0 +1,1 @@
+{"id": "235421", "teams": [{"name": "Guild GC", "score": "0", "country": "fr", "won": false}, {"name": "Rebels Velvet", "score": "2", "country": "eu", "won": true}], "status": "Completed", "date": "2023", "event": "Group Stage–Round 2", "tournament": "Game Changers 2023 Stage II: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"id": "326891", "teams": [{"name": "University War GC", "score": "0", "country": "cl", "won": false}, {"name": "FiRePOWER", "score": "2", "country": "ar", "won": true}], "status": "Completed", "date": "2024-05", "event": "Regular Phase–Week 4", "tournament": "Game Changers 2024 LATAM South: Opening", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"id": "354336", "teams": [{"name": "FiRePOWER", "score": "0", "country": "ar", "won": false}, {"name": "KRÜ BLAZE", "score": "3", "country": "cl", "won": true}], "status": "Completed", "date": "2024-06", "event": "Playoffs–Upper Final", "tournament": "Game Changers 2024 LATAM South: Opening", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"id": "350298", "teams": [{"name": "Team Falcons Vega", "score": "1", "country": "sa", "won": false}, {"name": "Karmine Corp GC", "score": "2", "country": "eu", "won": true}], "status": "Completed", "date": "2024-06", "event": "Group Stage–Week 1", "tournament": "Game Changers 2024 EMEA: Stage 2", "img": "https://owcdn.net/img/604be13d01964.png"}

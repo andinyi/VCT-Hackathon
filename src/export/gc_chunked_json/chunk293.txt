@@ -1,0 +1,1 @@
+{"id": "310536", "teams": [{"name": "GIANTX GC", "score": "2", "country": "tr", "won": true}, {"name": "FOKUS Sakura", "score": "0", "country": "de", "won": false}], "status": "Completed", "date": "2024-03", "event": "Playoffs–Upper Quarterfinals", "tournament": "Game Changers 2024 EMEA: Stage 1", "img": "https://owcdn.net/img/604be13d01964.png"}

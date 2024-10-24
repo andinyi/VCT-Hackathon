@@ -1,0 +1,1 @@
+{"id": 13295, "name": "Five Cell", "country": "United States", "wins": "4", "loses": "12", "winrate": 0.25, "gameChangerWins": "4", "gameChangerLoses": "12", "region": "Game Changers", "status": "Inactive", "players": []}

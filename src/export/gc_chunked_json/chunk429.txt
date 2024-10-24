@@ -1,0 +1,1 @@
+{"id": "279479", "teams": [{"name": "Chosen Clique Gaming GC", "score": "2", "country": "cn", "won": true}, {"name": "Attacking Soul Esports OvO", "score": "0", "country": "cn", "won": false}], "status": "Completed", "date": "2023-10", "event": "Playoffs–Semifinals", "tournament": "Game Changers 2023 China: Qualifier", "img": "https://owcdn.net/img/604be13d01964.png"}

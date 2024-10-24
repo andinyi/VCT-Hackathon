@@ -1,0 +1,1 @@
+{"id": "299115", "teams": [{"name": "YFP X", "score": "2", "country": "us", "won": true}, {"name": "Infinity X", "score": "0", "country": "us", "won": false}], "status": "Completed", "date": "2024-02", "event": "Closed Qualifier #2–Quarterfinals", "tournament": "Game Changers 2024 North America: Series 1", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"id": "369931", "teams": [{"name": "BOBA", "score": "1", "country": "un", "won": false}, {"name": "sisu", "score": "2", "country": "ph", "won": true}], "status": "Completed", "date": "2024-08", "event": "Playoffs–Lower Final", "tournament": "Game Changers 2024 Southeast Asia: Stage 2", "img": "https://owcdn.net/img/604be13d01964.png"}

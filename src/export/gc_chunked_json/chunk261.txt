@@ -1,0 +1,1 @@
+{"id": "322909", "teams": [{"name": "Glass Girls", "score": "0", "country": "un", "won": false}, {"name": "LILITH", "score": "2", "country": "th", "won": true}], "status": "Completed", "date": "2024-04", "event": "Open Qualifier–Round 1", "tournament": "Game Changers 2024 Southeast Asia: Stage 1", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"id": "273034", "teams": [{"name": "ZETA DIVISION GC", "score": "2", "country": "jp", "won": true}, {"name": "SCARZ GC", "score": "0", "country": "jp", "won": false}], "status": "Completed", "date": "2023-10", "event": "Main Event–Upper Quarterfinals", "tournament": "Game Changers 2023 Japan: Split 2", "img": "https://owcdn.net/img/604be13d01964.png"}

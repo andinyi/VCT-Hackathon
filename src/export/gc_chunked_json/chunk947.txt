@@ -1,0 +1,1 @@
+{"id": "193428", "teams": [{"name": "Acend Rising", "score": "2", "country": "eu", "won": true}, {"name": "İstanbul Wildcats Female", "score": "0", "country": "tr", "won": false}], "status": "Completed", "date": "2023", "event": "Open Qualifier–Round of 16", "tournament": "Game Changers 2023 Stage I: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

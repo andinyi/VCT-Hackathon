@@ -1,0 +1,1 @@
+{"id": "400855", "teams": [{"name": "G2 Gozen", "score": "2", "country": "eu", "won": true}, {"name": "ALTERNATE aTTaX Ruby", "score": "0", "country": "de", "won": false}], "status": "Completed", "date": "2024-09", "event": "Group Stage–Round 1", "tournament": "Game Changers 2024 EMEA: Stage 3", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,73 @@
+{
+    "Player URL": "https://www.vlr.gg/player/33714/vina?timespan=all",
+    "All Agents Stats": [
+        {
+            "Agent": "viper",
+            "Usage": 70.0,
+            "Rounds Played": "951",
+            "Rating": "0.96",
+            "Average Combat Score": "198.3",
+            "Kills:Death": "0.95",
+            "Average Damage per Round": "129.5",
+            "Kill, Assist, Survive, Trade %": "72%",
+            "Kills Per Round": "0.66",
+            "Assists Per Round": "0.33",
+            "First Kills Per Round": "0.10",
+            "First Deaths Per Round": "0.09",
+            "Kills": "623",
+            "Deaths": "659",
+            "Assists": "315",
+            "First Bloods": "94",
+            "First Deaths": "84",
+            "Rounds by Agents": 45
+        },
+        {
+            "Agent": "omen",
+            "Usage": 27.0,
+            "Rounds Played": "342",
+            "Rating": "1.05",
+            "Average Combat Score": "191.7",
+            "Kills:Death": "1.07",
+            "Average Damage per Round": "128.1",
+            "Kill, Assist, Survive, Trade %": "77%",
+            "Kills Per Round": "0.69",
+            "Assists Per Round": "0.44",
+            "First Kills Per Round": "0.08",
+            "First Deaths Per Round": "0.08",
+            "Kills": "235",
+            "Deaths": "219",
+            "Assists": "152",
+            "First Bloods": "27",
+            "First Deaths": "26",
+            "Rounds by Agents": 17
+        }
+    ],
+    "Current Team": "Unknown",
+    "Player": "vina",
+    "Signature Agents Ranked by Usage": [
+        "viper",
+        "omen"
+    ],
+    "Total games played": 62,
+    "Player stats": {
+        "Rounds Played": "605",
+        "Rating": "0.90",
+        "Average Combat Score": "181.8",
+        "Kills:Death": "0.86",
+        "Kill, Assist, Survive, Trade Percent": "71%",
+        "Average Damage per Round": "118.8",
+        "Kills Per Round": "0.62",
+        "Assists Per Round": "0.35",
+        "First Kills Per Round": "0.09",
+        "First Deaths Per Round": "0.09",
+        "Headshot Percent": "30%",
+        "Clutch Success Percent%": "9%",
+        "Clutches (won/played)": null,
+        "Maximum Kills in a single map": null,
+        "Kills": "376",
+        "Deaths": "435",
+        "Assists": "210",
+        "First Kills": "52",
+        "First Deaths": "55"
+    }
+}

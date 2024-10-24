@@ -1,0 +1,1 @@
+{"id": "270333", "teams": [{"name": "Globant Emerald Team", "score": "1", "country": "ar", "won": false}, {"name": "9z Team GC", "score": "3", "country": "ar", "won": true}], "status": "Completed", "date": "2023", "event": "Latin America: South–Lower Final", "tournament": "Game Changers 2023 LATAM: Finals", "img": "https://owcdn.net/img/604be13d01964.png"}

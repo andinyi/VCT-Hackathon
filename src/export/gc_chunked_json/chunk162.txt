@@ -1,0 +1,1 @@
+{"id": "354282", "teams": [{"name": "Cruzados Esports Fem", "score": "3", "country": "cl", "won": true}, {"name": "OXEN GC", "score": "1", "country": "un", "won": false}], "status": "Completed", "date": "2024-06", "event": "Promotion/Relegation–Promotion Match", "tournament": "Game Changers 2024 LATAM South: Opening", "img": "https://owcdn.net/img/604be13d01964.png"}

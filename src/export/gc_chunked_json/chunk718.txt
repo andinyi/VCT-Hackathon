@@ -1,0 +1,1 @@
+{"id": "238284", "teams": [{"name": "Anomaly No Charms", "score": "0", "country": "ph", "won": false}, {"name": "RRQ Kaguya", "score": "2", "country": "id", "won": true}], "status": "Completed", "date": "2023", "event": "Playoffs–Upper Quarterfinals", "tournament": "Game Changers 2023 Asia Pacific: Open 3", "img": "https://owcdn.net/img/604be13d01964.png"}

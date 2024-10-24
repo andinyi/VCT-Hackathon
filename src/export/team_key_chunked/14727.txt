@@ -1,0 +1,1 @@
+{"id": 14727, "name": "unpaid dogs", "country": "United States", "wins": "6", "loses": "2", "winrate": 0.75, "gameChangerWins": "6", "gameChangerLoses": "2", "region": "Game Changers", "status": "Active", "players": []}

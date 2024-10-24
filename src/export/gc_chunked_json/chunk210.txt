@@ -1,0 +1,1 @@
+{"id": "326559", "teams": [{"name": "LOUD GC", "score": "1", "country": "br", "won": false}, {"name": "Team Leveling", "score": "2", "country": "br", "won": true}], "status": "Completed", "date": "2024-05", "event": "Main Event–Lower Round 2", "tournament": "Game Changers 2024 Brazil: Series 1", "img": "https://owcdn.net/img/604be13d01964.png"}

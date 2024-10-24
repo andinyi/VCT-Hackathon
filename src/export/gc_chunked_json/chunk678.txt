@@ -1,0 +1,1 @@
+{"id": "248498", "teams": [{"name": "Lunatic-Hai Flax", "score": "2", "country": "kr", "won": true}, {"name": "Obelisk", "score": "0", "country": "kr", "won": false}], "status": "Completed", "date": "2023", "event": "Main Event–Upper Final", "tournament": "Game Changers 2023 Korea: Stage 1", "img": "https://owcdn.net/img/604be13d01964.png"}

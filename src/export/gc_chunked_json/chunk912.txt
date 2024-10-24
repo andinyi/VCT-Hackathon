@@ -1,0 +1,1 @@
+{"id": "197255", "teams": [{"name": "Case Hydra", "score": "2", "country": "es", "won": true}, {"name": "Team Falcons Vega", "score": "1", "country": "sa", "won": false}], "status": "Completed", "date": "2023", "event": "Group Stage–Round 2", "tournament": "Game Changers 2023 Stage I: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

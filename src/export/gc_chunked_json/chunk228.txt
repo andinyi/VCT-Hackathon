@@ -1,0 +1,1 @@
+{"id": "326881", "teams": [{"name": "University War GC", "score": "2", "country": "cl", "won": true}, {"name": "Cruzados Esports Fem", "score": "1", "country": "cl", "won": false}], "status": "Completed", "date": "2024-04", "event": "Regular Phase–Week 1", "tournament": "Game Changers 2024 LATAM South: Opening", "img": "https://owcdn.net/img/604be13d01964.png"}

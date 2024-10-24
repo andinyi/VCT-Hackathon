@@ -1,0 +1,1 @@
+{"id": "310544", "teams": [{"name": "FOKUS Sakura", "score": "0", "country": "de", "won": false}, {"name": "NASR Ignite", "score": "2", "country": "eu", "won": true}], "status": "Completed", "date": "2024-03", "event": "Playoffs–Lower Round 1", "tournament": "Game Changers 2024 EMEA: Stage 1", "img": "https://owcdn.net/img/604be13d01964.png"}

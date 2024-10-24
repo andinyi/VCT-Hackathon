@@ -1,0 +1,1 @@
+{"id": "276996", "teams": [{"name": "FT Silvxs", "score": "2", "country": "us", "won": true}, {"name": "Berzerkers Night", "score": "1", "country": "us", "won": false}], "status": "Completed", "date": "2023-10", "event": "Closed Qualifier–Lower Round 2", "tournament": "Game Changers 2023 Series III: North America", "img": "https://owcdn.net/img/604be13d01964.png"}

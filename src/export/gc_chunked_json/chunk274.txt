@@ -1,0 +1,1 @@
+{"id": "310546", "teams": [{"name": "VALIANT GC", "score": "2", "country": "fr", "won": true}, {"name": "NASR Ignite", "score": "0", "country": "eu", "won": false}], "status": "Completed", "date": "2024-03", "event": "Playoffs–Lower Round 2", "tournament": "Game Changers 2024 EMEA: Stage 1", "img": "https://owcdn.net/img/604be13d01964.png"}

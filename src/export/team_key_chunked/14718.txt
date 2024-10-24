@@ -1,0 +1,1 @@
+{"id": 14718, "name": "Passion Project", "country": "United States", "wins": "10", "loses": "1", "winrate": 0.909, "gameChangerWins": "10", "gameChangerLoses": "1", "region": "Game Changers", "status": "Inactive", "players": [{"playerName": "lazylion", "realName": "Nathan Hoang", "role": "player"}, {"playerName": "unstable", "realName": "N/A", "role": "player"}]}

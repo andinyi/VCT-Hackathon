@@ -1,0 +1,1 @@
+{"id": 14838, "name": "1T", "country": "United States", "wins": "1", "loses": "4", "winrate": 0.2, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "North America", "status": "Active", "players": []}

@@ -1,0 +1,1 @@
+{"id": "169548", "teams": [{"name": "Awake Gaming Female", "score": "2", "country": "un", "won": true}, {"name": "FreeAction", "score": "0", "country": "mx", "won": false}], "status": "Completed", "date": "2023", "event": "LATAM North - Closed Qualifier–Upper Finals", "tournament": "Game Changers 2023 LATAM: Qualifiers", "img": "https://owcdn.net/img/604be13d01964.png"}

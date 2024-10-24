@@ -1,0 +1,1 @@
+{"id": 6793, "name": "Jadeite", "country": "Japan", "wins": "20", "loses": "11", "winrate": 0.645, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "Japan", "status": "Inactive", "players": []}

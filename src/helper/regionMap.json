@@ -1,0 +1,7 @@
+{ 
+	"Americas" : ["North America", "Brazil", "Latin America South", "Latin America North", "United States", "Canada", "Mexico", "Latin America", "Chile", "Ecuador", "Colombia", "Argentina", "Venezuela"],
+	"Pacific" : ["Asia-Pacific", "Korea", "Japan", "Oceania", "South Korea", "Vietnam", "Indonesia", "Philippines", "Thailand", "Singapore", "Australia", "Bangladesh", "India"],
+	"China" : ["China"],
+	"EMEAS" : ["Europe", "MENA", "Turkey", "Egypt", "Saudi Arabia", "Germany", "France", "Russia", "Poland", "Finland", "Italy", "Spain", "Portugal"],
+	"Unknown" : ["International"]
+}

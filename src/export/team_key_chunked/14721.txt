@@ -1,0 +1,1 @@
+{"id": 14721, "name": "AST Luminescent", "country": "United States", "wins": "2", "loses": "6", "winrate": 0.25, "gameChangerWins": "2", "gameChangerLoses": "6", "region": "Game Changers", "status": "Active", "players": []}

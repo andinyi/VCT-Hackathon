@@ -1,0 +1,1 @@
+{"id": "379186", "teams": [{"name": "Team Leveling", "score": "2", "country": "br", "won": true}, {"name": "paprica picante", "score": "1", "country": "br", "won": false}], "status": "Completed", "date": "2024-08", "event": "Main Event–Lower Round 1", "tournament": "Game Changers 2024 Brazil: Series 2", "img": "https://owcdn.net/img/604be13d01964.png"}

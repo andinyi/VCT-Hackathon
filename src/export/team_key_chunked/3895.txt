@@ -1,0 +1,1 @@
+{"id": 3895, "name": "Macko Esports", "country": "Italy", "wins": "10", "loses": "8", "winrate": 0.556, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "Europe", "status": "Inactive", "players": [{"playerName": "Lilith", "realName": "Elenoire Scaletta", "role": "manager"}, {"playerName": "Morphiw0w", "realName": "Enrico Coppini", "role": "head coach"}]}

@@ -1,0 +1,1 @@
+{"id": "271015", "teams": [{"name": "FUT Female", "score": "2", "country": "tr", "won": true}, {"name": "Karmine Corp GC", "score": "1", "country": "eu", "won": false}], "status": "Completed", "date": "2023-09", "event": "Group Stage–Round 3", "tournament": "Game Changers 2023 Stage III: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

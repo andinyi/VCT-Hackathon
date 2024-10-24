@@ -1,0 +1,1 @@
+{"id": "271341", "teams": [{"name": "DRX Changers", "score": "2", "country": "jp", "won": true}, {"name": "DOPENESS Fluffy", "score": "0", "country": "jp", "won": false}], "status": "Completed", "date": "2023-09", "event": "Open Qualifier - Group A–Grand Final", "tournament": "Game Changers 2023 Japan: Split 2", "img": "https://owcdn.net/img/604be13d01964.png"}

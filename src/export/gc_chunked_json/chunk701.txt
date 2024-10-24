@@ -1,0 +1,1 @@
+{"id": "238285", "teams": [{"name": "SCYTHE NWJ", "score": "0", "country": "id", "won": false}, {"name": "Team SMG GC", "score": "2", "country": "sg", "won": true}], "status": "Completed", "date": "2023", "event": "Playoffs–Upper Semifinals", "tournament": "Game Changers 2023 Asia Pacific: Open 3", "img": "https://owcdn.net/img/604be13d01964.png"}

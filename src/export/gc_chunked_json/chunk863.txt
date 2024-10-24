@@ -1,0 +1,1 @@
+{"id": "209403", "teams": [{"name": "BBL Queens", "score": "2", "country": "tr", "won": true}, {"name": "G2 Gozen", "score": "1", "country": "eu", "won": false}], "status": "Completed", "date": "2023", "event": "Playoffs–Upper Final", "tournament": "Game Changers 2023 Stage I: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

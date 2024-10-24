@@ -1,0 +1,1 @@
+{"id": "279480", "teams": [{"name": "Chao Hui EDward Gaming", "score": "1", "country": "cn", "won": false}, {"name": "Chosen Clique Gaming GC", "score": "2", "country": "cn", "won": true}], "status": "Completed", "date": "2023-10", "event": "Playoffs–Grand Final", "tournament": "Game Changers 2023 China: Qualifier", "img": "https://owcdn.net/img/604be13d01964.png"}

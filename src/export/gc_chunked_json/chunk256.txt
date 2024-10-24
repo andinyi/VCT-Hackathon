@@ -1,0 +1,1 @@
+{"id": "323350", "teams": [{"name": "4Fun", "score": "1", "country": "ph", "won": false}, {"name": "RIMA GC", "score": "2", "country": "sg", "won": true}], "status": "Completed", "date": "2024-04", "event": "Open Qualifier–Round 4", "tournament": "Game Changers 2024 Southeast Asia: Stage 1", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"id": "271014", "teams": [{"name": "Odd 1 OUT", "score": "1", "country": "eu", "won": false}, {"name": "BBL Queens", "score": "2", "country": "tr", "won": true}], "status": "Completed", "date": "2023-09", "event": "Group Stage–Round 3", "tournament": "Game Changers 2023 Stage III: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

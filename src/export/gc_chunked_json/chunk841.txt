@@ -1,0 +1,1 @@
+{"id": "221306", "teams": [{"name": "Team SMG GC", "score": "2", "country": "sg", "won": true}, {"name": "FULL SENSE SAPPHIRE", "score": "1", "country": "th", "won": false}], "status": "Completed", "date": "2023", "event": "Playoffs–Upper Final", "tournament": "Game Changers 2023 Asia Pacific: Open 2", "img": "https://owcdn.net/img/604be13d01964.png"}

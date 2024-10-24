@@ -1,0 +1,1 @@
+{"id": "297794", "teams": [{"name": "Team Falcons Vega", "score": "2", "country": "sa", "won": true}, {"name": "Zerance Mint", "score": "1", "country": "fr", "won": false}], "status": "Completed", "date": "2024-02", "event": "Closed Qualifier–Upper Quarterfinals", "tournament": "Game Changers 2024 EMEA: Kickoff", "img": "https://owcdn.net/img/604be13d01964.png"}

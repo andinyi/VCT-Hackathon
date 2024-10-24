@@ -1,0 +1,1 @@
+{"id": "193153", "teams": [{"name": "Shopify Rebellion GC", "score": "2", "country": "us", "won": true}, {"name": "Evil Geniuses GC", "score": "0", "country": "us", "won": false}], "status": "Completed", "date": "2023", "event": "Main Event–Upper Semifinals", "tournament": "Game Changers 2023 Series I: North America", "img": "https://owcdn.net/img/604be13d01964.png"}

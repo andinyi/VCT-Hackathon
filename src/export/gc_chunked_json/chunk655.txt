@@ -1,0 +1,1 @@
+{"id": "260830", "teams": [{"name": "NYX Kyosei", "score": "1", "country": "ph", "won": false}, {"name": "MLT Esports GC", "score": "2", "country": "bd", "won": true}], "status": "Completed", "date": "2023", "event": "Playoffs–Upper Semifinals", "tournament": "Game Changers 2023 Asia Pacific: Last Chance Qualifier", "img": "https://owcdn.net/img/604be13d01964.png"}

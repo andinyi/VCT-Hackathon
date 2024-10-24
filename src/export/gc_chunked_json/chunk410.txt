@@ -1,0 +1,1 @@
+{"id": "280755", "teams": [{"name": "Chao Hui EDward Gaming", "score": "3", "country": "cn", "won": true}, {"name": "ZETA DIVISION GC", "score": "1", "country": "jp", "won": false}], "status": "Completed", "date": "2023-11", "event": "Main Event–Grand Final", "tournament": "Game Changers 2023 East Asia", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"id": "197220", "teams": [{"name": "Natus Vincere Celestials", "score": "0", "country": "tr", "won": false}, {"name": "BBL Queens", "score": "2", "country": "tr", "won": true}], "status": "Completed", "date": "2023", "event": "Group Stage–Round 1", "tournament": "Game Changers 2023 Stage I: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

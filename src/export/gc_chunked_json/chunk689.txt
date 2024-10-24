@@ -1,0 +1,1 @@
+{"id": "248189", "teams": [{"name": "REIGNITE Lily", "score": "2", "country": "jp", "won": true}, {"name": "DRX Changers", "score": "1", "country": "jp", "won": false}], "status": "Completed", "date": "2023", "event": "Main Stage–Upper Semifinals", "tournament": "Game Changers 2023 Japan: Split 1", "img": "https://owcdn.net/img/604be13d01964.png"}

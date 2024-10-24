@@ -1,0 +1,1 @@
+{"id": "372241", "teams": [{"name": "DRX Changers", "score": "1", "country": "jp", "won": false}, {"name": "SCARZ GC", "score": "2", "country": "jp", "won": true}], "status": "Completed", "date": "2024-07", "event": "Main Stage–Upper Quarterfinals", "tournament": "Game Changers 2024 Japan: Split 2", "img": "https://owcdn.net/img/604be13d01964.png"}

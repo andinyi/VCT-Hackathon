@@ -1,0 +1,52 @@
+{
+    "Player URL": "https://www.vlr.gg/player/17272/dokja?timespan=all",
+    "All Agents Stats": [
+        {
+            "Agent": "neon",
+            "Usage": 87.0,
+            "Rounds Played": "1439",
+            "Rating": "1.21",
+            "Average Combat Score": "248.3",
+            "Kills:Death": "1.29",
+            "Average Damage per Round": "155.5",
+            "Kill, Assist, Survive, Trade %": "75%",
+            "Kills Per Round": "0.90",
+            "Assists Per Round": "0.23",
+            "First Kills Per Round": "0.09",
+            "First Deaths Per Round": "0.09",
+            "Kills": "1295",
+            "Deaths": "1007",
+            "Assists": "327",
+            "First Bloods": "129",
+            "First Deaths": "128",
+            "Rounds by Agents": 71
+        }
+    ],
+    "Current Team": "Peace And Love",
+    "Player": "dokja",
+    "Signature Agents Ranked by Usage": [
+        "neon"
+    ],
+    "Total games played": 71,
+    "Player stats": {
+        "Rounds Played": "322",
+        "Rating": "1.05",
+        "Average Combat Score": "225.5",
+        "Kills:Death": "1.07",
+        "Kill, Assist, Survive, Trade Percent": "70%",
+        "Average Damage per Round": "141.2",
+        "Kills Per Round": "0.81",
+        "Assists Per Round": "0.17",
+        "First Kills Per Round": "0.07",
+        "First Deaths Per Round": "0.11",
+        "Headshot Percent": "28%",
+        "Clutch Success Percent%": "15%",
+        "Clutches (won/played)": null,
+        "Maximum Kills in a single map": null,
+        "Kills": "260",
+        "Deaths": "244",
+        "Assists": "56",
+        "First Kills": "24",
+        "First Deaths": "36"
+    }
+}

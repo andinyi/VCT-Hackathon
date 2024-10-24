@@ -1,0 +1,1 @@
+{"id": "280750", "teams": [{"name": "CVA", "score": "0", "country": "kr", "won": false}, {"name": "FENNEL GC", "score": "2", "country": "jp", "won": true}], "status": "Completed", "date": "2023-11", "event": "Main Event–Quarterfinals", "tournament": "Game Changers 2023 East Asia", "img": "https://owcdn.net/img/604be13d01964.png"}

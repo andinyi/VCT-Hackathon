@@ -1,0 +1,1 @@
+{"id": "372243", "teams": [{"name": "FENNEL GC", "score": "2", "country": "jp", "won": true}, {"name": "SCARZ GC", "score": "0", "country": "jp", "won": false}], "status": "Completed", "date": "2024-07", "event": "Main Stage–Upper Semifinals", "tournament": "Game Changers 2024 Japan: Split 2", "img": "https://owcdn.net/img/604be13d01964.png"}

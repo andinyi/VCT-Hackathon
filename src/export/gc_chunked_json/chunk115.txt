@@ -1,0 +1,1 @@
+{"id": "357994", "teams": [{"name": "GIANTX GC", "score": "1", "country": "tr", "won": false}, {"name": "Team Falcons Vega", "score": "3", "country": "sa", "won": true}], "status": "Completed", "date": "2024-06", "event": "Playoffs–Lower Final", "tournament": "Game Changers 2024 EMEA: Stage 2", "img": "https://owcdn.net/img/604be13d01964.png"}

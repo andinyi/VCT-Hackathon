@@ -1,0 +1,1 @@
+{"id": "371775", "teams": [{"name": "Asmodeus Colosseum GC", "score": "0", "country": "in", "won": false}, {"name": "9to5 workers", "score": "2", "country": "in", "won": true}], "status": "Completed", "date": "2024-07", "event": "Main Event–Semifinals", "tournament": "Game Changers 2024 South Asia: Split 2", "img": "https://owcdn.net/img/604be13d01964.png"}

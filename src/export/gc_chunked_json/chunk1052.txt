@@ -1,0 +1,1 @@
+{"id": "170150", "teams": [{"name": "Globant Emerald Team", "score": "0", "country": "ar", "won": false}, {"name": "SunXet Club Fem", "score": "2", "country": "cl", "won": true}], "status": "Completed", "date": "2023", "event": "LATAM South - Closed Qualifier–Upper Final", "tournament": "Game Changers 2023 LATAM: Qualifiers", "img": "https://owcdn.net/img/604be13d01964.png"}

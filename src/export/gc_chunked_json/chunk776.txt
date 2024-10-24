@@ -1,0 +1,1 @@
+{"id": "240295", "teams": [{"name": "Velaris", "score": "0", "country": "us", "won": false}, {"name": "Solidarity", "score": "2", "country": "us", "won": true}], "status": "Completed", "date": "2023", "event": "Open Qualifier–Winner's (B)", "tournament": "Game Changers 2023 Series II: North America", "img": "https://owcdn.net/img/604be13d01964.png"}

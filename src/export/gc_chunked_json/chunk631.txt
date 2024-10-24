@@ -1,0 +1,1 @@
+{"id": "271064", "teams": [{"name": "Nuclear GC", "score": "3", "country": "kr", "won": true}, {"name": "CVA", "score": "0", "country": "kr", "won": false}], "status": "Completed", "date": "2023-09", "event": "Main Event–Grand Final", "tournament": "Game Changers 2023 Korea: Stage 2", "img": "https://owcdn.net/img/604be13d01964.png"}

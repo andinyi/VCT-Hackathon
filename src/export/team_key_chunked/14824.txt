@@ -1,0 +1,1 @@
+{"id": 14824, "name": "boomertin", "country": "International", "wins": "4", "loses": "4", "winrate": 0.5, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "North America", "status": "Active", "players": []}

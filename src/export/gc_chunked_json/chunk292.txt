@@ -1,0 +1,1 @@
+{"id": "310537", "teams": [{"name": "G2 Gozen", "score": "2", "country": "eu", "won": true}, {"name": "NASR Ignite", "score": "0", "country": "eu", "won": false}], "status": "Completed", "date": "2024-03", "event": "Playoffs–Upper Quarterfinals", "tournament": "Game Changers 2024 EMEA: Stage 1", "img": "https://owcdn.net/img/604be13d01964.png"}

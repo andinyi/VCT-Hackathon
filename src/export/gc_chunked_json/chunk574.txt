@@ -1,0 +1,1 @@
+{"id": "270334", "teams": [{"name": "KRÜ BLAZE", "score": "3", "country": "cl", "won": true}, {"name": "9z Team GC", "score": "0", "country": "ar", "won": false}], "status": "Completed", "date": "2023-10", "event": "Latin America: South–Grandfinal", "tournament": "Game Changers 2023 LATAM: Finals", "img": "https://owcdn.net/img/604be13d01964.png"}

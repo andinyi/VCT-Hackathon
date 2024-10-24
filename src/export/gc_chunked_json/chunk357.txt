@@ -1,0 +1,1 @@
+{"id": "297793", "teams": [{"name": "MAD Lions KOI", "score": "0", "country": "es", "won": false}, {"name": "VALIANT GC", "score": "2", "country": "fr", "won": true}], "status": "Completed", "date": "2024-02", "event": "Closed Qualifier–Upper Quarterfinals", "tournament": "Game Changers 2024 EMEA: Kickoff", "img": "https://owcdn.net/img/604be13d01964.png"}

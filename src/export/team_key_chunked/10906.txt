@@ -1,0 +1,1 @@
+{"id": 10906, "name": "YFP White", "country": "United States", "wins": "2", "loses": "2", "winrate": 0.5, "gameChangerWins": "9", "gameChangerLoses": "4", "region": "Game Changers", "status": "Inactive", "players": []}

@@ -1,0 +1,1 @@
+{"id": "197277", "teams": [{"name": "Team Falcons Vega", "score": "1", "country": "sa", "won": false}, {"name": "GeeKay Esports Cherry", "score": "2", "country": "eg", "won": true}], "status": "Completed", "date": "2023", "event": "Group Stage–Round 7", "tournament": "Game Changers 2023 Stage I: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"name": "ANGE1", "team": "Natus Vincere", "years_active": "2020 to Present", "active": true, "yearsOfExperience": 4}

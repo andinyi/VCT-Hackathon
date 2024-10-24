@@ -1,0 +1,1 @@
+{"id": "297802", "teams": [{"name": "fuVi", "score": "0", "country": "tr", "won": false}, {"name": "scoobydoomix", "score": "2", "country": "tr", "won": true}], "status": "Completed", "date": "2024-02", "event": "Closed Qualifier–Lower Round 2", "tournament": "Game Changers 2024 EMEA: Kickoff", "img": "https://owcdn.net/img/604be13d01964.png"}

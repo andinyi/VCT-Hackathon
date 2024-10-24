@@ -1,0 +1,1 @@
+{"id": "271002", "teams": [{"name": "Alien Anonymo", "score": "2", "country": "pl", "won": true}, {"name": "Rebels Velvet", "score": "1", "country": "eu", "won": false}], "status": "Completed", "date": "2023-09", "event": "Group Stage–Round 1", "tournament": "Game Changers 2023 Stage III: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

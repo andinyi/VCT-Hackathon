@@ -1,0 +1,73 @@
+{
+    "Player URL": "https://www.vlr.gg/player/16647/yohan?timespan=all",
+    "All Agents Stats": [
+        {
+            "Agent": "omen",
+            "Usage": 86.0,
+            "Rounds Played": "697",
+            "Rating": "0.92",
+            "Average Combat Score": "185.3",
+            "Kills:Death": "0.90",
+            "Average Damage per Round": "119.9",
+            "Kill, Assist, Survive, Trade %": "72%",
+            "Kills Per Round": "0.65",
+            "Assists Per Round": "0.38",
+            "First Kills Per Round": "0.09",
+            "First Deaths Per Round": "0.07",
+            "Kills": "453",
+            "Deaths": "506",
+            "Assists": "265",
+            "First Bloods": "62",
+            "First Deaths": "49",
+            "Rounds by Agents": 32
+        },
+        {
+            "Agent": "viper",
+            "Usage": 11.0,
+            "Rounds Played": "65",
+            "Rating": "0.98",
+            "Average Combat Score": "217.3",
+            "Kills:Death": "0.88",
+            "Average Damage per Round": "141.6",
+            "Kill, Assist, Survive, Trade %": "71%",
+            "Kills Per Round": "0.69",
+            "Assists Per Round": "0.28",
+            "First Kills Per Round": "0.15",
+            "First Deaths Per Round": "0.11",
+            "Kills": "45",
+            "Deaths": "51",
+            "Assists": "18",
+            "First Bloods": "10",
+            "First Deaths": "7",
+            "Rounds by Agents": 4
+        }
+    ],
+    "Current Team": "Be \uc815\uc0c1",
+    "Player": "yohan",
+    "Signature Agents Ranked by Usage": [
+        "omen",
+        "viper"
+    ],
+    "Total games played": 36,
+    "Player stats": {
+        "Rounds Played": "239",
+        "Rating": "0.86",
+        "Average Combat Score": "175.2",
+        "Kills:Death": "0.78",
+        "Kill, Assist, Survive, Trade Percent": "71%",
+        "Average Damage per Round": "112.0",
+        "Kills Per Round": "0.58",
+        "Assists Per Round": "0.36",
+        "First Kills Per Round": "0.11",
+        "First Deaths Per Round": "0.08",
+        "Headshot Percent": "28%",
+        "Clutch Success Percent%": "11%",
+        "Clutches (won/played)": null,
+        "Maximum Kills in a single map": null,
+        "Kills": "139",
+        "Deaths": "179",
+        "Assists": "87",
+        "First Kills": "27",
+        "First Deaths": "19"
+    }
+}

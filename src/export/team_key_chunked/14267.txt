@@ -1,0 +1,1 @@
+{"id": 14267, "name": "Arkangel Esports", "country": "International", "wins": "N/A", "loses": "N/A", "winrate": "N/A", "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "N/A", "status": "Active", "players": []}

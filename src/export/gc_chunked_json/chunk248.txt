@@ -1,0 +1,1 @@
+{"id": "323255", "teams": [{"name": "Mommy's Kittens", "score": "0", "country": "sg", "won": false}, {"name": "AURA DIFFERENTIAL", "score": "2", "country": "un", "won": true}], "status": "Completed", "date": "2024-04", "event": "Playoffs–Lower Round 2", "tournament": "Game Changers 2024 Southeast Asia: Stage 1", "img": "https://owcdn.net/img/604be13d01964.png"}

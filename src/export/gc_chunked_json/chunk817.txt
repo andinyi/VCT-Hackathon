@@ -1,0 +1,1 @@
+{"id": "235390", "teams": [{"name": "G2 Gozen", "score": "2", "country": "eu", "won": true}, {"name": "Odd 1 OUT", "score": "1", "country": "eu", "won": false}], "status": "Completed", "date": "2023", "event": "Group Stage–Round 2", "tournament": "Game Changers 2023 Stage II: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

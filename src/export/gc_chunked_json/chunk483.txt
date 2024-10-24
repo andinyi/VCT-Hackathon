@@ -1,0 +1,1 @@
+{"id": "276993", "teams": [{"name": "42C Crayola Pack", "score": "0", "country": "un", "won": false}, {"name": "Supernova Galaxy", "score": "2", "country": "us", "won": true}], "status": "Completed", "date": "2023-10", "event": "Closed Qualifier–Lower Round 2", "tournament": "Game Changers 2023 Series III: North America", "img": "https://owcdn.net/img/604be13d01964.png"}

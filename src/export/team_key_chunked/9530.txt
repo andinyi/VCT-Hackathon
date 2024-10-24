@@ -1,0 +1,1 @@
+{"id": 9530, "name": "IGZIST Female", "country": "Japan", "wins": "N/A", "loses": "N/A", "winrate": "N/A", "gameChangerWins": "5", "gameChangerLoses": "4", "region": "Game Changers", "status": "Active", "players": [{"playerName": "Ambox", "realName": "Yuhi Matsumoto", "role": "coach"}]}

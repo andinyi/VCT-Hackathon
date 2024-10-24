@@ -1,0 +1,1 @@
+{"id": 6263, "name": "Guild GC", "country": "France", "wins": "89", "loses": "25", "winrate": 0.781, "gameChangerWins": "89", "gameChangerLoses": "25", "region": "Game Changers", "status": "Inactive", "players": [{"playerName": "Xaline", "realName": "Laure Mateos", "role": "player"}]}

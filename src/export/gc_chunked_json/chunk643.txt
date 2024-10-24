@@ -1,0 +1,1 @@
+{"id": "270331", "teams": [{"name": "KRÜ BLAZE", "score": "3", "country": "cl", "won": true}, {"name": "Globant Emerald Team", "score": "1", "country": "ar", "won": false}], "status": "Completed", "date": "2023-09", "event": "Latin America: South–Upper Final", "tournament": "Game Changers 2023 LATAM: Finals", "img": "https://owcdn.net/img/604be13d01964.png"}

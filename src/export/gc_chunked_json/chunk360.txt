@@ -1,0 +1,1 @@
+{"id": "297796", "teams": [{"name": "NYAN ESPORTS", "score": "2", "country": "ru", "won": true}, {"name": "Evoza GC", "score": "1", "country": "eu", "won": false}], "status": "Completed", "date": "2024-02", "event": "Closed Qualifier–Lower Round 1", "tournament": "Game Changers 2024 EMEA: Kickoff", "img": "https://owcdn.net/img/604be13d01964.png"}

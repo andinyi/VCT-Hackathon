@@ -1,0 +1,1 @@
+{"id": "193159", "teams": [{"name": "Complexity GX3", "score": "0", "country": "us", "won": false}, {"name": "XSET", "score": "2", "country": "us", "won": true}], "status": "Completed", "date": "2023", "event": "Main Event–Lower Round 2", "tournament": "Game Changers 2023 Series I: North America", "img": "https://owcdn.net/img/604be13d01964.png"}

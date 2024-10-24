@@ -1,0 +1,1 @@
+{"id": "297785", "teams": [{"name": "NASR Ignite", "score": "2", "country": "eu", "won": true}, {"name": "NYAN ESPORTS", "score": "0", "country": "ru", "won": false}], "status": "Completed", "date": "2024-02", "event": "Closed Qualifier–Upper Round of 16", "tournament": "Game Changers 2024 EMEA: Kickoff", "img": "https://owcdn.net/img/604be13d01964.png"}

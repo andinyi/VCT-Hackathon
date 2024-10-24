@@ -1,0 +1,1 @@
+{"id": "297784", "teams": [{"name": "fuVi", "score": "2", "country": "tr", "won": true}, {"name": "FOKUS Sakura", "score": "1", "country": "de", "won": false}], "status": "Completed", "date": "2024-02", "event": "Closed Qualifier–Upper Round of 16", "tournament": "Game Changers 2024 EMEA: Kickoff", "img": "https://owcdn.net/img/604be13d01964.png"}

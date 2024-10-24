@@ -1,0 +1,1 @@
+{"id": "358420", "teams": [{"name": "floppers", "score": "0", "country": "us", "won": false}, {"name": "mesos millionaires", "score": "2", "country": "us", "won": true}], "status": "Completed", "date": "2024-06", "event": "Main Event–Lower Round 1", "tournament": "Game Changers 2024 North America: Series 2", "img": "https://owcdn.net/img/604be13d01964.png"}

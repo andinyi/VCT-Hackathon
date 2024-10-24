@@ -1,0 +1,1 @@
+{"id": "197259", "teams": [{"name": "Ninjas in Pyjamas Lightning", "score": "2", "country": "eu", "won": true}, {"name": "Case Hydra", "score": "1", "country": "es", "won": false}], "status": "Completed", "date": "2023", "event": "Group Stage–Round 3", "tournament": "Game Changers 2023 Stage I: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

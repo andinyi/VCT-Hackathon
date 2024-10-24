@@ -1,0 +1,1 @@
+{"id": "244954", "teams": [{"name": "FUT Female", "score": "2", "country": "tr", "won": true}, {"name": "Odd 1 OUT", "score": "1", "country": "eu", "won": false}], "status": "Completed", "date": "2023", "event": "Playoffs–Lower Round 3", "tournament": "Game Changers 2023 Stage II: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

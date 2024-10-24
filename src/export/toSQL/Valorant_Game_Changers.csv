@@ -1,0 +1,589 @@
+Player,Team,Games,SignatureAgentsRankedByUsage,RoundsPlayed,Rating,AverageCombatScore,KillsDeath,KAST,ADPR,KPR,APR,FKPR,FDPR,HeadshotPercent,ClutchSuccessPercent,Kills,Deaths,Assists,FirstKills,FirstDeaths,Year,IGL,CleanedRating,AdjustedRating,SelfishIndex,Region_x,Region_y,Region
+6sonya,Odd 1 OUT,260,"['sova', 'fade', 'breach', 'skye']",897,0.99,188.6,0.93,68%,123.4,0.67,0.34,0.08,0.08,29%,13%,602,645,301,76,72,2023,False,0.99,0.9,0.37,EMEAS,EMEAS,EMEAS
+aco,ZETA DIVISION GC,73,"['skye', 'sova', 'kayo', 'fade', 'omen']",590,0.99,197.3,1.02,73%,126.2,0.68,0.4,0.07,0.07,21%,13%,401,393,235,43,41,2023,True,0.99,0.84,0.42,Pacific,Pacific,Pacific
+adenina,9z Team GC,131,"['kayo', 'astra', 'sova', 'fade', 'skye']",316,0.94,176.1,0.81,71%,116.7,0.61,0.45,0.06,0.08,25%,,193,239,143,20,26,2023,True,0.94,0.72,0.62,GameChangers,GameChangers,GameChangers
+adora,HEROIC Valkyries,114,"['raze', 'jett', 'reyna']",435,1.18,267.1,1.22,71%,174.2,0.92,0.17,0.21,0.14,31%,11%,401,328,73,91,60,2023,False,1.18,0.96,0.05,EMEAS,EMEAS,EMEAS
+aisling,4Fun,159,"['astra', 'omen', 'brimstone', 'viper', 'sova']",1233,1.01,178.8,0.94,74%,114.7,0.63,0.48,0.07,0.07,20%,17%,771,816,586,82,88,2023,False,1.01,0.96,0.63,Pacific,Pacific,Pacific
+alessia,MAD Lions KOI,107,"['killjoy', 'chamber', 'cypher', 'jett']",377,0.92,181.7,0.93,66%,125.5,0.65,0.12,0.1,0.08,31%,8%,244,263,47,37,30,2023,False,0.92,0.73,0.2,GameChangers,GameChangers,GameChangers
+alexaishot,KS Hunters,107,"['kayo', 'raze', 'gekko', 'jett', 'viper']",320,1.08,212.5,1.17,69%,138.2,0.78,0.24,0.13,0.13,17%,21%,250,214,78,40,42,2023,False,1.08,0.83,0.17,GameChangers,GameChangers,GameChangers
+alexis,Shopify Rebellion,487,"['skye', 'breach', 'kayo', 'sage']",986,1.1,175.1,1.08,83%,111.7,0.61,0.6,0.05,0.05,30%,13%,601,559,595,49,51,2023,False,1.1,1.01,0.97,Americas,Americas,Americas
+alexis,Shopify Rebellion,487,"['skye', 'breach', 'kayo', 'sage']",986,1.1,175.1,1.08,83%,111.7,0.61,0.6,0.05,0.05,30%,13%,601,559,595,49,51,2023,False,1.1,1.01,0.97,Americas,Americas,Americas
+alexis,Shopify Rebellion,487,"['skye', 'breach', 'kayo', 'sage']",986,1.1,175.1,1.08,83%,111.7,0.61,0.6,0.05,0.05,30%,13%,601,559,595,49,51,2023,False,1.1,1.01,0.97,Americas,Americas,Americas
+alexis,Shopify Rebellion,487,"['skye', 'breach', 'kayo', 'sage']",986,1.1,175.1,1.08,83%,111.7,0.61,0.6,0.05,0.05,30%,13%,601,559,595,49,51,2023,False,1.1,1.01,0.97,Americas,Americas,Americas
+alexis,Shopify Rebellion,487,"['skye', 'breach', 'kayo', 'sage']",986,1.1,175.1,1.08,83%,111.7,0.61,0.6,0.05,0.05,30%,13%,601,559,595,49,51,2023,False,1.1,1.01,0.97,Americas,Americas,Americas
+alexis,Shopify Rebellion,487,"['skye', 'breach', 'kayo', 'sage']",986,1.1,175.1,1.08,83%,111.7,0.61,0.6,0.05,0.05,30%,13%,601,559,595,49,51,2023,False,1.1,1.01,0.97,Americas,Americas,Americas
+alexis,Shopify Rebellion,487,"['skye', 'breach', 'kayo', 'sage']",986,1.1,175.1,1.08,83%,111.7,0.61,0.6,0.05,0.05,30%,13%,601,559,595,49,51,2023,False,1.1,1.01,0.97,Americas,Americas,Americas
+alexis,Shopify Rebellion,487,"['skye', 'breach', 'kayo', 'sage']",986,1.1,175.1,1.08,83%,111.7,0.61,0.6,0.05,0.05,30%,13%,601,559,595,49,51,2023,False,1.1,1.01,0.97,Americas,Americas,Americas
+alexy,Xipto Esports,196,"['jett', 'raze', 'skye', 'kayo', 'sova']",1262,1.33,245.9,1.52,81%,163.7,0.89,0.33,0.14,0.07,28%,30%,1128,742,412,178,90,2023,False,1.33,1.27,0.11,Pacific,Pacific,Pacific
+alkyia,BBL Queens,157,"['jett', 'raze']",1332,0.98,228.4,1.08,70%,148.3,0.8,0.18,0.24,0.19,26%,19%,1064,984,236,318,256,2023,False,0.98,0.94,0.13,GameChangers,GameChangers,GameChangers
+allie,LEVIATÁN GC,63,"['omen', 'kayo', 'breach', 'viper', 'raze']",206,0.76,149.6,0.7,62%,99.9,0.53,0.29,0.04,0.09,38%,12%,109,156,60,9,19,2023,False,0.76,0.54,0.51,GameChangers,GameChangers,GameChangers
+alluka,BOBA,191,"['raze', 'kayo', 'breach', 'reyna', 'chamber']",1354,1.18,227.9,1.15,79%,149.2,0.78,0.5,0.1,0.07,20%,16%,1051,913,677,137,100,2023,False,1.18,1.14,0.36,GameChangers,GameChangers,GameChangers
+amy,G2 Gozen,238,"['killjoy', 'cypher', 'viper', 'brimstone', 'astra']",1518,1.19,234.9,1.3,72%,157.5,0.86,0.13,0.11,0.09,35%,16%,1306,1005,202,168,140,2023,False,1.19,1.17,0.07,EMEAS,EMEAS,EMEAS
+andrehs,Akave Esports GC,172,"['sova', 'breach', 'skye', 'kayo', 'brimstone']",282,0.82,153.2,0.72,73%,97.6,0.49,0.44,0.07,0.11,22%,22%,138,192,125,20,32,2023,True,0.82,0.62,0.87,GameChangers,GameChangers,GameChangers
+angela,invincible gc,113,"['raze', 'jett', 'kayo', 'chamber', 'breach']",366,0.91,209.8,0.96,70%,135.0,0.75,0.17,0.17,0.21,22%,,273,283,62,63,77,2023,False,0.91,0.72,0.16,GameChangers,GameChangers,GameChangers
+angel,MYVRA,155,"['viper', 'skye', 'breach', 'kayo', 'sova']",269,0.71,151.7,0.63,62%,97.3,0.49,0.3,0.08,0.1,27%,9%,132,211,81,21,27,2023,False,0.71,0.53,0.59,GameChangers,GameChangers,GameChangers
+annie,Odd 1 OUT,199,"['killjoy', 'chamber', 'cypher', 'jett', 'raze']",906,1.01,216.0,1.04,69%,139.9,0.75,0.14,0.14,0.11,32%,8%,681,654,131,123,96,2023,False,1.01,0.92,0.15,EMEAS,EMEAS,EMEAS
+anninha,DREAMMAX,86,"['sova', 'fade', 'omen', 'skye', 'sage']",304,0.76,158.8,0.71,63%,107.8,0.54,0.29,0.06,0.13,29%,9%,165,234,88,18,41,2023,False,0.76,0.58,0.5,Americas,Americas,Americas
+antg,LOUD GC,303,"['skye', 'kayo', 'raze', 'fade', 'omen']",698,1.07,210.8,1.07,77%,133.7,0.75,0.42,0.1,0.09,29%,11%,521,488,293,67,64,2023,False,1.07,0.94,0.33,Americas,Americas,Americas
+aria,Teddy Tactics,144,"['astra', 'breach', 'omen', 'kayo', 'viper']",217,0.68,178.0,0.68,65%,111.1,0.59,0.22,0.12,0.14,22%,6%,129,189,47,25,31,2023,False,0.68,0.49,0.35,Americas,Americas,Americas
+aurelia,Bumble Bees,103,"['viper', 'killjoy', 'cypher', 'omen']",231,0.96,194.7,0.98,67%,136.4,0.7,0.18,0.08,0.06,23%,12%,161,165,41,18,15,2023,False,0.96,0.7,0.21,GameChangers,GameChangers,GameChangers
+ayumiii,BOBA,231,"['jett', 'chamber', 'raze', 'kayo', 'sova']",1354,1.23,259.9,1.32,76%,166.7,0.92,0.21,0.23,0.15,21%,25%,1247,946,281,316,203,2023,False,1.23,1.19,0.05,GameChangers,GameChangers,GameChangers
+azul,FiRePOWER,146,"['sova', 'skye', 'breach', 'fade', 'kayo']",348,0.82,156.4,0.77,73%,100.7,0.56,0.4,0.06,0.1,33%,6%,194,252,139,21,34,2023,False,0.82,0.64,0.63,Americas,Americas,Americas
+babytz,BOBA,231,"['killjoy', 'cypher', 'chamber', 'sage', 'sova']",1220,1.14,227.8,1.19,74%,151.5,0.8,0.24,0.1,0.09,20%,17%,973,820,287,116,109,2023,False,1.14,1.08,0.16,GameChangers,GameChangers,GameChangers
+babzzz,9z Team GC,140,"['killjoy', 'cypher', 'viper', 'breach', 'omen']",246,0.78,168.8,0.71,70%,105.8,0.58,0.43,0.07,0.11,16%,9%,142,200,105,17,26,2023,False,0.78,0.57,0.65,GameChangers,GameChangers,GameChangers
+baila,9to5 workers,55,"['killjoy', 'jett', 'raze', 'cypher']",376,0.84,177.5,0.81,64%,122.3,0.62,0.14,0.07,0.1,23%,16%,232,286,53,25,38,2023,False,0.84,0.67,0.24,GameChangers,GameChangers,GameChangers
+biazik,KRÜ BLAZE,290,"['sova', 'breach', 'jett', 'skye', 'fade']",738,0.96,201.1,0.9,68%,134.4,0.69,0.36,0.08,0.13,23%,10%,512,570,265,61,93,2023,False,0.96,0.85,0.36,GameChangers,GameChangers,GameChangers
+bizerra,Team Liquid Brazil,329,"['sova', 'killjoy', 'kayo', 'viper', 'fade']",1374,1.16,215.4,1.17,76%,142.8,0.74,0.37,0.1,0.07,22%,25%,1014,866,507,137,100,2023,False,1.16,1.12,0.3,Americas,Americas,Americas
+blossi,ALTERNATE aTTaX Ruby,179,"['killjoy', 'omen', 'viper', 'breach']",241,1.11,195.5,1.08,80%,123.6,0.7,0.47,0.04,0.06,26%,18%,169,156,113,10,15,2023,False,1.11,0.81,0.47,GameChangers,GameChangers,GameChangers
+blu,LOUD GC,337,"['killjoy', 'skye', 'cypher', 'sage', 'gekko']",733,0.86,168.8,0.79,68%,111.7,0.58,0.4,0.07,0.11,26%,14%,426,541,290,54,77,2023,False,0.86,0.76,0.59,Americas,Americas,Americas
+bstrdd,Team Liquid Brazil,385,"['jett', 'raze', 'skye']",1374,1.16,253.5,1.3,72%,164.7,0.89,0.17,0.21,0.16,26%,18%,1225,945,235,292,215,2023,False,1.16,1.12,0.07,Americas,Americas,Americas
+bunnybee,floppers,400,"['raze', 'jett', 'kayo', 'chamber', 'yoru']",772,0.97,230.4,0.99,70%,149.1,0.76,0.25,0.23,0.17,25%,19%,590,597,194,177,129,2023,False,0.97,0.86,0.2,Americas,Americas,Americas
+cami,MYVRA,127,"['omen', 'astra', 'killjoy', 'viper', 'sage']",332,0.97,180.4,0.96,68%,123.5,0.64,0.26,0.09,0.06,29%,10%,212,221,85,30,21,2023,False,0.97,0.75,0.33,GameChangers,GameChangers,GameChangers
+casper,Purr-fectionists,208,"['astra', 'omen', 'killjoy', 'brimstone', 'chamber']",1432,1.14,218.9,1.13,76%,141.4,0.78,0.46,0.06,0.06,28%,19%,1116,987,652,88,93,2023,False,1.14,1.11,0.32,,,
+cassiex3,İstanbul Wildcats Female,104,"['omen', 'viper', 'kayo', 'brimstone']",343,0.98,191.2,0.93,71%,123.1,0.69,0.31,0.07,0.07,22%,10%,235,254,107,25,25,2023,False,0.98,0.76,0.32,GameChangers,GameChangers,GameChangers
+cellax,bb.w7m,102,"['jett', 'raze', 'neon', 'kayo', 'killjoy']",364,0.76,188.1,0.82,59%,126.4,0.67,0.09,0.17,0.21,27%,17%,245,297,31,61,78,2023,False,0.76,0.6,0.17,Americas,Americas,Americas
+cendary,LILAX,108,"['astra', 'viper', 'clove', 'brimstone', 'sova']",300,1.04,199.6,0.97,74%,132.2,0.68,0.4,0.12,0.11,26%,21%,203,209,119,36,32,2023,False,1.04,0.79,0.42,GameChangers,GameChangers,GameChangers
+churra,Deagle Ravagers,107,"['omen', 'kayo', 'breach', 'viper', 'killjoy']",314,0.87,176.7,0.79,67%,117.4,0.6,0.33,0.04,0.07,20%,7%,187,238,105,13,22,2023,False,0.87,0.67,0.46,GameChangers,GameChangers,GameChangers
+cille,HEROIC Valkyries,209,"['kayo', 'omen', 'astra', 'fade', 'sova']",765,0.83,171.4,0.83,69%,114.6,0.61,0.25,0.07,0.11,30%,8%,467,565,191,51,86,2023,True,0.83,0.74,0.36,EMEAS,EMEAS,EMEAS
+conir,KRÜ BLAZE,157,"['omen', 'chamber', 'reyna', 'viper', 'brimstone']",469,1.16,213.7,1.2,76%,143.8,0.78,0.4,0.11,0.08,30%,14%,364,304,186,52,37,2023,False,1.16,0.95,0.27,GameChangers,GameChangers,GameChangers
+crescents,9to5 workers,133,"['omen', 'breach', 'viper', 'kayo', 'sage']",894,0.97,202.6,0.94,74%,129.2,0.68,0.4,0.1,0.11,20%,14%,606,642,357,87,99,2023,False,0.97,0.88,0.42,GameChangers,GameChangers,GameChangers
+curumi,FENNEL GC,99,"['breach', 'viper', 'fade', 'kayo', 'omen']",424,0.9,176.2,0.83,70%,113.5,0.61,0.43,0.08,0.08,22%,14%,258,312,184,34,35,2023,False,0.9,0.73,0.59,Pacific,Pacific,Pacific
+daf,DetonatioN FocusMe GC,48,"['jett', 'raze', 'fade', 'sova', 'deadlock']",238,1.0,218.0,0.98,67%,144.8,0.76,0.19,0.17,0.18,18%,6%,182,185,45,41,44,2023,False,1.0,0.73,0.17,Pacific,Pacific,Pacific
+daiki,Team Liquid Brazil,421,"['sova', 'skye', 'fade', 'sage', 'breach']",1374,1.08,198.7,1.1,77%,127.5,0.7,0.45,0.07,0.06,27%,20%,967,879,617,102,84,2023,True,1.08,1.04,0.45,Americas,Americas,Americas
+dano,FUSION X,116,"['skye', 'gekko', 'breach', 'kayo', 'sova']",425,1.11,206.8,1.08,73%,138.1,0.72,0.41,0.05,0.05,28%,13%,308,285,175,21,21,2023,False,1.11,0.9,0.37,GameChangers,GameChangers,GameChangers
+delbisky,BOBA,127,"['jett', 'raze', 'omen', 'chamber', 'neon']",887,0.95,190.8,0.94,69%,125.1,0.68,0.18,0.12,0.11,26%,13%,607,648,158,105,101,2023,False,0.95,0.86,0.22,GameChangers,GameChangers,GameChangers
+devilasxa,Odd 1 OUT,174,"['skye', 'kayo', 'breach', 'gekko', 'cypher']",765,1.01,195.8,0.95,71%,127.4,0.68,0.43,0.06,0.08,28%,15%,523,552,330,45,59,2023,False,1.01,0.9,0.46,EMEAS,EMEAS,EMEAS
+didii,MAD Lions KOI,118,"['killjoy', 'breach', 'chamber', 'astra', 'sova']",765,1.0,200.6,1.0,70%,134.9,0.71,0.29,0.1,0.09,23%,18%,541,539,223,73,69,2023,False,1.0,0.89,0.28,GameChangers,GameChangers,GameChangers
+dodonut,FlyQuest RED,393,"['raze', 'jett', 'sova']",535,1.1,230.5,1.08,74%,156.4,0.79,0.21,0.16,0.17,20%,19%,424,393,113,84,93,2023,False,1.1,0.92,0.15,Americas,Americas,Americas
+dori,Cyber Geek,51,"['omen', 'kayo', 'sage', 'breach', 'astra']",284,0.96,188.3,0.91,72%,124.6,0.65,0.36,0.09,0.07,24%,11%,185,204,103,25,19,2023,False,0.96,0.72,0.42,Pacific,Pacific,Pacific
+drea,Infinity X,84,"['raze', 'jett', 'sova', 'killjoy', 'skye']",231,0.67,158.6,0.67,63%,105.9,0.54,0.23,0.13,0.2,19%,16%,125,186,54,30,46,2023,False,0.67,0.49,0.42,Americas,Americas,Americas
+drn,revoada,353,"['omen', 'astra', 'sage', 'brimstone', 'viper']",651,0.97,184.5,0.9,71%,121.6,0.64,0.36,0.05,0.09,20%,14%,419,468,236,35,57,2023,False,0.97,0.84,0.44,Americas,Americas,Americas
+edith,mesos millionaires,209,"['raze', 'jett', 'chamber']",348,1.16,260.0,1.14,71%,171.7,0.89,0.2,0.19,0.15,24%,7%,309,270,70,65,52,2023,False,1.16,0.91,0.07,Americas,Americas,Americas
+eluwu,Purr-fectionists,91,"['jett', 'raze', 'viper']",482,1.02,230.0,1.05,67%,148.6,0.8,0.19,0.23,0.18,29%,20%,384,365,92,110,88,2023,False,1.02,0.84,0.13,,,
+emi,swaglord9000,102,"['kayo', 'jett', 'phoenix', 'breach', 'yoru']",788,1.09,224.5,1.11,74%,143.8,0.76,0.36,0.15,0.13,21%,21%,601,542,287,116,100,2023,False,1.09,0.97,0.27,GameChangers,GameChangers,GameChangers
+enerii,Xipto Esports,218,"['raze', 'jett', 'reyna', 'neon']",990,1.25,263.3,1.43,79%,171.0,0.95,0.23,0.19,0.15,26%,25%,942,657,229,189,145,2023,False,1.25,1.15,0.03,Pacific,Pacific,Pacific
+envious,Cardboard Dinosaur,196,"['jett', 'omen', 'neon']",442,0.95,197.9,0.91,69%,128.8,0.67,0.42,0.11,0.13,25%,16%,298,327,185,48,56,2023,False,0.95,0.77,0.46,GameChangers,GameChangers,GameChangers
+erin,Deagle Ravagers,128,"['jett', 'sova', 'raze', 'neon', 'viper']",318,0.75,156.9,0.69,61%,111.9,0.55,0.31,0.09,0.11,19%,6%,174,251,99,30,34,2023,False,0.75,0.58,0.51,GameChangers,GameChangers,GameChangers
+essy,The A Team,45,"['omen', 'brimstone', 'sova', 'killjoy', 'astra']",436,0.88,167.0,0.8,68%,111.3,0.59,0.33,0.05,0.06,25%,16%,257,320,143,20,28,2023,False,0.88,0.71,0.48,EMEAS,EMEAS,EMEAS
+eva,Team Falcons Vega,232,"['sova', 'skye', 'sage', 'gekko']",1295,1.21,213.6,1.33,80%,139.0,0.8,0.33,0.07,0.04,29%,23%,1036,779,423,93,55,2023,False,1.21,1.16,0.2,GameChangers,GameChangers,GameChangers
+evv,floppers,240,"['skye', 'kayo', 'sova', 'omen', 'jett']",654,0.83,189.8,0.83,67%,123.9,0.65,0.26,0.15,0.16,27%,11%,423,512,171,98,105,2023,False,0.83,0.72,0.32,Americas,Americas,Americas
+felce,invincible gc,129,"['sova', 'fade', 'chamber', 'gekko', 'viper']",719,1.01,205.4,0.99,75%,135.6,0.72,0.33,0.07,0.07,30%,14%,516,520,234,51,51,2023,False,1.01,0.89,0.3,GameChangers,GameChangers,GameChangers
+felipa,BBL Queens,219,"['breach', 'raze', 'sova', 'kayo', 'sage']",1332,0.96,181.9,0.94,78%,120.8,0.63,0.47,0.06,0.06,30%,16%,844,901,620,75,80,2023,False,0.96,0.92,0.61,GameChangers,GameChangers,GameChangers
+fer,PS5PATAS,98,"['jett', 'omen', 'sova', 'raze', 'astra']",216,0.9,180.9,0.87,66%,120.1,0.63,0.25,0.08,0.1,29%,14%,137,158,53,17,21,2023,False,0.9,0.65,0.33,Americas,Americas,Americas
+florescent,Shopify Rebellion,458,"['jett', 'raze', 'neon', 'reyna']",986,1.48,304.4,1.74,78%,197.1,1.09,0.21,0.24,0.13,31%,26%,1079,620,207,240,125,2023,False,1.48,1.36,-0.06,Americas,Americas,Americas
+florescent,Shopify Rebellion,458,"['jett', 'raze', 'neon', 'reyna']",986,1.48,304.4,1.74,78%,197.1,1.09,0.21,0.24,0.13,31%,26%,1079,620,207,240,125,2023,False,1.48,1.36,-0.06,Americas,Americas,Americas
+florescent,Shopify Rebellion,458,"['jett', 'raze', 'neon', 'reyna']",986,1.48,304.4,1.74,78%,197.1,1.09,0.21,0.24,0.13,31%,26%,1079,620,207,240,125,2023,False,1.48,1.36,-0.06,Americas,Americas,Americas
+florescent,Shopify Rebellion,458,"['jett', 'raze', 'neon', 'reyna']",986,1.48,304.4,1.74,78%,197.1,1.09,0.21,0.24,0.13,31%,26%,1079,620,207,240,125,2023,False,1.48,1.36,-0.06,Americas,Americas,Americas
+florescent,Shopify Rebellion,458,"['jett', 'raze', 'neon', 'reyna']",986,1.48,304.4,1.74,78%,197.1,1.09,0.21,0.24,0.13,31%,26%,1079,620,207,240,125,2023,False,1.48,1.36,-0.06,Americas,Americas,Americas
+florescent,Shopify Rebellion,458,"['jett', 'raze', 'neon', 'reyna']",986,1.48,304.4,1.74,78%,197.1,1.09,0.21,0.24,0.13,31%,26%,1079,620,207,240,125,2023,False,1.48,1.36,-0.06,Americas,Americas,Americas
+florescent,Shopify Rebellion,458,"['jett', 'raze', 'neon', 'reyna']",986,1.48,304.4,1.74,78%,197.1,1.09,0.21,0.24,0.13,31%,26%,1079,620,207,240,125,2023,False,1.48,1.36,-0.06,Americas,Americas,Americas
+florescent,Shopify Rebellion,458,"['jett', 'raze', 'neon', 'reyna']",986,1.48,304.4,1.74,78%,197.1,1.09,0.21,0.24,0.13,31%,26%,1079,620,207,240,125,2023,False,1.48,1.36,-0.06,Americas,Americas,Americas
+flossie,FiRePOWER,162,"['killjoy', 'cypher', 'chamber', 'viper']",348,1.03,194.6,1.02,74%,131.5,0.66,0.36,0.05,0.06,19%,10%,231,227,125,19,22,2023,True,1.03,0.81,0.41,Americas,Americas,Americas
+flow3r,Reverse 7,63,"['raze', 'jett', 'skye', 'sova', 'yoru']",203,1.08,234.7,1.02,72%,155.3,0.79,0.31,0.17,0.12,26%,19%,161,158,62,34,25,2023,False,1.08,0.77,0.2,Americas,Americas,Americas
+fluxxy,HEROIC Valkyries,117,"['omen', 'cypher', 'viper', 'killjoy', 'astra']",897,1.05,214.8,0.98,71%,140.9,0.73,0.36,0.11,0.13,22%,16%,652,663,323,100,121,2023,False,1.05,0.95,0.31,EMEAS,EMEAS,EMEAS
+frantastic,FiRePOWER,170,"['viper', 'omen', 'killjoy', 'sova', 'sage']",348,1.1,208.6,1.15,75%,138.2,0.75,0.27,0.09,0.08,21%,15%,261,226,93,31,28,2023,True,1.1,0.86,0.22,Americas,Americas,Americas
+gabee,DREAMMAX,115,"['jett', 'chamber', 'raze', 'neon', 'harbor']",629,0.99,196.9,0.98,68%,131.1,0.7,0.2,0.14,0.15,26%,18%,442,449,126,86,96,2023,False,0.99,0.85,0.22,Americas,Americas,Americas
+gabit,Team Leveling,197,"['omen', 'viper', 'brimstone', 'astra', 'killjoy']",629,1.12,210.9,1.12,75%,136.3,0.73,0.38,0.07,0.08,26%,11%,462,414,242,44,52,2023,False,1.12,0.96,0.33,Americas,Americas,Americas
+ginger,ALTERNATE aTTaX Ruby,178,"['cypher', 'killjoy', 'omen', 'jett', 'raze']",383,0.91,189.2,0.85,70%,126.6,0.63,0.31,0.07,0.1,17%,17%,243,285,120,25,38,2023,False,0.91,0.72,0.39,GameChangers,GameChangers,GameChangers
+glance,Karmine Corp GC,307,"['sova', 'omen', 'astra', 'breach', 'sage']",1775,1.01,187.4,1.0,76%,119.7,0.67,0.4,0.06,0.06,27%,15%,1182,1177,703,104,100,2023,False,1.01,1.01,0.44,EMEAS,EMEAS,EMEAS
+hanuh,sisu,130,"['omen', 'sova', 'fade', 'viper', 'breach']",1147,1.14,216.9,1.17,72%,139.4,0.79,0.31,0.08,0.08,23%,17%,907,777,358,92,96,2023,False,1.14,1.07,0.2,Pacific,Pacific,Pacific
+harmonee,ALTERNATE aTTaX Ruby,111,"['sova', 'fade', 'skye', 'breach']",340,0.86,162.3,0.79,69%,112.2,0.57,0.29,0.06,0.09,28%,20%,193,244,100,22,32,2023,False,0.86,0.67,0.45,GameChangers,GameChangers,GameChangers
+healing,DRX Changers,80,"['kayo', 'jett', 'raze', 'breach', 'skye']",284,0.94,208.1,0.94,71%,130.5,0.71,0.4,0.12,0.13,14%,11%,203,217,115,34,37,2023,True,0.94,0.71,0.37,Pacific,Pacific,Pacific
+isa1,Team Leveling,294,"['jett', 'raze', 'chamber', 'gekko', 'skye']",613,0.91,195.0,0.9,68%,131.5,0.68,0.19,0.14,0.18,18%,11%,418,464,115,87,112,2023,False,0.91,0.78,0.23,Americas,Americas,Americas
+isaa,Team Liquid Brazil,400,"['jett', 'viper', 'killjoy', 'sova', 'skye']",1374,0.98,191.9,1.02,71%,127.7,0.66,0.26,0.1,0.09,23%,11%,907,892,362,132,120,2023,False,0.98,0.95,0.31,Americas,Americas,Americas
+ivory,4Fun,163,"['killjoy', 'omen', 'viper', 'kayo', 'astra']",563,0.97,213.0,0.99,70%,135.5,0.74,0.24,0.11,0.12,16%,16%,417,420,137,64,67,2023,False,0.97,0.82,0.21,Pacific,Pacific,Pacific
+ivy,Akave Esports GC,147,"['raze', 'skye', 'kayo', 'jett', 'gekko']",332,1.1,209.5,1.04,75%,142.3,0.71,0.39,0.11,0.11,31%,9%,235,225,129,36,35,2023,False,1.1,0.85,0.36,GameChangers,GameChangers,GameChangers
+izze,invincible gc,156,"['killjoy', 'sova', 'skye', 'cypher']",677,1.03,203.0,1.03,72%,138.3,0.69,0.23,0.07,0.07,18%,16%,470,457,154,48,46,2023,False,1.03,0.9,0.25,GameChangers,GameChangers,GameChangers
+jademwah,Odd 1 OUT,250,"['sova', 'jett', 'skye', 'breach', 'viper']",1060,1.07,214.4,1.06,75%,136.9,0.74,0.4,0.1,0.09,22%,13%,780,734,429,103,91,2023,True,1.07,1.0,0.33,EMEAS,EMEAS,EMEAS
+jade,ALTERNATE aTTaX Ruby,83,"['breach', 'kayo', 'jett', 'raze', 'omen']",241,1.22,271.8,1.34,75%,176.4,0.98,0.13,0.23,0.21,36%,33%,235,176,31,56,50,2023,False,1.22,0.89,0.01,GameChangers,GameChangers,GameChangers
+japips,Asmodeus Colosseum GC,196,"['sova', 'breach', 'reyna', 'skye', 'fade']",1432,1.01,188.0,0.99,75%,120.8,0.67,0.37,0.05,0.07,27%,12%,966,977,535,77,99,2023,False,1.01,0.98,0.4,,,
+jduh,BBL Queens,254,"['astra', 'omen', 'sova', 'viper', 'brimstone']",1147,1.09,200.9,1.04,74%,130.4,0.7,0.39,0.08,0.06,28%,18%,803,770,449,92,74,2023,False,1.09,1.03,0.38,GameChangers,GameChangers,GameChangers
+jeje,Infinity X,108,"['raze', 'jett', 'astra', 'neon', 'killjoy']",556,0.81,193.0,0.85,68%,129.1,0.67,0.22,0.12,0.18,25%,21%,374,439,120,66,102,2023,False,0.81,0.68,0.26,Americas,Americas,Americas
+jelly,MIBR GC,276,"['kayo', 'raze', 'skye', 'breach', 'jett']",1114,1.2,259.7,1.2,74%,168.2,0.88,0.29,0.19,0.15,30%,15%,984,817,320,216,163,2023,False,1.2,1.13,0.1,Americas,Americas,Americas
+jiex,VALIANT GC,181,"['breach', 'skye', 'kayo', 'sage', 'jett']",1071,0.93,186.1,0.88,72%,123.6,0.66,0.39,0.09,0.07,27%,14%,704,799,419,95,74,2023,True,0.93,0.87,0.44,GameChangers,GameChangers,GameChangers
+joliinaa,GIANTX GC,172,"['omen', 'viper', 'jett', 'raze', 'brimstone']",1371,1.27,239.8,1.27,78%,154.2,0.83,0.48,0.09,0.06,24%,21%,1141,899,653,118,76,2023,False,1.27,1.23,0.25,GameChangers,GameChangers,GameChangers
+joojina,Team Liquid Brazil,319,"['omen', 'astra', 'brimstone', 'jett', 'sage']",1374,1.1,196.3,1.13,76%,128.1,0.71,0.4,0.07,0.07,28%,21%,980,869,551,94,96,2023,False,1.1,1.06,0.37,Americas,Americas,Americas
+jubs,MIBR GC,116,"['killjoy', 'viper', 'cypher', 'chamber', 'sage']",277,1.05,214.9,0.96,68%,146.5,0.74,0.16,0.08,0.06,27%,5%,205,213,44,22,16,2023,False,1.05,0.79,0.16,Americas,Americas,Americas
+juri,DRX Changers,34,"['sova', 'skye', 'breach']",284,0.78,151.9,0.73,68%,99.3,0.52,0.34,0.05,0.07,16%,12%,147,202,96,13,20,2023,False,0.78,0.59,0.61,Pacific,Pacific,Pacific
+juw,Akave Esports GC,136,"['raze', 'jett', 'sage', 'chamber', 'fade']",332,0.98,204.6,0.97,72%,138.2,0.71,0.28,0.15,0.17,26%,14%,235,242,92,49,56,2023,False,0.98,0.76,0.27,GameChangers,GameChangers,GameChangers
+kaah,Team Leveling,81,"['omen', 'killjoy', 'cypher', 'brimstone', 'viper']",216,0.98,205.3,0.94,67%,130.4,0.72,0.17,0.12,0.1,26%,13%,155,165,36,25,22,2023,False,0.98,0.7,0.19,Americas,Americas,Americas
+kaha,Incognito GC,131,"['sova', 'viper', 'skye', 'astra', 'kayo']",1213,1.03,194.4,1.02,72%,128.3,0.69,0.34,0.07,0.08,19%,13%,834,819,411,89,99,2023,False,1.03,0.98,0.34,GameChangers,GameChangers,GameChangers
+kalita,revoada,184,"['sova', 'skye', 'viper', 'astra', 'breach']",469,1.06,199.9,1.09,78%,132.2,0.7,0.41,0.09,0.07,25%,27%,329,302,193,40,34,2023,False,1.06,0.87,0.4,Americas,Americas,Americas
+kamiyu,Xipto Esports,168,"['jett', 'skye', 'breach', 'sova', 'kayo']",1262,1.12,202.4,1.19,81%,130.8,0.72,0.43,0.07,0.06,29%,17%,909,762,543,87,73,2023,False,1.12,1.07,0.39,Pacific,Pacific,Pacific
+karina,FOKUS Sakura,200,"['killjoy', 'cypher', 'sova', 'sage', 'viper']",748,0.94,179.9,0.94,69%,117.9,0.65,0.25,0.06,0.08,32%,16%,483,516,185,48,58,2023,False,0.94,0.83,0.31,GameChangers,GameChangers,GameChangers
+kiri,Asmodeus Colosseum GC,105,"['sova', 'brimstone', 'astra', 'cypher', 'chamber']",664,0.88,173.8,0.78,67%,116.5,0.58,0.31,0.06,0.07,22%,15%,383,490,209,40,45,2023,False,0.88,0.76,0.47,,,
+kitkatwc,invincible gc,135,"['killjoy', 'skye', 'kayo', 'breach', 'cypher']",719,0.96,192.4,0.95,70%,130.4,0.69,0.29,0.08,0.09,21%,14%,493,520,205,58,67,2023,False,0.96,0.84,0.3,GameChangers,GameChangers,GameChangers
+kleisy,İstanbul Wildcats Female,103,"['jett', 'raze', 'reyna']",343,0.78,198.5,0.79,62%,137.3,0.67,0.16,0.18,0.26,27%,10%,230,290,56,62,88,2023,False,0.78,0.61,0.22,GameChangers,GameChangers,GameChangers
+kohaibi,BOBA,209,"['raze', 'killjoy', 'reyna', 'chamber', 'skye']",1262,1.25,230.0,1.46,83%,155.7,0.85,0.27,0.11,0.08,25%,21%,1070,731,337,143,101,2023,False,1.25,1.19,0.12,GameChangers,GameChangers,GameChangers
+kon,sisu,112,"['sova', 'skye', 'fade', 'breach', 'jett']",796,1.09,230.6,1.07,71%,155.6,0.81,0.27,0.1,0.11,33%,11%,647,603,214,79,90,2023,False,1.09,0.97,0.16,Pacific,Pacific,Pacific
+koyori,Cyber Geek,39,"['omen', 'breach', 'harbor', 'jett', 'gekko']",238,0.76,163.5,0.71,64%,108.1,0.56,0.26,0.1,0.11,18%,10%,134,189,62,24,26,2023,False,0.76,0.56,0.43,Pacific,Pacific,Pacific
+kp,Out the mud,536,"['sova', 'breach', 'skye', 'omen', 'sage']",962,0.98,181.8,0.95,76%,120.2,0.64,0.42,0.07,0.08,30%,15%,618,652,406,63,75,2023,True,0.98,0.9,0.51,Americas,Americas,Americas
+krysme,revoada,299,"['killjoy', 'chamber', 'jett', 'cypher', 'viper']",1114,0.92,177.4,0.93,67%,121.4,0.63,0.16,0.07,0.08,22%,14%,700,755,179,78,93,2023,False,0.92,0.86,0.25,Americas,Americas,Americas
+kuripuuya,Karmine Corp GC,231,"['viper', 'astra', 'omen', 'jett', 'brimstone']",283,1.02,193.1,0.95,73%,132.9,0.66,0.39,0.09,0.09,32%,19%,188,197,109,25,26,2023,True,1.02,0.77,0.44,EMEAS,EMEAS,EMEAS
+kxoma,FOKUS Sakura,100,"['breach', 'skye', 'astra', 'viper', 'fade']",498,0.85,157.4,0.72,68%,106.9,0.56,0.37,0.04,0.07,32%,9%,278,386,183,19,33,2023,False,0.85,0.71,0.58,GameChangers,GameChangers,GameChangers
+kyracujoh,Zerance Mint,54,"['jett', 'raze']",282,0.93,200.0,1.02,70%,130.2,0.73,0.19,0.18,0.18,24%,14%,206,201,53,51,50,2023,False,0.93,0.7,0.19,GameChangers,GameChangers,GameChangers
+lara,FOKUS Sakura,56,"['killjoy', 'chamber']",371,0.79,174.0,0.78,65%,118.3,0.6,0.15,0.07,0.08,18%,13%,224,286,55,27,29,2023,False,0.79,0.62,0.27,GameChangers,GameChangers,GameChangers
+leeni,FOKUS Sakura,96,"['raze', 'jett']",231,1.11,247.2,1.12,70%,168.3,0.87,0.17,0.16,0.16,19%,17%,202,181,39,37,37,2023,False,1.11,0.81,0.08,GameChangers,GameChangers,GameChangers
+len,Cyber Geek,77,"['viper', 'omen', 'astra', 'brimstone', 'skye']",424,0.98,189.0,0.94,71%,115.7,0.66,0.39,0.08,0.08,22%,19%,279,297,166,32,35,2023,False,0.98,0.79,0.44,Pacific,Pacific,Pacific
+let,DREAMMAX,230,"['jett', 'raze', 'sage']",537,0.79,193.1,0.83,61%,127.5,0.66,0.14,0.17,0.24,25%,6%,354,427,74,92,127,2023,False,0.79,0.66,0.21,Americas,Americas,Americas
+lied,FUSION X,124,"['raze', 'fade', 'sova', 'skye', 'iso']",351,1.17,212.4,1.16,76%,140.1,0.73,0.41,0.08,0.08,20%,19%,255,220,144,27,29,2023,False,1.17,0.92,0.35,GameChangers,GameChangers,GameChangers
+lil-bob,MAD Lions KOI,166,"['omen', 'viper', 'sova', 'astra', 'fade']",627,1.0,191.8,0.96,72%,125.8,0.69,0.31,0.07,0.08,27%,16%,430,446,193,42,52,2023,False,1.0,0.86,0.32,GameChangers,GameChangers,GameChangers
+linlin,Akave Esports GC,163,"['viper', 'omen', 'astra', 'skye', 'brimstone']",224,0.97,185.2,0.9,68%,124.0,0.66,0.31,0.06,0.06,32%,11%,148,165,70,14,14,2023,False,0.97,0.7,0.35,GameChangers,GameChangers,GameChangers
+lissa,TBS GC,346,"['viper', 'killjoy', 'omen', 'chamber', 'cypher']",1114,0.99,190.5,0.95,71%,126.5,0.66,0.38,0.06,0.09,37%,14%,740,778,419,72,100,2023,False,0.99,0.93,0.43,Americas,Americas,Americas
+liza,VALIANT GC,176,"['killjoy', 'jett', 'cypher', 'chamber', 'neon']",829,1.1,215.5,1.14,69%,143.9,0.79,0.15,0.08,0.07,30%,15%,653,574,126,69,54,2023,False,1.1,0.99,0.12,GameChangers,GameChangers,GameChangers
+lokkara,NYAN ESPORTS,95,"['killjoy', 'cypher', 'sova', 'chamber', 'jett']",309,0.94,194.4,0.94,64%,130.8,0.71,0.13,0.1,0.08,19%,10%,219,232,40,30,24,2023,False,0.94,0.72,0.17,GameChangers,GameChangers,GameChangers
+looxie,NASR Ignite,163,"['killjoy', 'cypher', 'sova', 'deadlock', 'chamber']",773,0.99,194.2,1.0,71%,127.5,0.68,0.22,0.08,0.08,33%,23%,527,525,173,63,64,2023,True,0.99,0.88,0.25,EMEAS,EMEAS,EMEAS
+lucky,DetonatioN FocusMe GC,48,"['kayo', 'skye', 'viper', 'cypher', 'killjoy']",238,0.84,166.8,0.73,66%,112.0,0.58,0.5,0.05,0.08,22%,3%,138,188,118,12,18,2023,False,0.84,0.61,0.79,Pacific,Pacific,Pacific
+luiza,Team Leveling,246,"['killjoy', 'cypher', 'viper', 'skye', 'kayo']",785,0.91,183.0,0.92,67%,128.8,0.64,0.16,0.07,0.09,25%,13%,500,545,123,58,72,2023,False,0.91,0.81,0.24,Americas,Americas,Americas
+luj,Team Falcons Vega,183,"['viper', 'omen', 'brimstone', 'cypher', 'astra']",1110,1.08,205.8,1.08,73%,135.9,0.74,0.36,0.09,0.06,37%,11%,822,758,403,99,70,2023,False,1.08,1.01,0.29,GameChangers,GameChangers,GameChangers
+lunafox,KS Hunters,334,"['sova', 'skye', 'astra', 'breach', 'viper']",317,1.03,204.0,0.93,68%,143.7,0.68,0.36,0.09,0.09,23%,15%,216,232,114,28,28,2023,False,1.03,0.79,0.38,GameChangers,GameChangers,GameChangers
+lunah,Purr-fectionists,281,"['kayo', 'reyna', 'sova', 'fade', 'raze']",657,1.02,216.3,1.03,71%,145.0,0.77,0.26,0.08,0.1,32%,15%,507,493,170,54,67,2023,False,1.02,0.88,0.19,,,
+lyda,HEROIC Valkyries,279,"['jett', 'skye', 'viper', 'fade', 'raze']",1069,1.13,208.7,1.14,75%,137.8,0.75,0.31,0.08,0.06,31%,18%,802,706,327,87,68,2023,False,1.13,1.05,0.25,EMEAS,EMEAS,EMEAS
+lynn,Deagle Ravagers,120,"['jett', 'raze', 'neon', 'sage']",348,1.16,251.9,1.17,72%,164.3,0.87,0.21,0.21,0.18,25%,6%,302,258,73,74,62,2023,False,1.16,0.91,0.09,GameChangers,GameChangers,GameChangers
+m1yu,Berzerkers Night,185,"['viper', 'killjoy', 'omen', 'fade', 'sova']",327,0.75,148.5,0.71,61%,106.0,0.53,0.2,0.05,0.1,27%,9%,174,246,64,15,32,2023,False,0.75,0.58,0.39,Americas,Americas,Americas
+m4ndzin,LOUD GC,235,"['omen', 'kayo', 'breach', 'sage', 'brimstone']",931,1.12,221.8,1.04,74%,144.5,0.75,0.49,0.07,0.09,23%,25%,700,672,460,65,84,2023,False,1.12,1.02,0.4,Americas,Americas,Americas
+madv,Team Falcons Vega,206,"['breach', 'kayo', 'omen', 'harbor', 'gekko']",1110,1.21,233.2,1.22,76%,149.5,0.84,0.41,0.1,0.09,40%,20%,927,760,454,108,102,2023,True,1.21,1.13,0.2,GameChangers,GameChangers,GameChangers
+mae,FT Silvxs,82,"['omen', 'kayo', 'killjoy', 'jett', 'chamber']",294,0.88,165.8,0.78,69%,111.5,0.58,0.36,0.09,0.07,35%,13%,171,219,106,25,20,2023,False,0.88,0.67,0.53,Americas,Americas,Americas
+maple,The Boys,153,"['jett', 'raze', 'chamber', 'fade']",209,0.87,217.7,0.87,62%,145.2,0.76,0.17,0.24,0.26,19%,,159,182,35,51,55,2023,False,0.87,0.62,0.15,Americas,Americas,Americas
+marceline,YFP X,310,"['raze', 'jett', 'reyna', 'yoru', 'neon']",327,1.0,230.1,0.96,65%,152.1,0.76,0.22,0.18,0.17,21%,18%,247,258,71,60,54,2023,False,1.0,0.77,0.18,Americas,Americas,Americas
+maripo,REIGNITE Lily,55,"['sova', 'fade', 'skye']",296,0.99,193.8,1.01,73%,124.2,0.72,0.29,0.07,0.08,22%,8%,212,209,85,22,23,2023,False,0.99,0.75,0.27,Pacific,Pacific,Pacific
+marti,NASR Ignite,149,"['jett', 'skye', 'phoenix', 'raze', 'neon']",891,1.04,216.3,1.03,71%,140.2,0.76,0.33,0.14,0.15,24%,12%,678,661,295,121,133,2023,False,1.04,0.94,0.25,EMEAS,EMEAS,EMEAS
+mary,Team Falcons Vega,139,"['raze', 'jett', 'sova', 'chamber', 'kayo']",526,1.26,285.0,1.37,74%,185.3,1.0,0.18,0.24,0.16,28%,24%,524,382,96,127,86,2023,False,1.26,1.06,-0.0,GameChangers,GameChangers,GameChangers
+matrix,Karmine Corp GC,142,"['jett', 'raze', 'neon']",1190,0.95,219.0,0.96,67%,144.5,0.75,0.19,0.2,0.19,28%,16%,895,936,222,235,226,2023,False,0.95,0.9,0.17,EMEAS,EMEAS,EMEAS
+mcfly,Zen eSports GC,80,"['sova', 'fade', 'omen', 'killjoy', 'viper']",237,0.86,181.0,0.81,68%,121.9,0.61,0.26,0.06,0.12,24%,9%,145,178,61,14,28,2023,False,0.86,0.63,0.37,GameChangers,GameChangers,GameChangers
+meimei,DetonatioN FocusMe GC,45,"['omen', 'sova', 'killjoy', 'viper', 'astra']",238,0.97,186.4,0.96,69%,121.3,0.66,0.22,0.07,0.08,21%,3%,157,163,52,17,20,2023,False,0.97,0.71,0.27,Pacific,Pacific,Pacific
+mel,MIBR GC,281,"['sova', 'sage', 'fade', 'viper', 'skye']",698,1.07,185.7,1.08,73%,123.8,0.67,0.35,0.07,0.05,22%,19%,468,435,241,50,34,2023,True,1.07,0.94,0.38,Americas,Americas,Americas
+mel,VALIANT GC,164,"['omen', 'killjoy', 'viper', 'brimstone', 'cypher']",1190,0.9,175.3,0.88,71%,115.6,0.63,0.29,0.07,0.08,26%,9%,747,849,351,88,99,2023,True,0.9,0.85,0.37,GameChangers,GameChangers,GameChangers
+mel,Shopify Rebellion,565,"['omen', 'viper', 'chamber', 'killjoy', 'cypher']",986,1.14,193.4,1.18,81%,121.8,0.67,0.49,0.07,0.07,26%,22%,665,563,481,72,68,2023,True,1.14,1.05,0.56,Americas,Americas,Americas
+mel,Shopify Rebellion,565,"['omen', 'viper', 'chamber', 'killjoy', 'cypher']",986,1.14,193.4,1.18,81%,121.8,0.67,0.49,0.07,0.07,26%,22%,665,563,481,72,68,2023,True,1.14,1.05,0.56,Americas,Americas,Americas
+mel,Shopify Rebellion,565,"['omen', 'viper', 'chamber', 'killjoy', 'cypher']",986,1.14,193.4,1.18,81%,121.8,0.67,0.49,0.07,0.07,26%,22%,665,563,481,72,68,2023,True,1.14,1.05,0.56,Americas,Americas,Americas
+mel,Shopify Rebellion,565,"['omen', 'viper', 'chamber', 'killjoy', 'cypher']",986,1.14,193.4,1.18,81%,121.8,0.67,0.49,0.07,0.07,26%,22%,665,563,481,72,68,2023,True,1.14,1.05,0.56,Americas,Americas,Americas
+mel,Shopify Rebellion,565,"['omen', 'viper', 'chamber', 'killjoy', 'cypher']",986,1.14,193.4,1.18,81%,121.8,0.67,0.49,0.07,0.07,26%,22%,665,563,481,72,68,2023,True,1.14,1.05,0.56,Americas,Americas,Americas
+mel,Shopify Rebellion,565,"['omen', 'viper', 'chamber', 'killjoy', 'cypher']",986,1.14,193.4,1.18,81%,121.8,0.67,0.49,0.07,0.07,26%,22%,665,563,481,72,68,2023,True,1.14,1.05,0.56,Americas,Americas,Americas
+mel,Shopify Rebellion,565,"['omen', 'viper', 'chamber', 'killjoy', 'cypher']",986,1.14,193.4,1.18,81%,121.8,0.67,0.49,0.07,0.07,26%,22%,665,563,481,72,68,2023,True,1.14,1.05,0.56,Americas,Americas,Americas
+mel,Shopify Rebellion,565,"['omen', 'viper', 'chamber', 'killjoy', 'cypher']",986,1.14,193.4,1.18,81%,121.8,0.67,0.49,0.07,0.07,26%,22%,665,563,481,72,68,2023,True,1.14,1.05,0.56,Americas,Americas,Americas
+meow16k,9to5 workers,134,"['raze', 'astra', 'omen', 'jett', 'skye']",664,0.95,197.1,0.91,67%,130.7,0.69,0.3,0.12,0.17,21%,25%,461,506,196,78,111,2023,False,0.95,0.83,0.31,GameChangers,GameChangers,GameChangers
+meryl,Incognito GC,106,"['breach', 'skye', 'chamber']",1213,0.99,183.8,0.91,75%,119.1,0.64,0.48,0.07,0.07,22%,17%,776,857,580,83,88,2023,False,0.99,0.94,0.61,GameChangers,GameChangers,GameChangers
+micaela,KRÜ BLAZE,133,"['raze', 'jett', 'chamber', 'fade', 'kayo']",469,1.07,218.0,1.19,71%,143.4,0.78,0.14,0.17,0.15,27%,14%,364,306,68,78,70,2023,False,1.07,0.88,0.13,GameChangers,GameChangers,GameChangers
+miggie,FT Silvxs,105,"['killjoy', 'sage', 'viper', 'sova', 'harbor']",226,1.2,250.3,1.24,65%,164.0,0.91,0.12,0.15,0.08,30%,15%,205,165,27,35,17,2023,False,1.2,0.87,0.04,Americas,Americas,Americas
+miku,New Combat Line GC,177,"['jett', 'raze', 'neon', 'kayo', 'yoru']",244,1.02,260.8,0.99,66%,170.6,0.85,0.25,0.22,0.19,17%,8%,207,210,60,54,47,2023,False,1.02,0.75,0.12,GameChangers,GameChangers,GameChangers
+mimi,G2 Gozen,263,"['cypher', 'killjoy', 'breach', 'kayo', 'chamber']",1775,1.17,211.0,1.18,76%,138.9,0.75,0.42,0.08,0.07,26%,17%,1336,1130,742,137,120,2023,True,1.17,1.17,0.33,EMEAS,EMEAS,EMEAS
+mindle,Team Leveling,301,"['raze', 'sova', 'skye', 'jett', 'kayo']",629,0.82,167.7,0.81,70%,111.0,0.59,0.32,0.08,0.09,27%,18%,369,458,203,53,55,2023,False,0.82,0.71,0.46,Americas,Americas,Americas
+mint,FENNEL GC,82,"['raze', 'jett', 'killjoy']",424,1.16,254.2,1.25,69%,158.7,0.92,0.12,0.21,0.16,35%,16%,388,311,52,90,69,2023,False,1.16,0.94,0.04,Pacific,Pacific,Pacific
+miwa,Zen eSports GC,75,"['killjoy', 'kayo', 'breach', 'viper', 'gekko']",237,0.86,171.5,0.81,66%,118.4,0.59,0.28,0.07,0.11,24%,29%,141,175,67,16,27,2023,False,0.86,0.63,0.41,GameChangers,GameChangers,GameChangers
+miyori,GIANTX GC,197,"['jett', 'raze', 'killjoy', 'chamber', 'viper']",806,1.03,240.6,1.09,68%,152.9,0.83,0.17,0.2,0.19,23%,16%,670,616,134,157,151,2023,False,1.03,0.92,0.11,GameChangers,GameChangers,GameChangers
+mizzy,Deagle Ravagers,107,"['omen', 'viper', 'gekko', 'brimstone']",306,1.13,222.3,1.02,72%,146.1,0.75,0.43,0.08,0.08,28%,11%,230,225,131,24,26,2023,False,1.13,0.86,0.34,GameChangers,GameChangers,GameChangers
+mmonch,Akave Esports GC,145,"['cypher', 'viper', 'sova', 'killjoy', 'chamber']",332,1.15,220.5,1.12,75%,142.1,0.77,0.38,0.1,0.08,26%,14%,255,227,125,33,26,2023,False,1.15,0.89,0.27,GameChangers,GameChangers,GameChangers
+moco,ZETA DIVISION GC,75,"['omen', 'viper', 'astra', 'killjoy']",590,1.24,227.3,1.29,79%,142.3,0.8,0.52,0.08,0.05,27%,23%,472,367,309,48,29,2023,False,1.24,1.06,0.34,Pacific,Pacific,Pacific
+muffinloop,9to5 workers,155,"['jett', 'kayo', 'skye', 'reyna', 'astra']",664,0.94,216.6,0.9,67%,142.9,0.74,0.3,0.15,0.17,24%,17%,490,542,196,100,110,2023,False,0.94,0.82,0.25,GameChangers,GameChangers,GameChangers
+nami,NASR Ignite,152,"['omen', 'viper', 'astra', 'harbor']",891,1.05,209.8,1.05,75%,133.2,0.75,0.42,0.07,0.07,32%,13%,671,642,376,65,65,2023,False,1.05,0.95,0.33,EMEAS,EMEAS,EMEAS
+nelo,Karmine Corp GC,308,"['killjoy', 'cypher', 'viper', 'chamber', 'breach']",1190,1.13,220.8,1.11,73%,143.4,0.77,0.36,0.09,0.07,32%,19%,922,834,425,105,88,2023,False,1.13,1.07,0.26,EMEAS,EMEAS,EMEAS
+ness,GIANTX GC,263,"['jett', 'killjoy', 'sova', 'viper', 'cypher']",1279,1.08,207.8,1.1,75%,138.0,0.73,0.25,0.08,0.07,27%,20%,937,848,320,102,87,2023,False,1.08,1.03,0.23,GameChangers,GameChangers,GameChangers
+newky,LILAX,178,"['reyna', 'skye', 'kayo', 'breach', 'phoenix']",677,1.01,205.1,0.97,74%,135.0,0.75,0.42,0.09,0.07,28%,14%,506,522,287,58,47,2023,False,1.01,0.88,0.33,GameChangers,GameChangers,GameChangers
+nidxvilco,MAD Lions KOI,107,"['viper', 'brimstone', 'omen', 'astra', 'fade']",377,1.07,190.2,1.0,71%,125.9,0.67,0.34,0.06,0.06,21%,16%,253,252,127,24,24,2023,False,1.07,0.85,0.37,GameChangers,GameChangers,GameChangers
+ninou,VALIANT GC,300,"['sage', 'sova', 'breach', 'brimstone', 'killjoy']",1190,0.98,188.9,0.93,75%,124.3,0.65,0.38,0.06,0.08,24%,20%,776,835,455,75,100,2023,False,0.98,0.93,0.45,GameChangers,GameChangers,GameChangers
+noia,Shopify Rebellion,461,"['killjoy', 'cypher', 'chamber', 'skye', 'jett']",986,1.18,218.9,1.38,77%,146.8,0.8,0.21,0.1,0.06,29%,17%,791,572,204,94,64,2023,False,1.18,1.09,0.14,Americas,Americas,Americas
+noia,Shopify Rebellion,461,"['killjoy', 'cypher', 'chamber', 'skye', 'jett']",986,1.18,218.9,1.38,77%,146.8,0.8,0.21,0.1,0.06,29%,17%,791,572,204,94,64,2023,False,1.18,1.09,0.14,Americas,Americas,Americas
+noia,Shopify Rebellion,461,"['killjoy', 'cypher', 'chamber', 'skye', 'jett']",986,1.18,218.9,1.38,77%,146.8,0.8,0.21,0.1,0.06,29%,17%,791,572,204,94,64,2023,False,1.18,1.09,0.14,Americas,Americas,Americas
+noia,Shopify Rebellion,461,"['killjoy', 'cypher', 'chamber', 'skye', 'jett']",986,1.18,218.9,1.38,77%,146.8,0.8,0.21,0.1,0.06,29%,17%,791,572,204,94,64,2023,False,1.18,1.09,0.14,Americas,Americas,Americas
+noia,Shopify Rebellion,461,"['killjoy', 'cypher', 'chamber', 'skye', 'jett']",986,1.18,218.9,1.38,77%,146.8,0.8,0.21,0.1,0.06,29%,17%,791,572,204,94,64,2023,False,1.18,1.09,0.14,Americas,Americas,Americas
+noia,Shopify Rebellion,461,"['killjoy', 'cypher', 'chamber', 'skye', 'jett']",986,1.18,218.9,1.38,77%,146.8,0.8,0.21,0.1,0.06,29%,17%,791,572,204,94,64,2023,False,1.18,1.09,0.14,Americas,Americas,Americas
+noia,Shopify Rebellion,461,"['killjoy', 'cypher', 'chamber', 'skye', 'jett']",986,1.18,218.9,1.38,77%,146.8,0.8,0.21,0.1,0.06,29%,17%,791,572,204,94,64,2023,False,1.18,1.09,0.14,Americas,Americas,Americas
+noia,Shopify Rebellion,461,"['killjoy', 'cypher', 'chamber', 'skye', 'jett']",986,1.18,218.9,1.38,77%,146.8,0.8,0.21,0.1,0.06,29%,17%,791,572,204,94,64,2023,False,1.18,1.09,0.14,Americas,Americas,Americas
+nora,YFP X,237,"['skye', 'breach', 'viper', 'kayo', 'omen']",432,0.97,200.4,0.9,66%,135.3,0.69,0.26,0.11,0.13,29%,17%,298,332,114,46,57,2023,False,0.97,0.79,0.28,Americas,Americas,Americas
+noxy,Baby Poko,152,"['jett', 'raze', 'killjoy', 'skye', 'chamber']",219,0.91,220.2,0.92,66%,139.3,0.74,0.15,0.11,0.15,29%,18%,161,175,32,25,33,2023,False,0.91,0.66,0.16,GameChangers,GameChangers,GameChangers
+opel,Purr-fectionists,143,"['astra', 'omen', 'sage', 'brimstone', 'sova']",958,1.16,217.0,1.12,77%,141.0,0.76,0.46,0.06,0.06,19%,14%,730,649,440,56,57,2023,False,1.16,1.06,0.35,,,
+petra,G2 Gozen,271,"['sova', 'skye', 'fade', 'breach']",1775,1.07,217.7,1.1,74%,142.5,0.76,0.31,0.11,0.12,25%,19%,1341,1222,554,191,208,2023,False,1.07,1.07,0.23,EMEAS,EMEAS,EMEAS
+piety,sisu,133,"['killjoy', 'omen', 'sova', 'viper', 'cypher']",887,1.07,215.8,1.04,72%,144.3,0.75,0.34,0.1,0.09,28%,8%,666,638,304,87,79,2023,False,1.07,0.97,0.27,Pacific,Pacific,Pacific
+pinkalie,Zerance Mint,221,"['omen', 'viper', 'breach', 'astra', 'brimstone']",1147,1.01,191.2,0.95,73%,123.7,0.68,0.44,0.08,0.09,29%,25%,781,823,508,97,104,2023,False,1.01,0.95,0.47,GameChangers,GameChangers,GameChangers
+poly,sisu,226,"['viper', 'astra', 'omen', 'brimstone']",1220,1.0,197.7,0.97,74%,129.2,0.69,0.42,0.07,0.09,30%,19%,841,865,511,87,104,2023,False,1.0,0.95,0.43,Pacific,Pacific,Pacific
+ponix,9z Team GC,116,"['killjoy', 'breach', 'sova', 'gekko', 'raze']",316,0.83,165.2,0.78,62%,122.2,0.58,0.17,0.06,0.11,20%,12%,184,237,53,19,34,2023,False,0.83,0.64,0.31,GameChangers,GameChangers,GameChangers
+proxima,BBL Queens,235,"['viper', 'omen', 'skye', 'chamber', 'astra']",806,1.15,216.0,1.15,74%,143.9,0.78,0.35,0.1,0.09,33%,21%,626,542,285,78,72,2023,False,1.15,1.03,0.24,GameChangers,GameChangers,GameChangers
+pyro,Infinity X,115,"['viper', 'breach', 'gekko', 'killjoy', 'sova']",245,1.01,214.4,1.03,71%,129.7,0.75,0.33,0.09,0.08,22%,9%,184,179,81,23,20,2023,False,1.01,0.74,0.26,Americas,Americas,Americas
+r4m,REIGNITE Lily,69,"['omen', 'viper', 'astra', 'neon']",296,0.95,188.2,0.85,69%,119.1,0.65,0.47,0.07,0.1,19%,15%,191,224,138,22,29,2023,False,0.95,0.72,0.57,Pacific,Pacific,Pacific
+raquinuki,FUSION X,100,"['cypher', 'killjoy', 'omen', 'deadlock', 'raze']",373,0.82,169.9,0.77,65%,111.9,0.59,0.31,0.06,0.11,27%,19%,221,287,115,21,42,2023,False,0.82,0.65,0.45,GameChangers,GameChangers,GameChangers
+rebecca,GOSU,53,"['breach', 'omen', 'brimstone', 'skye', 'killjoy']",231,0.88,175.4,0.8,72%,119.2,0.6,0.39,0.08,0.06,28%,19%,139,173,91,19,15,2023,False,0.88,0.64,0.54,Americas,Americas,Americas
+reshi,FiRePOWER,132,"['omen', 'jett', 'brimstone', 'viper', 'raze']",348,1.14,208.4,1.16,76%,131.3,0.74,0.39,0.08,0.09,22%,20%,257,221,136,27,30,2023,False,1.14,0.89,0.32,Americas,Americas,Americas
+rezq,G2 Gozen,99,"['raze', 'jett', 'killjoy', 'yoru', 'sage']",961,1.01,204.9,1.03,70%,136.8,0.74,0.23,0.11,0.15,26%,28%,715,697,221,108,144,2023,False,1.01,0.93,0.2,EMEAS,EMEAS,EMEAS
+riri,NYAN ESPORTS,62,"['sova', 'breach', 'skye']",281,0.88,149.8,0.75,69%,108.1,0.52,0.37,0.05,0.07,30%,13%,147,197,104,14,19,2023,False,0.88,0.66,0.66,GameChangers,GameChangers,GameChangers
+romia,FENNEL GC,91,"['killjoy', 'cypher', 'sova']",590,1.05,197.9,1.12,72%,132.6,0.7,0.22,0.08,0.09,25%,23%,414,371,128,48,55,2023,False,1.05,0.9,0.24,Pacific,Pacific,Pacific
+romily,KRÜ BLAZE,177,"['jett', 'killjoy', 'viper', 'cypher', 'sage']",469,1.23,247.3,1.42,77%,158.5,0.88,0.21,0.12,0.07,28%,16%,415,292,98,57,33,2023,False,1.23,1.01,0.08,GameChangers,GameChangers,GameChangers
+rose,9to5 workers,86,"['breach', 'omen', 'viper', 'kayo', 'skye']",664,0.82,150.3,0.69,69%,98.3,0.51,0.45,0.04,0.04,21%,15%,340,491,300,29,27,2023,False,0.82,0.71,0.84,GameChangers,GameChangers,GameChangers
+roxi,Karmine Corp GC,287,"['killjoy', 'cypher', 'skye', 'viper', 'sage']",1775,0.94,191.7,0.99,70%,129.8,0.67,0.2,0.09,0.09,23%,18%,1195,1204,348,159,166,2023,False,0.94,0.94,0.25,EMEAS,EMEAS,EMEAS
+rudys,LILITH,146,"['omen', 'sage', 'killjoy', 'breach', 'astra']",273,0.83,150.3,0.73,74%,101.2,0.52,0.39,0.02,0.05,17%,12%,142,194,106,6,14,2023,False,0.83,0.62,0.69,GameChangers,GameChangers,GameChangers
+safiaa,NASR Ignite,105,"['cypher', 'killjoy', 'omen', 'chamber', 'raze']",521,1.1,213.4,1.09,70%,149.7,0.76,0.18,0.12,0.1,30%,19%,397,363,94,64,52,2023,False,1.1,0.92,0.16,EMEAS,EMEAS,EMEAS
+sampphire,Cardboard Dinosaur,110,"['sova', 'breach', 'gekko', 'fade', 'killjoy']",761,0.98,174.6,0.89,75%,116.0,0.61,0.43,0.05,0.03,24%,14%,462,520,329,35,26,2023,False,0.98,0.87,0.59,GameChangers,GameChangers,GameChangers
+sandra,Team Falcons Vega,184,"['raze', 'jett', 'cypher', 'fade', 'omen']",1077,0.95,214.2,0.97,70%,141.2,0.73,0.19,0.18,0.17,22%,14%,789,813,210,197,181,2023,False,0.95,0.89,0.19,GameChangers,GameChangers,GameChangers
+sarahcat,Shopify Rebellion,360,"['sova', 'viper', 'kayo', 'breach']",986,1.15,226.1,1.24,80%,147.6,0.79,0.36,0.12,0.1,26%,21%,778,629,358,121,103,2023,False,1.15,1.06,0.23,Americas,Americas,Americas
+sarahcat,Shopify Rebellion,360,"['sova', 'viper', 'kayo', 'breach']",986,1.15,226.1,1.24,80%,147.6,0.79,0.36,0.12,0.1,26%,21%,778,629,358,121,103,2023,False,1.15,1.06,0.23,Americas,Americas,Americas
+sarahcat,Shopify Rebellion,360,"['sova', 'viper', 'kayo', 'breach']",986,1.15,226.1,1.24,80%,147.6,0.79,0.36,0.12,0.1,26%,21%,778,629,358,121,103,2023,False,1.15,1.06,0.23,Americas,Americas,Americas
+sarahcat,Shopify Rebellion,360,"['sova', 'viper', 'kayo', 'breach']",986,1.15,226.1,1.24,80%,147.6,0.79,0.36,0.12,0.1,26%,21%,778,629,358,121,103,2023,False,1.15,1.06,0.23,Americas,Americas,Americas
+sarahcat,Shopify Rebellion,360,"['sova', 'viper', 'kayo', 'breach']",986,1.15,226.1,1.24,80%,147.6,0.79,0.36,0.12,0.1,26%,21%,778,629,358,121,103,2023,False,1.15,1.06,0.23,Americas,Americas,Americas
+sarahcat,Shopify Rebellion,360,"['sova', 'viper', 'kayo', 'breach']",986,1.15,226.1,1.24,80%,147.6,0.79,0.36,0.12,0.1,26%,21%,778,629,358,121,103,2023,False,1.15,1.06,0.23,Americas,Americas,Americas
+sarahcat,Shopify Rebellion,360,"['sova', 'viper', 'kayo', 'breach']",986,1.15,226.1,1.24,80%,147.6,0.79,0.36,0.12,0.1,26%,21%,778,629,358,121,103,2023,False,1.15,1.06,0.23,Americas,Americas,Americas
+sarahcat,Shopify Rebellion,360,"['sova', 'viper', 'kayo', 'breach']",986,1.15,226.1,1.24,80%,147.6,0.79,0.36,0.12,0.1,26%,21%,778,629,358,121,103,2023,False,1.15,1.06,0.23,Americas,Americas,Americas
+sarah,GIANTX GC,147,"['raze', 'breach', 'jett', 'kayo', 'reyna']",1249,0.9,199.7,0.95,68%,131.2,0.7,0.18,0.15,0.15,25%,20%,875,919,223,184,193,2023,False,0.9,0.86,0.21,GameChangers,GameChangers,GameChangers
+sawamura,sisu,154,"['jett', 'neon', 'raze', 'reyna', 'omen']",1087,0.99,195.3,1.03,70%,124.8,0.7,0.26,0.12,0.12,35%,23%,760,736,284,130,128,2023,False,0.99,0.93,0.26,Pacific,Pacific,Pacific
+sayuri,MIBR GC,345,"['omen', 'sova', 'brimstone', 'breach', 'skye']",698,1.01,183.8,0.92,78%,116.9,0.63,0.57,0.05,0.06,19%,13%,438,476,399,37,43,2023,False,1.01,0.88,0.82,Americas,Americas,Americas
+shina,4Fun,89,"['killjoy', 'chamber', 'cypher']",323,1.0,211.1,0.98,69%,140.0,0.71,0.19,0.1,0.08,26%,14%,229,234,62,33,27,2023,False,1.0,0.77,0.21,Pacific,Pacific,Pacific
+shirazi,Xipto Esports,208,"['viper', 'brimstone', 'omen', 'chamber', 'astra']",1152,1.29,229.1,1.48,81%,147.6,0.83,0.38,0.12,0.05,23%,24%,951,641,434,136,60,2023,False,1.29,1.22,0.19,Pacific,Pacific,Pacific
+shizue,DREAMMAX,217,"['astra', 'omen', 'viper', 'sage']",323,0.84,167.1,0.77,72%,109.7,0.56,0.4,0.05,0.08,25%,11%,182,237,130,17,27,2023,False,0.84,0.65,0.63,Americas,Americas,Americas
+shura,The A Team,70,"['jett', 'raze', 'reyna']",404,0.83,203.1,0.87,64%,129.8,0.72,0.15,0.17,0.2,25%,8%,289,331,60,68,81,2023,False,0.83,0.67,0.17,EMEAS,EMEAS,EMEAS
+shyz,TBS GC,302,"['raze', 'kayo', 'sova', 'killjoy', 'sage']",469,0.95,183.0,0.97,72%,120.9,0.63,0.38,0.07,0.07,20%,10%,297,305,178,33,35,2023,False,0.95,0.78,0.48,Americas,Americas,Americas
+skyelyse,9to5 workers,105,"['killjoy', 'sage', 'kayo', 'jett']",960,1.05,217.3,1.08,73%,146.4,0.75,0.21,0.11,0.1,21%,11%,723,667,198,102,99,2023,False,1.05,0.96,0.18,GameChangers,GameChangers,GameChangers
+slandy,mesos millionaires,352,"['skye', 'breach', 'kayo', 'omen']",348,0.85,164.1,0.79,69%,108.4,0.58,0.34,0.06,0.1,23%,19%,202,255,119,22,36,2023,False,0.85,0.66,0.5,Americas,Americas,Americas
+smurfette,GIANTX GC,368,"['jett', 'raze', 'chamber', 'neon']",1279,1.1,255.1,1.15,71%,164.6,0.89,0.16,0.24,0.19,30%,20%,1139,990,199,307,249,2023,False,1.1,1.05,0.06,GameChangers,GameChangers,GameChangers
+snowwke,Gang Gang,138,"['jett', 'raze', 'reyna']",1065,0.97,216.4,0.99,72%,138.8,0.74,0.22,0.17,0.18,17%,16%,786,796,235,179,193,2023,False,0.97,0.9,0.2,,,
+sonder,FlyQuest RED,481,"['raze', 'kayo', 'jett', 'reyna', 'skye']",962,1.06,245.4,1.08,72%,160.1,0.82,0.3,0.19,0.19,21%,9%,790,734,285,185,187,2023,False,1.06,0.97,0.16,Americas,Americas,Americas
+srn,MIBR GC,124,"['raze', 'jett']",541,1.24,294.5,1.35,72%,185.5,1.03,0.18,0.29,0.23,26%,17%,557,412,95,155,126,2023,False,1.24,1.04,-0.02,Americas,Americas,Americas
+starbound,FlyQuest RED,293,"['killjoy', 'cypher', 'jett', 'chamber', 'viper']",804,1.21,236.7,1.29,74%,158.9,0.83,0.19,0.09,0.07,20%,13%,667,516,156,70,59,2023,False,1.21,1.08,0.11,Americas,Americas,Americas
+superphrog,HEROIC Valkyries,151,"['jett', 'chamber', 'raze', 'cypher']",817,0.91,210.9,0.94,68%,136.6,0.75,0.15,0.18,0.19,30%,13%,612,651,120,150,153,2023,False,0.91,0.82,0.15,EMEAS,EMEAS,EMEAS
+suzu,ZETA DIVISION GC,113,"['jett', 'raze', 'sova', 'omen', 'sage']",590,1.38,306.6,1.55,76%,195.4,1.05,0.24,0.26,0.16,23%,34%,621,400,140,154,96,2023,False,1.38,1.18,-0.03,Pacific,Pacific,Pacific
+tajna,İstanbul Wildcats Female,100,"['sova', 'breach', 'sage', 'brimstone', 'kayo']",343,0.76,143.2,0.63,70%,92.7,0.46,0.4,0.02,0.03,31%,20%,159,254,136,7,12,2023,False,0.76,0.59,0.85,GameChangers,GameChangers,GameChangers
+tara,Xipto Esports,110,"['sage', 'omen', 'astra', 'cypher', 'brimstone']",382,0.95,165.0,1.01,77%,104.1,0.58,0.48,0.06,0.1,22%,19%,222,219,184,24,37,2023,False,0.95,0.75,0.74,Pacific,Pacific,Pacific
+tastyy,FUSION X,125,"['skye', 'jett', 'kayo', 'raze', 'fade']",454,1.15,234.5,1.17,70%,150.3,0.84,0.32,0.11,0.15,29%,19%,382,326,144,52,70,2023,False,1.15,0.94,0.15,GameChangers,GameChangers,GameChangers
+theia,FlyQuest RED,390,"['omen', 'cypher', 'killjoy', 'chamber', 'astra']",962,0.8,148.8,0.74,71%,94.7,0.5,0.4,0.07,0.1,23%,16%,480,648,381,64,92,2023,True,0.8,0.73,0.76,Americas,Americas,Americas
+tokameite,NASR Ignite,121,"['sova', 'skye', 'breach', 'fade', 'viper']",500,1.05,202.0,1.0,72%,134.1,0.71,0.35,0.07,0.07,28%,15%,356,356,177,36,33,2023,False,1.05,0.87,0.33,EMEAS,EMEAS,EMEAS
+toki,Team Falcons Vega,211,"['raze', 'jett', 'omen']",906,1.13,245.2,1.15,70%,160.7,0.85,0.18,0.18,0.17,27%,21%,766,668,167,166,156,2023,False,1.13,1.03,0.09,GameChangers,GameChangers,GameChangers
+tub,RIMA GC,106,"['jett', 'raze', 'gekko', 'sova', 'omen']",524,0.91,204.7,0.92,67%,140.0,0.71,0.19,0.15,0.18,26%,14%,372,404,101,79,93,2023,False,0.91,0.76,0.21,GameChangers,GameChangers,GameChangers
+tweeya,4Fun,89,"['omen', 'raze', 'viper', 'brimstone', 'reyna']",509,0.97,188.2,0.88,73%,123.1,0.62,0.5,0.06,0.06,19%,12%,315,360,254,29,28,2023,False,0.97,0.81,0.69,Pacific,Pacific,Pacific
+twirly,Purr-fectionists,119,"['jett', 'raze', 'killjoy', 'reyna', 'neon']",1133,0.99,227.1,1.03,69%,150.2,0.8,0.19,0.17,0.17,25%,11%,903,875,212,189,187,2023,False,0.99,0.93,0.13,,,
+valusia,Solidarity,75,"['fade', 'breach', 'skye', 'jett', 'raze']",231,1.03,205.6,0.97,75%,137.3,0.73,0.37,0.08,0.07,27%,3%,168,174,85,19,16,2023,False,1.03,0.75,0.32,Americas,Americas,Americas
+vania,G2 Gozen,208,"['omen', 'viper', 'brimstone', 'skye', 'astra']",1332,1.3,251.0,1.37,80%,156.2,0.89,0.46,0.11,0.07,31%,24%,1192,869,615,140,95,2023,False,1.3,1.25,0.15,EMEAS,EMEAS,EMEAS
+vii,TBS GC,156,"['jett', 'raze', 'omen', 'neon', 'kayo']",261,0.99,214.5,0.98,69%,146.4,0.75,0.16,0.23,0.14,26%,8%,195,198,42,60,37,2023,False,0.99,0.74,0.16,Americas,Americas,Americas
+waved,LOUD GC,153,"['jett', 'raze', 'neon']",453,1.16,271.3,1.16,68%,181.9,0.94,0.16,0.23,0.17,28%,13%,427,367,74,102,79,2023,False,1.16,0.95,0.03,Americas,Americas,Americas
+wawalee,Chao Hui EDward Gaming,79,"['sova', 'raze', 'breach', 'chamber', 'reyna']",306,0.79,155.1,0.75,68%,102.1,0.53,0.28,0.06,0.07,19%,3%,162,216,86,17,20,2023,True,0.79,0.6,0.5,China,China,China
+wens,BBL Queens,81,"['killjoy', 'cypher', 'viper', 'sage', 'skye']",622,1.01,193.9,1.1,75%,133.7,0.71,0.17,0.09,0.1,33%,13%,443,403,107,56,61,2023,False,1.01,0.87,0.19,GameChangers,GameChangers,GameChangers
+winter,Solidarity,76,"['killjoy', 'cypher', 'jett', 'raze', 'yoru']",215,0.83,172.7,0.81,66%,118.6,0.63,0.14,0.1,0.06,20%,11%,135,167,31,21,13,2023,False,0.83,0.6,0.23,Americas,Americas,Americas
+xann,KS Hunters,166,"['jett', 'raze', 'yoru']",378,1.12,239.8,1.14,67%,153.6,0.84,0.18,0.23,0.19,26%,14%,317,277,68,87,72,2023,False,1.12,0.89,0.1,GameChangers,GameChangers,GameChangers
+ximilu,Chao Hui EDward Gaming,79,"['kayo', 'fade', 'jett', 'breach', 'skye']",306,0.99,186.7,0.93,74%,120.8,0.64,0.43,0.08,0.1,23%,18%,196,211,132,24,31,2023,False,0.99,0.76,0.53,China,China,China
+yamzzi,FENNEL GC,96,"['killjoy', 'omen', 'chamber', 'skye', 'sova']",424,1.31,239.6,1.44,71%,159.4,0.9,0.14,0.09,0.08,31%,20%,381,264,58,37,32,2023,False,1.31,1.06,0.05,Pacific,Pacific,Pacific
+zini,Asmodeus Colosseum GC,152,"['sova', 'kayo', 'breach', 'sage', 'fade']",529,0.89,168.8,0.78,77%,106.3,0.54,0.54,0.06,0.1,15%,15%,286,369,287,33,53,2023,True,0.89,0.75,1.0,,,
+zodiac,REIGNITE Lily,69,"['jett', 'raze', 'neon', 'chamber']",296,0.99,224.7,1.0,70%,151.6,0.77,0.2,0.18,0.2,23%,23%,228,229,58,53,58,2023,False,0.99,0.75,0.16,Pacific,Pacific,Pacific
+332,Mir Gaming GC,47,"['killjoy', 'sova', 'fade', 'chamber', 'viper']",274,1.07,209.8,1.14,72%,139.8,0.72,0.3,0.08,0.08,27%,9%,197,173,81,22,22,2024,False,1.07,0.8,0.27,Pacific,Pacific,Pacific
+69shinobu,4Fun,64,"['sage', 'reyna', 'clove', 'raze', 'killjoy']",234,0.79,160.0,0.64,66%,106.4,0.53,0.41,0.04,0.03,20%,10%,123,192,97,9,7,2024,False,0.79,0.58,0.71,Pacific,Pacific,Pacific
+6sonya,Odd 1 OUT,260,"['sova', 'fade', 'breach', 'skye']",964,0.93,176.8,0.89,69%,121.0,0.62,0.28,0.08,0.07,26%,8%,596,670,270,76,67,2024,False,0.93,0.85,0.38,EMEAS,EMEAS,EMEAS
+aco,ZETA DIVISION GC,73,"['skye', 'sova', 'kayo', 'fade', 'omen']",461,0.9,172.7,0.83,74%,111.4,0.59,0.48,0.08,0.13,18%,15%,270,325,220,35,58,2024,True,0.9,0.74,0.72,Pacific,Pacific,Pacific
+adenina,9z Team GC,131,"['kayo', 'astra', 'sova', 'fade', 'skye']",1050,0.87,155.0,0.82,70%,100.4,0.55,0.37,0.04,0.07,21%,17%,581,709,390,44,74,2024,True,0.87,0.81,0.6,GameChangers,GameChangers,GameChangers
+adora,HEROIC Valkyries,114,"['raze', 'jett', 'reyna']",996,0.96,212.0,0.97,65%,142.7,0.74,0.17,0.16,0.18,29%,9%,741,766,166,155,181,2024,False,0.96,0.89,0.17,EMEAS,EMEAS,EMEAS
+ahmei,LILITH,32,"['skye', 'killjoy', 'cypher', 'viper', 'clove']",292,0.88,202.7,0.83,70%,142.4,0.68,0.32,0.12,0.12,25%,20%,198,240,94,35,34,2024,False,0.88,0.67,0.34,GameChangers,GameChangers,GameChangers
+aisling,4Fun,159,"['astra', 'omen', 'brimstone', 'viper', 'sova']",282,0.91,175.4,0.88,72%,113.0,0.61,0.37,0.04,0.09,19%,24%,172,196,103,12,25,2024,False,0.91,0.69,0.5,Pacific,Pacific,Pacific
+akita,Zerance Mint,49,"['jett', 'raze', 'reyna', 'phoenix']",418,1.14,267.9,1.17,71%,172.2,0.93,0.18,0.23,0.19,27%,27%,387,330,76,96,80,2024,False,1.14,0.92,0.04,GameChangers,GameChangers,GameChangers
+alannah,swaglord9000,91,"['sova', 'killjoy', 'omen', 'cypher', 'skye']",317,0.97,198.1,0.97,68%,129.4,0.7,0.27,0.09,0.09,29%,10%,223,229,86,27,28,2024,False,0.97,0.75,0.27,GameChangers,GameChangers,GameChangers
+alessia,MAD Lions KOI,107,"['killjoy', 'chamber', 'cypher', 'jett']",740,1.05,201.0,1.13,67%,133.5,0.75,0.14,0.11,0.13,36%,18%,555,492,105,78,93,2024,False,1.05,0.93,0.15,GameChangers,GameChangers,GameChangers
+alexaishot,KS Hunters,107,"['kayo', 'raze', 'gekko', 'jett', 'viper']",806,0.96,207.4,0.96,72%,132.0,0.71,0.31,0.1,0.11,21%,12%,572,594,247,80,89,2024,False,0.96,0.86,0.29,GameChangers,GameChangers,GameChangers
+alexis,Shopify Rebellion,487,"['skye', 'breach', 'kayo', 'sage']",1000,1.05,177.1,1.02,77%,111.9,0.63,0.51,0.06,0.06,30%,18%,631,616,510,56,55,2024,False,1.05,0.97,0.69,Americas,Americas,Americas
+alexis,Shopify Rebellion,487,"['skye', 'breach', 'kayo', 'sage']",1000,1.05,177.1,1.02,77%,111.9,0.63,0.51,0.06,0.06,30%,18%,631,616,510,56,55,2024,False,1.05,0.97,0.69,Americas,Americas,Americas
+alexis,Shopify Rebellion,487,"['skye', 'breach', 'kayo', 'sage']",1000,1.05,177.1,1.02,77%,111.9,0.63,0.51,0.06,0.06,30%,18%,631,616,510,56,55,2024,False,1.05,0.97,0.69,Americas,Americas,Americas
+alexis,Shopify Rebellion,487,"['skye', 'breach', 'kayo', 'sage']",1000,1.05,177.1,1.02,77%,111.9,0.63,0.51,0.06,0.06,30%,18%,631,616,510,56,55,2024,False,1.05,0.97,0.69,Americas,Americas,Americas
+alexis,Shopify Rebellion,487,"['skye', 'breach', 'kayo', 'sage']",1000,1.05,177.1,1.02,77%,111.9,0.63,0.51,0.06,0.06,30%,18%,631,616,510,56,55,2024,False,1.05,0.97,0.69,Americas,Americas,Americas
+alexis,Shopify Rebellion,487,"['skye', 'breach', 'kayo', 'sage']",1000,1.05,177.1,1.02,77%,111.9,0.63,0.51,0.06,0.06,30%,18%,631,616,510,56,55,2024,False,1.05,0.97,0.69,Americas,Americas,Americas
+alexis,Shopify Rebellion,487,"['skye', 'breach', 'kayo', 'sage']",1000,1.05,177.1,1.02,77%,111.9,0.63,0.51,0.06,0.06,30%,18%,631,616,510,56,55,2024,False,1.05,0.97,0.69,Americas,Americas,Americas
+alexis,Shopify Rebellion,487,"['skye', 'breach', 'kayo', 'sage']",1000,1.05,177.1,1.02,77%,111.9,0.63,0.51,0.06,0.06,30%,18%,631,616,510,56,55,2024,False,1.05,0.97,0.69,Americas,Americas,Americas
+alexy,Xipto Esports,196,"['jett', 'raze', 'skye', 'kayo', 'sova']",437,1.34,252.0,1.65,83%,163.6,0.92,0.29,0.14,0.11,24%,13%,401,243,125,63,50,2024,False,1.34,1.09,0.07,Pacific,Pacific,Pacific
+alkyia,BBL Queens,157,"['jett', 'raze']",747,0.99,222.1,1.02,67%,149.4,0.76,0.23,0.16,0.15,29%,9%,570,559,173,119,109,2024,False,0.99,0.88,0.19,GameChangers,GameChangers,GameChangers
+allie,LEVIATÁN GC,63,"['omen', 'kayo', 'breach', 'viper', 'raze']",387,0.93,170.0,0.88,71%,109.3,0.59,0.42,0.07,0.09,26%,13%,228,259,163,27,34,2024,False,0.93,0.74,0.61,GameChangers,GameChangers,GameChangers
+alluka,BOBA,191,"['raze', 'kayo', 'breach', 'reyna', 'chamber']",693,1.0,180.9,0.94,74%,115.2,0.63,0.49,0.06,0.05,23%,10%,436,465,343,39,36,2024,False,1.0,0.87,0.65,GameChangers,GameChangers,GameChangers
+aluvily,Kinetic,167,"['killjoy', 'cypher', 'gekko', 'viper', 'skye']",327,1.02,216.2,1.04,70%,147.6,0.78,0.18,0.11,0.1,31%,11%,254,245,60,36,32,2024,False,1.02,0.79,0.14,Americas,Americas,Americas
+alyssa,K7 Esports,58,"['sova', 'gekko', 'skye', 'breach', 'raze']",286,0.74,152.5,0.65,61%,109.7,0.51,0.26,0.03,0.1,29%,17%,146,226,74,10,30,2024,False,0.74,0.56,0.5,GameChangers,GameChangers,GameChangers
+amxlist,Deagle Ravagers,92,"['breach', 'kayo', 'killjoy', 'omen']",443,1.12,197.3,1.04,76%,129.8,0.68,0.55,0.07,0.07,34%,12%,303,291,244,31,29,2024,False,1.12,0.91,0.65,GameChangers,GameChangers,GameChangers
+amy,G2 Gozen,238,"['killjoy', 'cypher', 'viper', 'brimstone', 'astra']",979,1.07,200.7,1.25,75%,135.9,0.75,0.23,0.08,0.06,33%,17%,737,590,222,76,60,2024,False,1.07,0.98,0.2,EMEAS,EMEAS,EMEAS
+andrea,New Combat Line GC,79,"['skye', 'breach', 'omen', 'fade', 'sova']",339,0.86,162.7,0.8,71%,107.0,0.57,0.41,0.03,0.06,25%,9%,193,241,140,11,20,2024,False,0.86,0.67,0.63,GameChangers,GameChangers,GameChangers
+andrehs,Akave Esports GC,172,"['sova', 'breach', 'skye', 'kayo', 'brimstone']",923,1.0,188.3,1.01,76%,121.9,0.66,0.42,0.07,0.07,31%,17%,610,606,388,68,64,2024,True,1.0,0.91,0.48,GameChangers,GameChangers,GameChangers
+angela,invincible gc,113,"['raze', 'jett', 'kayo', 'chamber', 'breach']",324,0.99,234.6,1.04,68%,154.0,0.78,0.23,0.19,0.23,17%,32%,253,243,75,62,73,2024,False,0.99,0.76,0.17,GameChangers,GameChangers,GameChangers
+angel,MYVRA,155,"['viper', 'skye', 'breach', 'kayo', 'sova']",724,0.92,152.6,0.82,73%,102.8,0.55,0.39,0.04,0.05,33%,10%,398,486,279,32,36,2024,False,0.92,0.81,0.63,GameChangers,GameChangers,GameChangers
+aniemal,mesos millionaires,407,"['killjoy', 'viper', 'cypher', 'sage', 'omen']",671,0.83,174.2,0.79,65%,118.1,0.6,0.19,0.08,0.09,23%,20%,402,510,130,53,62,2024,False,0.83,0.72,0.31,Americas,Americas,Americas
+annie,Odd 1 OUT,199,"['killjoy', 'chamber', 'cypher', 'jett', 'raze']",1026,1.01,224.1,1.06,68%,146.5,0.8,0.14,0.22,0.2,33%,17%,817,773,147,221,207,2024,False,1.01,0.94,0.11,EMEAS,EMEAS,EMEAS
+antg,LOUD GC,303,"['skye', 'kayo', 'raze', 'fade', 'omen']",410,1.18,218.4,1.19,76%,137.8,0.8,0.4,0.07,0.08,31%,9%,327,275,165,28,33,2024,False,1.18,0.95,0.24,Americas,Americas,Americas
+aria,Teddy Tactics,144,"['astra', 'breach', 'omen', 'kayo', 'viper']",232,0.73,161.0,0.63,64%,105.9,0.51,0.33,0.08,0.14,24%,,119,190,76,19,33,2024,False,0.73,0.53,0.61,Americas,Americas,Americas
+arinji,LILITH,31,"['raze', 'reyna', 'omen']",292,0.92,208.8,0.89,69%,143.8,0.71,0.22,0.13,0.13,21%,24%,208,233,65,39,38,2024,False,0.92,0.7,0.23,GameChangers,GameChangers,GameChangers
+arki,Avernus Esports GC,43,"['breach', 'cypher', 'sova', 'omen', 'viper']",304,0.84,170.8,0.76,64%,114.3,0.6,0.34,0.05,0.1,19%,10%,182,239,103,16,30,2024,False,0.84,0.64,0.47,Pacific,Pacific,Pacific
+asia,University War GC,60,"['killjoy', 'cypher', 'omen', 'astra', 'viper']",696,0.87,171.4,0.86,66%,118.1,0.64,0.19,0.05,0.08,25%,9%,445,519,135,35,55,2024,False,0.87,0.76,0.27,GameChangers,GameChangers,GameChangers
+asomy,New Combat Line GC,77,"['omen', 'raze', 'viper', 'reyna', 'sova']",709,1.02,203.3,0.98,70%,131.8,0.71,0.34,0.08,0.1,25%,14%,504,514,239,58,68,2024,False,1.02,0.89,0.32,GameChangers,GameChangers,GameChangers
+ataraxia,LEVIATÁN GC,46,"['cypher', 'astra', 'raze', 'viper', 'omen']",571,0.9,178.5,0.85,65%,121.5,0.62,0.18,0.08,0.06,32%,11%,356,417,101,44,36,2024,False,0.9,0.76,0.28,GameChangers,GameChangers,GameChangers
+atisca,K7 Esports,56,"['jett', 'raze', 'neon']",543,0.96,208.3,0.99,66%,138.3,0.76,0.14,0.16,0.13,24%,8%,411,415,77,87,68,2024,False,0.96,0.81,0.14,GameChangers,GameChangers,GameChangers
+ayumiii,BOBA,231,"['jett', 'chamber', 'raze', 'kayo', 'sova']",693,1.07,227.3,1.09,72%,148.9,0.77,0.26,0.15,0.15,22%,17%,531,486,183,107,107,2024,False,1.07,0.94,0.19,GameChangers,GameChangers,GameChangers
+azul,FiRePOWER,146,"['sova', 'skye', 'breach', 'fade', 'kayo']",711,0.8,171.2,0.78,65%,114.1,0.61,0.34,0.06,0.11,34%,12%,431,552,241,44,76,2024,False,0.8,0.7,0.46,Americas,Americas,Americas
+b1nby0,URACHACHA,57,"['omen', 'astra', 'brimstone']",201,0.73,164.6,0.71,64%,105.4,0.56,0.35,0.05,0.08,22%,,113,159,70,11,17,2024,False,0.73,0.52,0.55,Pacific,Pacific,Pacific
+babytz,BOBA,231,"['killjoy', 'cypher', 'chamber', 'sage', 'sova']",693,1.19,234.6,1.24,71%,159.4,0.83,0.28,0.13,0.12,22%,24%,577,465,194,89,86,2024,False,1.19,1.04,0.15,GameChangers,GameChangers,GameChangers
+babzzz,9z Team GC,140,"['killjoy', 'cypher', 'viper', 'breach', 'omen']",1050,0.9,194.2,0.95,65%,128.9,0.69,0.17,0.09,0.14,23%,10%,726,767,179,98,144,2024,False,0.9,0.84,0.21,GameChangers,GameChangers,GameChangers
+bae,University War GC,34,"['sova', 'jett', 'sage', 'fade', 'raze']",455,1.08,206.7,1.01,72%,142.0,0.72,0.26,0.08,0.09,28%,13%,326,323,119,36,38,2024,False,1.08,0.88,0.24,GameChangers,GameChangers,GameChangers
+biazik,KRÜ BLAZE,290,"['sova', 'breach', 'jett', 'skye', 'fade']",622,1.08,195.7,1.09,78%,133.6,0.69,0.37,0.09,0.06,24%,15%,428,393,232,58,40,2024,False,1.08,0.93,0.37,GameChangers,GameChangers,GameChangers
+bibi,Mir Gaming GC,44,"['raze', 'jett', 'viper', 'kayo', 'sova']",274,0.98,195.2,0.98,74%,132.4,0.68,0.34,0.08,0.11,23%,24%,186,190,92,22,30,2024,False,0.98,0.74,0.36,Pacific,Pacific,Pacific
+bizerra,Team Liquid Brazil,329,"['sova', 'killjoy', 'kayo', 'viper', 'fade']",652,1.17,221.6,1.19,74%,150.6,0.77,0.33,0.1,0.08,27%,17%,503,422,216,63,51,2024,False,1.17,1.01,0.24,Americas,Americas,Americas
+bless,RIMA GC,81,"['killjoy', 'cypher', 'sova', 'skye', 'chamber']",256,1.15,201.7,1.18,68%,133.5,0.75,0.17,0.09,0.05,37%,23%,192,163,43,22,13,2024,False,1.15,0.85,0.16,GameChangers,GameChangers,GameChangers
+blossi,ALTERNATE aTTaX Ruby,179,"['killjoy', 'omen', 'viper', 'breach']",700,0.86,163.3,0.8,67%,109.9,0.57,0.41,0.06,0.1,26%,8%,401,504,288,40,70,2024,False,0.86,0.75,0.63,GameChangers,GameChangers,GameChangers
+blue,Penguin Party,42,"['cypher', 'killjoy', 'omen', 'viper']",210,1.02,195.3,1.05,71%,135.1,0.7,0.24,0.07,0.13,33%,25%,147,140,51,14,27,2024,False,1.02,0.73,0.25,,,
+blu,LOUD GC,337,"['killjoy', 'skye', 'cypher', 'sage', 'gekko']",549,0.81,146.5,0.76,67%,97.6,0.52,0.33,0.07,0.1,29%,18%,285,373,179,37,56,2024,False,0.81,0.68,0.59,Americas,Americas,Americas
+bstrdd,Team Liquid Brazil,385,"['jett', 'raze', 'skye']",652,1.17,252.0,1.24,73%,163.2,0.88,0.19,0.2,0.15,28%,22%,574,463,121,130,98,2024,False,1.17,1.01,0.08,Americas,Americas,Americas
+buffala,Bon Bon Bum,66,"['chamber', 'fade', 'killjoy', 'sova', 'breach']",311,1.09,230.6,1.08,67%,153.5,0.8,0.26,0.17,0.14,27%,20%,250,232,81,53,44,2024,False,1.09,0.84,0.17,Americas,Americas,Americas
+bugsy,RIMA GC,59,"['breach', 'viper', 'omen', 'brimstone', 'kayo']",256,0.99,203.8,0.98,70%,128.5,0.75,0.36,0.08,0.09,31%,5%,191,195,91,20,24,2024,False,0.99,0.73,0.28,GameChangers,GameChangers,GameChangers
+bunnybee,floppers,400,"['raze', 'jett', 'kayo', 'chamber', 'yoru']",245,0.88,204.1,0.89,65%,134.1,0.69,0.25,0.16,0.16,30%,12%,170,191,61,39,38,2024,False,0.88,0.65,0.27,Americas,Americas,Americas
+calsushi,Teddy Tactics,154,"['sova', 'skye', 'fade', 'gekko', 'omen']",232,0.92,189.3,0.83,63%,129.0,0.66,0.21,0.04,0.03,34%,16%,152,184,48,10,8,2024,False,0.92,0.67,0.27,Americas,Americas,Americas
+cami,MYVRA,127,"['omen', 'astra', 'killjoy', 'viper', 'sage']",899,1.03,194.6,0.97,74%,128.5,0.71,0.37,0.09,0.07,32%,15%,638,659,335,77,66,2024,False,1.03,0.94,0.34,GameChangers,GameChangers,GameChangers
+casper,Purr-fectionists,208,"['astra', 'omen', 'killjoy', 'brimstone', 'chamber']",441,0.93,170.2,0.87,72%,112.4,0.61,0.39,0.05,0.1,28%,2%,269,308,174,24,43,2024,False,0.93,0.76,0.52,,,
+cendary,LILAX,108,"['astra', 'viper', 'clove', 'brimstone', 'sova']",201,1.14,288.1,1.1,77%,190.7,0.99,0.37,0.14,0.12,24%,10%,198,180,75,29,25,2024,False,1.14,0.81,0.01,GameChangers,GameChangers,GameChangers
+chloe,MYVRA,94,"['killjoy', 'raze', 'sova', 'breach', 'neon']",852,0.99,193.1,0.96,72%,127.0,0.71,0.33,0.1,0.09,25%,15%,604,628,283,82,78,2024,False,0.99,0.89,0.31,GameChangers,GameChangers,GameChangers
+churra,Deagle Ravagers,107,"['omen', 'kayo', 'breach', 'viper', 'killjoy']",215,0.85,158.5,0.74,71%,106.7,0.53,0.42,0.01,0.11,25%,10%,113,152,90,3,23,2024,False,0.85,0.61,0.73,GameChangers,GameChangers,GameChangers
+cille,HEROIC Valkyries,209,"['kayo', 'omen', 'astra', 'fade', 'sova']",944,0.78,161.7,0.73,63%,109.1,0.57,0.32,0.05,0.09,30%,12%,541,746,301,51,85,2024,True,0.78,0.71,0.49,EMEAS,EMEAS,EMEAS
+conir,KRÜ BLAZE,157,"['omen', 'chamber', 'reyna', 'viper', 'brimstone']",694,1.32,228.6,1.54,83%,148.3,0.86,0.41,0.08,0.05,28%,28%,594,386,286,55,37,2024,False,1.32,1.15,0.17,GameChangers,GameChangers,GameChangers
+curumi,FENNEL GC,99,"['breach', 'viper', 'fade', 'kayo', 'omen']",686,0.87,180.4,0.82,70%,114.8,0.61,0.46,0.08,0.09,19%,14%,416,507,314,53,59,2024,False,0.87,0.76,0.64,Pacific,Pacific,Pacific
+daiki,Team Liquid Brazil,421,"['sova', 'skye', 'fade', 'sage', 'breach']",652,0.99,185.7,0.99,73%,120.2,0.66,0.42,0.06,0.11,28%,17%,433,436,276,40,72,2024,True,0.99,0.86,0.48,Americas,Americas,Americas
+dannn,URACHACHA,34,"['killjoy', 'viper', 'sova', 'raze', 'cypher']",201,0.88,171.8,0.83,68%,117.3,0.61,0.19,0.09,0.09,19%,11%,122,147,38,18,19,2024,False,0.88,0.62,0.3,Pacific,Pacific,Pacific
+dano,FUSION X,116,"['skye', 'gekko', 'breach', 'kayo', 'sova']",1135,1.05,190.0,1.01,73%,129.1,0.68,0.43,0.05,0.06,26%,13%,774,763,485,57,66,2024,False,1.05,0.99,0.46,GameChangers,GameChangers,GameChangers
+delbisky,BOBA,127,"['jett', 'raze', 'omen', 'chamber', 'neon']",521,0.97,206.1,0.96,71%,133.7,0.71,0.28,0.12,0.1,26%,12%,370,385,148,64,50,2024,False,0.97,0.81,0.27,GameChangers,GameChangers,GameChangers
+devilasxa,Odd 1 OUT,174,"['skye', 'kayo', 'breach', 'gekko', 'cypher']",831,1.03,200.0,0.98,72%,132.1,0.69,0.37,0.08,0.08,34%,15%,576,590,308,69,63,2024,False,1.03,0.93,0.37,EMEAS,EMEAS,EMEAS
+didii,MAD Lions KOI,118,"['killjoy', 'breach', 'chamber', 'astra', 'sova']",462,0.99,190.9,0.95,73%,127.7,0.66,0.45,0.09,0.07,23%,17%,306,321,208,42,32,2024,False,0.99,0.81,0.52,GameChangers,GameChangers,GameChangers
+dodonut,FlyQuest RED,393,"['raze', 'jett', 'sova']",1567,1.25,265.9,1.35,77%,171.3,0.93,0.23,0.21,0.15,23%,17%,1455,1080,364,328,234,2024,False,1.25,1.23,0.05,Americas,Americas,Americas
+dods,KRÜ BLAZE,115,"['jett', 'raze', 'neon', 'skye']",694,1.29,273.0,1.46,77%,177.3,1.0,0.21,0.23,0.14,32%,28%,697,477,146,159,100,2024,False,1.29,1.13,-0.0,GameChangers,GameChangers,GameChangers
+dorothy,Mir Gaming GC,29,"['jett', 'raze', 'neon']",274,1.41,296.2,1.56,78%,191.2,1.06,0.17,0.24,0.1,25%,20%,290,186,46,67,28,2024,False,1.41,1.06,-0.03,Pacific,Pacific,Pacific
+dream,VALIANT GC,64,"['killjoy', 'omen', 'viper', 'astra', 'cypher']",640,1.09,203.2,1.15,73%,134.4,0.72,0.21,0.07,0.06,23%,20%,463,401,134,45,36,2024,False,1.09,0.94,0.21,GameChangers,GameChangers,GameChangers
+drea,Infinity X,84,"['raze', 'jett', 'sova', 'killjoy', 'skye']",282,0.83,191.4,0.84,66%,123.2,0.68,0.19,0.12,0.17,21%,20%,191,228,53,33,47,2024,False,0.83,0.63,0.23,Americas,Americas,Americas
+drn,revoada,353,"['omen', 'astra', 'sage', 'brimstone', 'viper']",449,0.83,156.3,0.72,66%,109.3,0.53,0.35,0.05,0.1,20%,21%,237,331,156,24,43,2024,False,0.83,0.68,0.6,Americas,Americas,Americas
+edith,mesos millionaires,209,"['raze', 'jett', 'chamber']",264,1.07,228.7,1.14,64%,149.5,0.81,0.14,0.16,0.2,27%,15%,214,188,38,41,53,2024,False,1.07,0.8,0.11,Americas,Americas,Americas
+elab0rate,YFP X,155,"['raze', 'cypher', 'killjoy', 'jett']",821,0.95,198.5,0.95,67%,131.6,0.7,0.18,0.1,0.09,21%,15%,571,601,150,79,75,2024,False,0.95,0.85,0.21,Americas,Americas,Americas
+elfie,Cardboard Dinosaur,53,"['reyna', 'jett', 'raze', 'omen', 'fade']",447,1.23,249.7,1.18,73%,165.2,0.88,0.26,0.12,0.12,28%,20%,395,336,115,52,54,2024,False,1.23,1.0,0.09,GameChangers,GameChangers,GameChangers
+ellie,ALTERNATE aTTaX Ruby,80,"['raze', 'jett', 'viper']",647,1.01,212.3,1.05,67%,140.7,0.77,0.14,0.15,0.19,31%,15%,500,476,93,98,122,2024,False,1.01,0.87,0.13,GameChangers,GameChangers,GameChangers
+elysian,FOKUS Sakura,84,"['sova', 'skye', 'breach', 'reyna', 'killjoy']",910,0.97,183.8,0.91,71%,123.2,0.65,0.31,0.04,0.05,29%,13%,593,649,278,35,45,2024,False,0.97,0.88,0.37,GameChangers,GameChangers,GameChangers
+emi,swaglord9000,102,"['kayo', 'jett', 'phoenix', 'breach', 'yoru']",256,1.19,230.3,1.16,73%,152.4,0.8,0.3,0.14,0.09,22%,27%,205,176,77,37,22,2024,False,1.19,0.88,0.19,GameChangers,GameChangers,GameChangers
+enerii,Xipto Esports,218,"['raze', 'jett', 'reyna', 'neon']",437,1.32,275.2,1.54,81%,174.4,0.96,0.27,0.22,0.12,25%,5%,421,274,117,97,54,2024,False,1.32,1.07,0.03,Pacific,Pacific,Pacific
+envious,Cardboard Dinosaur,196,"['jett', 'omen', 'neon']",447,0.9,204.2,0.85,66%,134.8,0.68,0.3,0.11,0.17,25%,16%,305,357,136,47,74,2024,False,0.9,0.73,0.32,GameChangers,GameChangers,GameChangers
+erin,Deagle Ravagers,128,"['jett', 'sova', 'raze', 'neon', 'viper']",418,0.85,194.6,0.79,65%,129.8,0.63,0.28,0.12,0.15,25%,5%,265,335,118,51,64,2024,False,0.85,0.69,0.36,GameChangers,GameChangers,GameChangers
+eva,Team Falcons Vega,232,"['sova', 'skye', 'sage', 'gekko']",1407,1.17,209.1,1.27,76%,136.8,0.78,0.25,0.05,0.05,30%,14%,1091,856,346,72,67,2024,False,1.17,1.13,0.18,GameChangers,GameChangers,GameChangers
+evv,floppers,240,"['skye', 'kayo', 'sova', 'omen', 'jett']",561,1.04,216.4,1.02,75%,142.0,0.75,0.35,0.07,0.07,35%,11%,422,415,195,40,39,2024,False,1.04,0.88,0.27,Americas,Americas,Americas
+f1yk,Mir Gaming GC,37,"['viper', 'killjoy', 'skye', 'cypher', 'breach']",200,0.96,169.9,0.99,73%,118.5,0.63,0.21,0.05,0.04,35%,17%,125,126,41,10,7,2024,False,0.96,0.68,0.3,Pacific,Pacific,Pacific
+felce,invincible gc,129,"['sova', 'fade', 'chamber', 'gekko', 'viper']",493,0.97,201.6,1.01,75%,132.8,0.75,0.26,0.06,0.04,33%,20%,368,365,129,30,21,2024,False,0.97,0.8,0.21,GameChangers,GameChangers,GameChangers
+felipa,BBL Queens,219,"['breach', 'raze', 'sova', 'kayo', 'sage']",705,0.96,183.5,0.91,71%,122.5,0.63,0.37,0.06,0.07,33%,13%,443,486,260,44,46,2024,False,0.96,0.84,0.46,GameChangers,GameChangers,GameChangers
+ferret,swaglord9000,70,"['viper', 'fade', 'omen', 'astra', 'gekko']",317,1.05,217.7,1.03,74%,136.3,0.75,0.38,0.11,0.1,29%,6%,238,230,121,36,31,2024,False,1.05,0.81,0.3,GameChangers,GameChangers,GameChangers
+fire,KS Hunters,113,"['killjoy', 'chamber', 'jett', 'cypher', 'omen']",521,0.85,154.3,0.81,64%,99.6,0.55,0.21,0.05,0.06,23%,8%,284,349,111,26,32,2024,False,0.85,0.71,0.38,GameChangers,GameChangers,GameChangers
+florescent,Shopify Rebellion,458,"['jett', 'raze', 'neon', 'reyna']",900,1.47,310.4,1.68,77%,197.7,1.1,0.2,0.19,0.11,25%,16%,991,590,178,173,103,2024,False,1.47,1.34,-0.06,Americas,Americas,Americas
+florescent,Shopify Rebellion,458,"['jett', 'raze', 'neon', 'reyna']",900,1.47,310.4,1.68,77%,197.7,1.1,0.2,0.19,0.11,25%,16%,991,590,178,173,103,2024,False,1.47,1.34,-0.06,Americas,Americas,Americas
+florescent,Shopify Rebellion,458,"['jett', 'raze', 'neon', 'reyna']",900,1.47,310.4,1.68,77%,197.7,1.1,0.2,0.19,0.11,25%,16%,991,590,178,173,103,2024,False,1.47,1.34,-0.06,Americas,Americas,Americas
+florescent,Shopify Rebellion,458,"['jett', 'raze', 'neon', 'reyna']",900,1.47,310.4,1.68,77%,197.7,1.1,0.2,0.19,0.11,25%,16%,991,590,178,173,103,2024,False,1.47,1.34,-0.06,Americas,Americas,Americas
+florescent,Shopify Rebellion,458,"['jett', 'raze', 'neon', 'reyna']",900,1.47,310.4,1.68,77%,197.7,1.1,0.2,0.19,0.11,25%,16%,991,590,178,173,103,2024,False,1.47,1.34,-0.06,Americas,Americas,Americas
+florescent,Shopify Rebellion,458,"['jett', 'raze', 'neon', 'reyna']",900,1.47,310.4,1.68,77%,197.7,1.1,0.2,0.19,0.11,25%,16%,991,590,178,173,103,2024,False,1.47,1.34,-0.06,Americas,Americas,Americas
+florescent,Shopify Rebellion,458,"['jett', 'raze', 'neon', 'reyna']",900,1.47,310.4,1.68,77%,197.7,1.1,0.2,0.19,0.11,25%,16%,991,590,178,173,103,2024,False,1.47,1.34,-0.06,Americas,Americas,Americas
+florescent,Shopify Rebellion,458,"['jett', 'raze', 'neon', 'reyna']",900,1.47,310.4,1.68,77%,197.7,1.1,0.2,0.19,0.11,25%,16%,991,590,178,173,103,2024,False,1.47,1.34,-0.06,Americas,Americas,Americas
+flossie,FiRePOWER,162,"['killjoy', 'cypher', 'chamber', 'viper']",711,1.02,212.3,1.01,66%,143.7,0.74,0.2,0.07,0.06,21%,16%,527,520,142,49,43,2024,True,1.02,0.9,0.19,Americas,Americas,Americas
+fluxxy,HEROIC Valkyries,117,"['omen', 'cypher', 'viper', 'killjoy', 'astra']",1086,1.13,214.2,1.16,76%,143.6,0.77,0.24,0.08,0.07,30%,17%,840,725,266,91,73,2024,False,1.13,1.06,0.18,EMEAS,EMEAS,EMEAS
+frantastic,FiRePOWER,170,"['viper', 'omen', 'killjoy', 'sova', 'sage']",711,0.8,160.5,0.72,65%,108.9,0.54,0.36,0.08,0.08,20%,14%,386,534,257,55,56,2024,True,0.8,0.7,0.6,Americas,Americas,Americas
+gabit,Team Leveling,197,"['omen', 'viper', 'brimstone', 'astra', 'killjoy']",277,0.86,162.7,0.83,67%,112.0,0.58,0.19,0.07,0.08,24%,20%,162,195,54,20,23,2024,False,0.86,0.65,0.33,Americas,Americas,Americas
+gelatycat,Zen eSports GC,46,"['omen', 'sova', 'fade', 'breach', 'brimstone']",460,0.86,161.1,0.78,68%,109.6,0.57,0.27,0.07,0.06,37%,4%,263,337,122,31,28,2024,False,0.86,0.7,0.43,GameChangers,GameChangers,GameChangers
+ggonyak,Cyber Geek,21,"['jett', 'raze', 'sage', 'killjoy', 'cypher']",211,0.92,197.8,0.92,66%,131.4,0.7,0.21,0.13,0.15,30%,22%,148,161,44,28,31,2024,False,0.92,0.66,0.23,Pacific,Pacific,Pacific
+ginger,ALTERNATE aTTaX Ruby,178,"['cypher', 'killjoy', 'omen', 'jett', 'raze']",700,0.92,192.0,0.96,65%,126.5,0.7,0.2,0.07,0.12,22%,19%,489,507,139,47,83,2024,False,0.92,0.81,0.22,GameChangers,GameChangers,GameChangers
+glance,Karmine Corp GC,307,"['sova', 'omen', 'astra', 'breach', 'sage']",1103,1.08,200.9,1.07,74%,134.7,0.71,0.33,0.06,0.05,27%,19%,782,729,368,68,51,2024,False,1.08,1.01,0.31,EMEAS,EMEAS,EMEAS
+grahams,sisu,39,"['raze', 'reyna', 'harbor', 'skye', 'kayo']",642,1.16,233.9,1.18,75%,151.4,0.81,0.28,0.12,0.12,35%,16%,521,441,181,76,75,2024,False,1.16,1.0,0.17,Pacific,Pacific,Pacific
+guterwoman,K7 Esports,80,"['killjoy', 'cypher', 'chamber', 'brimstone', 'viper']",409,1.05,220.9,1.07,67%,148.9,0.8,0.14,0.09,0.1,33%,11%,327,307,59,38,40,2024,False,1.05,0.84,0.11,GameChangers,GameChangers,GameChangers
+h4ste,Mir Gaming GC,49,"['omen', 'astra', 'brimstone', 'gekko']",274,1.02,200.3,1.03,74%,128.0,0.71,0.37,0.12,0.1,29%,38%,194,189,102,33,27,2024,False,1.02,0.77,0.34,Pacific,Pacific,Pacific
+habibti,mesos millionaires,281,"['sova', 'skye', 'chamber', 'raze', 'kayo']",590,0.93,208.1,0.93,63%,138.6,0.74,0.19,0.1,0.13,31%,10%,434,468,113,58,77,2024,False,0.93,0.79,0.18,Americas,Americas,Americas
+hakuna,REIGNITE Lily,41,"['killjoy', 'cypher', 'viper', 'chamber']",359,1.04,192.6,1.0,67%,130.7,0.67,0.18,0.06,0.06,25%,21%,241,240,65,21,22,2024,False,1.04,0.82,0.23,Pacific,Pacific,Pacific
+hane,REIGNITE Lily,42,"['omen', 'kayo', 'viper', 'astra', 'brimstone']",276,0.88,185.3,0.83,72%,123.0,0.65,0.4,0.09,0.09,32%,12%,179,216,111,26,26,2024,False,0.88,0.66,0.47,Pacific,Pacific,Pacific
+harmonee,ALTERNATE aTTaX Ruby,111,"['sova', 'fade', 'skye', 'breach']",700,0.94,184.6,0.88,67%,125.9,0.63,0.25,0.07,0.09,26%,23%,441,499,172,52,66,2024,False,0.94,0.82,0.33,GameChangers,GameChangers,GameChangers
+isa1,Team Leveling,294,"['jett', 'raze', 'chamber', 'gekko', 'skye']",382,1.02,199.7,1.04,73%,133.2,0.71,0.27,0.11,0.12,22%,16%,273,262,102,43,45,2024,False,1.02,0.81,0.26,Americas,Americas,Americas
+isaa,Team Liquid Brazil,400,"['jett', 'viper', 'killjoy', 'sova', 'skye']",652,0.93,179.5,0.91,71%,120.1,0.63,0.3,0.07,0.08,29%,16%,411,452,194,48,51,2024,False,0.93,0.81,0.38,Americas,Americas,Americas
+ivory,4Fun,163,"['killjoy', 'omen', 'viper', 'kayo', 'astra']",446,0.84,197.4,0.86,70%,129.3,0.68,0.22,0.18,0.2,22%,16%,303,351,97,80,87,2024,False,0.84,0.68,0.25,Pacific,Pacific,Pacific
+ivy,Akave Esports GC,147,"['raze', 'skye', 'kayo', 'jett', 'gekko']",880,1.14,215.0,1.19,76%,144.5,0.77,0.35,0.1,0.1,32%,21%,681,572,305,91,90,2024,False,1.14,1.03,0.25,GameChangers,GameChangers,GameChangers
+izze,invincible gc,156,"['killjoy', 'sova', 'skye', 'cypher']",324,0.99,198.2,1.0,70%,135.7,0.67,0.22,0.09,0.05,20%,22%,218,219,70,29,16,2024,False,0.99,0.76,0.26,GameChangers,GameChangers,GameChangers
+jademwah,Odd 1 OUT,250,"['sova', 'jett', 'skye', 'breach', 'viper']",1113,1.0,213.7,1.0,69%,137.5,0.74,0.33,0.12,0.14,21%,18%,819,818,365,139,154,2024,True,1.0,0.94,0.27,EMEAS,EMEAS,EMEAS
+jade,ALTERNATE aTTaX Ruby,83,"['breach', 'kayo', 'jett', 'raze', 'omen']",700,1.23,233.5,1.18,77%,149.6,0.82,0.5,0.09,0.04,33%,17%,575,489,350,62,28,2024,False,1.23,1.08,0.29,GameChangers,GameChangers,GameChangers
+jduh,BBL Queens,254,"['astra', 'omen', 'sova', 'viper', 'brimstone']",913,1.12,204.8,1.13,73%,131.8,0.74,0.34,0.06,0.08,36%,22%,676,597,312,51,72,2024,False,1.12,1.02,0.28,GameChangers,GameChangers,GameChangers
+jelerak,LILAX,34,"['kayo', 'jett', 'sage', 'deadlock', 'fade']",230,0.87,175.7,0.81,70%,108.2,0.59,0.38,0.1,0.13,17%,20%,136,168,87,24,29,2024,False,0.87,0.63,0.55,GameChangers,GameChangers,GameChangers
+jelly,MIBR GC,276,"['kayo', 'raze', 'skye', 'breach', 'jett']",728,1.25,242.9,1.32,78%,153.8,0.88,0.38,0.11,0.06,38%,15%,641,485,278,78,42,2024,False,1.25,1.1,0.13,Americas,Americas,Americas
+jenniffer,revoada,103,"['jett', 'raze', 'chamber']",589,0.82,181.0,0.79,64%,125.0,0.63,0.19,0.14,0.16,26%,4%,373,472,110,83,95,2024,False,0.82,0.7,0.28,Americas,Americas,Americas
+jiex,VALIANT GC,181,"['breach', 'skye', 'kayo', 'sage', 'jett']",815,1.03,203.1,1.0,73%,134.6,0.72,0.37,0.1,0.09,34%,9%,586,587,304,78,74,2024,True,1.03,0.92,0.33,GameChangers,GameChangers,GameChangers
+joliinaa,GIANTX GC,172,"['omen', 'viper', 'jett', 'raze', 'brimstone']",1288,1.15,223.9,1.19,76%,141.5,0.79,0.44,0.09,0.06,27%,20%,1013,852,562,111,71,2024,False,1.15,1.1,0.29,GameChangers,GameChangers,GameChangers
+joojina,Team Liquid Brazil,319,"['omen', 'astra', 'brimstone', 'jett', 'sage']",652,1.08,202.5,1.04,77%,132.3,0.7,0.44,0.08,0.07,24%,14%,457,441,290,54,45,2024,False,1.08,0.94,0.43,Americas,Americas,Americas
+jubs,MIBR GC,116,"['killjoy', 'viper', 'cypher', 'chamber', 'sage']",728,0.91,167.9,0.95,70%,115.2,0.6,0.2,0.06,0.06,22%,14%,434,459,143,47,44,2024,False,0.91,0.8,0.32,Americas,Americas,Americas
+junki,Bon Bon Bum,56,"['omen', 'viper', 'sova', 'astra']",310,0.8,150.6,0.76,70%,98.2,0.57,0.35,0.03,0.04,27%,10%,176,233,109,9,12,2024,False,0.8,0.61,0.54,Americas,Americas,Americas
+juw,Akave Esports GC,136,"['raze', 'jett', 'sage', 'chamber', 'fade']",923,1.13,242.9,1.23,76%,153.6,0.85,0.22,0.2,0.16,25%,26%,785,639,202,185,148,2024,False,1.13,1.03,0.11,GameChangers,GameChangers,GameChangers
+kaah,Team Leveling,81,"['omen', 'killjoy', 'cypher', 'brimstone', 'viper']",343,1.04,201.6,1.0,73%,130.4,0.72,0.29,0.07,0.1,30%,27%,248,247,98,24,35,2024,False,1.04,0.81,0.27,Americas,Americas,Americas
+kaha,Incognito GC,131,"['sova', 'viper', 'skye', 'astra', 'kayo']",222,0.94,173.5,0.79,71%,118.6,0.59,0.37,0.09,0.09,24%,12%,131,166,83,19,20,2024,False,0.94,0.68,0.53,GameChangers,GameChangers,GameChangers
+kalita,revoada,184,"['sova', 'skye', 'viper', 'astra', 'breach']",449,0.88,173.3,0.79,69%,118.1,0.59,0.3,0.08,0.09,23%,9%,265,336,136,37,39,2024,False,0.88,0.72,0.44,Americas,Americas,Americas
+kamiyu,Xipto Esports,168,"['jett', 'skye', 'breach', 'sova', 'kayo']",437,1.32,237.7,1.55,84%,155.6,0.87,0.46,0.07,0.05,34%,34%,382,246,200,29,20,2024,False,1.32,1.07,0.18,Pacific,Pacific,Pacific
+karina,FOKUS Sakura,200,"['killjoy', 'cypher', 'sova', 'sage', 'viper']",982,1.02,206.0,1.04,68%,138.4,0.75,0.16,0.09,0.06,35%,10%,739,710,158,93,61,2024,False,1.02,0.94,0.16,GameChangers,GameChangers,GameChangers
+kari,Deagle Ravagers,46,"['sova', 'fade', 'gekko']",295,1.04,179.1,1.03,72%,120.0,0.66,0.26,0.06,0.06,29%,5%,195,190,78,18,19,2024,False,1.04,0.79,0.31,GameChangers,GameChangers,GameChangers
+kathrina,Avernus Esports GC,27,"['skye', 'sova', 'gekko', 'killjoy']",304,0.84,178.7,0.75,67%,114.1,0.59,0.33,0.04,0.11,15%,15%,180,239,99,11,33,2024,False,0.84,0.64,0.48,Pacific,Pacific,Pacific
+kaz,New Combat Line GC,44,"['sova', 'gekko', 'cypher', 'omen', 'kayo']",204,0.86,164.3,0.79,68%,107.9,0.56,0.28,0.04,0.09,21%,5%,115,145,57,8,18,2024,False,0.86,0.61,0.46,GameChangers,GameChangers,GameChangers
+kikowo,Cardboard Dinosaur,38,"['jett', 'breach', 'raze', 'gekko', 'kayo']",361,0.82,178.1,0.78,63%,121.1,0.61,0.32,0.08,0.14,23%,10%,220,282,114,28,49,2024,False,0.82,0.65,0.43,GameChangers,GameChangers,GameChangers
+kitkatwc,invincible gc,135,"['killjoy', 'skye', 'kayo', 'breach', 'cypher']",493,1.03,214.5,1.05,73%,137.2,0.73,0.35,0.1,0.07,24%,12%,362,345,172,48,35,2024,False,1.03,0.85,0.3,GameChangers,GameChangers,GameChangers
+kohaibi,BOBA,209,"['raze', 'killjoy', 'reyna', 'chamber', 'skye']",693,1.15,224.6,1.17,77%,147.4,0.78,0.29,0.1,0.06,25%,9%,538,460,203,71,42,2024,False,1.15,1.01,0.2,GameChangers,GameChangers,GameChangers
+kon,sisu,112,"['sova', 'skye', 'fade', 'breach', 'jett']",471,1.14,227.4,1.15,73%,156.8,0.79,0.3,0.12,0.08,34%,7%,373,323,139,56,39,2024,False,1.14,0.94,0.2,Pacific,Pacific,Pacific
+krysme,revoada,299,"['killjoy', 'chamber', 'jett', 'cypher', 'viper']",587,0.97,195.1,0.97,64%,134.8,0.72,0.12,0.08,0.08,30%,9%,420,432,73,48,45,2024,False,0.97,0.83,0.15,Americas,Americas,Americas
+kuripuuya,Karmine Corp GC,231,"['viper', 'astra', 'omen', 'jett', 'brimstone']",1103,0.95,180.7,0.88,71%,117.9,0.61,0.35,0.09,0.08,27%,18%,672,760,390,94,86,2024,True,0.95,0.89,0.47,EMEAS,EMEAS,EMEAS
+kxoma,FOKUS Sakura,100,"['breach', 'skye', 'astra', 'viper', 'fade']",443,0.92,159.8,0.78,73%,111.8,0.55,0.47,0.06,0.06,28%,9%,245,314,208,26,26,2024,False,0.92,0.75,0.79,GameChangers,GameChangers,GameChangers
+kyracujoh,Zerance Mint,54,"['jett', 'raze']",247,1.0,230.5,1.02,73%,149.1,0.79,0.15,0.17,0.11,23%,5%,195,192,36,43,26,2024,False,1.0,0.74,0.12,GameChangers,GameChangers,GameChangers
+kyujinn,Bon Bon Bum,57,"['killjoy', 'cypher', 'gekko', 'jett', 'raze']",339,0.94,173.3,0.93,68%,122.9,0.66,0.21,0.06,0.09,31%,23%,223,239,72,20,30,2024,False,0.94,0.73,0.27,Americas,Americas,Americas
+lapapaluna,K7 Esports,40,"['sova', 'killjoy', 'sage', 'viper']",301,0.67,147.9,0.6,64%,96.3,0.48,0.22,0.04,0.07,20%,3%,143,238,66,13,22,2024,False,0.67,0.51,0.48,GameChangers,GameChangers,GameChangers
+lauguz,MYVRA,44,"['raze', 'jett']",519,1.1,234.0,1.14,72%,156.5,0.84,0.15,0.16,0.13,31%,13%,438,385,80,85,69,2024,False,1.1,0.92,0.09,GameChangers,GameChangers,GameChangers
+leeni,FOKUS Sakura,96,"['raze', 'jett']",570,0.91,211.3,0.88,66%,139.3,0.71,0.19,0.21,0.21,20%,14%,403,457,106,118,119,2024,False,0.91,0.77,0.21,GameChangers,GameChangers,GameChangers
+lendary,FiRePOWER,45,"['omen', 'neon', 'sova', 'viper', 'jett']",364,0.76,165.4,0.75,64%,111.3,0.6,0.21,0.11,0.13,35%,9%,217,289,76,39,48,2024,False,0.76,0.6,0.33,Americas,Americas,Americas
+lenka,Zerance Mint,63,"['killjoy', 'cypher', 'brimstone']",595,0.96,190.7,0.97,69%,130.5,0.69,0.18,0.1,0.07,31%,14%,408,422,107,58,39,2024,False,0.96,0.82,0.22,GameChangers,GameChangers,GameChangers
+len,Cyber Geek,77,"['viper', 'omen', 'astra', 'brimstone', 'skye']",211,0.93,179.2,0.85,60%,120.6,0.61,0.36,0.1,0.09,22%,13%,128,150,76,21,18,2024,False,0.93,0.67,0.48,Pacific,Pacific,Pacific
+lied,FUSION X,124,"['raze', 'fade', 'sova', 'skye', 'iso']",1055,1.22,268.3,1.28,73%,175.7,0.94,0.23,0.21,0.14,25%,19%,993,774,246,221,151,2024,False,1.22,1.14,0.04,GameChangers,GameChangers,GameChangers
+lil-bob,MAD Lions KOI,166,"['omen', 'viper', 'sova', 'astra', 'fade']",678,1.13,216.6,1.14,72%,145.7,0.77,0.35,0.08,0.06,28%,20%,522,459,234,53,44,2024,False,1.13,0.98,0.25,GameChangers,GameChangers,GameChangers
+linlin,Akave Esports GC,163,"['viper', 'omen', 'astra', 'skye', 'brimstone']",923,1.12,204.7,1.17,80%,139.2,0.76,0.39,0.07,0.06,35%,19%,702,599,364,66,54,2024,False,1.12,1.02,0.29,GameChangers,GameChangers,GameChangers
+lissa,TBS GC,346,"['viper', 'killjoy', 'omen', 'chamber', 'cypher']",581,0.97,205.1,0.99,66%,139.9,0.74,0.22,0.08,0.13,37%,13%,431,436,127,47,74,2024,False,0.97,0.83,0.2,Americas,Americas,Americas
+liza,VALIANT GC,176,"['killjoy', 'jett', 'cypher', 'chamber', 'neon']",1227,1.1,232.3,1.16,69%,151.7,0.84,0.14,0.16,0.14,36%,17%,1029,887,177,193,166,2024,False,1.1,1.05,0.09,GameChangers,GameChangers,GameChangers
+liz,New Combat Line GC,48,"['sova', 'jett', 'skye', 'chamber', 'cypher']",363,1.2,246.6,1.22,71%,168.6,0.85,0.24,0.14,0.09,35%,10%,307,251,87,52,34,2024,False,1.2,0.95,0.11,GameChangers,GameChangers,GameChangers
+logic,Kinetic,160,"['killjoy', 'omen', 'sova', 'chamber', 'raze']",256,0.85,186.0,0.84,66%,123.2,0.68,0.21,0.13,0.12,25%,17%,173,207,54,34,31,2024,False,0.85,0.63,0.25,Americas,Americas,Americas
+looxie,NASR Ignite,163,"['killjoy', 'cypher', 'sova', 'deadlock', 'chamber']",1030,0.9,181.4,0.86,69%,119.8,0.64,0.28,0.09,0.1,37%,19%,659,766,290,90,100,2024,True,0.9,0.83,0.35,EMEAS,EMEAS,EMEAS
+loupiote,Zerance Mint,106,"['sova', 'killjoy', 'skye', 'astra']",595,0.88,166.0,0.84,73%,110.1,0.57,0.31,0.06,0.07,23%,19%,341,408,185,36,40,2024,False,0.88,0.75,0.48,GameChangers,GameChangers,GameChangers
+luiza,Team Leveling,246,"['killjoy', 'cypher', 'viper', 'skye', 'kayo']",382,0.94,194.0,0.9,69%,129.5,0.66,0.24,0.09,0.1,30%,8%,254,281,92,35,39,2024,False,0.94,0.75,0.29,Americas,Americas,Americas
+luj,Team Falcons Vega,183,"['viper', 'omen', 'brimstone', 'cypher', 'astra']",714,0.94,186.6,0.96,71%,125.0,0.66,0.28,0.07,0.08,35%,10%,474,493,202,50,56,2024,False,0.94,0.83,0.33,GameChangers,GameChangers,GameChangers
+lunafox,KS Hunters,334,"['sova', 'skye', 'astra', 'breach', 'viper']",644,1.16,231.0,1.11,71%,156.7,0.8,0.36,0.11,0.11,34%,13%,514,464,233,74,71,2024,False,1.16,1.0,0.22,GameChangers,GameChangers,GameChangers
+luwucia,New Combat Line GC,47,"['viper', 'jett', 'cypher', 'omen', 'killjoy']",442,0.84,171.5,0.8,65%,115.3,0.61,0.24,0.06,0.1,34%,8%,270,337,105,27,46,2024,False,0.84,0.68,0.35,GameChangers,GameChangers,GameChangers
+lyda,HEROIC Valkyries,279,"['jett', 'skye', 'viper', 'fade', 'raze']",716,0.98,205.5,0.96,69%,137.1,0.73,0.24,0.12,0.12,29%,14%,520,539,174,83,86,2024,False,0.98,0.86,0.22,EMEAS,EMEAS,EMEAS
+lynn,Deagle Ravagers,120,"['jett', 'raze', 'neon', 'sage']",662,0.94,219.6,0.97,65%,149.3,0.76,0.19,0.19,0.17,23%,16%,501,514,124,124,111,2024,False,0.94,0.82,0.17,GameChangers,GameChangers,GameChangers
+m4ndzin,LOUD GC,235,"['omen', 'kayo', 'breach', 'sage', 'brimstone']",410,1.04,200.3,0.99,73%,132.2,0.68,0.46,0.08,0.05,21%,16%,278,280,187,34,20,2024,False,1.04,0.84,0.5,Americas,Americas,Americas
+madv,Team Falcons Vega,206,"['breach', 'kayo', 'omen', 'harbor', 'gekko']",1407,1.08,204.5,1.08,75%,132.5,0.72,0.39,0.08,0.07,37%,18%,1018,945,555,110,98,2024,True,1.08,1.05,0.35,GameChangers,GameChangers,GameChangers
+makchin,Avernus Esports GC,50,"['raze', 'jett', 'reyna', 'astra']",339,0.97,232.6,0.95,65%,148.5,0.77,0.17,0.17,0.21,23%,23%,261,276,59,57,70,2024,False,0.97,0.76,0.15,Pacific,Pacific,Pacific
+mandy,TBS GC,141,"['jett', 'kayo', 'breach', 'sova', 'raze']",743,1.05,228.2,1.04,68%,150.8,0.81,0.31,0.14,0.14,35%,18%,605,579,231,101,103,2024,False,1.05,0.93,0.18,Americas,Americas,Americas
+marceline,YFP X,310,"['raze', 'jett', 'reyna', 'yoru', 'neon']",631,0.87,209.4,0.89,66%,138.7,0.72,0.16,0.15,0.19,28%,14%,453,507,100,97,117,2024,False,0.87,0.75,0.18,Americas,Americas,Americas
+maripo,REIGNITE Lily,55,"['sova', 'fade', 'skye']",359,1.01,190.2,0.96,70%,130.0,0.68,0.32,0.06,0.09,19%,25%,244,254,114,21,33,2024,False,1.01,0.79,0.34,Pacific,Pacific,Pacific
+marpandyz,LILAX,45,"['sova', 'killjoy', 'chamber', 'sage', 'fade']",230,0.84,171.8,0.83,65%,110.3,0.6,0.27,0.08,0.07,17%,10%,139,168,62,19,17,2024,False,0.84,0.61,0.39,GameChangers,GameChangers,GameChangers
+marti,NASR Ignite,149,"['jett', 'skye', 'phoenix', 'raze', 'neon']",1030,0.98,217.6,0.97,68%,143.6,0.74,0.23,0.15,0.18,26%,10%,765,787,235,154,181,2024,False,0.98,0.91,0.2,EMEAS,EMEAS,EMEAS
+mary,Team Falcons Vega,139,"['raze', 'jett', 'sova', 'chamber', 'kayo']",693,1.06,243.5,1.12,67%,159.1,0.86,0.17,0.21,0.19,33%,15%,595,529,115,143,130,2024,False,1.06,0.93,0.09,GameChangers,GameChangers,GameChangers
+matrix,Karmine Corp GC,142,"['jett', 'raze', 'neon']",1103,0.91,215.6,0.95,68%,142.0,0.75,0.15,0.18,0.19,35%,18%,828,876,161,198,208,2024,False,0.91,0.85,0.15,EMEAS,EMEAS,EMEAS
+mayzin,K7 Esports,71,"['raze', 'omen', 'viper', 'sage', 'jett']",439,0.98,200.9,0.91,74%,135.9,0.69,0.37,0.08,0.09,22%,12%,303,333,164,35,41,2024,False,0.98,0.8,0.37,GameChangers,GameChangers,GameChangers
+may,New Combat Line GC,73,"['killjoy', 'viper', 'cypher', 'reyna', 'sova']",681,0.89,178.6,0.86,67%,122.3,0.62,0.21,0.06,0.1,24%,18%,419,488,143,42,68,2024,False,0.89,0.78,0.31,GameChangers,GameChangers,GameChangers
+mcfly,Zen eSports GC,80,"['sova', 'fade', 'omen', 'killjoy', 'viper']",414,0.75,151.8,0.7,63%,107.4,0.53,0.28,0.04,0.1,27%,13%,221,317,116,16,43,2024,False,0.75,0.6,0.5,GameChangers,GameChangers,GameChangers
+meleliita,LEVIATÁN GC,58,"['jett', 'killjoy', 'raze', 'yoru', 'breach']",571,0.83,194.2,0.84,67%,128.0,0.66,0.23,0.15,0.18,30%,8%,379,453,129,88,105,2024,False,0.83,0.7,0.28,GameChangers,GameChangers,GameChangers
+melsm,FUSION X,62,"['breach', 'skye', 'sova', 'kayo']",491,0.89,176.6,0.84,70%,114.7,0.63,0.31,0.06,0.11,21%,12%,308,366,154,30,55,2024,False,0.89,0.74,0.39,GameChangers,GameChangers,GameChangers
+mel,MIBR GC,281,"['sova', 'sage', 'fade', 'viper', 'skye']",728,0.99,177.5,1.04,73%,118.1,0.64,0.3,0.06,0.08,27%,13%,465,447,219,45,61,2024,True,0.99,0.87,0.37,Americas,Americas,Americas
+mel,VALIANT GC,164,"['omen', 'killjoy', 'viper', 'brimstone', 'cypher']",1227,0.88,171.0,0.83,71%,110.3,0.6,0.4,0.06,0.1,30%,11%,739,887,494,73,118,2024,True,0.88,0.84,0.56,GameChangers,GameChangers,GameChangers
+mel,Shopify Rebellion,565,"['omen', 'viper', 'chamber', 'killjoy', 'cypher']",1000,1.07,206.4,1.05,78%,131.3,0.7,0.47,0.11,0.09,27%,18%,697,666,467,107,92,2024,True,1.07,0.99,0.47,Americas,Americas,Americas
+mel,Shopify Rebellion,565,"['omen', 'viper', 'chamber', 'killjoy', 'cypher']",1000,1.07,206.4,1.05,78%,131.3,0.7,0.47,0.11,0.09,27%,18%,697,666,467,107,92,2024,True,1.07,0.99,0.47,Americas,Americas,Americas
+mel,Shopify Rebellion,565,"['omen', 'viper', 'chamber', 'killjoy', 'cypher']",1000,1.07,206.4,1.05,78%,131.3,0.7,0.47,0.11,0.09,27%,18%,697,666,467,107,92,2024,True,1.07,0.99,0.47,Americas,Americas,Americas
+mel,Shopify Rebellion,565,"['omen', 'viper', 'chamber', 'killjoy', 'cypher']",1000,1.07,206.4,1.05,78%,131.3,0.7,0.47,0.11,0.09,27%,18%,697,666,467,107,92,2024,True,1.07,0.99,0.47,Americas,Americas,Americas
+mel,Shopify Rebellion,565,"['omen', 'viper', 'chamber', 'killjoy', 'cypher']",1000,1.07,206.4,1.05,78%,131.3,0.7,0.47,0.11,0.09,27%,18%,697,666,467,107,92,2024,True,1.07,0.99,0.47,Americas,Americas,Americas
+mel,Shopify Rebellion,565,"['omen', 'viper', 'chamber', 'killjoy', 'cypher']",1000,1.07,206.4,1.05,78%,131.3,0.7,0.47,0.11,0.09,27%,18%,697,666,467,107,92,2024,True,1.07,0.99,0.47,Americas,Americas,Americas
+mel,Shopify Rebellion,565,"['omen', 'viper', 'chamber', 'killjoy', 'cypher']",1000,1.07,206.4,1.05,78%,131.3,0.7,0.47,0.11,0.09,27%,18%,697,666,467,107,92,2024,True,1.07,0.99,0.47,Americas,Americas,Americas
+mel,Shopify Rebellion,565,"['omen', 'viper', 'chamber', 'killjoy', 'cypher']",1000,1.07,206.4,1.05,78%,131.3,0.7,0.47,0.11,0.09,27%,18%,697,666,467,107,92,2024,True,1.07,0.99,0.47,Americas,Americas,Americas
+memi,KS Hunters,25,"['omen', 'viper', 'killjoy', 'brimstone']",274,0.74,144.2,0.72,66%,97.0,0.53,0.31,0.04,0.07,28%,8%,145,201,86,12,19,2024,False,0.74,0.56,0.54,GameChangers,GameChangers,GameChangers
+micaela,KRÜ BLAZE,133,"['raze', 'jett', 'chamber', 'fade', 'kayo']",694,1.11,194.9,1.2,78%,130.1,0.71,0.37,0.1,0.1,33%,20%,492,410,256,66,69,2024,False,1.11,0.97,0.34,GameChangers,GameChangers,GameChangers
+micro,LILITH,39,"['jett', 'reyna', 'omen', 'brimstone', 'gekko']",292,1.13,245.7,1.13,76%,165.0,0.87,0.2,0.14,0.13,36%,10%,253,223,57,41,39,2024,False,1.13,0.86,0.09,GameChangers,GameChangers,GameChangers
+miku,New Combat Line GC,177,"['jett', 'raze', 'neon', 'kayo', 'yoru']",607,1.34,306.6,1.41,75%,188.4,1.04,0.25,0.3,0.18,20%,16%,633,449,152,181,111,2024,False,1.34,1.15,-0.03,GameChangers,GameChangers,GameChangers
+mimi,G2 Gozen,263,"['cypher', 'killjoy', 'breach', 'kayo', 'chamber']",979,1.14,192.3,1.25,78%,126.4,0.7,0.36,0.07,0.05,30%,13%,683,548,357,67,51,2024,True,1.14,1.05,0.35,EMEAS,EMEAS,EMEAS
+mimo,LILAX,25,"['killjoy', 'cypher']",230,0.86,170.1,0.83,66%,117.7,0.59,0.14,0.04,0.05,22%,9%,136,164,33,9,12,2024,False,0.86,0.63,0.27,GameChangers,GameChangers,GameChangers
+mindle,Team Leveling,301,"['raze', 'sova', 'skye', 'jett', 'kayo']",382,0.93,181.8,0.89,72%,119.3,0.66,0.34,0.08,0.07,29%,12%,252,284,128,30,28,2024,False,0.93,0.74,0.39,Americas,Americas,Americas
+mint,FENNEL GC,82,"['raze', 'jett', 'killjoy']",686,1.18,266.2,1.28,71%,169.4,0.95,0.15,0.24,0.17,33%,20%,653,512,106,162,119,2024,False,1.18,1.03,0.03,Pacific,Pacific,Pacific
+misty,PS5PATAS,153,"['kayo', 'breach', 'jett', 'skye', 'viper']",200,0.68,161.5,0.59,56%,103.5,0.53,0.28,0.06,0.11,27%,4%,106,180,55,11,22,2024,False,0.68,0.48,0.5,Americas,Americas,Americas
+miwa,Zen eSports GC,75,"['killjoy', 'kayo', 'breach', 'viper', 'gekko']",375,0.75,161.3,0.67,65%,111.8,0.54,0.37,0.04,0.11,26%,10%,201,299,137,15,43,2024,False,0.75,0.59,0.62,GameChangers,GameChangers,GameChangers
+miyori,GIANTX GC,197,"['jett', 'raze', 'killjoy', 'chamber', 'viper']",1288,1.06,213.0,1.13,71%,140.9,0.75,0.19,0.12,0.11,27%,27%,971,861,248,155,147,2024,False,1.06,1.01,0.17,GameChangers,GameChangers,GameChangers
+mmonch,Akave Esports GC,145,"['cypher', 'viper', 'sova', 'killjoy', 'chamber']",923,1.28,230.0,1.45,79%,149.9,0.85,0.27,0.1,0.04,32%,23%,780,538,245,88,40,2024,False,1.28,1.17,0.12,GameChangers,GameChangers,GameChangers
+moco,ZETA DIVISION GC,75,"['omen', 'viper', 'astra', 'killjoy']",461,1.18,209.5,1.25,78%,135.0,0.77,0.39,0.06,0.07,25%,14%,353,282,181,26,32,2024,False,1.18,0.97,0.28,Pacific,Pacific,Pacific
+morgan,Bon Bon Bum,74,"['sova', 'gekko', 'skye', 'breach', 'killjoy']",629,0.95,192.5,0.93,69%,128.2,0.69,0.34,0.07,0.1,24%,16%,433,467,212,41,66,2024,False,0.95,0.82,0.34,Americas,Americas,Americas
+myoh4nn,URACHACHA,57,"['jett', 'raze', 'killjoy']",201,1.0,226.7,1.01,68%,147.6,0.79,0.18,0.11,0.17,28%,8%,158,157,37,23,34,2024,False,1.0,0.71,0.14,Pacific,Pacific,Pacific
+nami,NASR Ignite,152,"['omen', 'viper', 'astra', 'harbor']",1030,0.99,193.6,0.96,72%,124.0,0.69,0.31,0.08,0.09,35%,12%,713,746,318,82,92,2024,False,0.99,0.92,0.32,EMEAS,EMEAS,EMEAS
+natasha,LOUD GC,118,"['killjoy', 'cypher', 'breach']",619,1.0,193.3,1.04,70%,130.6,0.71,0.2,0.1,0.07,34%,10%,437,422,125,63,42,2024,False,1.0,0.86,0.21,Americas,Americas,Americas
+natas,FUSION X,66,"['sova', 'gekko', 'viper', 'breach', 'sage']",672,0.78,145.5,0.74,65%,98.1,0.53,0.27,0.06,0.12,27%,15%,353,474,182,43,81,2024,False,0.78,0.68,0.48,GameChangers,GameChangers,GameChangers
+nati,LEVIATÁN GC,34,"['viper', 'omen', 'sova', 'gekko', 'killjoy']",571,0.94,185.2,0.92,67%,122.2,0.66,0.2,0.06,0.07,40%,12%,377,410,117,34,41,2024,False,0.94,0.8,0.26,GameChangers,GameChangers,GameChangers
+naxa,Zen eSports GC,79,"['raze', 'jett', 'sova', 'reyna', 'neon']",607,1.09,253.6,1.12,67%,167.8,0.9,0.17,0.18,0.16,27%,8%,544,487,105,109,97,2024,False,1.09,0.93,0.06,GameChangers,GameChangers,GameChangers
+nelo,Karmine Corp GC,308,"['killjoy', 'cypher', 'viper', 'chamber', 'breach']",1103,1.01,215.0,1.02,73%,139.4,0.75,0.29,0.11,0.08,33%,15%,830,815,315,121,92,2024,False,1.01,0.95,0.23,EMEAS,EMEAS,EMEAS
+ness,GIANTX GC,263,"['jett', 'killjoy', 'sova', 'viper', 'cypher']",1249,1.14,205.1,1.15,78%,138.1,0.72,0.33,0.07,0.05,26%,14%,896,782,418,91,64,2024,False,1.14,1.09,0.3,GameChangers,GameChangers,GameChangers
+newky,LILAX,178,"['reyna', 'skye', 'kayo', 'breach', 'phoenix']",274,0.94,208.2,0.97,68%,136.6,0.74,0.21,0.12,0.16,33%,21%,203,209,58,32,45,2024,False,0.94,0.71,0.19,GameChangers,GameChangers,GameChangers
+nezha,K7 Esports,58,"['breach', 'skye', 'viper', 'killjoy', 'kayo']",427,1.29,264.1,1.39,78%,165.9,0.96,0.38,0.12,0.1,36%,15%,412,297,161,51,44,2024,False,1.29,1.04,0.04,GameChangers,GameChangers,GameChangers
+nicky,9z Team GC,66,"['omen', 'viper', 'brimstone', 'sage']",1050,1.06,202.2,1.02,73%,131.2,0.71,0.36,0.08,0.06,31%,17%,748,731,382,87,67,2024,False,1.06,0.99,0.34,GameChangers,GameChangers,GameChangers
+nidxvilco,MAD Lions KOI,107,"['viper', 'brimstone', 'omen', 'astra', 'fade']",740,1.0,187.9,1.02,71%,122.9,0.68,0.32,0.06,0.09,29%,19%,501,492,238,48,67,2024,False,1.0,0.88,0.34,GameChangers,GameChangers,GameChangers
+nila,Scissor Sisters,78,"['cypher', 'killjoy', 'chamber']",229,0.87,183.0,0.84,64%,123.9,0.64,0.16,0.06,0.08,22%,5%,147,175,36,13,18,2024,False,0.87,0.63,0.24,GameChangers,GameChangers,GameChangers
+ninou,VALIANT GC,300,"['sage', 'sova', 'breach', 'brimstone', 'killjoy']",1227,0.91,167.0,0.82,73%,111.1,0.55,0.44,0.04,0.06,19%,16%,680,834,542,48,77,2024,False,0.91,0.87,0.73,GameChangers,GameChangers,GameChangers
+noia,Shopify Rebellion,461,"['killjoy', 'cypher', 'chamber', 'skye', 'jett']",1000,1.04,195.0,1.1,74%,133.0,0.69,0.23,0.08,0.08,26%,16%,687,622,229,79,77,2024,False,1.04,0.96,0.25,Americas,Americas,Americas
+noia,Shopify Rebellion,461,"['killjoy', 'cypher', 'chamber', 'skye', 'jett']",1000,1.04,195.0,1.1,74%,133.0,0.69,0.23,0.08,0.08,26%,16%,687,622,229,79,77,2024,False,1.04,0.96,0.25,Americas,Americas,Americas
+noia,Shopify Rebellion,461,"['killjoy', 'cypher', 'chamber', 'skye', 'jett']",1000,1.04,195.0,1.1,74%,133.0,0.69,0.23,0.08,0.08,26%,16%,687,622,229,79,77,2024,False,1.04,0.96,0.25,Americas,Americas,Americas
+noia,Shopify Rebellion,461,"['killjoy', 'cypher', 'chamber', 'skye', 'jett']",1000,1.04,195.0,1.1,74%,133.0,0.69,0.23,0.08,0.08,26%,16%,687,622,229,79,77,2024,False,1.04,0.96,0.25,Americas,Americas,Americas
+noia,Shopify Rebellion,461,"['killjoy', 'cypher', 'chamber', 'skye', 'jett']",1000,1.04,195.0,1.1,74%,133.0,0.69,0.23,0.08,0.08,26%,16%,687,622,229,79,77,2024,False,1.04,0.96,0.25,Americas,Americas,Americas
+noia,Shopify Rebellion,461,"['killjoy', 'cypher', 'chamber', 'skye', 'jett']",1000,1.04,195.0,1.1,74%,133.0,0.69,0.23,0.08,0.08,26%,16%,687,622,229,79,77,2024,False,1.04,0.96,0.25,Americas,Americas,Americas
+noia,Shopify Rebellion,461,"['killjoy', 'cypher', 'chamber', 'skye', 'jett']",1000,1.04,195.0,1.1,74%,133.0,0.69,0.23,0.08,0.08,26%,16%,687,622,229,79,77,2024,False,1.04,0.96,0.25,Americas,Americas,Americas
+noia,Shopify Rebellion,461,"['killjoy', 'cypher', 'chamber', 'skye', 'jett']",1000,1.04,195.0,1.1,74%,133.0,0.69,0.23,0.08,0.08,26%,16%,687,622,229,79,77,2024,False,1.04,0.96,0.25,Americas,Americas,Americas
+none,9z Team GC,123,"['jett', 'neon', 'raze']",1050,1.13,259.1,1.16,69%,171.7,0.89,0.19,0.22,0.18,23%,18%,935,805,200,233,193,2024,False,1.13,1.05,0.07,GameChangers,GameChangers,GameChangers
+nora,YFP X,237,"['skye', 'breach', 'viper', 'kayo', 'omen']",465,1.1,226.6,1.15,75%,147.1,0.79,0.33,0.12,0.1,29%,13%,367,320,155,58,46,2024,False,1.1,0.9,0.21,Americas,Americas,Americas
+onni,Cyber Geek,39,"['jett', 'killjoy', 'raze', 'brimstone', 'neon']",211,1.09,230.9,1.08,67%,142.1,0.81,0.27,0.12,0.16,26%,9%,170,158,56,25,33,2024,False,1.09,0.78,0.16,Pacific,Pacific,Pacific
+oranges,Teddy Tactics,125,"['viper', 'killjoy', 'omen', 'cypher', 'astra']",232,0.61,145.8,0.6,60%,104.0,0.51,0.17,0.06,0.17,26%,4%,119,198,40,14,39,2024,False,0.61,0.44,0.38,Americas,Americas,Americas
+panchill,Zen eSports GC,89,"['killjoy', 'cypher', 'viper', 'omen']",498,0.91,176.3,0.87,66%,120.5,0.63,0.18,0.06,0.07,29%,15%,313,358,92,32,34,2024,False,0.91,0.76,0.27,GameChangers,GameChangers,GameChangers
+patitop,Deagle Ravagers,89,"['killjoy', 'cypher', 'viper']",443,1.21,242.4,1.27,72%,165.9,0.88,0.16,0.12,0.11,33%,17%,388,306,73,52,50,2024,False,1.21,0.99,0.07,GameChangers,GameChangers,GameChangers
+petra,G2 Gozen,271,"['sova', 'skye', 'fade', 'breach']",979,1.04,200.0,1.08,75%,133.9,0.69,0.32,0.08,0.1,28%,18%,671,619,311,80,97,2024,False,1.04,0.96,0.33,EMEAS,EMEAS,EMEAS
+piety,sisu,133,"['killjoy', 'omen', 'sova', 'viper', 'cypher']",610,1.11,212.4,1.13,73%,141.8,0.74,0.27,0.08,0.04,31%,13%,452,401,163,46,25,2024,False,1.11,0.95,0.23,Pacific,Pacific,Pacific
+pigruto,Cardboard Dinosaur,73,"['sova', 'killjoy', 'cypher', 'breach', 'fade']",243,0.53,113.7,0.48,53%,81.9,0.37,0.14,0.04,0.13,21%,8%,91,188,35,9,31,2024,False,0.53,0.39,0.51,GameChangers,GameChangers,GameChangers
+pingsong,FENNEL GC,31,"['fade', 'sova', 'skye', 'omen', 'killjoy']",520,0.88,178.6,0.81,70%,116.4,0.6,0.34,0.08,0.07,28%,13%,311,382,179,44,36,2024,False,0.88,0.74,0.47,Pacific,Pacific,Pacific
+pinkalie,Zerance Mint,221,"['omen', 'viper', 'breach', 'astra', 'brimstone']",410,1.05,183.8,0.99,79%,118.3,0.66,0.51,0.07,0.06,29%,15%,272,275,208,28,25,2024,False,1.05,0.84,0.62,GameChangers,GameChangers,GameChangers
+pink,Scissor Sisters,49,"['raze', 'jett', 'omen', 'kayo']",229,0.82,190.8,0.76,64%,127.7,0.62,0.17,0.11,0.1,26%,10%,142,186,39,25,23,2024,False,0.82,0.6,0.27,GameChangers,GameChangers,GameChangers
+poly,sisu,226,"['viper', 'astra', 'omen', 'brimstone']",640,0.99,188.6,0.98,74%,126.2,0.66,0.35,0.07,0.1,31%,19%,424,432,227,44,62,2024,False,0.99,0.86,0.4,Pacific,Pacific,Pacific
+ponix,9z Team GC,116,"['killjoy', 'breach', 'sova', 'gekko', 'raze']",1050,1.02,184.9,0.98,74%,123.6,0.66,0.32,0.05,0.06,28%,15%,698,710,340,51,59,2024,False,1.02,0.95,0.36,GameChangers,GameChangers,GameChangers
+proxima,BBL Queens,235,"['viper', 'omen', 'skye', 'chamber', 'astra']",747,0.97,183.8,0.98,71%,121.5,0.66,0.3,0.06,0.07,39%,19%,491,502,222,45,51,2024,False,0.97,0.86,0.35,GameChangers,GameChangers,GameChangers
+pyro,Infinity X,115,"['viper', 'breach', 'gekko', 'killjoy', 'sova']",291,0.84,171.1,0.75,69%,113.2,0.58,0.35,0.09,0.14,22%,17%,169,224,103,26,40,2024,False,0.84,0.64,0.52,Americas,Americas,Americas
+qiqi,Cardboard Dinosaur,37,"['killjoy', 'astra', 'skye', 'viper', 'omen']",204,0.88,183.9,0.91,70%,126.3,0.65,0.23,0.04,0.11,23%,30%,132,145,47,8,22,2024,False,0.88,0.63,0.29,GameChangers,GameChangers,GameChangers
+r4m,REIGNITE Lily,69,"['omen', 'viper', 'astra', 'neon']",359,1.01,197.6,0.94,75%,128.6,0.69,0.39,0.07,0.09,23%,17%,248,263,140,24,31,2024,False,1.01,0.79,0.39,Pacific,Pacific,Pacific
+raquinuki,FUSION X,100,"['cypher', 'killjoy', 'omen', 'deadlock', 'raze']",1135,0.96,191.6,0.96,67%,130.7,0.68,0.21,0.09,0.09,32%,13%,777,807,234,99,98,2024,False,0.96,0.9,0.25,GameChangers,GameChangers,GameChangers
+raven,Teddy Tactics,150,"['viper', 'omen', 'brimstone', 'astra']",411,1.02,188.8,0.97,71%,126.4,0.68,0.34,0.04,0.04,35%,16%,278,286,140,18,17,2024,False,1.02,0.82,0.36,Americas,Americas,Americas
+reshi,FiRePOWER,132,"['omen', 'jett', 'brimstone', 'viper', 'raze']",711,0.93,191.2,0.87,67%,127.7,0.66,0.31,0.08,0.08,25%,12%,466,533,217,57,55,2024,False,0.93,0.82,0.35,Americas,Americas,Americas
+rezq,G2 Gozen,99,"['raze', 'jett', 'killjoy', 'yoru', 'sage']",979,1.13,257.3,1.28,74%,162.6,0.89,0.2,0.25,0.17,25%,23%,876,687,197,240,161,2024,False,1.13,1.04,0.07,EMEAS,EMEAS,EMEAS
+rice,RIMA GC,61,"['skye', 'breach', 'killjoy', 'phoenix', 'omen']",256,0.98,189.6,0.87,72%,124.4,0.63,0.38,0.12,0.09,27%,10%,160,184,96,31,23,2024,False,0.98,0.73,0.48,GameChangers,GameChangers,GameChangers
+romia,FENNEL GC,91,"['killjoy', 'cypher', 'sova']",686,1.03,200.4,1.07,69%,132.9,0.73,0.19,0.08,0.07,28%,17%,499,468,129,52,47,2024,False,1.03,0.9,0.19,Pacific,Pacific,Pacific
+romily,KRÜ BLAZE,177,"['jett', 'killjoy', 'viper', 'cypher', 'sage']",694,1.12,194.9,1.34,78%,131.3,0.73,0.23,0.06,0.06,31%,19%,509,381,157,44,42,2024,False,1.12,0.98,0.21,GameChangers,GameChangers,GameChangers
+rosa,swaglord9000,117,"['jett', 'raze', 'killjoy', 'skye', 'deadlock']",256,0.99,226.5,1.04,70%,143.9,0.79,0.25,0.16,0.13,18%,21%,202,195,64,41,32,2024,False,0.99,0.73,0.17,GameChangers,GameChangers,GameChangers
+rosey,invincible gc,146,"['killjoy', 'omen', 'viper', 'brimstone', 'fade']",324,0.97,180.7,0.95,75%,116.9,0.64,0.4,0.09,0.08,22%,16%,208,218,128,29,26,2024,False,0.97,0.75,0.49,GameChangers,GameChangers,GameChangers
+roxi,Karmine Corp GC,287,"['killjoy', 'cypher', 'skye', 'viper', 'sage']",531,0.98,193.6,0.94,67%,131.0,0.66,0.23,0.11,0.08,30%,17%,352,374,121,57,41,2024,False,0.98,0.82,0.28,EMEAS,EMEAS,EMEAS
+saab,New Combat Line GC,37,"['viper', 'jett', 'killjoy', 'chamber', 'breach']",307,0.82,182.6,0.84,62%,121.3,0.65,0.17,0.1,0.09,26%,9%,199,238,53,31,27,2024,False,0.82,0.63,0.24,GameChangers,GameChangers,GameChangers
+safiaa,NASR Ignite,105,"['cypher', 'killjoy', 'omen', 'chamber', 'raze']",1030,1.02,193.7,1.0,70%,133.8,0.7,0.24,0.08,0.07,31%,15%,723,725,251,82,75,2024,False,1.02,0.95,0.25,EMEAS,EMEAS,EMEAS
+saikiwi,University War GC,94,"['omen', 'jett', 'viper', 'neon']",653,0.96,204.8,0.98,67%,133.7,0.73,0.3,0.1,0.12,31%,13%,474,484,196,66,81,2024,False,0.96,0.83,0.26,GameChangers,GameChangers,GameChangers
+sampphire,Cardboard Dinosaur,110,"['sova', 'breach', 'gekko', 'fade', 'killjoy']",447,0.98,173.9,0.93,69%,123.9,0.64,0.27,0.03,0.06,28%,18%,285,308,121,13,26,2024,False,0.98,0.8,0.34,GameChangers,GameChangers,GameChangers
+sandra,Team Falcons Vega,184,"['raze', 'jett', 'cypher', 'fade', 'omen']",1407,0.89,180.8,0.9,67%,120.7,0.65,0.22,0.08,0.09,36%,9%,908,1009,307,117,130,2024,False,0.89,0.86,0.28,GameChangers,GameChangers,GameChangers
+sarahcat,Shopify Rebellion,360,"['sova', 'viper', 'kayo', 'breach']",1000,1.07,221.1,1.11,75%,141.6,0.75,0.34,0.12,0.12,25%,21%,753,680,335,123,123,2024,False,1.07,0.99,0.27,Americas,Americas,Americas
+sarahcat,Shopify Rebellion,360,"['sova', 'viper', 'kayo', 'breach']",1000,1.07,221.1,1.11,75%,141.6,0.75,0.34,0.12,0.12,25%,21%,753,680,335,123,123,2024,False,1.07,0.99,0.27,Americas,Americas,Americas
+sarahcat,Shopify Rebellion,360,"['sova', 'viper', 'kayo', 'breach']",1000,1.07,221.1,1.11,75%,141.6,0.75,0.34,0.12,0.12,25%,21%,753,680,335,123,123,2024,False,1.07,0.99,0.27,Americas,Americas,Americas
+sarahcat,Shopify Rebellion,360,"['sova', 'viper', 'kayo', 'breach']",1000,1.07,221.1,1.11,75%,141.6,0.75,0.34,0.12,0.12,25%,21%,753,680,335,123,123,2024,False,1.07,0.99,0.27,Americas,Americas,Americas
+sarahcat,Shopify Rebellion,360,"['sova', 'viper', 'kayo', 'breach']",1000,1.07,221.1,1.11,75%,141.6,0.75,0.34,0.12,0.12,25%,21%,753,680,335,123,123,2024,False,1.07,0.99,0.27,Americas,Americas,Americas
+sarahcat,Shopify Rebellion,360,"['sova', 'viper', 'kayo', 'breach']",1000,1.07,221.1,1.11,75%,141.6,0.75,0.34,0.12,0.12,25%,21%,753,680,335,123,123,2024,False,1.07,0.99,0.27,Americas,Americas,Americas
+sarahcat,Shopify Rebellion,360,"['sova', 'viper', 'kayo', 'breach']",1000,1.07,221.1,1.11,75%,141.6,0.75,0.34,0.12,0.12,25%,21%,753,680,335,123,123,2024,False,1.07,0.99,0.27,Americas,Americas,Americas
+sarahcat,Shopify Rebellion,360,"['sova', 'viper', 'kayo', 'breach']",1000,1.07,221.1,1.11,75%,141.6,0.75,0.34,0.12,0.12,25%,21%,753,680,335,123,123,2024,False,1.07,0.99,0.27,Americas,Americas,Americas
+sarah,GIANTX GC,147,"['raze', 'breach', 'jett', 'kayo', 'reyna']",1288,0.98,181.5,0.97,76%,116.0,0.64,0.45,0.06,0.06,32%,20%,829,854,580,74,82,2024,False,0.98,0.94,0.56,GameChangers,GameChangers,GameChangers
+sawamura,sisu,154,"['jett', 'neon', 'raze', 'reyna', 'omen']",642,1.0,217.4,1.06,71%,139.1,0.77,0.18,0.17,0.13,38%,12%,496,467,114,108,84,2024,False,1.0,0.86,0.15,Pacific,Pacific,Pacific
+sayuri,MIBR GC,345,"['omen', 'sova', 'brimstone', 'breach', 'skye']",728,0.96,171.5,0.91,77%,110.9,0.58,0.53,0.06,0.06,19%,12%,425,467,384,43,47,2024,False,0.96,0.85,0.86,Americas,Americas,Americas
+serena,ZETA DIVISION GC,52,"['cypher', 'killjoy', 'jett', 'raze']",461,1.02,200.8,1.05,73%,134.4,0.69,0.23,0.07,0.07,26%,15%,316,300,107,31,30,2024,False,1.02,0.84,0.25,Pacific,Pacific,Pacific
+shina,4Fun,89,"['killjoy', 'chamber', 'cypher']",459,0.95,182.9,0.91,65%,126.9,0.65,0.16,0.12,0.1,29%,19%,300,329,73,54,44,2024,False,0.95,0.78,0.24,Pacific,Pacific,Pacific
+shirah0sh1,Avernus Esports GC,70,"['killjoy', 'reyna', 'fade']",304,0.87,189.7,0.84,62%,125.7,0.68,0.19,0.08,0.13,31%,18%,207,245,59,23,41,2024,False,0.87,0.66,0.23,Pacific,Pacific,Pacific
+shirazi,Xipto Esports,208,"['viper', 'brimstone', 'omen', 'chamber', 'astra']",437,1.34,236.6,1.6,81%,161.7,0.84,0.33,0.1,0.05,20%,20%,367,229,143,45,24,2024,False,1.34,1.09,0.16,Pacific,Pacific,Pacific
+shotoo,Bon Bon Bum,51,"['omen', 'kayo', 'killjoy', 'skye', 'raze']",242,0.92,195.2,0.88,66%,133.0,0.73,0.25,0.07,0.09,33%,5%,176,199,60,18,22,2024,False,0.92,0.67,0.23,Americas,Americas,Americas
+shyz,TBS GC,302,"['raze', 'kayo', 'sova', 'killjoy', 'sage']",582,0.87,152.4,0.78,65%,106.2,0.53,0.27,0.03,0.06,29%,13%,311,398,156,20,34,2024,False,0.87,0.74,0.48,Americas,Americas,Americas
+silv,Penguin Party,59,"['omen', 'viper', 'astra', 'brimstone']",210,0.83,175.5,0.8,69%,123.8,0.6,0.32,0.11,0.13,32%,7%,127,159,67,24,28,2024,False,0.83,0.59,0.45,,,
+slandy,mesos millionaires,352,"['skye', 'breach', 'kayo', 'omen']",597,0.97,173.7,0.91,73%,115.6,0.61,0.38,0.06,0.07,23%,12%,365,402,224,36,43,2024,False,0.97,0.83,0.51,Americas,Americas,Americas
+smurfette,GIANTX GC,368,"['jett', 'raze', 'chamber', 'neon']",1288,1.06,236.0,1.14,70%,154.8,0.84,0.16,0.21,0.17,27%,16%,1080,947,212,268,222,2024,False,1.06,1.01,0.1,GameChangers,GameChangers,GameChangers
+soko,Penguin Party,93,"['jett', 'raze', 'phoenix', 'neon', 'yoru']",210,1.12,228.2,1.11,67%,153.4,0.8,0.21,0.12,0.09,31%,4%,168,152,44,25,19,2024,False,1.12,0.8,0.14,,,
+sonder,FlyQuest RED,481,"['raze', 'kayo', 'jett', 'reyna', 'skye']",1567,1.01,207.8,0.97,77%,132.9,0.7,0.52,0.11,0.1,25%,16%,1102,1140,816,166,164,2024,False,1.01,0.99,0.55,Americas,Americas,Americas
+speedy,TBS GC,161,"['omen', 'viper', 'brimstone', 'sova', 'killjoy']",790,0.79,152.8,0.72,63%,104.9,0.53,0.29,0.05,0.08,29%,19%,417,583,227,39,63,2024,False,0.79,0.7,0.51,Americas,Americas,Americas
+speq,Bumble Bees,105,"['skye', 'sova', 'kayo', 'fade', 'breach']",303,0.7,147.6,0.62,63%,96.6,0.51,0.34,0.05,0.11,24%,12%,156,253,104,16,32,2024,False,0.7,0.53,0.62,GameChangers,GameChangers,GameChangers
+srn,MIBR GC,124,"['raze', 'jett']",728,1.31,290.8,1.41,76%,191.2,1.01,0.22,0.27,0.17,23%,28%,735,521,159,193,127,2024,False,1.31,1.15,-0.01,Americas,Americas,Americas
+starbound,FlyQuest RED,293,"['killjoy', 'cypher', 'jett', 'chamber', 'viper']",1567,1.16,217.6,1.27,76%,145.2,0.78,0.21,0.09,0.07,20%,18%,1222,960,330,134,103,2024,False,1.16,1.14,0.16,Americas,Americas,Americas
+superphrog,HEROIC Valkyries,151,"['jett', 'chamber', 'raze', 'cypher']",574,0.77,156.3,0.76,61%,109.9,0.58,0.16,0.07,0.11,34%,13%,334,439,91,39,66,2024,False,0.77,0.65,0.3,EMEAS,EMEAS,EMEAS
+susbake,Odd 1 OUT,46,"['sova', 'deadlock', 'killjoy', 'cypher', 'harbor']",391,1.03,220.6,1.02,71%,145.7,0.76,0.25,0.11,0.1,33%,22%,299,294,97,43,40,2024,False,1.03,0.82,0.2,EMEAS,EMEAS,EMEAS
+suzu,ZETA DIVISION GC,113,"['jett', 'raze', 'sova', 'omen', 'sage']",461,1.1,251.1,1.2,71%,164.3,0.88,0.23,0.19,0.2,25%,19%,405,338,104,88,90,2024,False,1.1,0.9,0.09,Pacific,Pacific,Pacific
+syd89,Avernus Esports GC,27,"['omen', 'brimstone', 'killjoy', 'kayo']",304,0.77,144.9,0.66,65%,98.5,0.5,0.38,0.04,0.06,30%,15%,152,232,115,13,18,2024,False,0.77,0.59,0.72,Pacific,Pacific,Pacific
+tara,Xipto Esports,110,"['sage', 'omen', 'astra', 'cypher', 'brimstone']",437,1.01,174.2,1.13,77%,112.1,0.63,0.39,0.06,0.06,26%,32%,275,243,170,28,27,2024,False,1.01,0.82,0.49,Pacific,Pacific,Pacific
+tconda,Zen eSports GC,78,"['jett', 'raze']",521,0.98,229.6,1.0,64%,150.6,0.79,0.16,0.18,0.19,31%,11%,414,415,85,93,101,2024,False,0.98,0.82,0.13,GameChangers,GameChangers,GameChangers
+teddyisfluffy,mesos millionaires,188,"['omen', 'astra', 'viper', 'clove', 'brimstone']",591,0.9,196.9,0.83,66%,127.8,0.67,0.36,0.08,0.16,23%,14%,396,475,213,50,92,2024,False,0.9,0.77,0.39,Americas,Americas,Americas
+theia,FlyQuest RED,390,"['omen', 'cypher', 'killjoy', 'chamber', 'astra']",1388,0.88,158.7,0.83,72%,103.8,0.55,0.38,0.06,0.1,25%,18%,765,918,526,82,139,2024,True,0.88,0.85,0.62,Americas,Americas,Americas
+thuy,Zerance Mint,66,"['omen', 'viper', 'killjoy', 'brimstone']",595,1.12,213.5,1.15,76%,136.6,0.77,0.38,0.09,0.1,25%,31%,456,397,226,55,58,2024,False,1.12,0.96,0.27,GameChangers,GameChangers,GameChangers
+tiff,Penguin Party,52,"['sova', 'gekko', 'skye', 'fade', 'viper']",210,1.04,217.0,1.03,72%,144.5,0.74,0.34,0.11,0.11,25%,8%,156,152,71,24,23,2024,False,1.04,0.74,0.28,,,
+tok1o,LEVIATÁN GC,80,"['jett', 'raze', 'chamber', 'neon', 'sova']",804,1.27,267.2,1.35,74%,174.0,0.95,0.18,0.19,0.15,26%,21%,763,566,145,146,116,2024,False,1.27,1.14,0.03,GameChangers,GameChangers,GameChangers
+tokameite,NASR Ignite,121,"['sova', 'skye', 'breach', 'fade', 'viper']",897,1.03,184.1,0.98,73%,125.1,0.67,0.37,0.05,0.06,30%,11%,603,613,334,44,50,2024,False,1.03,0.94,0.4,EMEAS,EMEAS,EMEAS
+toki,Team Falcons Vega,211,"['raze', 'jett', 'omen']",1407,1.0,213.3,1.02,71%,141.5,0.71,0.26,0.16,0.15,30%,18%,1004,982,361,222,212,2024,False,1.0,0.97,0.25,GameChangers,GameChangers,GameChangers
+tub,RIMA GC,106,"['jett', 'raze', 'gekko', 'sova', 'omen']",256,0.85,186.1,0.84,71%,128.0,0.67,0.25,0.09,0.11,26%,17%,171,204,63,24,27,2024,False,0.85,0.63,0.29,GameChangers,GameChangers,GameChangers
+tura,FUSION X,113,"['astra', 'brimstone', 'omen', 'viper', 'clove']",1135,0.88,174.0,0.82,70%,112.0,0.6,0.4,0.06,0.1,25%,10%,683,837,456,67,108,2024,False,0.88,0.83,0.56,GameChangers,GameChangers,GameChangers
+tweeya,4Fun,89,"['omen', 'raze', 'viper', 'brimstone', 'reyna']",320,1.06,223.9,1.05,73%,147.3,0.79,0.29,0.05,0.1,17%,9%,254,242,92,17,32,2024,False,1.06,0.82,0.19,Pacific,Pacific,Pacific
+ur,ZETA DIVISION GC,49,"['viper', 'sova', 'omen', 'brimstone', 'gekko']",461,1.18,222.9,1.22,76%,146.0,0.79,0.37,0.08,0.08,25%,25%,362,297,169,36,35,2024,False,1.18,0.97,0.24,Pacific,Pacific,Pacific
+vania,G2 Gozen,208,"['omen', 'viper', 'brimstone', 'skye', 'astra']",979,1.34,235.2,1.53,82%,152.1,0.86,0.4,0.08,0.05,38%,21%,839,548,388,78,52,2024,False,1.34,1.23,0.16,EMEAS,EMEAS,EMEAS
+vefa,MYVRA,47,"['cypher', 'killjoy', 'gekko', 'breach', 'sova']",788,0.82,167.9,0.78,68%,113.1,0.6,0.23,0.07,0.09,28%,16%,470,602,179,55,73,2024,False,0.82,0.73,0.35,GameChangers,GameChangers,GameChangers
+venus,Teddy Tactics,159,"['raze', 'jett', 'neon', 'chamber', 'breach']",232,0.85,186.7,0.82,62%,123.7,0.67,0.15,0.1,0.19,28%,12%,155,188,35,24,44,2024,False,0.85,0.62,0.21,Americas,Americas,Americas
+vii,TBS GC,156,"['jett', 'raze', 'omen', 'neon', 'kayo']",790,0.86,198.8,0.88,64%,131.7,0.71,0.14,0.15,0.17,29%,11%,557,635,112,115,131,2024,False,0.86,0.77,0.17,Americas,Americas,Americas
+vossu,University War GC,84,"['breach', 'kayo', 'sova', 'skye', 'fade']",649,0.89,164.8,0.81,69%,111.7,0.58,0.38,0.04,0.08,31%,12%,378,469,249,28,49,2024,False,0.89,0.77,0.56,GameChangers,GameChangers,GameChangers
+wanheda,MYVRA,64,"['breach', 'kayo', 'sova', 'skye', 'sage']",343,0.87,172.2,0.79,68%,113.8,0.61,0.41,0.08,0.09,22%,17%,208,264,139,26,31,2024,False,0.87,0.68,0.55,GameChangers,GameChangers,GameChangers
+waved,LOUD GC,153,"['jett', 'raze', 'neon']",410,1.17,265.6,1.24,73%,174.8,0.91,0.2,0.23,0.15,26%,16%,375,303,84,95,60,2024,False,1.17,0.94,0.06,Americas,Americas,Americas
+wens,BBL Queens,81,"['killjoy', 'cypher', 'viper', 'sage', 'skye']",747,1.03,204.7,1.07,70%,136.0,0.73,0.19,0.11,0.09,37%,19%,545,507,144,83,68,2024,False,1.03,0.91,0.19,GameChangers,GameChangers,GameChangers
+xann,KS Hunters,166,"['jett', 'raze', 'yoru']",935,0.97,237.5,0.97,68%,156.2,0.8,0.2,0.2,0.21,29%,10%,745,766,190,191,196,2024,False,0.97,0.89,0.14,GameChangers,GameChangers,GameChangers
+yamzzi,FENNEL GC,96,"['killjoy', 'omen', 'chamber', 'skye', 'sova']",686,1.02,180.4,1.0,72%,120.0,0.66,0.4,0.07,0.07,32%,19%,452,452,274,51,45,2024,False,1.02,0.89,0.45,Pacific,Pacific,Pacific
+yuh4,URACHACHA,63,"['breach', 'skye', 'kayo', 'fade', 'sova']",201,0.78,169.5,0.72,65%,113.2,0.57,0.33,0.04,0.07,24%,14%,114,158,66,9,14,2024,False,0.78,0.55,0.51,Pacific,Pacific,Pacific
+yumi,Penguin Party,53,"['jett', 'reyna', 'breach', 'gekko', 'viper']",210,1.01,203.0,0.97,73%,137.2,0.73,0.3,0.06,0.07,28%,10%,153,157,64,12,14,2024,False,1.01,0.72,0.26,,,
+yuna,University War GC,45,"['sova', 'fade', 'viper', 'sage', 'omen']",372,0.77,155.4,0.72,66%,104.9,0.53,0.32,0.07,0.12,28%,3%,198,276,120,24,43,2024,False,0.77,0.61,0.56,GameChangers,GameChangers,GameChangers
+zaki,Bon Bon Bum,90,"['raze', 'chamber', 'sage', 'viper', 'reyna']",431,0.83,179.5,0.8,68%,117.4,0.62,0.26,0.11,0.13,27%,23%,269,336,111,49,56,2024,False,0.83,0.67,0.35,Americas,Americas,Americas
+zidian,K7 Esports,55,"['raze', 'phoenix', 'jett', 'harbor', 'omen']",364,1.04,215.6,0.96,74%,142.1,0.73,0.42,0.07,0.12,17%,10%,265,275,152,24,42,2024,False,1.04,0.82,0.36,GameChangers,GameChangers,GameChangers
+zodiac,REIGNITE Lily,69,"['jett', 'raze', 'neon', 'chamber']",359,0.97,224.0,0.93,69%,152.1,0.75,0.22,0.18,0.16,21%,19%,269,289,80,66,56,2024,False,0.97,0.76,0.19,Pacific,Pacific,Pacific

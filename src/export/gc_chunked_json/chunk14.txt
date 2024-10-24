@@ -1,0 +1,1 @@
+{"id": "400857", "teams": [{"name": "GIANTX GC", "score": "2", "country": "tr", "won": true}, {"name": "BBL Queens", "score": "0", "country": "tr", "won": false}], "status": "Completed", "date": "2024-09", "event": "Group Stage–Round 2", "tournament": "Game Changers 2024 EMEA: Stage 3", "img": "https://owcdn.net/img/604be13d01964.png"}

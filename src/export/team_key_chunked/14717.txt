@@ -1,0 +1,1 @@
+{"id": 14717, "name": "pookie nation", "country": "United States", "wins": "0", "loses": "4", "winrate": 0.0, "gameChangerWins": "0", "gameChangerLoses": "4", "region": "Game Changers", "status": "Active", "players": []}

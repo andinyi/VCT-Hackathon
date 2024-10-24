@@ -1,0 +1,1 @@
+{"id": "379179", "teams": [{"name": "MIBR GC", "score": "2", "country": "br", "won": true}, {"name": "Team Leveling", "score": "0", "country": "br", "won": false}], "status": "Completed", "date": "2024-08", "event": "Main Event–Upper Quarterfinals", "tournament": "Game Changers 2024 Brazil: Series 2", "img": "https://owcdn.net/img/604be13d01964.png"}

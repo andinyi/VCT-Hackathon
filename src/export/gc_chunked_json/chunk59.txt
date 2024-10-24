@@ -1,0 +1,1 @@
+{"id": "369960", "teams": [{"name": "URACHACHA", "score": "2", "country": "kr", "won": true}, {"name": "Nuclear GC", "score": "0", "country": "kr", "won": false}], "status": "Completed", "date": "2024-08", "event": "Main Event–Lower Final", "tournament": "Game Changers 2024 Korea: Stage 2", "img": "https://owcdn.net/img/604be13d01964.png"}

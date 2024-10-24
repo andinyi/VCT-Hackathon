@@ -1,0 +1,1 @@
+{"id": "285702", "teams": [{"name": "SNIPER ELITE", "score": "2", "country": "au", "won": true}, {"name": "IPHONE13GIVEAWAY", "score": "1", "country": "au", "won": false}], "status": "Completed", "date": "2023-11", "event": "Round-Robin Stage–Group D", "tournament": "Summoner Society X Game Changers 2023 Oceania", "img": "https://owcdn.net/img/604be13d01964.png"}

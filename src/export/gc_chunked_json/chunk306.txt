@@ -1,0 +1,1 @@
+{"id": "299515", "teams": [{"name": "BBL Queens", "score": "2", "country": "tr", "won": true}, {"name": "NASR Ignite", "score": "0", "country": "eu", "won": false}], "status": "Completed", "date": "2024-03", "event": "Group Stage–Week 1", "tournament": "Game Changers 2024 EMEA: Stage 1", "img": "https://owcdn.net/img/604be13d01964.png"}

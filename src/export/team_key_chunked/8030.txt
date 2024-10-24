@@ -1,0 +1,1 @@
+{"id": 8030, "name": "MLT Esports", "country": "Bangladesh", "wins": "N/A", "loses": "N/A", "winrate": "N/A", "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "Asia-Pacific", "status": "Inactive", "players": [{"playerName": "RioMeisteR", "realName": "Raja Saikai", "role": "manager"}]}

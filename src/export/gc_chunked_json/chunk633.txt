@@ -1,0 +1,1 @@
+{"id": "270332", "teams": [{"name": "Optix Fem", "score": "0", "country": "cl", "won": false}, {"name": "9z Team GC", "score": "3", "country": "ar", "won": true}], "status": "Completed", "date": "2023-09", "event": "Latin America: South–Lower SemiFinal", "tournament": "Game Changers 2023 LATAM: Finals", "img": "https://owcdn.net/img/604be13d01964.png"}

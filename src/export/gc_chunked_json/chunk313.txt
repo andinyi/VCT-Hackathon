@@ -1,0 +1,1 @@
+{"id": "299508", "teams": [{"name": "BBL Queens", "score": "1", "country": "tr", "won": false}, {"name": "GIANTX GC", "score": "2", "country": "tr", "won": true}], "status": "Completed", "date": "2024-02", "event": "Group Stage–Week 1", "tournament": "Game Changers 2024 EMEA: Stage 1", "img": "https://owcdn.net/img/604be13d01964.png"}

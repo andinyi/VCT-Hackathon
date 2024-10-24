@@ -1,0 +1,1 @@
+{"id": "269017", "teams": [{"name": "9z Team GC", "score": "2", "country": "ar", "won": true}, {"name": "SunXet Club Fem", "score": "0", "country": "cl", "won": false}], "status": "Completed", "date": "2023", "event": "Latin America: South–Groups", "tournament": "Game Changers 2023 LATAM: Last Chance Qualifier", "img": "https://owcdn.net/img/604be13d01964.png"}

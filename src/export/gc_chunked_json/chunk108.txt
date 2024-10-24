@@ -1,0 +1,1 @@
+{"id": "365390", "teams": [{"name": "9z Team GC", "score": "2", "country": "ar", "won": true}, {"name": "Zen eSports GC", "score": "1", "country": "cl", "won": false}], "status": "Completed", "date": "2024-07", "event": "Playoffs–Upper Semifinals", "tournament": "Game Changers 2024 LATAM South: Mid Season Tournament", "img": "https://owcdn.net/img/604be13d01964.png"}

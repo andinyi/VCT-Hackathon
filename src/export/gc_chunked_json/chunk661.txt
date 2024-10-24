@@ -1,0 +1,1 @@
+{"id": "269013", "teams": [{"name": "Akave Esports GC", "score": "0", "country": "un", "won": false}, {"name": "LEVIATÁN GC", "score": "2", "country": "cl", "won": true}], "status": "Completed", "date": "2023", "event": "Latin America: North–Groups", "tournament": "Game Changers 2023 LATAM: Last Chance Qualifier", "img": "https://owcdn.net/img/604be13d01964.png"}

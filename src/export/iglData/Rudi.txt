@@ -1,0 +1,1 @@
+{"name": "Rudi", "team": "EXO Clan", "years_active": "2021 to Present", "active": true, "yearsOfExperience": 3}

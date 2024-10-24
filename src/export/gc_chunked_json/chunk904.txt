@@ -1,0 +1,1 @@
+{"id": "197258", "teams": [{"name": "Karmine Corp GC", "score": "2", "country": "eu", "won": true}, {"name": "Team Falcons Vega", "score": "0", "country": "sa", "won": false}], "status": "Completed", "date": "2023", "event": "Group Stage–Round 3", "tournament": "Game Changers 2023 Stage I: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

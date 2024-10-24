@@ -1,0 +1,1 @@
+{"id": "324807", "teams": [{"name": "Akave Esports GC", "score": "2", "country": "un", "won": true}, {"name": "MYVRA", "score": "0", "country": "un", "won": false}], "status": "Completed", "date": "2024-05", "event": "Regular Phase–Week 2", "tournament": "Game Changers 2024 LATAM North: Opening", "img": "https://owcdn.net/img/604be13d01964.png"}

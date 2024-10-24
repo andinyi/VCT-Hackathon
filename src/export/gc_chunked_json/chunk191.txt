@@ -1,0 +1,1 @@
+{"id": "324813", "teams": [{"name": "Barcelona Sporting X", "score": "0", "country": "ec", "won": false}, {"name": "Akave Esports GC", "score": "2", "country": "un", "won": true}], "status": "Completed", "date": "2024-05", "event": "Regular Phase–Week 4", "tournament": "Game Changers 2024 LATAM North: Opening", "img": "https://owcdn.net/img/604be13d01964.png"}

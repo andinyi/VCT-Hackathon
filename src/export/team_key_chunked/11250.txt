@@ -1,0 +1,1 @@
+{"id": 11250, "name": "AEX-1", "country": "Germany", "wins": "3", "loses": "13", "winrate": 0.188, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "Europe", "status": "Inactive", "players": [{"playerName": "LeeN", "realName": "Adam Caillol", "role": "player"}]}

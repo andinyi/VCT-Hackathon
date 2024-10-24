@@ -1,0 +1,1 @@
+{"id": "273486", "teams": [{"name": "Team Liquid Brazil", "score": "2", "country": "br", "won": true}, {"name": "PROJECT Z", "score": "0", "country": "br", "won": false}], "status": "Completed", "date": "2023-10", "event": "Main Event–Upper Quarterfinals", "tournament": "Game Changers 2023 Brazil: Series 2", "img": "https://owcdn.net/img/604be13d01964.png"}

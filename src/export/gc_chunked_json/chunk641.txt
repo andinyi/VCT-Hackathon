@@ -1,0 +1,1 @@
+{"id": "260838", "teams": [{"name": "Neons", "score": "2", "country": "th", "won": false}, {"name": "NYX Kyosei", "score": "3", "country": "ph", "won": true}], "status": "Completed", "date": "2023-09", "event": "Playoffs–Lower Final", "tournament": "Game Changers 2023 Asia Pacific: Last Chance Qualifier", "img": "https://owcdn.net/img/604be13d01964.png"}

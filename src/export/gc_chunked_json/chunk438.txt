@@ -1,0 +1,1 @@
+{"id": "279473", "teams": [{"name": "DeviLish Grin", "score": "0", "country": "cn", "won": false}, {"name": "Attacking Soul Esports OvO", "score": "2", "country": "cn", "won": true}], "status": "Completed", "date": "2023-10", "event": "Group Stage–Group A", "tournament": "Game Changers 2023 China: Qualifier", "img": "https://owcdn.net/img/604be13d01964.png"}

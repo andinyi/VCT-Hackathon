@@ -1,0 +1,1 @@
+{"id": "271038", "teams": [{"name": "FUT Female", "score": "2", "country": "tr", "won": true}, {"name": "KPI Shine", "score": "0", "country": "eu", "won": false}], "status": "Completed", "date": "2023-10", "event": "Group Stage–Round 6", "tournament": "Game Changers 2023 Stage III: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

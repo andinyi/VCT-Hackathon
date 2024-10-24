@@ -1,0 +1,1 @@
+{"id": "323252", "teams": [{"name": "BOBA", "score": "2", "country": "un", "won": true}, {"name": "Money First", "score": "0", "country": "th", "won": false}], "status": "Completed", "date": "2024-04", "event": "Playoffs–Upper Semifinals", "tournament": "Game Changers 2024 Southeast Asia: Stage 1", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"id": "381305", "teams": [{"name": "Zen eSports GC", "score": "3", "country": "cl", "won": true}, {"name": "Deagle Ravagers", "score": "0", "country": "cl", "won": false}], "status": "Completed", "date": "2024-09", "event": "Promotion/Relegation–Promotion/Relegation", "tournament": "Game Changers 2024 LATAM South: Closing", "img": "https://owcdn.net/img/604be13d01964.png"}

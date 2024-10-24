@@ -1,0 +1,1 @@
+{"id": "400854", "teams": [{"name": "BBL Queens", "score": "2", "country": "tr", "won": true}, {"name": "HEROIC Valkyries", "score": "1", "country": "eu", "won": false}], "status": "Completed", "date": "2024-09", "event": "Group Stage–Round 1", "tournament": "Game Changers 2024 EMEA: Stage 3", "img": "https://owcdn.net/img/604be13d01964.png"}

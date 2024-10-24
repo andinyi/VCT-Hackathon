@@ -1,0 +1,1 @@
+{"id": "326884", "teams": [{"name": "9z Team GC", "score": "1", "country": "ar", "won": false}, {"name": "FiRePOWER", "score": "2", "country": "ar", "won": true}], "status": "Completed", "date": "2024-05", "event": "Regular Phase–Week 2", "tournament": "Game Changers 2024 LATAM South: Opening", "img": "https://owcdn.net/img/604be13d01964.png"}

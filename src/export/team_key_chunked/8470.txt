@@ -1,0 +1,1 @@
+{"id": 8470, "name": "VICTORY", "country": "Vietnam", "wins": "5", "loses": "11", "winrate": 0.312, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "Asia-Pacific", "status": "Inactive", "players": [{"playerName": "TRIPCIEW", "realName": "Vữ Minh Cường", "role": "player"}]}

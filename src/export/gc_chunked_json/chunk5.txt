@@ -1,0 +1,1 @@
+{"id": "400866", "teams": [{"name": "Team Falcons Vega", "score": "2", "country": "sa", "won": true}, {"name": "BBL Queens", "score": "1", "country": "tr", "won": false}], "status": "Completed", "date": "2024-09", "event": "Group Stage–Round 4", "tournament": "Game Changers 2024 EMEA: Stage 3", "img": "https://owcdn.net/img/604be13d01964.png"}

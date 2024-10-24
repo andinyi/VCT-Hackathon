@@ -1,0 +1,1 @@
+{"id": 14159, "name": "Wook's Academy", "country": "United States", "wins": "9", "loses": "9", "winrate": 0.5, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "North America", "status": "Active", "players": [{"playerName": "CRUNCH", "realName": "N/A", "role": "player"}, {"playerName": "Jacket", "realName": "N/A", "role": "player"}]}

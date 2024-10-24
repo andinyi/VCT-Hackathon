@@ -1,0 +1,1 @@
+{"id": "197242", "teams": [{"name": "UNtapped", "score": "0", "country": "eu", "won": false}, {"name": "FOKUS Sakura", "score": "2", "country": "de", "won": true}], "status": "Completed", "date": "2023", "event": "Group Stage–Round 6", "tournament": "Game Changers 2023 Stage I: EMEA", "img": "https://owcdn.net/img/604be13d01964.png"}

@@ -1,0 +1,1 @@
+{"id": "287385", "teams": [{"name": "BBL Queens", "score": "0", "country": "tr", "won": false}, {"name": "Shopify Rebellion", "score": "2", "country": "ca", "won": true}], "status": "Completed", "date": "2023-12", "event": "Main Event–Upper Semifinals", "tournament": "Game Changers 2023 Championship: São Paulo", "img": "https://owcdn.net/img/604be13d01964.png"}

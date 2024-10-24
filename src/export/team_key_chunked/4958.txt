@@ -1,0 +1,1 @@
+{"id": 4958, "name": "ODDIK", "country": "Brazil", "wins": "9", "loses": "5", "winrate": 0.643, "gameChangerWins": "N/A", "gameChangerLoses": "N/A", "region": "Brazil", "status": "Inactive", "players": []}
