@@ -21,8 +21,8 @@ st.title("Valorant VCT Manager Chatbot 🤖")
 
 sessionId = str(datetime.datetime.now()).replace(' ', '')
 
-#if 'sessionId' not in st.session_state:
-#    st.session_state.sessionId = sessionId
+if 'sessionId' not in st.session_state:
+    st.session_state.sessionId = sessionId
 
 if 'agentCalled' not in st.session_state:
     st.session_state.agentCalled = False
