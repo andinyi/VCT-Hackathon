@@ -25,8 +25,7 @@ def streamFormat(input, color=None):
         time.sleep(0.05)
     if color:
         yield "]"
-def invokeAgent(agent_id, agent_alias_id, session_id, prompt, rationaleParser):
-
+def invokeAgent(agent_id, agent_alias_id, session_id, prompt):
     try:
         response = appY.invoke_agent(
             agentId = agent_id,
@@ -38,9 +37,8 @@ def invokeAgent(agent_id, agent_alias_id, session_id, prompt, rationaleParser):
 
         completion = ""
         
-        with st.sidebar.status(":blue[Thinking...]", expanded=True) as status:
-            st.write("Don't Rush Me... Please?")
-            time.sleep(1)
+        if 'debug' not in st.session_state:
+            st.session_state.debug = []
 
         for event in response.get("completion"):
             try:
@@ -48,25 +46,27 @@ def invokeAgent(agent_id, agent_alias_id, session_id, prompt, rationaleParser):
                 completion += chunk['bytes'].decode()
             except KeyError:
                 try:
-                    status.update(label=":blue[Back to thinking...]", state = 'running', expanded = False)
-                    rationaleParsed = rationaleParser.invoke_model(modelId = "anthropic.claude-3-haiku-20240307-v1:0", body = 
-                        json.dumps(
-                        {
-                            "anthropic_version" : "bedrock-2023-05-31",
-                            "max_tokens" : 1000,
-                            "temperature" : 0.1,
-                            "system" : "You are a helpful formatting tool that formats the text as if you're explaining it to a judge, please make your explanations brief, short, and concise. Return your response in natural language. DONT: include any introductions or lead-ins, return example SQL Queries, and NEVER Repeat yourself. Return only the formatted text.",
-                            "messages" : [
-                                {
-                                    "role" : "user",
-                                    "content" : [{"type" : "text", "text" : event['trace']['trace']['orchestrationTrace']['rationale']['text']}]
-                                }
-                            ]
-                        }))
-                    rationale = json.loads(rationaleParsed["body"].read())['content'][0]["text"]
-                    status.update(label="Done!", state = 'complete', expanded = False)
-                    st.chat_message('ai').write_stream(streamFormat(rationale))
-                    st.session_state.messages.append({"role" : "ai", "content" : rationale})
+                    try:
+                        debugText = event['trace']['trace']['orchestrationTrace']['invocationInput']
+                        if debugText: 
+                            st.session_state.debug.append(debugText)
+                    except KeyError:
+                        pass
+
+                    if 'status' not in st.session_state:
+                        st.session_state.status = st.status('Thinking... 🤔', state='running')
+
+                    st.session_state.status.update(label='Thinking... 🤔', state='running')
+                    rationale = event['trace']['trace']['orchestrationTrace']['rationale']['text']
+                    st.session_state.status.update(label='Completed thought, streaming current step / response 📝', state='complete')
+                    st.chat_message('assistant').write_stream(streamFormat(rationale))
+                    st.session_state.pop('status', None)
+                    st.session_state.messages.append({"role" : "assistant", "content" : rationale})
+                    if len(st.session_state.debug) > 0:
+                        with st.expander("debug & trace"):
+                            st.markdown(st.session_state.debug[-1])
+                        st.session_state.debug = []
+
                 except KeyError:
                     pass
     
