@@ -23,4 +23,4 @@
 `IGL` : If the player is an In Game Leader.,
 `CleanedRating` : Rating after it's been cleaned and parsed of all 0 values to reduce impacting overall results and averages.,
 `RatingAdjusted` : Rating that has been skewed towards players that have played more rounds during the event. Formula is log(RoundsPlayed)/log(max(RoundsPlayed)) * CleanedRating.
-`SelfishIndex` : Index that tries to map how selfishly a player plays. Useful for identifying if a Controller or Support is using their utility and playing their role well. Formula is log(KPR)/log(APR).
+`SelflessIndex` : Index that tries to map how selflessly a player plays. Useful for identifying if a Controller or Support is using their utility and playing their role well. Formula is APR/KPR.

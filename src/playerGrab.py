@@ -5,7 +5,7 @@ import time
 import datetime
 import json
 
-#import utils
+import utils
 
 '''
 # Function to scrape data for a specific event
@@ -371,7 +371,7 @@ def pullTeamInfo(team_id):
         team['gameChangerWins'] = 'N/A'
         team['gameChangerLoses'] = 'N/A'
     if(len(regions) > 0):
-        team['region'] = regions[0] if regions[0] != "Game Changers" else regions[1]
+        team['region'] = regions[0] if regions[0] != "Game Changers" and regions[0] != "GameChangers" else "N/A"
     else: 
         team['region'] = "N/A"
     team['status'] = "Active" if statusFlag else "Inactive"

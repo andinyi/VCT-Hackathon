@@ -7,9 +7,9 @@ from mysql import mysqlConnect
 
 def main():
     #fetchVLR.matchListFetch() #Writes Data to Current Folder
-    #aggregationFile.aggregation('players_chunked')
-    #aggregationFile.aggregateTeams()
-    #aggregationFile.joinRegions()
+    aggregationFile.aggregation('players_chunked')
+    aggregationFile.aggregateTeams()
+    aggregationFile.joinRegions()
     connection = mysqlConnect('admin', input('Enter Password'))
     connection.connectToDB()
     connection.createAndLoadTables('Players', 'player.csv')

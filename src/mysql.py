@@ -65,7 +65,7 @@ class mysqlConnect():
                     `IGL` text,
                     `CleanedRating` double DEFAULT NULL,
                     `AdjustedRating` double DEFAULT NULL,
-                    `SelfishIndex` double DEFAULT NULL,
+                    `SelflessIndex` double DEFAULT NULL,
                     `Region` text
                     ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
             '''.replace('\n', '').replace('\r', '')
@@ -126,7 +126,7 @@ class mysqlConnect():
                     `Games` int DEFAULT NULL,
                     `CleanedRating` double DEFAULT NULL,
                     `AdjustedRating` double DEFAULT NULL,
-                    `SelfishIndex` double DEFAULT NULL
+                    `SelflessIndex` double DEFAULT NULL
                     ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
                 '''.replace('\n', '').replace('\r', '')
             try:

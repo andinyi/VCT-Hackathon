@@ -38,7 +38,7 @@ CREATE TABLE `Players` (
   `IGL` text,
   `CleanedRating` double DEFAULT NULL,
   `AdjustedRating` double DEFAULT NULL,
-  `SelfishIndex` double DEFAULT NULL,
+  `SelflessIndex` double DEFAULT NULL,
   `Region` text
 );
 
@@ -80,5 +80,6 @@ CREATE TABLE `PlayerAgentPerformance` (
   `FirstDeaths` int DEFAULT NULL,
   `Games` int DEFAULT NULL,
   `CleanedRating` double DEFAULT NULL,
-  `AdjustedRating` double DEFAULT NULL
+  `AdjustedRating` double DEFAULT NULL,
+  `SelflessIndex` double DEFAULT NULL
 );

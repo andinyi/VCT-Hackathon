@@ -9,9 +9,9 @@ import csv
 def aggregation(folder_name): #type is folder name
     directory = f"C:/Users/handy/Desktop/Codebase/VCT-Hackathon/src/export/{folder_name}/"
 
-    df = pd.DataFrame(columns=["Player", "Team", "Games", "SignatureAgentsRankedByUsage", "RoundsPlayed", "Rating", "AverageCombatScore", "KillsDeath", "KAST", "ADPR", "KPR", "APR", "FKPR", "FDPR", "HeadshotPercent", "ClutchSuccessPercent", "Kills", "Deaths", "Assists", "FirstKills", "FirstDeaths", "Year", "League", "IGL", "CleanedRating", "AdjustedRating", "SelfishIndex"])
+    df = pd.DataFrame(columns=["Player", "Team", "Games", "SignatureAgentsRankedByUsage", "RoundsPlayed", "Rating", "AverageCombatScore", "KillsDeath", "KAST", "ADPR", "KPR", "APR", "FKPR", "FDPR", "HeadshotPercent", "ClutchSuccessPercent", "Kills", "Deaths", "Assists", "FirstKills", "FirstDeaths", "Year", "League", "IGL", "CleanedRating", "AdjustedRating", "SelflessIndex"])
     #df2 is overall player and agent database, super large file and data
-    df2 = pd.DataFrame(columns=["Player", "Team", "Agent", "Usage", "RoundsPlayed", "Rating", "AverageCombatScore", "KillsDeath", "ADPR", "KAST", "KPR", "APR", "FKPR", "FDPR", "Kills", "Deaths", "Assists", "FirstBloods", "FirstDeaths", "Games", "CleanedRating", "AdjustedRating", "SelfishIndex"])
+    df2 = pd.DataFrame(columns=["Player", "Team", "Agent", "Usage", "RoundsPlayed", "Rating", "AverageCombatScore", "KillsDeath", "ADPR", "KAST", "KPR", "APR", "FKPR", "FDPR", "Kills", "Deaths", "Assists", "FirstBloods", "FirstDeaths", "Games", "CleanedRating", "AdjustedRating", "SelflessIndex"])
     counter = 0
 
     with open("helper/igls.json", 'r', encoding="utf8") as igl:
@@ -86,7 +86,7 @@ def aggregation(folder_name): #type is folder name
         (np.log(df['RoundsPlayed'].astype(int).max()))) * df["CleanedRating"]
     df['KPR'] = pd.to_numeric(df['KPR'], errors='coerce')
     df['APR'] = pd.to_numeric(df['APR'], errors='coerce')
-    df['SelfishIndex'] = (np.log(df['KPR']) / np.log(df['APR']))
+    df['SelflessIndex'] = (df['APR'] / df['KPR'])
     df = df.round(2)
     df.to_csv("export/toSQL/player.csv", index=False)
     print("Completed player.csv")
@@ -103,8 +103,9 @@ def aggregation(folder_name): #type is folder name
     df2['AdjustedRating'] = ((np.log(df2['RoundsPlayed'].astype(int))) / (np.log(df2['RoundsPlayed'].astype(int).max()))) * df2['CleanedRating']
     df2['KPR'] = pd.to_numeric(df2['KPR'], errors='coerce')
     df2['APR'] = pd.to_numeric(df2['APR'], errors='coerce')
-    df2['SelfishIndex'] = (np.log(df2['KPR']) / np.log(df2['APR']))
+    df2['SelflessIndex'] = df2['APR'] / df2['KPR']
     df2 = df2.round(2)
+    df2 = df2.loc[df2['Usage'] > 10]
     df2.to_csv("export/toSQL/player_agent_performance.csv", index=False)
     print("completed full run and aggregation of players and agent data")   
 
